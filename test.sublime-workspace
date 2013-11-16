@@ -1,0 +1,220 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fff",
+				"f5f5f5"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"col",
+				"collapse"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"u",
+				"ul	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/index.sublime-project",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Users/pod1098/Downloads/svgedit_app/manifest.json",
+		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/fonts/glyphicons-regular.svg",
+		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/glyphicons.less",
+		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/style.less",
+		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/style.css",
+		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/glyphicons.css",
+		"/Users/pod1098/Desktop/bootstrap/css/justified-nav.css",
+		"/Users/pod1098/Desktop/bootstrap/css/carousel.css",
+		"/Users/pod1098/Desktop/bootstrap/index.html",
+		"/Users/pod1098/Desktop/bootstrap/css/bootstrap.css",
+		"/Users/pod1098/Desktop/bootstrap/1column.html",
+		"/Users/pod1098/Desktop/bootstrap/templateheader.html",
+		"/Users/pod1098/Desktop/bootstrap/js/respond.js",
+		"/Users/pod1098/Desktop/bootstrap/css/justified.css",
+		"/Users/pod1098/Dropbox/website/index.htm",
+		"/Users/pod1098/Desktop/bootstrap/untitled.html",
+		"/Users/pod1098/Desktop/website/index.htm",
+		"/Users/pod1098/Dropbox/index.html",
+		"/Users/pod1098/Desktop/website/assets/css/font-awesome-ie7.css",
+		"/Users/pod1098/Desktop/website/assets/js/jquery.scrollTo.js",
+		"/Users/pod1098/Desktop/website/assets/css/style.css",
+		"/Users/pod1098/Desktop/website/assets/js/jquery.nicescroll.js",
+		"/Users/pod1098/Desktop/website/assets/js/jquery.maps.js",
+		"/Users/pod1098/Desktop/website/assets/js/jquery.scrollTo.min.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".row",
+			".center",
+			"center",
+			"\"col\"",
+			"center",
+			"navbar",
+			"nav-justified",
+			"nav-justify",
+			"navbar-right",
+			"navbar",
+			"Equipo",
+			"mail",
+			"email",
+			"var",
+			"yogurt"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "test.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

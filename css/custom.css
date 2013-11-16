@@ -1,0 +1,89 @@
+
+
+#titlecarousel {
+	margin: 0 auto;
+	max-width: 900px;
+	
+	
+}
+
+/*footer stuff */
+/*html,
+body {
+  height: 100%;
+  
+  /* The html and body elements cannot have any padding or margin. */
+}
+
+body {
+	margin-top:0px;
+}
+/* Wrapper for page content to push down footer */
+/*#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by it's height */
+  /* margin: 0 auto -60px; */
+}
+
+
+
+/* Set the fixed height of the footer here */
+#push,
+#footer {
+  height: 400px;
+}
+#footer {
+  background-color: #eee;
+}
+
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) {
+#footer {
+  margin-left: -20px;
+  margin-right: -20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+#intro {
+	margin-top: 70px;
+	margin-bottom: 70px;
+}
+
+
+
+
+
+#ta {
+  background: #b0c4de;
+}
+
+div#ta {
+width:250px;
+padding:10px;
+border:5px solid gray;
+margin:10px;
+}
+
+.fill {
+background-color: #181818;
+background-repeat: repeat-x;
+-webkit-box-shadow: 0 1px 3px rgba(0,0,0,0.25),inset 0 -1px 0 rgba(0,0,0,0.1);
+-moz-box-shadow: 0 1px 3px rgba(0,0,0,0.25),inset 0 -1px 0 rgba(0,0,0,0.1);
+box-shadow: 0 1px 3px rgba(0,0,0,0.25),inset 0 -1px 0 rgba(0,0,0,0.1);
+}
+
+.topbar {
+height: 46px;
+position: fixed;
+top: 0;
+left: 0;
+right: 0;
+z-index: 10000;
+overflow: visible;
+overflow-x: visible;
+overflow-y: visible;
+}
+
