@@ -1,3 +1,4 @@
+@import "variables.less";
 @blue:			#428bca;
 @grey:			grey;
 .fill {
@@ -7,6 +8,7 @@
 
 #push,
 #footer {
+	clearfix;
   height: auto;
 }
 #footer {
@@ -21,6 +23,7 @@
   #titlecarousel {
 	margin: 0 auto;
 	max-width: 900px;
+	max-height: 500px;
 	
 	}
 
@@ -55,14 +58,26 @@
 	
 }
 .picline	{
-	background: @grey;
+	margin-bottom: 20px;
+	background: lighten(@blue, 40%);
+
+	border-radius: @panel-border-radius;
+
 	padding: 15px;
 	width: 	0 auto;
-	border:	solid;
-	color:	@blue
+	border:	 1px solid;
+	border-color: lighten(@blue, 30%);
+	text-align: center;
+	p{
+		text-align: left;
+	}
+
+
 
 	}
 
 .navbar-brand {
+	padding: 0px;
+	font-size: 1em;
 	
 }

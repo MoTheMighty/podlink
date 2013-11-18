@@ -43,15 +43,7 @@
 			"file": "_/less/_mystyles.less",
 			"settings":
 			{
-				"buffer_size": 644,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_/less/variables.less",
-			"settings":
-			{
-				"buffer_size": 19667,
+				"buffer_size": 781,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,36 +51,38 @@
 			"file": "components/navhead.php",
 			"settings":
 			{
-				"buffer_size": 3116,
+				"buffer_size": 3747,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "<div class=\"container\">  \n  <section id=\"center\">\n\n  \n\n  </section><!-- center -->\n        <h3 class=\"text-center\">Team Members<h3>\n</div><!-- container -->\n\n<section=\"container\">\n\n    <div class=\"col col-sm-6 col-md-6 col-lg-3\">\n    \n    \n        <section class=\"picline\">\n\n      \n\n\n        </section>  <!-- doc1 -->\n    </div> <!-- col -->\n\n    <div class=\"col col-sm-6 col-md-6 col-lg-3\">\n        <section class=\"picline\">\n\n      \n\n\n        </section> <!-- doc 2 -->\n    </div><!-- col -->\n\n     <div class=\"col col-sm-6 col-md-6 col-lg-3\"> \n      <section class=\"picline\">\n\n        \n\n\n      </section> <!-- doc3 -->\n    </div><!-- col -->\n\n    <div class=\"col col-sm-6 col-md-6 col-lg-3\">\n      <section class=\"picline\">\n\n        \n\n\n      </section> <!-- doc 4 -->\n    </div><!-- col --> \n\n   \n</div>\n\n</section> <!-- container -->",
-			"file": "components/picturelineup.php",
-			"file_size": 963,
-			"file_write_time": 130290169830000000,
+			"file": "css/mystyles.css",
 			"settings":
 			{
-				"buffer_size": 835,
-				"line_ending": "Windows"
+				"buffer_size": 533,
+				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"package",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 449.0
 	},
 	"console":
 	{
 		"height": 126.0,
 		"history":
 		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
 		]
 	},
 	"distraction_free":
@@ -102,12 +96,17 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/_/less/panels.less",
+		"/Applications/MAMP/htdocs/_/less/navbar.less",
+		"/Applications/MAMP/htdocs/_/less/variables.less",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/LESS/README.md",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
-		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
-		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Users/pod1098/Downloads/svgedit_app/manifest.json",
 		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/fonts/glyphicons-regular.svg",
@@ -185,7 +184,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -194,47 +193,49 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 644,
+						"buffer_size": 781,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								420,
-								420
+								25,
+								25
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 145.0,
+						"translation.y": 97.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "_/less/variables.less",
+					"file": "components/navhead.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 19667,
+						"buffer_size": 3747,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6187,
-								6192
+								569,
+								569
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -244,55 +245,24 @@
 				},
 				{
 					"buffer": 2,
-					"file": "components/navhead.php",
+					"file": "css/mystyles.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3116,
+						"buffer_size": 533,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								576,
-								576
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "components/picturelineup.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 835,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								53,
-								53
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

@@ -11,7 +11,7 @@
       <span class="icon-bar"></span>
     </button>
  
-    <a class="navbar-brand" href="#"><img src="">Alamo Family Foot & Ankle Care</a>
+    <a class="navbar-brand" href="#"><img src="/images/alamo_logo.png"> Alamo Family Foot & Ankle Care</a>
   </div>
 
   <!-- Collect the nav links, forms, and other content for toggling -->
@@ -45,6 +45,7 @@
                   <li><a href="#">link2</a></li>
                   <li><a href="#">link3</a></li>
                   <li><a href="#">link4</a></li>
+
                 </ul>
                   
           </li>
@@ -57,7 +58,19 @@
                 <li class="divider"></li>
                 <li><a href="#">Separated link</a></li>
               </ul>
-               <li><a href="#"> <span class="glyphicon glyphicon-search"></span></a></li>
+                     <li class="dropdown">
+                        <a class="dropdown-toggle" data-toggle="dropdown" data-target="#"> <span class="glyphicon glyphicon-search"></span></a>
+                           <ul class="dropdown-menu"
+                           <form class="navbar-form navbar-left" role="search">
+                            <div class="form-group">
+                              <input type="text" class="form-control" placeholder="Search">
+                            </div>
+                            <button type="submit" class="btn btn-default">Submit</button>
+                    </form>
+
+               
+                   </ul><!-- dropdown -->
+                   
           </li>
 
         

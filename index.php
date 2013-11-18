@@ -24,15 +24,14 @@
 
 
 
-      <?php 
-       $path = $_SERVER['DOCUMENT_ROOT'];
-       $path .= "/components/navhead.php";
-          include_once($path);?>
+  <?php include '_/components/navhead.php'; ?>
 
     
 
    
-    <?php include "/components/carousel.php"; ?>
+  <?php include 'components/carousel.php'; ?>
+
+ <hr>         
 
     <section class="container">
     
@@ -98,12 +97,11 @@
 
     <hr>
          
-    <section class="container">
+ <section class="container">
       <div class="row">
-             <?php 
-               $path = $_SERVER['DOCUMENT_ROOT'];
-               $path .= "/components/picturelineup.php";
-                include_once($path);?>
+
+             <?php include 'components/picturelineup.php'; ?>
+
       </div> <!-- row -->
     </section> <!-- container -->
 
