@@ -24,7 +24,7 @@
 
 
 
-  <?php include '_/components/navhead.php'; ?>
+  <?php include '/components/navhead.php'; ?>
 
     
 
