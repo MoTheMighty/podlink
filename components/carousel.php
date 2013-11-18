@@ -1,6 +1,7 @@
+<div class="grey">
 <section class="container">
 
-  <div id="titlecarousel" class="carousel slide" data-ride="carousel">
+  <div id="titlecarousel" class="carousel slide"   data-ride="carousel">
     <!-- Indicators -->
     <ol class="carousel-indicators">
       <li data-target="#titlecarousel" data-slide-to="0" class="active"></li>
@@ -9,40 +10,42 @@
       <li data-target="#titlecarousel" data-slide-to="3"></li>
       <li data-target="#titlecarousel" data-slide-to="4"></li>
       <li data-target="#titlecarousel" data-slide-to="5"></li>
+
     </ol>
 
     <!-- Wrapper for slides -->
       <div class="carousel-inner">
-      <div class="item active">
-        <img src="/images/carousel/group.jpg" class="img-responsive" alt="...">
-       
-      </div>
+          <div class="item active">
+            <img src="/images/carousel/group.jpg" class="img-responsive" alt="...">
+           
+          </div>
 
-      <!--  -->
-      <div class="item">
-        <img src="/images/carousel/operating.jpg" class="img-responsive" alt="...">
-        
-      </div>
-     <!--  -->
-      <div class="item">
-        <img src="/images/carousel/strash_patient.jpg" class="img-responsive" alt="...">
-        
-      </div>
-       <!--  -->
-      <div class="item">
-        <img src="/images/carousel/perez_patient.jpg" class="img-responsive" alt="...">
-        
-      </div>
-   
-  
-     <!--  -->
-      <div class="item">
-        <img src="/images/carousel/chaney_patient.jpg" class="img-responsive" alt="...">
-        
-      </div>
-      <!--  -->
-      <div class="item">
-        <img src="/images/carousel/jordan_patient.jpg" class="img-responsive" alt="...">
+          <!--  -->
+          <div class="item">
+            <img src="/images/carousel/operating.jpg" class="img-responsive" alt="...">
+            
+          </div>
+         <!--  -->
+          <div class="item">
+            <img src="/images/carousel/strash_patient.jpg" class="img-responsive" alt="...">
+            
+          </div>
+           <!--  -->
+          <div class="item">
+            <img src="/images/carousel/perez_patient.jpg" class="img-responsive" alt="...">
+            
+          </div>
+       
+      
+         <!--  -->
+          <div class="item">
+            <img src="/images/carousel/chaney_patient.jpg" class="img-responsive" alt="...">
+            
+          </div>
+          <!--  -->
+          <div class="item">
+            <img src="/images/carousel/jordan_patient.jpg" class="img-responsive" alt="...">
+          </div>
         
       </div>
 
@@ -54,6 +57,9 @@
       <span class="glyphicon glyphicon-chevron-right"></span>
     </a>
   </div>
-  </div>
+
+
   </section><!-- container -->
+</div><!-- grey -->
+
  

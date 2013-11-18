@@ -35,7 +35,7 @@
 
     <section class="container">
     
-      <div class="row" style="margin-top:70px;">
+      <div class="row" style="margin-top:0px;">
 
 <!-- col 1 -->
         <section class="col col-lg-4">

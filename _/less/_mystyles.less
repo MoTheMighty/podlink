@@ -1,18 +1,24 @@
 @import "variables.less";
-@blue:			#428bca;
-@grey:			grey;
+@blue:			#2980b9;
+@grey:			#7f909a;
+
+.grey	{
+	background-color: @grey;
+
+}
+
 .fill {
 	background: @blue;
-	height: 40px;
+	height: 1em;
 }
 
 #push,
 #footer {
-	clearfix;
+	
   height: auto;
 }
 #footer {
-  background-color: #eee;
+  background-color: @grey;
 
   border-top: solid;
   border-width: 1px;
@@ -21,9 +27,7 @@
 
 
   #titlecarousel {
-	margin: 0 auto;
-	max-width: 900px;
-	max-height: 500px;
+	
 	
 	}
 
@@ -59,7 +63,7 @@
 }
 .picline	{
 	margin-bottom: 20px;
-	background: lighten(@blue, 40%);
+	background: lighten(@blue, 60%);
 
 	border-radius: @panel-border-radius;
 
@@ -81,3 +85,8 @@
 	font-size: 1em;
 	
 }
+.navbar {
+	margin-bottom: auto;
+}
+
+
