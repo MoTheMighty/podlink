@@ -11,7 +11,7 @@
       <span class="icon-bar"></span>
     </button>
  
-    <a class="navbar-brand" href="#"><img src="/images/alamo_logo.png"> Alamo Family Foot & Ankle Care</a>
+    <a class="navbar-brand" href="#"><img src="/images/Alamo_Logo.png"> Alamo Family Foot & Ankle Care</a>
   </div>
 
   <!-- Collect the nav links, forms, and other content for toggling -->
