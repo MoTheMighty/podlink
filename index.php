@@ -103,13 +103,11 @@
 
     <hr>
          
- <section class="container">
-      <div class="row">
+ 
 
              <?php include 'components/picturelineup.php'; ?>
 
-      </div> <!-- row -->
-    </section> <!-- container -->
+      
 
 <!-- footer -->
 

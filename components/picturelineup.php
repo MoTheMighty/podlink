@@ -1,4 +1,5 @@
 <div class="container">  
+  <div class="row">
   <section id="center">
 
   <span class="glyphicons group"></span>
@@ -63,6 +64,6 @@
     </div><!-- col --> 
 
    
-</div>
 
-<!--</div> <!-- container -->
+</div> <!-- row -->
+</div> <!-- container -->
