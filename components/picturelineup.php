@@ -11,7 +11,7 @@
 
 <!--<div="container"> -->
 
-    <div class="col col-sm-6 col-md-6 col-lg-3">
+    <div class="col col-lg-3">
         <div class="picline">
 
         <img src="images/wally.png" class="img-rounded">
@@ -23,7 +23,7 @@
         </div>  <!-- doc1 -->
     </div> <!-- col -->
 
-    <div class="col col-sm-6 col-md-6 col-lg-3">
+    <div class="col col-lg-3">
         <section class="picline">
 
          <img src="images/perez.png" class="img-rounded">
@@ -36,7 +36,7 @@
         </section> <!-- doc 2 -->
     </div><!-- col -->
 
-     <div class="col col-sm-6 col-md-6 col-lg-3"> 
+     <div class="col col-lg-3"> 
       <section class="picline">
         <img src="images/chaney.png" class="img-rounded">
         <h5>D. Martin Chaney, DPM</h5>
@@ -49,7 +49,7 @@
       </section> <!-- doc3 -->
     </div><!-- col -->
 
-    <div class="col col-sm-6 col-md-6 col-lg-3">
+    <div class="col col-lg-3">
       <section class="picline">
 
          <img src="images/jordan.png" class="img-rounded">
