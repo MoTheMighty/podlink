@@ -9,7 +9,7 @@
         <h3 class="text-center">Team Members<h3>
 </div><!-- container -->
 
-<section="container">
+<div="container">
 
     <div class="col col-sm-6 col-md-6 col-lg-3">
     
@@ -67,4 +67,4 @@
    
 </div>
 
-</section> <!-- container -->
+</div> <!-- container -->
