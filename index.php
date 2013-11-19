@@ -16,7 +16,7 @@
       <script src="js/respond.min.js"></script>
    
   </head>
-
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
   <body id="home">
 
 
