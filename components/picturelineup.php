@@ -1,5 +1,10 @@
 
 <div class="container">
+  <section id="bumperpads">
+    <div class="center">
+      <img src="images/group.png">
+      <h2>Our Team</h2>
+      <hr>
 
     <div class="col col-lg-3">
         <div class="picline">
@@ -51,6 +56,6 @@
 
       </section> <!-- doc 4 -->
     </div><!-- col --> 
-
-   
+    </div><!-- center -->
+  </section><!-- bumperpads -->   
 </div><!-- container -->

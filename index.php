@@ -64,73 +64,72 @@
 
 
 
-<hr>         
+     
 
     <section class="container">
-    
-      <div class="row" style="margin-top:0px;">
+      <div id="bumperpads">
+     
 
 <!-- col 1 -->
         <section class="col col-lg-4">
           
-      <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h1 class="panel-title"> Knowlegde </h1>
-          </div> <!-- panel heading -->
-      <div class="panel-body">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+          <div class="center">
+          <img src="images/lightbulb.png">
+        
+          <h2>Knowledge</h2>
+          
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </div> <!-- panel body -->
-      </div> <!-- panel -->
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<p>
+      </div> <!-- center-->
+   
     </section><!-- col col-lg --><!-- col 1 -->
 
 <!-- col 2 -->
     <section class="col col-lg-4">
-      <div class="panel panel-primary">
-          <div class="panel-heading">
-            <h1 class="panel-title">Exerpience</h1>
-          </div> <!-- panel heading -->
-      <div class="panel-body">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+        <div class="center">
+          <img src="images/cogwheels.png">
+        
+          <h2>Experience</h2>
+          
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </div> <!-- panel body -->
-      </div> <!-- panel -->
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<p>
+      </div> <!-- center--> 
+
     </section><!-- col col-lg -->
  
 <!-- col 3 -->
 
-        <section class="col col-lg-4">
-
-      <div class="panel panel-primary">
-          <div class="panel-heading">
-          <h1 class="panel-title">Results</h1>
-          </div> <!-- panel heading -->
-      <div class="panel-body">
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+    <section class="col col-lg-4">
+        <div class="center">
+          <img src="images/screenshot.png">
+        
+          <h2>Results</h2>
+          
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
         consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
         cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-      </div> <!-- panel body -->
-      </div> <!-- panel -->
+        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<p>
+      </div> <!-- center-->
+      
     </section><!-- col col-lg -->
 
-  </div><!-- content row 1-->
+    </div><!-- bumperpads -->
 
-    </section> <!-- container -->
+  </section> <!-- container -->
 
 
 
-    <hr>
+   
          
  
 
