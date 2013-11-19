@@ -1,16 +1,5 @@
-<div class="container">  
-  <div class="row">
-  <section id="center">
 
-  <span class="glyphicons group"></span>
-
-  
-
-  </section><!-- center -->
-        <h3 class="text-center">Team Members<h3>
-</div><!-- container -->
-
-<!--<div="container"> -->
+<div class="container">
 
     <div class="col col-lg-3">
         <div class="picline">
@@ -64,6 +53,4 @@
     </div><!-- col --> 
 
    
-
-</div> <!-- row -->
-</div> <!-- container -->
+</div><!-- container -->
