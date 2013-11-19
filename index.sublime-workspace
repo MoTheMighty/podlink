@@ -4,8 +4,12 @@
 		"selected_items":
 		[
 			[
+				"backg",
+				"background-color"
+			],
+			[
 				"margin",
-				"margin-bottom"
+				"margin-top"
 			],
 			[
 				"include",
@@ -60,34 +64,18 @@
 	"buffers":
 	[
 		{
-			"file": "components/picturelineup.php",
-			"settings":
-			{
-				"buffer_size": 2603,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "_/less/_mystyles.less",
 			"settings":
 			{
-				"buffer_size": 902,
+				"buffer_size": 1433,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/carousel.php",
-			"settings":
-			{
-				"buffer_size": 2066,
-				"line_ending": "Windows"
 			}
 		},
 		{
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 4340,
+				"buffer_size": 4924,
 				"line_ending": "Windows"
 			}
 		}
@@ -124,19 +112,21 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/components/carousel.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/js/html5shiv.js",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/css/bootstrap.min.css",
 		"/Applications/MAMP/htdocs/css/mystyles.css",
 		"/Applications/MAMP/htdocs/css/bootstrap.css",
 		"/Applications/MAMP/htdocs/_/components/navhead.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/_/less/panels.less",
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
 		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/LESS/README.md",
 		"/Applications/MAMP/htdocs/test.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
@@ -225,48 +215,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "components/picturelineup.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2603,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1636,
-								1636
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 28.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "_/less/_mystyles.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 902,
+						"buffer_size": 1433,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								897,
-								897
+								643,
+								643
 							]
 						],
 						"settings":
@@ -274,55 +235,26 @@
 							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 615.0,
+						"translation.y": 130.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "components/carousel.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2066,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2059,
-								2059
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 205.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
+					"buffer": 1,
 					"file": "index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4340,
+						"buffer_size": 4924,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								989,
-								989
+								1436,
+								1436
 							]
 						],
 						"settings":
@@ -332,7 +264,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 290.0,
+						"translation.y": 203.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

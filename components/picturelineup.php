@@ -8,7 +8,7 @@
         <h5>Walter Strash, DPM</h5>
      
         <p>Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery.</p>
-        <br><button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button>
+        <button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button>
 
         </div>  <!-- doc1 -->
     </div> <!-- col -->

@@ -1,8 +1,8 @@
-<!DOCTYPE html>
-<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
-<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
-<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
-<!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
+
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
 
 <html>
   <head>
@@ -20,9 +20,9 @@
     
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
-   
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
-<meta http-equiv="X-UA-Compatible" content="IE=9">
+
   <body id="home">
 
 
@@ -37,7 +37,34 @@
    
   <?php include 'components/carousel.php'; ?>
 
- <hr>         
+
+<div class="hidden-xs">
+<section class="toolbar">
+  <div class="container">
+    
+    <div id="tools">
+      <ul class="nav nav-justified">
+         
+          <li><a href="#"><span class="glyphicons-icon white notes_2"></span>New Patient Forms</a></li>
+          <li><a href="#"><span class="glyphicons-icon white compass"></span>Locations</a></li>
+          <li><a href="#"><span class="glyphicons-icon white headset"></span>Contact</a></li>
+          
+        </ul>
+
+    </div>
+    
+  </div><!-- container --> 
+
+</section> <!-- toolbar -->
+
+</div><!-- visible -->
+
+
+
+
+
+
+<hr>         
 
     <section class="container">
     
@@ -100,6 +127,8 @@
   </div><!-- content row 1-->
 
     </section> <!-- container -->
+
+
 
     <hr>
          
