@@ -1,10 +1,25 @@
 @import "variables.less";
 @blue:			#2980b9;
 @grey:			#7f909a;
+@green:			#33a052;
+
+
+
 
 .grey	{
 	background-color: @grey;
 
+}
+
+.navibar	{
+	background-color: @grey;
+	height:	5em;
+	p {
+		padding-top:	0.5em; 
+		font-weight: 	200;
+		font-size: 		2em;
+		color:			#fff;
+	}
 }
 
 .fill {
@@ -14,25 +29,30 @@
 
 .toolbar {
 	background: @blue;
-	height: 5em;
+	height: auto;
 }
 
 
 #tools {
-	border-right-color: @grey;
+	border-color: @grey;
 	border-right-style: solid;
-	border-right-width: 1px;
-    height: 5em;
+	border-width: 2px;
     background: @blue;
+
+    a:hover
+			{ 
+		background-color:@grey;
+		}
 
     
     .nav a {
-    	border-right-color: @grey;
-   		border-right-style: solid;
-   		border-right-width: 0px;
-   		border-left-color: @grey;
-   		border-left-style: solid;
-   		border-left-width: 2px;
+    	border-color: @grey;
+   		border-bottom-style: solid;
+   		border-left-style:solid;
+   		border-top-width: 0px;
+   		border-color: @grey;
+   		
+   		border-width: 2px;
     	padding-top: 30px;
     	color: #fff;
    		height: 5em;	
@@ -59,35 +79,25 @@
 }
 
 
-  #titlecarousel {
-	
-	
-	}
+ 
 
 .center {
 	text-align: center;
-
 	
 }
   
-
-
 .glyphicons{
 	
-
 	margin-top: -20px;
-
 	padding-right: 0px;
-
 	margin-left: -0px;   
 	
 }
 
 
-
 .picline	{
 	margin-bottom: 20px;
-	background: lighten(@blue, 40%);
+	background: lighten(@grey, 40%);
 
 	border-radius: @panel-border-radius;
 
@@ -95,14 +105,12 @@
 	width: 	0 auto;
 	height: 35em;
 	border:	 1px solid;
-	border-color: lighten(@blue, 30%);
+	border-color: lighten(@gray, 30%);
 	text-align: center;
 	p{
 		text-align: left;
-	}
-
+		}
 	
-
 	}
 
 .navbar-brand {
@@ -115,7 +123,38 @@
 }
 
 #bumperpads {
-	padding-top: 100px;
+
+
+	margin-top: 70px;
+
 }
 
+.breadcrumb {
+
+	padding-top: 1.6em;
+	background: @grey;
+	a {
+		color: #ccc;
+	}		
+	
+}
+
+#enlarge{
+	
+	.glyphicons:before {
+position: absolute;
+left: 0;
+top: 0;
+display: inline-block;
+margin: 0 5px 0 0;
+font: 100px/1em 'Glyphicons Regular';
+font-style: normal;
+font-weight: 400;
+color: @green;
+vertical-align: middle;
+text-transform: none;
+-webkit-font-smoothing: antialiased;
+}
+	
+}
 

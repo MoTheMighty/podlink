@@ -6,7 +6,7 @@
 
 <html>
   <head>
-    <title>Put you title here</title>
+    <title>Alamo Family Foot & Ankle Care | San Antonio Podiatrist</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -38,9 +38,12 @@
   <?php include 'components/carousel.php'; ?>
 
 
-<div class="hidden-xs">
+
 <section class="toolbar">
+
   <div class="container">
+    <section class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
     
     <div id="tools">
       <ul class="nav nav-justified">
@@ -51,9 +54,10 @@
           
         </ul>
 
-    </div>
-    
-  </div><!-- container --> 
+    </div> <!-- tools -->
+    </div><!-- col -->
+    </section><!-- row -->
+  </div><!-- container--> 
 
 </section> <!-- toolbar -->
 
@@ -129,6 +133,7 @@
 
 
 
+
    
          
  
@@ -141,10 +146,7 @@
 
   
           
-             <?php 
-               $path = $_SERVER['DOCUMENT_ROOT'];
-               $path .= "/components/footer.php";
-                include_once($path);?>
+             <?php include 'components/footer.php'; ?>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

@@ -4,12 +4,20 @@
 		"selected_items":
 		[
 			[
-				"backg",
+				"color",
 				"background-color"
 			],
 			[
+				"font",
+				"font-size"
+			],
+			[
 				"margin",
-				"margin-top"
+				"margin-right"
+			],
+			[
+				"backg",
+				"background-color"
 			],
 			[
 				"include",
@@ -63,22 +71,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_/less/_mystyles.less",
-			"settings":
-			{
-				"buffer_size": 1433,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 4924,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -112,23 +104,29 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/components/carousel.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
-		"/Applications/MAMP/htdocs/js/html5shiv.js",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/notes",
+		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/_/less/breadcrumbs.less",
+		"/Applications/MAMP/htdocs/_/less/variables.less",
+		"/Applications/MAMP/htdocs/components/navigator.php",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/components/carousel.php",
+		"/Applications/MAMP/htdocs/js/html5shiv.js",
 		"/Applications/MAMP/htdocs/css/bootstrap.min.css",
 		"/Applications/MAMP/htdocs/css/mystyles.css",
 		"/Applications/MAMP/htdocs/css/bootstrap.css",
 		"/Applications/MAMP/htdocs/_/components/navhead.php",
 		"/Applications/MAMP/htdocs/_/less/panels.less",
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
-		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/LESS/README.md",
 		"/Applications/MAMP/htdocs/test.php",
-		"/Applications/MAMP/htdocs/index.php",
-		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Users/pod1098/Downloads/svgedit_app/manifest.json",
@@ -210,65 +208,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_/less/_mystyles.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1433,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								643,
-								643
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 130.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4924,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1436,
-								1436
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 203.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

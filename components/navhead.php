@@ -1,6 +1,10 @@
-<div class="fill"></div>
 
-<nav class="navbar navbar-default" role="navigation">
+<div class="fill">
+  
+</div><!-- fill -->
+
+
+<nav class="navbar navbar-default role="navigation">
 	<div class="container">
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
@@ -11,7 +15,7 @@
       <span class="icon-bar"></span>
     </button>
  
-    <a class="navbar-brand" href="#"><img src="/images/Alamo_Logo.png"> Alamo Family Foot & Ankle Care</a>
+    <a class="navbar-brand" href="index.php"><img src="/images/Alamo_Logo.png"> Alamo Family Foot & Ankle Care</a>
   </div>
 
   <!-- Collect the nav links, forms, and other content for toggling -->
