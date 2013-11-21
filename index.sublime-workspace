@@ -71,6 +71,38 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "_/less/_mystyles.less",
+			"settings":
+			{
+				"buffer_size": 1936,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "template.php",
+			"settings":
+			{
+				"buffer_size": 1782,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "contact.php",
+			"settings":
+			{
+				"buffer_size": 3332,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 4912,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -105,11 +137,11 @@
 	"file_history":
 	[
 		"/Applications/MAMP/htdocs/index.php",
-		"/Applications/MAMP/htdocs/notes",
 		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/notes",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/_/less/breadcrumbs.less",
 		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/components/navigator.php",
@@ -208,8 +240,123 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "_/less/_mystyles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1936,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1691.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "template.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1782,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								952,
+								952
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "contact.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3332,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2580,
+								2580
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 971.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4912,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2046,
+								1924
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 754.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

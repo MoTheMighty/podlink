@@ -22,7 +22,7 @@
   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     <ul class="nav navbar-nav navbar-right">
         <li><a href="#"><span class="glyphicon glyphicon-map-marker"></span> Locations</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-earphone"></span> Contact</a></li>
+        <li><a href="contact.php"><span class="glyphicon glyphicon-earphone"></span> Contact</a></li>
         <li><a href="#"><span class="glyphicon glyphicon-edit"></span> About</a></li>
         <!-- <li><a href="#">New Patient</a></li> -->
           

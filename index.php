@@ -78,7 +78,9 @@
         <section class="col col-lg-4">
           
           <div class="center">
-          <img src="images/lightbulb.png">
+            <section class="enlarge">
+              <span class="glyphicons lightbulb"></span>
+            </section> <!-- enlarge -->
         
           <h2>Knowledge</h2>
           
@@ -95,7 +97,9 @@
 <!-- col 2 -->
     <section class="col col-lg-4">
         <div class="center">
-          <img src="images/cogwheels.png">
+          <section class="enlarge">
+              <span class="glyphicons cogwheels"></span>
+            </section> <!-- enlarge -->
         
           <h2>Experience</h2>
           
@@ -113,7 +117,9 @@
 
     <section class="col col-lg-4">
         <div class="center">
-          <img src="images/screenshot.png">
+          <section class="enlarge">
+              <span class="glyphicons screenshot"></span>
+            </section> <!-- enlarge -->
         
           <h2>Results</h2>
           

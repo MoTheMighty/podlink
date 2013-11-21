@@ -1,6 +1,7 @@
 
 
 <footer>
+<div id="bumperpads">
 <section id="footer">
      
 	<div class="container">
@@ -73,4 +74,5 @@
 
 	</div>  <!-- container -->
 	</section><!-- footer div -->
+	</div><!-- bumperpads -->
 </footer><!-- footer -->

@@ -23,32 +23,84 @@
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
-  <body id="Template">
+  <body id="Contact">
 
   <?php include 'components/navhead.php'; ?>
 
-
+<!-- pageheadnavigation -->
 
   <div class="navibar">
+  <div class="row">
     <section class="container">
   
       <div class="pull-left">
-        <p>Template<p>
+        <p>Contact<p>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
-            <li class="active">Template</li>
+            <li class="active">Contact</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
      
     </section><!-- container -->
+    </div><!-- row -->
   </div><!-- navibar -->
 
+<!-- end pageheadnavigation -->
 
-<hr>
 
-<hr>
+
+
+<section class="container">
+<div="row">
+  <section id="bumperpads">
+ 
+  <div class="col-lg-4">
+
+    <div class="form-group">
+      <label for="firstname">First Name: </label>
+      <input type="text" class="form-control" id="firstname" placeholder="First Name">
+    </div><!-- formgroup firstname -->
+    <div class="form-group">
+      <label for="lastname">Last Name:</label>
+      <input type="text" class="form-control" id="lastname" placeholder="Last Name">
+    </div><!-- lastname -->
+    <form role="form">
+    <div class="form-group">
+      <label for="exampleInputEmail1">Email address:</label>
+      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+    </div><!-- email -->
+    <label for="message">Message:</label>
+    <textarea class="form-control" rows="4"></textarea>
+    
+ <hr> 
+  
+  <button type="submit" class="btn btn-xtra-large">Submit</button>
+</form>
+
+</div><!-- col -->
+
+
+
+    <div class="col-lg-8">
+    <section class="center-block">
+      <section class="center">
+        <section class="enlarge">
+              <span class="glyphicons iphone"></span> 
+            </section> <!-- enlarge -->
+        <section class="lead">
+          
+          Central scheduling and all related inquires
+          <h3>(210)829-8770<h3>
+        </section><!-- lead -->
+      </section><!-- centerblock -->
+
+    </div><!-- col -->
+    </section><!-- bumperpads -->
+  </div><!-- row -->
+</section><!-- container -->
+
 
 <!-- footer -->
 
