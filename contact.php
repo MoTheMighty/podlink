@@ -68,7 +68,7 @@
     </div><!-- lastname -->
     <form role="form">
     <div class="form-group">
-      <label for="exampleInputEmail1">Email address:</label>
+      <label for="exampleInputEmail1">Email Address:</label>
       <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
     </div><!-- email -->
     <label for="message">Message:</label>
@@ -84,22 +84,71 @@
 
 
     <div class="col-lg-8">
-    <section class="center-block">
+
+    
       <section class="center">
-        <section class="enlarge">
-              <span class="glyphicons iphone"></span> 
-            </section> <!-- enlarge -->
+      
         <section class="lead">
           
-          Central scheduling and all related inquires
-          <h3>(210)829-8770<h3>
+          Central scheduling and all related inquires<br>
+          (210) 829-8770
         </section><!-- lead -->
-      </section><!-- centerblock -->
+           <br>
+      <hr>
+      <br>
 
+      <ul class="nav nav-tabs nav-justified" style="margin: 20px 0px;">
+              <li class="active"><a href="#home" data-toggle="tab">Medical Center</a></li>
+              <li><a href="#profile" data-toggle="tab">Alamo Heights</a></li>
+              <li><a href="#messages" data-toggle="tab">Stone Oak</a></li>
+             
+            </ul>
+
+            <!-- Tab panes -->
+           
+            <div class="tab-content" style="padding: 0px 60px;">
+              <div class="tab-pane fade in active" id="home">
+                <address>
+                  <strong>Alamo Family Foot & Ankle Care - Medical Center</strong><br>
+                  9502 Huebner Rd.<br>
+                  Building 2, Suite 201<br>
+                  San Antonio, TX 78240 <br>
+                  <abbr title="Phone">P: </abbr>  (210) 829-8770<br>
+                  <abbr title="Fax">F: </abbr>  (210) 829-8770
+                </address></div>
+              <div class="tab-pane fade" id="profile">
+              <address>
+                  <strong>Alamo Family Foot & Ankle Care - Alamo Heights</strong><br>
+                  7424 Broadway<br>
+                  
+                  San Antonio, TX 78209<br>
+                  <abbr title="Phone">P: </abbr>  (210) 829-8770 <br>
+                  <abbr title="Fax">F: </abbr> (210) 829-8770
+                </address></div>
+              <div class="tab-pane fade" id="messages">
+                   <address>
+                  <strong>Alamo Family Foot & Ankle Care - Stone Oak</strong><br>
+                  9502 Huebner Rd.<br>
+                  Building 2, Suite 201<br>
+                  San Antonio, TX 78258<br>
+                  <abbr title="Phone">P: </abbr> (210) 829-8770<br>
+                  <abbr title="Fax">F: </abbr> (210) 829-8770
+                </address></div>
+              </div>
+              
+            </div><!-- tab0content -->
+      </section><!-- center -->
+     
+
+         
     </div><!-- col -->
     </section><!-- bumperpads -->
+    
   </div><!-- row -->
+       <!-- Nav tabs -->
+         
 </section><!-- container -->
+
 
 
 <!-- footer -->

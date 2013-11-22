@@ -75,8 +75,24 @@
 			"file": "_/less/_mystyles.less",
 			"settings":
 			{
-				"buffer_size": 1936,
+				"buffer_size": 1932,
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "location.php",
+			"settings":
+			{
+				"buffer_size": 1784,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/navhead.php",
+			"settings":
+			{
+				"buffer_size": 3794,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -91,7 +107,7 @@
 			"file": "contact.php",
 			"settings":
 			{
-				"buffer_size": 3332,
+				"buffer_size": 5155,
 				"line_ending": "Unix"
 			}
 		},
@@ -99,7 +115,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 4912,
+				"buffer_size": 5637,
 				"line_ending": "Windows"
 			}
 		}
@@ -240,7 +256,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 5,
 			"sheets":
 			[
 				{
@@ -249,15 +265,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1936,
+						"buffer_size": 1932,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								99,
-								99
+								1932,
+								1932
 							]
 						],
 						"settings":
@@ -265,13 +281,71 @@
 							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1691.0,
+						"translation.y": 1282.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
+					"file": "location.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1784,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1241,
+								1241
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 68.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/navhead.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3794,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								861,
+								861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 28.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "template.php",
 					"semi_transient": false,
 					"settings":
@@ -283,8 +357,8 @@
 						"selection":
 						[
 							[
-								952,
-								952
+								950,
+								950
 							]
 						],
 						"settings":
@@ -294,26 +368,26 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 342.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 4,
 					"file": "contact.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3332,
+						"buffer_size": 5155,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2580,
-								2580
+								1473,
+								950
 							]
 						],
 						"settings":
@@ -323,26 +397,26 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 971.0,
+						"translation.y": 419.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 5,
 					"file": "index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4912,
+						"buffer_size": 5637,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2046,
-								1924
+								1420,
+								1420
 							]
 						],
 						"settings":
@@ -352,7 +426,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 754.0,
+						"translation.y": 640.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

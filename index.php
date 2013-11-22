@@ -39,7 +39,7 @@
 
 
 
-<section class="toolbar">
+<section class="toolbar hidden-xs">
 
   <div class="container">
     <section class="row">
@@ -49,7 +49,8 @@
       <ul class="nav nav-justified">
          
           <li><a href="#"><span class="glyphicons-icon white notes_2"></span>New Patient Forms</a></li>
-          <li><a href="#"><span class="glyphicons-icon white compass"></span>Locations</a></li>
+          
+          <li class="#"><a href="#"><span class="glyphicons-icon white compass"></span>Locations</a></li>
           <li><a href="#"><span class="glyphicons-icon white headset"></span>Contact</a></li>
           
         </ul>
@@ -61,8 +62,29 @@
 
 </section> <!-- toolbar -->
 
-</div><!-- visible -->
 
+<section class="toolbar visible-xs">
+
+  <div class="container">
+    <section class="row">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    
+    <div id="tools">
+      <ul class="nav nav-justified">
+         
+          <li><a href="#"><span class="glyphicons-icon white notes_2"></span>New Patient Forms</a></li>
+          
+          <li class="#"><a href="location.php"><span class="glyphicons-icon white compass"></span>Locations</a></li>
+          <li><a href="contact.php"><span class="glyphicons-icon white headset"></span>Contact</a></li>
+          
+        </ul>
+
+    </div> <!-- tools -->
+    </div><!-- col -->
+    </section><!-- row -->
+  </div><!-- container--> 
+
+</section> <!-- toolbar -->
 
 
 
