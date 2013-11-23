@@ -56,7 +56,7 @@
 <div="row">
   <section id="bumperpads">
  
-  <div class="col-lg-4">
+  <div class="col-lg-4 col-md-4 col-sm-4">
 
     <div class="form-group">
       <label for="firstname">First Name: </label>
@@ -74,16 +74,16 @@
     <label for="message">Message:</label>
     <textarea class="form-control" rows="4"></textarea>
     
- <hr> 
+  <br>
   
-  <button type="submit" class="btn btn-xtra-large">Submit</button>
+  <button type="submit" class="btn btn-primary">Submit</button>
 </form>
 
 </div><!-- col -->
 
 
 
-    <div class="col-lg-8">
+    <div class="col-lg-8 col-md-8 col-sm-8">
 
     
       <section class="center">
@@ -91,7 +91,7 @@
         <section class="lead">
           
           Central scheduling and all related inquires<br>
-          (210) 829-8770
+          <strong>(210) 829-8770</strong>
         </section><!-- lead -->
            <br>
       <hr>

@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"s",
+				"script"
+			],
+			[
 				"color",
 				"background-color"
 			],
@@ -75,7 +79,7 @@
 			"file": "_/less/_mystyles.less",
 			"settings":
 			{
-				"buffer_size": 1932,
+				"buffer_size": 2033,
 				"line_ending": "Unix"
 			}
 		},
@@ -83,40 +87,41 @@
 			"file": "location.php",
 			"settings":
 			{
-				"buffer_size": 1784,
+				"buffer_size": 2550,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "components/navhead.php",
+			"file": "components/footer.php",
 			"settings":
 			{
-				"buffer_size": 3794,
+				"buffer_size": 1996,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "template.php",
+			"file": "test.php",
 			"settings":
 			{
-				"buffer_size": 1782,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "contact.php",
-			"settings":
-			{
-				"buffer_size": 5155,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 5637,
+				"buffer_size": 857,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/custom1.js",
+			"settings":
+			{
+				"buffer_size": 2538,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/custom.js",
+			"settings":
+			{
+				"buffer_size": 3025,
+				"line_ending": "Unix",
+				"name": "function initialize() {"
 			}
 		}
 	],
@@ -152,11 +157,14 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/index.php",
-		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/js/custom.js",
+		"/Applications/MAMP/htdocs/_/js/custom.js",
 		"/Applications/MAMP/htdocs/components/navhead.php",
-		"/Applications/MAMP/htdocs/notes",
 		"/Applications/MAMP/htdocs/template.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/notes",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/_/less/breadcrumbs.less",
 		"/Applications/MAMP/htdocs/_/less/variables.less",
@@ -218,6 +226,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"map-canvas",
+			"map-canva",
 			"margin-bottom",
 			"navbar-margin",
 			"22px;",
@@ -265,15 +275,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1932,
+						"buffer_size": 2033,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1932,
-								1932
+								2031,
+								1924
 							]
 						],
 						"settings":
@@ -281,7 +291,7 @@
 							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1282.0,
+						"translation.y": 1718.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -292,15 +302,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1784,
+						"buffer_size": 2550,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1241,
-								1241
+								1927,
+								1927
 							]
 						],
 						"settings":
@@ -310,55 +320,54 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 68.0,
+						"translation.y": 882.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "components/navhead.php",
-					"semi_transient": false,
+					"file": "components/footer.php",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 3794,
+						"buffer_size": 1996,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								861,
-								861
+								0,
+								0
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 28.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "template.php",
+					"file": "test.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1782,
+						"buffer_size": 857,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								950,
-								950
+								15,
+								0
 							]
 						],
 						"settings":
@@ -368,65 +377,66 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 342.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "contact.php",
+					"file": "js/custom1.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5155,
+						"buffer_size": 2538,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1473,
-								950
+								444,
+								421
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 419.0,
+						"translation.y": 1.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "index.php",
+					"file": "js/custom.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5637,
+						"buffer_size": 3025,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1420,
-								1420
+								248,
+								248
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"auto_name": "function initialize() {",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 640.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

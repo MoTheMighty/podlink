@@ -16,7 +16,8 @@
 	background-color: @grey;
 	height:	5em;
 	p {
-		padding-top:	0.5em; 
+		padding:	0.5em 0 0 0;
+
 		font-weight: 	200;
 		font-size: 		2em;
 		color:			#fff;
@@ -87,13 +88,13 @@
 	
 }
   
-//.glyphicons{
+.glyphicons{
 	
-	//margin-top: -20px;
-	//padding-right: 0px;
-	//margin-left: -0px;   
+	margin-top: -20px;
+	padding-right: 0px;
+	margin-left: -0px;   
 	
-//}
+}
 
 
 .picline	{
@@ -132,7 +133,7 @@
 
 .breadcrumb {
 
-	padding-top: 1.6em;
+	padding: 1.6em 0 0;
 	background: @grey;
 	a {
 		color: #ccc;
@@ -158,4 +159,8 @@ text-transform: none;
 
 -webkit-font-smoothing: antialiased;
 }
+
+html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map-canvas { height: 100% }
 }
