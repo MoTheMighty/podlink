@@ -23,7 +23,7 @@
     <ul class="nav navbar-nav navbar-right">
         <li><a href="location.php"><span class="glyphicon glyphicon-map-marker"></span> Locations</a></li>
         <li><a href="contact.php"><span class="glyphicon glyphicon-earphone"></span> Contact</a></li>
-        <li><a href="#"><span class="glyphicon glyphicon-edit"></span> About</a></li>
+        <li><a href="about.php"><span class="glyphicon glyphicon-edit"></span> About</a></li>
         <!-- <li><a href="#">New Patient</a></li> -->
           
         <li class="dropdown">

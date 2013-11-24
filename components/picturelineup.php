@@ -1,24 +1,43 @@
 
+ 
+ <div class="container">
+ <hr>
+    <section class="center">
+      <section class="iconsizing">
+              <span class="glyphicons group"></span>
+      </section> <!-- container -->
+      </section><!-- center -->
+
+      </div><!-- container -->
+
+ <div class="layoutspacing2">
+   
+ </div>
+
+    
+   <div class="center">
+    <section class="container">
+      <h2>Our Team<h2> 
+      </section><!-- center -->
+      </div><!-- container -->
+
+
 <div class="container">
-  <section id="bumperpads">
-    <div class="center">
-      <img src="images/group.png">
-      <h2>Our Team</h2>
-      <hr>
-
-    <div class="col col-lg-3">
-        <div class="picline">
-
-        <img src="images/wally.png" class="img-rounded">
-        <h5>Walter Strash, DPM</h5>
      
+    <div class="col-lg-3 col-md-3 col-sm-6">
+        <div class="picline">
+          <div class="center">
+        <img src="images/wally.png" class="img-rounded">
+          </div>
+        <h5>Walter Strash, DPM</h5>
+          
         <p>Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery.</p>
         <button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button>
 
         </div>  <!-- doc1 -->
     </div> <!-- col -->
 
-    <div class="col col-lg-3">
+    <div class="col-lg-3 col-md-3 col-sm-6">
         <section class="picline">
 
          <img src="images/perez.png" class="img-rounded">
@@ -31,7 +50,7 @@
         </section> <!-- doc 2 -->
     </div><!-- col -->
 
-     <div class="col col-lg-3"> 
+     <div class="col-lg-3 col-md-3 col-sm-6"> 
       <section class="picline">
         <img src="images/chaney.png" class="img-rounded">
         <h5>D. Martin Chaney, DPM</h5>
@@ -44,7 +63,7 @@
       </section> <!-- doc3 -->
     </div><!-- col -->
 
-    <div class="col col-lg-3">
+    <div class="col-lg-3 col-md-3 col-sm-6">
       <section class="picline">
 
          <img src="images/jordan.png" class="img-rounded">
@@ -57,5 +76,5 @@
       </section> <!-- doc 4 -->
     </div><!-- col --> 
     </div><!-- center -->
-  </section><!-- bumperpads -->   
+    
 </div><!-- container -->

@@ -12,9 +12,14 @@
 
     <!-- local CSS for google maps -->
     <style type="text/css">
-      html { height: 200px }
-      body { height: 100%; margin: 0; padding: 0 }
-      #map-canvas { height: 100%}
+      
+      #map-canvas { 
+
+       width: 100%;
+       height: 600px;
+  
+      }
+     
     </style>
     <!-- local CSS for google maps -->
 
@@ -26,9 +31,7 @@
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    <script type="text/javascript"
-       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB04qAy3ED0uYAgHWV4ZA8LJsomQg8T1m8&sensor=true">
-    </script>
+    
     
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
@@ -38,6 +41,7 @@
   </head>
 
   <body id="Location">
+
 
   <?php include 'components/navhead.php'; ?>
 
@@ -60,27 +64,12 @@
   </div><!-- navibar -->
 
 
-<hr>
-
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<section class="row">
-<div id="map" style="height: 600px"></div>
-</section>
-
-
-
+    <div id="map-canvas"></div>
+    
      
 
 <!-- footer -->
-<div class="row" style="margin: -70px">
+<div style="margin-top: -70px">
    <?php include 'components/footer.php'; ?>
    </div>
 

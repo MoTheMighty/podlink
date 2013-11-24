@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"wid",
+				"width"
+			],
+			[
 				"s",
 				"script"
 			],
@@ -79,49 +83,35 @@
 			"file": "_/less/_mystyles.less",
 			"settings":
 			{
-				"buffer_size": 2033,
+				"buffer_size": 2456,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "location.php",
+			"file": "about.php",
 			"settings":
 			{
-				"buffer_size": 2550,
+				"buffer_size": 4160,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "components/footer.php",
+			"contents": "\n \n <div class=\"row\">\n\n    <section class=\"center\">\n      <section class=\"iconsizing\">\n              <span class=\"glyphicons group\"></span>\n      </section> <!-- container -->\n      </section><!-- center -->\n      </div><!-- container -->\n\n <div class=\"layoutspacing2\">\n   \n </div>\n\n    \n   <div class=\"center\">\n    <section class=\"container\">\n      <h2>Our Team<h2> \n      </section><!-- center -->\n      </div><!-- container -->\n\n\n<div class=\"container\">\n     \n    <div class=\"col-lg-3 col-md-3 col-sm-6\">\n        <div class=\"picline\">\n          <div class=\"center\">\n        <img src=\"images/wally.png\" class=\"img-rounded\">\n          </div>\n        <h5>Walter Strash, DPM</h5>\n          \n        <p>Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery.</p>\n        <button type=\"button\" class=\"btn btn-primary btn-lg btn-block\">Learn More</button>\n\n        </div>  <!-- doc1 -->\n    </div> <!-- col -->\n\n    <div class=\"col-lg-3 col-md-3 col-sm-6\">\n        <section class=\"picline\">\n\n         <img src=\"images/perez.png\" class=\"img-rounded\">\n        <h5>Richard Perez, DPM</h5>\n     \n        <p>Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center. </p>\n        <button type=\"button\" class=\"btn btn-primary btn-lg btn-block\">Learn More</button>\n\n\n        </section> <!-- doc 2 -->\n    </div><!-- col -->\n\n     <div class=\"col-lg-3 col-md-3 col-sm-6\"> \n      <section class=\"picline\">\n        <img src=\"images/chaney.png\" class=\"img-rounded\">\n        <h5>D. Martin Chaney, DPM</h5>\n     \n        <p>Dr. Dennis Martin 'Marty' Chaney has been in private practice since 1999. He was born and raised in Southwest Iowa. He attended the University of Northern Iowa where he majored in Biology and Chemistry.</p>\n        <br><button type=\"button\" class=\"btn btn-primary btn-lg btn-block\">Learn More</button>\n         \n\n\n      </section> <!-- doc3 -->\n    </div><!-- col -->\n\n    <div class=\"col-lg-3 col-md-3 col-sm-6\">\n      <section class=\"picline\">\n\n         <img src=\"images/jordan.png\" class=\"img-rounded\">\n        <h5>R. Jordan Mechell, DPM</h5>\n     \n        <p>Dr. R. Jordan Mechell was born and raised in a small town in South Texas. At a very young age, he found himself fascinated by the field of medicine and surgery. After graduating early from the University of Texas at Austin in 2004</p>\n        <button type=\"button\" class=\"btn btn-primary btn-lg btn-block\">Learn More</button>\n\n\n      </section> <!-- doc 4 -->\n    </div><!-- col --> \n    </div><!-- center -->\n    \n</div><!-- container -->\n",
+			"file": "components/picturelineup.php",
+			"file_size": 2954,
+			"file_write_time": 130297839610000000,
 			"settings":
 			{
-				"buffer_size": 1996,
+				"buffer_size": 2871,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "test.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 857,
+				"buffer_size": 5645,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "js/custom1.js",
-			"settings":
-			{
-				"buffer_size": 2538,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "js/custom.js",
-			"settings":
-			{
-				"buffer_size": 3025,
-				"line_ending": "Unix",
-				"name": "function initialize() {"
 			}
 		}
 	],
@@ -157,17 +147,22 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/js/custom.js",
-		"/Applications/MAMP/htdocs/_/js/custom.js",
-		"/Applications/MAMP/htdocs/components/navhead.php",
-		"/Applications/MAMP/htdocs/template.php",
+		"/Applications/MAMP/htdocs/components/team.php",
 		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/about/about.php",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/js/custom.js",
+		"/Applications/MAMP/htdocs/_/less/variables.less",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Applications/MAMP/htdocs/js/custom1.js",
+		"/Applications/MAMP/htdocs/_/js/custom.js",
+		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/notes",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/_/less/breadcrumbs.less",
-		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/components/navigator.php",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
@@ -182,7 +177,6 @@
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/LESS/LESS.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/LESS/README.md",
-		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Users/pod1098/Downloads/svgedit_app/manifest.json",
@@ -266,7 +260,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -275,15 +269,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2033,
+						"buffer_size": 2456,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2031,
-								1924
+								2113,
+								2113
 							]
 						],
 						"settings":
@@ -291,26 +285,26 @@
 							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1718.0,
+						"translation.y": 2377.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "location.php",
+					"file": "about.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2550,
+						"buffer_size": 4160,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1927,
-								1927
+								3115,
+								3088
 							]
 						],
 						"settings":
@@ -320,32 +314,33 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 882.0,
+						"translation.y": 1347.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "components/footer.php",
-					"semi_transient": true,
+					"file": "components/picturelineup.php",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1996,
+						"buffer_size": 2871,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								4,
+								4
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -355,19 +350,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "test.php",
+					"file": "index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 857,
+						"buffer_size": 5645,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15,
-								0
+								5142,
+								5142
 							]
 						],
 						"settings":
@@ -377,66 +372,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "js/custom1.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2538,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								444,
-								421
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "js/custom.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3025,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								248,
-								248
-							]
-						],
-						"settings":
-						{
-							"auto_name": "function initialize() {",
-							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1940.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

@@ -2,7 +2,7 @@
 @blue:			#2980b9;
 @grey:			#7f909a;
 @green:			#33a052;
-@glyphsize:		48px;
+@glyphsize:		58px;
 
 
 
@@ -14,9 +14,13 @@
 
 .navibar	{
 	background-color: @grey;
+
 	height:	5em;
+	.pull-left {
+		padding:	1em 0 0 0;
+	}
 	p {
-		padding:	0.5em 0 0 0;
+		padding:	0em 0 0 0;
 
 		font-weight: 	200;
 		font-size: 		2em;
@@ -84,21 +88,28 @@
  
 
 .center {
+	margin-left: auto;
+	margin-right: auto;
+
 	text-align: center;
+
+	
 	
 }
   
-.glyphicons{
+/*.glyphicons{
 	
 	margin-top: -20px;
 	padding-right: 0px;
 	margin-left: -0px;   
 	
-}
+} */
 
 
 .picline	{
 	margin-bottom: 20px;
+	margin-left: 0 auto;
+	margin-right: 0 auto;
 	background: lighten(@grey, 40%);
 
 	border-radius: @panel-border-radius;
@@ -144,13 +155,15 @@
 .enlarge{
 	padding: 2em 0;
 	.glyphicons:before {
+
 position: absolute;
 left: 0;
 top: 0;
-
+margin: -30px 0 0px 0;
 display: inline-block;
-margin: -20px 0px 0 0;
-font: @glyphsize/1em 'Glyphicons Regular';
+
+
+font: @glyphsize 'Glyphicons Regular';
 font-style: normal;
 font-weight: 400;
 color: @green;
@@ -158,9 +171,36 @@ vertical-align: middle;
 text-transform: none;
 
 -webkit-font-smoothing: antialiased;
+} }
+
+.iconsizing{	
+	.glyphicons:before {
+margin-left: -20px;
+position: absolute;
+left: 0;
+top: 0;
+display: inline-block;
+
+padding:  0px 0px 0 0;
+font: 100px/1em 'Glyphicons Regular';
+font-style: normal;
+font-weight: 400;
+ color: @blue;
+//vertical-align: middle;
+text-transform: none;
+
+-webkit-font-smoothing: antialiased;
+}
 }
 
-html { height: 100% }
-      body { height: 100%; margin: 0; padding: 0 }
-      #map-canvas { height: 100% }
+.layoutspacing{
+	height: 2em;
+	width: auto;
 }
+
+.layoutspacing2{
+	height: 5em;
+	width: auto;
+}
+
+

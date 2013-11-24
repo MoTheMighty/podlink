@@ -5,9 +5,9 @@
       mapTypeId: google.maps.MapTypeId.ROADMAP,*/
 
 function initialize() {
-  var myLatlng = new google.maps.LatLng(29.5591220, -98.4936280);
+  var myLatlng = new google.maps.LatLng(29.4899220, -98.5466280);
   var mapOptions = {
-    zoom: 12,
+    zoom: 11,
     center: myLatlng
   };
 
@@ -34,7 +34,7 @@ function initialize() {
 
 
    /* };*/
-    var map = new google.maps.Map(document.getElementById("map"),
+    var map = new google.maps.Map(document.getElementById("map-canvas"),
         mapOptions);
 
 
@@ -48,7 +48,7 @@ function initialize() {
 
     // MARKER 1'S INFO WINDOW
     var infowindow1 = new google.maps.InfoWindow({
-    content: 'Alamo Family Foot & Ankle Care - Medical Center<br />9502 Heubner Rd<br>Building 2, Suite 201<br>San Antonio, TX 78240<br><a href="http://www.db.no" target="_blank">Read more(test link)</a>'
+    content: '<img src="images/mc.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Medical Center"><br />Alamo Family Foot & Ankle Care - Medical Center<br />9502 Heubner Rd<br>Building 2, Suite 201<br>San Antonio, TX 78240'
     });
     // End of infowindow code
 
@@ -73,7 +73,7 @@ function initialize() {
 
     // MARKER 2'S INFO WINDOW
     var infowindow2 = new google.maps.InfoWindow({
-    content: 'Name<br />Location<br />Date<br /><br /><a href="http://www.db.no" target="_blank">Read more(test link)</a>'
+    content: '<img src="images/ah.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Alamo Heights"><br />Alamo Family Foot & Ankle Care - Alamo Heights<br />7424 Broadway<br />San Antonio, TX 78209'
     });
     // End of infowindow code
 
@@ -96,7 +96,7 @@ function initialize() {
 
     // MARKER 3'S INFO WINDOW
     var infowindow3 = new google.maps.InfoWindow({
-    content: 'Name<br />Location<br />Date<br /><br /><a href="http://www.db.no" target="_blank">Read more(test link)</a>'
+    content: '<img src="images/stoneoak.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Stone Oak"><br />Alamo Family Foot & Ankle Care - Stone Oak<br />1314 E. Sonterra Blvd<br />Building 3, Suite 302<br />San Antonio, TX 78258<br />'
     });
     // End of infowindow code
 

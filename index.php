@@ -109,9 +109,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<p>
+        consequat. <p>
       </div> <!-- center-->
    
     </section><!-- col col-lg --><!-- col 1 -->
@@ -128,9 +126,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<p>
+        consequat. <p>
       </div> <!-- center--> 
 
     </section><!-- col col-lg -->
@@ -148,9 +144,7 @@
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
         tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
         quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-        cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-        proident, sunt in culpa qui officia deserunt mollit anim id est laborum.<p>
+        consequat. <p>
       </div> <!-- center-->
       
     </section><!-- col col-lg -->
@@ -161,10 +155,23 @@
 
 
 
+</section><!-- container -->
+</section>
 
-   
-         
- 
+<div class="layoutspacing2">
+</div>
+
+ <section class="container">
+ <div class="lead">
+  <blockquote>[I liked] how the doctor listened, didn't seem rushed to get me out quickly. He took the time to sit down 
+  and seemed genuinely concerned, good eye contact and bedside manner. He offered the most thorough treatment. Did not just 
+  walk in and prescribe meds and leave. They had equipment on site to make accurate diagnosis and did not have to travel 
+  for x-rays and then back - which delays treatment.<float-right><small>Patient of Alamo Family Foot & Ankle Care</small></float-right></blockquote>          
+  </div><!-- lead -->
+  </section>  <!-- container -->     
+
+<div class="layoutspacing2">
+</div>
 
              <?php include 'components/picturelineup.php'; ?>
 

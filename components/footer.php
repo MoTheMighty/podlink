@@ -10,7 +10,7 @@
 
 				
 				<ul class="list-unstyled" id="move">
-					<li><h4><span class="glyphicons bookmark"></span>About </h4></li>
+					<li><h4>About </h4></li>
 					
 					
 				</ul>
@@ -34,7 +34,7 @@
 			<div class="header">
 
 				<ul class="list-unstyled">
-					<li><h4> <span class="glyphicons direction"></span>  Navigation</h4></li>
+					<li><h4>Navigation</h4></li>
 				</ul>
 
 				<ul class="list-unstyled">
