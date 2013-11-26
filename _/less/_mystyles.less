@@ -15,7 +15,7 @@
 .navibar	{
 	background-color: @grey;
 
-	height:	5em;
+	height:	0 auto;
 	.pull-left {
 		padding:	1em 0 0 0;
 	}
@@ -192,6 +192,33 @@ text-transform: none;
 -webkit-font-smoothing: antialiased;
 }
 }
+.socialenlarge{
+  
+	
+  .social:before{
+  	
+    position: absolute;
+    left: 0;
+    top: 0;
+    display: inline-block;
+    margin: 0px 0px 0px 0px;
+    
+    
+    font: 60px/1em 'Glyphicons Social Regular';
+    font-style: normal;
+    font-weight: normal;
+    color: @blue;
+    *display: inline;
+    *zoom: 4;
+    vertical-align:middle;
+    text-transform:none;
+    -webkit-font-smoothing: antialiased;
+  }
+  &.white{
+    &:before{
+      color: #fff;
+    }
+  }}
 
 .layoutspacing{
 	height: 2em;

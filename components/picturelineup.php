@@ -24,7 +24,7 @@
 
 <div class="container">
      
-    <div class="col-lg-3 col-md-3 col-sm-6">
+    <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="picline">
           <div class="center">
         <img src="images/wally.png" class="img-rounded">
@@ -37,20 +37,20 @@
         </div>  <!-- doc1 -->
     </div> <!-- col -->
 
-    <div class="col-lg-3 col-md-3 col-sm-6">
+    <div class="col-lg-3 col-md-6 col-sm-6">
         <section class="picline">
 
          <img src="images/perez.png" class="img-rounded">
         <h5>Richard Perez, DPM</h5>
      
         <p>Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center. </p>
-        <button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button>
+        <a href="../../doctors/perez.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
 
 
         </section> <!-- doc 2 -->
     </div><!-- col -->
 
-     <div class="col-lg-3 col-md-3 col-sm-6"> 
+     <div class="col-lg-3 col-md-6 col-sm-6"> 
       <section class="picline">
         <img src="images/chaney.png" class="img-rounded">
         <h5>D. Martin Chaney, DPM</h5>
@@ -63,7 +63,7 @@
       </section> <!-- doc3 -->
     </div><!-- col -->
 
-    <div class="col-lg-3 col-md-3 col-sm-6">
+    <div class="col-lg-3 col-md-6 col-sm-6">
       <section class="picline">
 
          <img src="images/jordan.png" class="img-rounded">
