@@ -95,7 +95,7 @@
 			"file": "doctors/perez.php",
 			"settings":
 			{
-				"buffer_size": 6036,
+				"buffer_size": 6060,
 				"line_ending": "Unix"
 			}
 		},
@@ -303,15 +303,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6036,
+						"buffer_size": 6060,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3209,
-								3209
+								1620,
+								1620
 							]
 						],
 						"settings":
@@ -321,7 +321,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1154.0,
+						"translation.y": 182.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

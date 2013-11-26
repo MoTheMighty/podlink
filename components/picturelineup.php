@@ -32,7 +32,7 @@
         <h5>Walter Strash, DPM</h5>
           
         <p>Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery.</p>
-        <button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button>
+        <a href="../../doctors/strash.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
 
         </div>  <!-- doc1 -->
     </div> <!-- col -->
@@ -56,7 +56,7 @@
         <h5>D. Martin Chaney, DPM</h5>
      
         <p>Dr. Dennis Martin 'Marty' Chaney has been in private practice since 1999. He was born and raised in Southwest Iowa. He attended the University of Northern Iowa where he majored in Biology and Chemistry.</p>
-        <br><button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button>
+        <a href="../../doctors/chaney.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
          
 
 

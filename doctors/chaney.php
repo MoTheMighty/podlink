@@ -6,7 +6,7 @@
 
 <html>
   <head>
-    <title>Dr. Richard Perez | Alamo Family Foot & Ankle Care | San Antonio, Tx</title>
+    <title>Dr. D. Martin Chaney | Alamo Family Foot & Ankle Care | San Antonio, Tx</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -33,13 +33,13 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Richard Perez, DPM, FACFAS<p>
+        <p>D. Martin Chaney, DPM, FACFAS<p>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
             <li><a href="../../about.php">About</a></li>
-            <li class="active">Dr. Richard Perez</li>
+            <li class="active">Dr. D. Martin Chaney</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
      
@@ -53,8 +53,8 @@
 
   <section class="container">
       <div class="row">
-         <div class="col-lg-3 col-md-3" style="padding-top:85px;">
-             <p><img src="../../images/perez.png" alt="Dr. Richard Perez, DPM" class="img-rounded"></p>
+         <div class="col-lg-12 col-md-12">
+             <p><img src="../../images/chaney.png" alt="Dr. D. Martin Chaney, DPM" class="img-rounded"></p>
                   
 
                   <div class="socialenlarge">
@@ -72,9 +72,9 @@
                     <div class="layoutspacing2"></div>
                   </div><!-- visible-xs -->
 
-  <?php include '../components/social_perez.php'; ?>
-
+  
     </div><!-- row -->
+    <div class="layoutspacing2"></div>
     <hr>
 </section><!-- container-->
 
@@ -82,9 +82,8 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in 
-advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center. 
-Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medicine and Surgery.
+Dr. Dennis Martin “Marty” Chaney has been in private practice since 1999. He was born and raised in Southwest Iowa. 
+He attended the University of Northern Iowa where he majored in Biology and Chemistry.
 </div><!-- col-lg-8 -->
 
 
@@ -92,7 +91,7 @@ Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medici
     <div class="center">
           <section class="iconsizing" style="margin-top: 10%;">
             
-              <span class="glyphicons hospital_h"></span>
+              <span class="glyphicons book"></span>
             
           </section> <!-- iconsizing -->
 
@@ -112,15 +111,15 @@ Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medici
 <div class="center">
           
             <section class="iconsizing" style="margin-top: 10%;">
-              <span class="glyphicons certificate"></span>
+              <span class="glyphicons hospital_h"></span>
             </section>
      
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He is board certified by the American Board of Podiatric Surgery and a Fellow of the American College of Foot and Ankle 
-Surgeons. He has lectured to professional societies on various aspects of cutting edge techniques in foot and ankle treatment. 
-His scholarly publications include works on extra corporeal shock wave treatment and revisional surgical techniques.
+Dr. Chaney earned his Doctor of Podiatric Medicine (DPM) degree at Des Moines University. He then completed a two year foot and 
+ankle surgical residency at the West Houston Medical Center in Houston Texas. 
+Dr. Chaney finished his training in Houston by completing a one year reconstructive Rearfoot and Ankle Fellowship.
 </div><!-- col-lg-8 -->
 <hr>
 </section><!-- container -->
@@ -132,15 +131,16 @@ His scholarly publications include works on extra corporeal shock wave treatment
 <section class="container">
 <hr>
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He also serves as assistants clinical professor in the Department of Orthopedics at the University of Texas Health Science Center. 
-His areas of clinical interest include: bunion surgeries which emphasize early mobility and maximal cosmetic appearance, minimally 
-invasive trauma reconstruction, sports injuries and diabetic wounds.
+Dr. Chaney is board certified in both foot surgery and reconstructive rearfoot and ankle surgery by the American Board of 
+Podiatric Surgery. He has authored numerous papers regarding foot and ankle surgery. He also regularly speaks at regional and 
+national scientific meetings on foot and ankle surgery. Dr. Chaney has served on numerous committees for the American College of Foot & Ankle Surgeons and the American Board of Podiatric Surgery. Dr. Chaney is involved in the residency training as 
+clinical adjunct faculty for the University of Texas Health Science Center at San Antonio.
 </div><!-- col-lg-8 -->
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
             <section class="iconsizing" style="margin-top: 10%;">
-              <span class="glyphicons cardio"></span>
+              <span class="glyphicons keynote"></span>
             </section> 
  </div><!-- center -->
 </div><!-- col 4 -->
@@ -154,15 +154,15 @@ invasive trauma reconstruction, sports injuries and diabetic wounds.
 <div class="center">
           
             <section class="iconsizing" style="margin-top: 10%;">
-              <span class="glyphicons bicycle"></span>
+              <span class="glyphicons scuba_diving"></span>
             </section>
           
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Perez lives in San Antonio, Texas with his wife and two children. He is an avid cyclist and can usually be found pedaling 
-the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He has developed and 
-maintained most of the content on this website.
+He specialized in surgery of the foot and ankle, diabetes, wound care, foot and ankle injuries/trauma. Dr. Chaney currently has 
+office locations in Stone Oak and Alamo Heights in San Antonio. 
+Dr. Chaney enjoys spending time with his family and hobbies include scuba diving, martial arts - Aikido and bicycling.
 </div><!-- col-lg-8 -->
 
 </section><!-- container -->

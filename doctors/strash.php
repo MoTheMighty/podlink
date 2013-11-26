@@ -6,7 +6,7 @@
 
 <html>
   <head>
-    <title>Dr. Richard Perez | Alamo Family Foot & Ankle Care | San Antonio, Tx</title>
+    <title>Dr. Walter W. Strash | Alamo Family Foot & Ankle Care | San Antonio, Tx</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -33,13 +33,13 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Richard Perez, DPM, FACFAS<p>
+        <p>Walter W. Strash, DPM, FACFAS<p>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
             <li><a href="../../about.php">About</a></li>
-            <li class="active">Dr. Richard Perez</li>
+            <li class="active">Dr. Walter Strash</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
      
@@ -53,8 +53,8 @@
 
   <section class="container">
       <div class="row">
-         <div class="col-lg-3 col-md-3" style="padding-top:85px;">
-             <p><img src="../../images/perez.png" alt="Dr. Richard Perez, DPM" class="img-rounded"></p>
+         <div class="col-lg-12 col-md-12">
+             <p><img src="../../images/wally.png" alt="Dr. Walter Strash DPM" class="img-rounded"></p>
                   
 
                   <div class="socialenlarge">
@@ -72,9 +72,9 @@
                     <div class="layoutspacing2"></div>
                   </div><!-- visible-xs -->
 
-  <?php include '../components/social_perez.php'; ?>
-
+  
     </div><!-- row -->
+    <div class="layoutspacing2"></div>
     <hr>
 </section><!-- container-->
 
@@ -82,9 +82,10 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in 
-advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center. 
-Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medicine and Surgery.
+Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
+He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery. 
+Along with evaluating and treating patients, Dr. Strash is active in various clinical research projects with an interest in diabetic 
+foot ulcers and pain management. 
 </div><!-- col-lg-8 -->
 
 
@@ -92,7 +93,7 @@ Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medici
     <div class="center">
           <section class="iconsizing" style="margin-top: 10%;">
             
-              <span class="glyphicons hospital_h"></span>
+              <span class="glyphicons certificate"></span>
             
           </section> <!-- iconsizing -->
 
@@ -112,15 +113,15 @@ Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medici
 <div class="center">
           
             <section class="iconsizing" style="margin-top: 10%;">
-              <span class="glyphicons certificate"></span>
+              <span class="glyphicons edit"></span>
             </section>
      
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He is board certified by the American Board of Podiatric Surgery and a Fellow of the American College of Foot and Ankle 
-Surgeons. He has lectured to professional societies on various aspects of cutting edge techniques in foot and ankle treatment. 
-His scholarly publications include works on extra corporeal shock wave treatment and revisional surgical techniques.
+He is a published author in various medical journals. Dr. Strash founded Alamo Family Foot and Ankle Care, P.A. 
+and has been in private practice in San Antonio since 1991. He also serves as an associate professor in the Department 
+of Orthopedic Surgery at the University of Texas San Antonio Health Science Center.
 </div><!-- col-lg-8 -->
 <hr>
 </section><!-- container -->
@@ -132,15 +133,15 @@ His scholarly publications include works on extra corporeal shock wave treatment
 <section class="container">
 <hr>
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He also serves as assistants clinical professor in the Department of Orthopedics at the University of Texas Health Science Center. 
-His areas of clinical interest include: bunion surgeries which emphasize early mobility and maximal cosmetic appearance, minimally 
-invasive trauma reconstruction, sports injuries and diabetic wounds.
+Dr. Strash is married with four children. He is an instrument rated private pilot flying to Uvalde, Texas monthly to treat 
+patients and to various locations providing medical-legal advice to patients and attorneys. 
+His hobbies include water sports and Taekwondo along with spending most weekends pursuing activities with his family.
 </div><!-- col-lg-8 -->
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
             <section class="iconsizing" style="margin-top: 10%;">
-              <span class="glyphicons cardio"></span>
+              <span class="glyphicons airplane"></span>
             </section> 
  </div><!-- center -->
 </div><!-- col 4 -->
@@ -148,24 +149,7 @@ invasive trauma reconstruction, sports injuries and diabetic wounds.
 </section><!-- container -->
 
 <!-- 3 -->
-<section class="container">
-<hr>
-<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
-<div class="center">
-          
-            <section class="iconsizing" style="margin-top: 10%;">
-              <span class="glyphicons bicycle"></span>
-            </section>
-          
- </div><!-- center -->
-</div><!-- col 4 -->
-<div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Perez lives in San Antonio, Texas with his wife and two children. He is an avid cyclist and can usually be found pedaling 
-the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He has developed and 
-maintained most of the content on this website.
-</div><!-- col-lg-8 -->
 
-</section><!-- container -->
 
 
 <!-- footer -->
