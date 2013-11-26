@@ -6,7 +6,10 @@
 
 <html>
   <head>
-    <title>Alamo Family Foot & Ankle Care | San Antonio Podiatrist</title>
+  <div class=itemscope itemtype="http://schema.org/MedicalEntity">
+    <title><span itemprop="Name">Alamo Family Foot & Ankle Care | San Antonio Podiatrist</span></title>
+    <span itemprop="description">Premiere podiatrist in San Antonio, Texas</span>
+    <span itemprop="relevantSpecialty">Podiatrist</span></div>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

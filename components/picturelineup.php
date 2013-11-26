@@ -70,7 +70,7 @@
         <h5>R. Jordan Mechell, DPM</h5>
      
         <p>Dr. R. Jordan Mechell was born and raised in a small town in South Texas. At a very young age, he found himself fascinated by the field of medicine and surgery. After graduating early from the University of Texas at Austin in 2004</p>
-        <button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button>
+        <a href="../../doctors/mechell.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
 
 
       </section> <!-- doc 4 -->
