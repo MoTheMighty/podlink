@@ -95,24 +95,16 @@
 			"file": "doctors/perez.php",
 			"settings":
 			{
-				"buffer_size": 6060,
+				"buffer_size": 6086,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "about.php",
+			"file": "components/picturelineup.php",
 			"settings":
 			{
-				"buffer_size": 4161,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/social_perez.php",
-			"settings":
-			{
-				"buffer_size": 1481,
-				"line_ending": "Unix"
+				"buffer_size": 3077,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -148,10 +140,14 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/components/social_perez.php",
+		"/Applications/MAMP/htdocs/doctors/strash.php",
+		"/Applications/MAMP/htdocs/doctors/chaney.php",
+		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicon_social.less",
-		"/Applications/MAMP/htdocs/index.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
@@ -267,7 +263,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -303,73 +299,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6060,
+						"buffer_size": 6086,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1620,
-								1620
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 182.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "about.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 4161,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1449,
-								3694
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1436.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "components/social_perez.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1481,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31,
-								31
+								4959,
+								5679
 							]
 						],
 						"settings":
@@ -380,6 +318,35 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/picturelineup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3077,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2312,
+								2312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 232.0,
+						"translation.y": 733.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
