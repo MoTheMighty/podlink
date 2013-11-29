@@ -57,22 +57,22 @@
   <section id="bumperpads">
  
   <div class="col-lg-4 col-md-4 col-sm-4">
-
+  <form method="POST" action="php/examples/simple.php">
     <div class="form-group">
       <label for="firstname">First Name: </label>
-      <input type="text" class="form-control" id="firstname" placeholder="First Name">
+      <input type="text" name="first_name" class="form-control" id="firstname" placeholder="First Name">
     </div><!-- formgroup firstname -->
     <div class="form-group">
       <label for="lastname">Last Name:</label>
-      <input type="text" class="form-control" id="lastname" placeholder="Last Name">
+      <input type="text" name="last_name" class="form-control" id="lastname" placeholder="Last Name">
     </div><!-- lastname -->
     <form role="form">
     <div class="form-group">
       <label for="exampleInputEmail1">Email Address:</label>
-      <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+      <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
     </div><!-- email -->
     <label for="message">Message:</label>
-    <textarea class="form-control" rows="4"></textarea>
+    <textarea name="contact_message" class="form-control" rows="4"></textarea>
     
   <br>
   

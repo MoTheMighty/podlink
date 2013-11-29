@@ -12,15 +12,16 @@
     $email_service = new EmailService("5297e21bda6302-02922761"); // Token "Heroku Application"
     
     $message = array(
-        "name" => "John Doe",
-        "username" => "john_doe42",
-        "token" => "b0b0f25f-c65b-43ce-8df8-cbc5dfbd1a13"
+        "first_name" => $_POST["first_name"],
+        "last_name" => $_POST["last_name"],
+        "email" => $_POST["email"],
+        "message" => $_POST["contact_message"]
     );
     
     $payload = EmailMessagePayload::create()
-        ->setProjectId(3715) // ID of "Reset Password" project
+        ->setProjectId(3716) // ID of "Test" project
         ->setSender(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
-        ->setReceiver(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "alamofamilyfoot@gmail.com"))
+        ->setReceiver(new EmailContact("podlink contact request", "alamofamilyfoot@gmail.com"))
         ->setBodyObject($message);
     
     try
