@@ -5,5 +5,11 @@
 			"follow_symlinks": true,
 			"path": "/Applications/MAMP/htdocs"
 		}
-	]
+	],
+	"settings": {
+        "sublime-view-in-browser": {
+            "baseUrl": "http://localhost:8888",
+            "basePath": "/Applications/MAMP/htdocs"
+        }
+    }
 }

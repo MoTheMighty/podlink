@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"print",
+				"print_r"
+			],
+			[
 				"mar",
 				"margin-top"
 			],
@@ -87,27 +91,24 @@
 			"file": "contact.php",
 			"settings":
 			{
-				"buffer_size": 5316,
+				"buffer_size": 5331,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"contents": "\n\n<?php\n    \n    namespace AlphaMail\\Examples;\n\n    use AlphaMail\\Client\\EmailService;\n    use AlphaMail\\Client\\Entities\\EmailContact;\n    use AlphaMail\\Client\\Entities\\EmailMessagePayload;\n    use AlphaMail\\Client\\Exceptions\\ServiceException;\n\n    require __DIR__.'/../autoload.php';\n    \n    $email_service = new EmailService(\"5297e21bda6302-02922761\"); // Token \"Heroku Application\"\n    \n    $message = array(\n        \"name\" => \"John Doe\",\n        \"username\" => \"john_doe42\",\n        \"token\" => \"b0b0f25f-c65b-43ce-8df8-cbc5dfbd1a13\"\n    );\n    \n    $payload = EmailMessagePayload::create()\n        ->setProjectId(3715) // ID of \"Reset Password\" project\n        ->setSender(new EmailContact(\"heroku_bcc84b281380105c3655d26f065e569a\", \"app19512107@heroku.com\"))\n        ->setReceiver(new EmailContact(\"heroku_bcc84b281380105c3655d26f065e569a\", \"alamofamilyfoot@gmail.com\"))\n        ->setBodyObject($message);\n    \n    try\n    {\n        $response = $email_service->queue($payload);\n        printf(\"Mail successfully sent! ID = %s\", $response->result);\n    }\n    catch(ServiceException $exception)\n    {\n        printf(\"Error! %s (%s)\", $exception->getMessage(), $exception->getErrorCode());\n    }\n\n?>",
+			"file": "php/examples/advanced.php",
+			"settings":
+			{
+				"buffer_size": 3751,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "php/examples/simple.php",
-			"file_size": 1359,
-			"file_write_time": 130302070630000000,
 			"settings":
 			{
-				"buffer_size": 1201,
+				"buffer_size": 1222,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "test.php",
-			"settings":
-			{
-				"buffer_size": 312,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -143,6 +144,8 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/test.php",
+		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/php/examples/simple.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
@@ -164,10 +167,8 @@
 		"/Applications/MAMP/htdocs/about/about.php",
 		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/_/less/variables.less",
-		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/js/custom1.js",
 		"/Applications/MAMP/htdocs/_/js/custom.js",
-		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/notes",
 		"/Applications/MAMP/htdocs/_/less/breadcrumbs.less",
@@ -277,15 +278,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5316,
+						"buffer_size": 5331,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1625,
-								1625
+								948,
+								906
 							]
 						],
 						"settings":
@@ -295,26 +296,26 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 782.0,
+						"translation.y": 177.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "php/examples/simple.php",
+					"file": "php/examples/advanced.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1201,
+						"buffer_size": 3751,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								543,
-								394
+								0,
+								0
 							]
 						],
 						"settings":
@@ -324,36 +325,36 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 75.0,
+						"translation.y": 28.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "test.php",
+					"file": "php/examples/simple.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 312,
+						"buffer_size": 1222,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								286,
-								286
+								15,
+								1218
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
