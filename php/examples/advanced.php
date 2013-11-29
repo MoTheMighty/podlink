@@ -19,29 +19,20 @@
     // If you haven't gotten your API-token yet. Log into AlphaMail or contact support at 'support@amail.io'.
     $email_service = EmailService::create()
         ->setServiceUrl("http://api.amail.io/v2/")
-        ->setApiToken("YOUR-ACCOUNT-API-TOKEN-HERE");
+        ->setApiToken("5297e21bda6302-02922761"); // Token "Heroku Application"
     
     // Step #2: Let's fill in the gaps for the variables (stuff) we've used in our template
     $message = array(
-        "id" => "abc-123-456",
-        "name" => "Some Guy",
-        "profile_url" => "http://domain.com/profile/ABC-123-456/",
-        "recommended_profiles" => array(
-            array(
-                "id" => "abc-222-333",
-                "name" => "Jane Joe",
-                "profile_url" => "http://domain.com/profile/ABC-222-333/",
-                "profile_image_url" => "http://img.domain.com/profile/abc-222-333.jpg",
-                "age" => 24
-            )
-        )
+        "name" => "John Doe",
+        "username" => "john_doe42",
+        "token" => "b0b0f25f-c65b-43ce-8df8-cbc5dfbd1a13"
     );
     
     // Step #3: Let's set up everything that is specific for delivering this email
     $payload = EmailMessagePayload::create()
-        ->setProjectId(12345) // ID of the AlphaMail project you want to send with
-        ->setSender(new EmailContact("Sender Company Name", "your-sender-email@your-sender-domain.com"))
-        ->setReceiver(new EmailContact("Joe E. Receiver", "email-of-receiver@comfirm.se"))
+        ->setProjectId(3715) // ID of "Reset Password" project
+        ->setSender(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
+        ->setReceiver(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
         ->setBodyObject($message);
     
     try

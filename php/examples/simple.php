@@ -1,11 +1,4 @@
 <?php
-
-    require __DIR__.'/src/AlphaMail/Autoloader.php';
-    AlphaMail\Autoloader::register();
-
-?>
-
-<?php
     
     namespace AlphaMail\Examples;
 
@@ -16,18 +9,18 @@
 
     require __DIR__.'/../autoload.php';
     
-    $email_service = new EmailService("5297e21bda6302-02922761");
+    $email_service = new EmailService("5297e21bda6302-02922761"); // Token "Heroku Application"
     
     $message = array(
-        "id" => "abc-123-456",
-        "name" => "Some Guy",
-        "profile_url" => "http://domain.com/profile/ABC-123-456/"
+        "name" => "John Doe",
+        "username" => "john_doe42",
+        "token" => "b0b0f25f-c65b-43ce-8df8-cbc5dfbd1a13"
     );
     
     $payload = EmailMessagePayload::create()
-        ->setProjectId(12345) // ID of the AlphaMail project you want to send with
-        ->setSender(new EmailContact("Sender Company Name", "your-sender-email@your-sender-domain.com"))
-        ->setReceiver(new EmailContact("Joe E. Receiver", "alamofamilyfoot@gmail.com"))
+        ->setProjectId(3715) // ID of "Reset Password" project
+        ->setSender(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
+        ->setReceiver(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
         ->setBodyObject($message);
     
     try
