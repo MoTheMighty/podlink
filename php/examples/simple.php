@@ -19,8 +19,8 @@
     
     $payload = EmailMessagePayload::create()
         ->setProjectId(3715) // ID of "Reset Password" project
-        ->setSender(new EmailContact("need a good nail buffer, "thetoenaildoctor@dremel.com"))
-        ->setReceiver(new EmailContact("Really good nail cutter", "alamofamilyfoot@gmail.com"))
+        ->setSender(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
+        ->setReceiver(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "alamofamilyfoot@gmail.com"))
         ->setBodyObject($message);
     
     try
