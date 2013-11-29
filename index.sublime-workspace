@@ -106,6 +106,14 @@
 				"buffer_size": 3077,
 				"line_ending": "Windows"
 			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 5684,
+				"line_ending": "Windows"
+			}
 		}
 	],
 	"build_system": "",
@@ -140,8 +148,8 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
@@ -263,7 +271,7 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -345,8 +353,37 @@
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
-						"translation.x": 232.0,
-						"translation.y": 733.0,
+						"translation.x": 0.0,
+						"translation.y": 751.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5684,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1268.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

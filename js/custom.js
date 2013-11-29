@@ -48,7 +48,7 @@ function initialize() {
 
     // MARKER 1'S INFO WINDOW
     var infowindow1 = new google.maps.InfoWindow({
-    content: '<img src="images/mc.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Medical Center"><br />Alamo Family Foot & Ankle Care - Medical Center<br />9502 Heubner Rd<br>Building 2, Suite 201<br>San Antonio, TX 78240'
+    content: '<img src="images/mc.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Medical Center"><br />Alamo Family Foot & Ankle Care - Medical Center<br />9502 Heubner Rd<br>Building 2, Suite 201<br>San Antonio, TX 78240<br /><a href="https://maps.google.com/maps?f=d&daddr=29.5295963, -98.5911179)">Driving Directions</a>'
     });
     // End of infowindow code
 
@@ -73,7 +73,7 @@ function initialize() {
 
     // MARKER 2'S INFO WINDOW
     var infowindow2 = new google.maps.InfoWindow({
-    content: '<img src="images/ah.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Alamo Heights"><br />Alamo Family Foot & Ankle Care - Alamo Heights<br />7424 Broadway<br />San Antonio, TX 78209'
+    content: '<img src="images/ah.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Alamo Heights"><br />Alamo Family Foot & Ankle Care - Alamo Heights<br />7424 Broadway<br />San Antonio, TX 78209<br /> <a href="https://maps.google.com/maps?f=d&daddr=29.4969160,-98.4662810">Driving Directions</a>'
     });
     // End of infowindow code
 
@@ -96,7 +96,7 @@ function initialize() {
 
     // MARKER 3'S INFO WINDOW
     var infowindow3 = new google.maps.InfoWindow({
-    content: '<img src="images/stoneoak.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Stone Oak"><br />Alamo Family Foot & Ankle Care - Stone Oak<br />1314 E. Sonterra Blvd<br />Building 3, Suite 302<br />San Antonio, TX 78258<br />'
+    content: '<img src="images/stoneoak.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Stone Oak"><br />Alamo Family Foot & Ankle Care - Stone Oak<br />1314 E. Sonterra Blvd<br />Building 3, Suite 302<br />San Antonio, TX 78258<br /><a href="https://maps.google.com/maps?f=d&daddr=29.6130926, -98.4730390">Driving Directions</a>'
     });
     // End of infowindow code
 
