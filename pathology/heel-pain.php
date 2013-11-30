@@ -48,7 +48,7 @@
   <!-- end navibar -->
 
 <div class="layoutspacing2"></div>
-<div class="container lead">
+<div class="container">
 <div itemscope itemtype="http://schema.org/MedicalCondition">
 <div><img alt="" src="/images/pathology/plantar-fasciitis.jpg" style="float: right;" /><br />
 </div>

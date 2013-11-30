@@ -102,7 +102,15 @@
 			"file": "pathology/heel-pain.php",
 			"settings":
 			{
-				"buffer_size": 9969,
+				"buffer_size": 9964,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "page.aspx",
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		},
@@ -338,15 +346,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 9969,
+						"buffer_size": 9964,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6779,
-								6779
+								1578,
+								1578
 							]
 						],
 						"settings":
@@ -357,13 +365,40 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1532.0,
+						"translation.y": 554.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
+					"file": "page.aspx",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
 					"file": "contact.php",
 					"semi_transient": true,
 					"settings":
@@ -392,7 +427,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 4,
 					"file": "index.sublime-project",
 					"semi_transient": false,
 					"settings":
