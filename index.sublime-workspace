@@ -88,6 +88,25 @@
 	"buffers":
 	[
 		{
+			"contents": "",
+			"file": "treatment-and-conditions/conditions/forefoot/bunions.php",
+			"file_size": 0,
+			"file_write_time": 130302353440000000,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pathology/heel-pain.php",
+			"settings":
+			{
+				"buffer_size": 9969,
+				"line_ending": "Unix"
+			}
+		},
+		{
 			"file": "contact.php",
 			"settings":
 			{
@@ -96,18 +115,10 @@
 			}
 		},
 		{
-			"file": "php/examples/advanced.php",
+			"file": "index.sublime-project",
 			"settings":
 			{
-				"buffer_size": 3751,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "php/examples/simple.php",
-			"settings":
-			{
-				"buffer_size": 1222,
+				"buffer_size": 266,
 				"line_ending": "Unix"
 			}
 		}
@@ -115,15 +126,27 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 167.0,
 		"selected_items":
 		[
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
 			[
 				"package",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 449.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -144,9 +167,20 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/doctors/mechell.php",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/heel/heel-pain.php",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/php/examples/advanced.php",
+		"/Applications/MAMP/htdocs/php/examples/simple.php",
 		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/template.php",
-		"/Applications/MAMP/htdocs/php/examples/simple.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
@@ -157,7 +191,6 @@
 		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
-		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicon_social.less",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
@@ -169,12 +202,9 @@
 		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/js/custom1.js",
 		"/Applications/MAMP/htdocs/_/js/custom.js",
-		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/notes",
 		"/Applications/MAMP/htdocs/_/less/breadcrumbs.less",
 		"/Applications/MAMP/htdocs/components/navigator.php",
-		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/js/html5shiv.js",
 		"/Applications/MAMP/htdocs/css/bootstrap.min.css",
@@ -213,20 +243,23 @@
 	],
 	"find":
 	{
-		"height": 46.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
 		]
 	},
 	"find_state":
 	{
-		"case_sensitive": false,
+		"case_sensitive": true,
 		"find_history":
 		[
+			"right",
+			"mouse",
+			"click",
 			"           \n",
 			"google_plus",
 			"map-canvas",
@@ -256,58 +289,86 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
 		],
 		"reverse": false,
-		"show_context": true,
+		"show_context": false,
 		"use_buffer2": true,
-		"whole_word": false,
+		"whole_word": true,
 		"wrap": true
 	},
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "contact.php",
+					"file": "treatment-and-conditions/conditions/forefoot/bunions.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5331,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								948,
-								906
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 177.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "php/examples/advanced.php",
+					"file": "pathology/heel-pain.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3751,
+						"buffer_size": 9969,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6779,
+								6779
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1532.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "contact.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5331,
 						"regions":
 						{
 						},
@@ -321,40 +382,38 @@
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
+							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 28.0,
+						"translation.y": 699.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "php/examples/simple.php",
+					"buffer": 3,
+					"file": "index.sublime-project",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1222,
+						"buffer_size": 266,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								15,
-								1218
+								193,
+								193
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 60.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
