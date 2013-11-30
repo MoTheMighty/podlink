@@ -80,7 +80,7 @@
 <hr>
 
 <p><span class="label label-primary">Anti-inflammatory Medication</span><p>
-<p>Also known as NSAID's, this class of drugs helps to decrease the inflammatory process  within the plantar fascia. We frequently use these drugs for a period of several months.</p>
+<p>Also known as <span itemprop="possibleTreatment">NSAID's, this class of drugs helps to decrease the inflammatory process  within the plantar fascia. We frequently use these drugs for a period of several months.</span></p>
 <hr>
 
 <p><p><span class="label label-primary">Stretching:</span><p></p>
