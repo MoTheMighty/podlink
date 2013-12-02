@@ -49,7 +49,10 @@
 
 </div><!-- linespacing -->
 
+ <?php include 'components/picturelineup2.php'; ?>
+
 <section class="container">
+<hr>
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Our physicians are board certified in advanced reconstructive techniques in foot and ankle surgery. 
 Their fellowship training includes trauma and deformity reconstruction, and they routinely attend the most 
@@ -123,7 +126,7 @@ giving our patients a full spectrum of treatment choices to maximize their recov
 <!-- 3 -->
 
 
-                <?php include 'components/picturelineup.php'; ?>
+               
 
 
 <!-- footer -->
