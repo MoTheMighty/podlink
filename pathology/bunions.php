@@ -46,39 +46,66 @@
   </div><!-- navibar -->
 
   <!-- end navibar -->
-<div class="layoutspacing2"></div>
+
 
 <div class="container">
- <ul class="nav nav-tabs nav-justified" style="margin: 20px 0px;">
+ <ul class="nav nav-tabs" style="margin: 20px 0px;">
               <li class="active"><a href="#cause" data-toggle="tab">Cause</a></li>
+               <li><a href="#symptoms" data-toggle="tab">Symptoms</a></li>
               <li><a href="#treatment" data-toggle="tab">Treatment</a></li>
               <li><a href="#goals" data-toggle="tab">Treatment Goals</a></li>
               <li><a href="#moderate" data-toggle="tab">Minimal/Moderate Deformity</a></li>
               <li><a href="#severe" data-toggle="tab">Severe</a></li>
+              <li><a href="#video" data-toggle="tab">Videos</a></li>
              
             </ul>
 
             <!-- Tab panes -->
            
-            <div class="tab-content" style="padding: 0px 60px;">
+            <div class="tab-content" >
               <div class="tab-pane fade in active" id="cause">
-                <p>One of the most commonly treated foot conditions are painful bunions. Patients with this condition will usually complain of pain when wearing shoes, especially narrow dress shoes, or with physical activity, such as walking or running.</p>
-                    <div style="text-align: center;"> <iframe width="399" height="203" frameborder="0" src="http://www.youtube.com/embed/xGtSEK5QMoI"></iframe> </div>
-                    <h3><strong>Cause of Bunion Deformity</strong></h3>
+              
+             <div class="container">
+              <div class="col-lg-12">
+               
+                
+                
+                    
+             </div><!-- col12 -->   
+            </div><!-- container -->
+
+            <div class="container">
+              <div class="col-lg-12"> 
+                <div class="pull-right"><img src="/images/pathology/bunionrotation.jpg" alt="bunion splaying of foot xray with arrows" class="img-rounded img-responsive"></div>
+                    <h3>Cause of Bunion Deformity</h3>
+                     
                     <p>The classic bunion is a bump on the side of the great toe joint. This bump represents an actual deviation of the 1st metatarsal. In addition, there is also deviation of the great toe toward the second toe. In severe cases, the great toe can either lie above or below the second toe.</p>
-                    <p style="text-align: center;"><img src="/images/pathology/bunionrotation.jpg" alt="bunion splaying of foot xray with arrows" ></p>
-                    <p>Shoes are often blamed for creating these problems. This, however, is inaccurate. It has been researched in primitive tribes where going barefoot is the norm and they also developed bunions. Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal. As the deformity increases, there is an abnormal pull of certain tendons, which leads to the drifting of the great toe toward the 2nd toe. At this stage, there is also adaptation of the joint itself that occurs. This is typically followed by degeneration and arthritis of the great toe joint.</p>
+                  
+                    <p>Shoes are often blamed for creating these problems. This, however, is inaccurate. It has been researched in primitive tribes where going barefoot is the norm and they also developed bunions. Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal. As the deformity increases, there is an abnormal pull of certain tendons, which leads to the drifting of the great toe toward the 2nd toe. At this stage, there is also adaptation of the joint itself that occurs. This is typically followed by degeneration and arthritis of the great toe joint.  Patients with this condition will usually complain of pain when wearing shoes, especially narrow dress shoes, or with physical activity, such as walking or running.</p>
                     <p> The fundamental driving force behind developing bunions as a result of faulty foot mechanics is genetics. Issues such as loose ligaments and flat feet, are inherited. The traits then act as the foundation for abnormal foot mechanics and lead to formation of bunions. </p>
-                    <p style="padding-top: 25px; text-align: center;"><img src="/images/pathology/bunionangles.jpg" alt="xray of bunion showing abnormal angle" ></p>
-                    <p style="font-size: 12px; text-align: center;">Red line: Abnormal bisection of first metatarsal - Green line: Correct bisection if bone where not splayed out</p>
-                    <div style="padding-top: 25px; text-align: center;"><img src="/images/pathology/BUNIONMORM.jpg" alt="xray of foot with normal angles"><br />
-                    </div>
-                    <p style="text-align: center;">Normal bisection of metatarsal bones</p>
-                    <p>The most common symptoms associated with this condition are pain on the side of the foot just behind the great toe. A red painful bump is usually present. Pain is usually brought on with walking or sports. Shoes don't cause bunions but will typically aggravate them. Stiff leather shoes or shoes with a tapered toe box are the prime offenders. This is why bunion pain is most common in women whose shoes have a pointed toe box. The bunion site will often be slightly swollen and red from the constant rubbing and irritation of a shoe. Occasionally, corns can develop between the 1st and 2nd toe from the pressure the toes rubbing against each other.</p>
+                </div>  <!-- col12 -->
+            </div><!-- container -->
+                
+<div class="layoutspacing2"></div>
+
+
+                <div class="container">
+                 <div class="col-lg-6">
+                    <img src="/images/pathology/BUNIONMORM.jpg" alt="xray of foot with normal angles" class="img-rounded img-responsive"><br />
+                    <p><small>Normal bisection of metatarsal bones</small><p>
+                 </div><!-- col -->
+                <div class="col-lg-6">
+                   <p><img src="/images/pathology/bunionangles.jpg" alt="xray of bunion showing abnormal angle" class="img-rounded img-responsive"></p>
+                    <small>Red line: Abnormal bisection of first metatarsal <p>Green line: Correct bisection if bone where not splayed out</small>
+                </div><!-- col -->
+               </div>  <!-- container -->  
+                   
+                   <!-- tab -->
                     
                 </div>
-                
-                
+                <div class="tab-pane fade" id="symptoms">
+                   <p>The most common symptoms associated with this condition are pain on the side of the foot just behind the great toe. A red painful bump is usually present. Pain is usually brought on with walking or sports. Shoes don't cause bunions but will typically aggravate them. Stiff leather shoes or shoes with a tapered toe box are the prime offenders. This is why bunion pain is most common in women whose shoes have a pointed toe box. The bunion site will often be slightly swollen and red from the constant rubbing and irritation of a shoe. Occasionally, corns can develop between the 1st and 2nd toe from the pressure the toes rubbing against each other.</p>
+                </div><!-- tabcontent -->
               <!-- tab -->
               
               <div class="tab-pane fade" id="treatment">
@@ -125,20 +152,18 @@
                           <h4>Distal Bunion surgery (Distal Bunionectomy):</h4>
                           
                             <p>This is the term used to describe surgery which is performed exclusively around the great toe joint. There are several proximal procedures we perform, including "Austin" or chevron procedure and "distal L" or Reverdin-Laird procedure. Indication for a proximal surgery include:</p>
-                            <div style="text-align: center;"><span style="white-space: pre;"><img src="/images/pathology/buniopre.jpg" alt="preop moderate bunion deformity"><br />
-                            </span></div>
-                            <div style="text-align: center;">
-                            <p style="font-size: 12px;">Moderate bunion deformity</p>
-                            </div>
-                            <div>
+                           
+                           
+                        
+                   
                             <ul>
                                 <li>Mild to moderate bunion deformity;</li>
                                 <li>Inability to tolerate proximal procedure;</li>
                                 <li>Minimal to no arthritis within the joint.</li>
                             </ul>
                             <h4>Details of distal bunion surgery:</h4>
-                            </div>
-                            <div>
+                
+                    
                             <ul>
                                 <li>Performed under a local anesthetic. You are, however, sedated by an anesthesiologist prior to injection of the numbing agent to your foot.</li>
                                 <li>Incisions are located around the great toe joint only.</li>
@@ -148,14 +173,20 @@
                                 <li>Return to high impact activities (running, soccer, softball, etc) in 10-15 weeks.</li>
                                 <li>Return to athletic shoes in 1 month, dress shoes without a heel in 2 months, high heels in 3 months.</li>
                             </ul>
+                              
+                            <div class="container">
+                              <div class="col-lg-6">
+                                   <img src="/images/pathology/buniopre.jpg" alt="preop moderate bunion deformity" class="img-rounded img-responsive">
+                                    <small>Moderate bunion deformity</small>
+                               </div><!-- col -->
+                              <div class="col-lg-6">
+                                <img src="/images/pathology/bunionpost.jpg" alt="distal bunionectomy postop" class="img-rounded img-responsive"> 
+                                <small>Example of moderate bunion surgery correction<p>via a distal bunionectomy</small>
+                              </div><!-- col -->
+
+                              </div> <!-- container -->
                             </div>
-                            <div style="text-align: center;"> <iframe width="400" height="233" frameborder="0" src="http://www.youtube.com/embed/NasJwVOXzp0"></iframe> </div>
-                            <div style="text-align: center;"><img src="/images/pathology/bunionpost.jpg" alt="distal bunionectomy postop"></div>
-                            <div style="text-align: center;">
-                            <p style="font-size: 12px;">Example of moderate bunion surgery correction via a distal bunionectomy</p>
-                            </div>
-                            </div>
-                        
+                      
 
                             <!-- tab -->
 
@@ -163,10 +194,8 @@
                             <div class="tab-pane fade" id="severe">
                                  <h4>Proximal bunion surgery (proximal bunionectomy):</h4>
                                       <p>This is the term used to describe surgery which is performed in the around the big toe joint and in the middle part of the foot. Procedures we perform include Lapidus bunionectomy and crecentic bunionectomy. Indications include:</p>
-                                      <div style="text-align: center;"><img src="/images/pathology/lappre.jpg" alt="severe bunion deformity xray" s/></div>
-                                      <div style="text-align: center;">
-                                      <p style="font-size: 12px;">X-ray of a moderate bunion deformity with hypermobility</p>
-                                      </div>
+                                    
+                                   
                                       <ul>
                                           <li>Moderate to severe deformity;</li>
                                           <li>Hypermobility (excessive motion) of the metatarsal;</li>
@@ -182,16 +211,39 @@
                                           <li>Return to high impact activities (running, soccer, softball, etc) in 4 to 6 months</li>
                                           <li>Return to athletic shoes in 8 to 10 weeks, other style of shoes will depend on extent of pre-operative joint damage.</li>
                                       </ul>
-                                      <div style="text-align: center;"><img src="/images/pathology/lappost.jpg" alt="postoperative lapidus bunion surgery"> </div>
-                                      <div style="text-align: center;">
-                                      <p style="font-size: 12px;">Lapidus proximal bunion surgery</p>
-                                      </div>
+                                      
+                              
                                       <ul>
+
+                                       
                                           <li><a href="/treatments-and-conditions/conditions/forefoot/bunions/bunionsurgery.aspx" sfref="[Sitefinity]e039b23b-17c8-4ca4-9348-68b3ce04f345"><strong>Before and After Pictures of Bunion Surgery</strong></a></li>
                                       </ul>
+
+
+                                        <div class="container">
+                                          <div class="col-lg-6">
+                                          <img src="/images/pathology/lappre.jpg" alt="severe bunion deformity xray" class="img-rounded img-responsive">
+                                          <small>X-ray of a moderate bunion deformity with hypermobility</small>
+                                          </div><!-- col -->
+                                      
+
+                                        
+                                          <div class="col-lg-6">
+                                          <img src="/images/pathology/lappost.jpg" alt="postoperative lapidus bunion surgery" class="img-rounded img-responsive"> 
+                                          <small>Lapidus proximal bunion surgery</small>
+                                          </div><!-- col -->
+                                        </div><!-- container -->
+                                     
+
+                                        
+
                                       </div>
 
-                                    
+                                 <div class="tab-pane fade" id="video">   
+                                      <iframe width="400" height="233" frameborder="0" src="http://www.youtube.com/embed/xGtSEK5QMoI"></iframe> <br/>
+                                      <iframe width="400" height="233" frameborder="0" src="http://www.youtube.com/embed/NasJwVOXzp0"></iframe> 
+
+                                 </div><!-- tab -->
                                     
                                   </div><!-- tab0content --> 
                         
