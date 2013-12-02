@@ -110,16 +110,16 @@
 			"file": "page.aspx",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 196,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "contact.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 5331,
-				"line_ending": "Unix"
+				"buffer_size": 5684,
+				"line_ending": "Windows"
 			}
 		},
 		{
@@ -310,7 +310,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -376,20 +376,20 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 196,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								196,
+								196
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -399,19 +399,19 @@
 				},
 				{
 					"buffer": 3,
-					"file": "contact.php",
+					"file": "index.php",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 5331,
+						"buffer_size": 5684,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								133,
+								1
 							]
 						],
 						"settings":
@@ -421,7 +421,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 699.0,
+						"translation.y": 286.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
