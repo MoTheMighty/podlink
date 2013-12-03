@@ -96,18 +96,10 @@
 			}
 		},
 		{
-			"file": "pathology/bunions.php",
+			"file": "pathology/haglunds.php",
 			"settings":
 			{
-				"buffer_size": 16719,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "about.php",
-			"settings":
-			{
-				"buffer_size": 4161,
+				"buffer_size": 6305,
 				"line_ending": "Unix"
 			}
 		}
@@ -156,10 +148,23 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/contact.php",
-		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/pathology/gout.php",
+		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
+		"/Applications/MAMP/htdocs/pathology/charcot.php",
+		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
+		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
+		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
+		"/Applications/MAMP/htdocs/pathology/arthritis.php",
+		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
+		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/components/picturelineup2.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/forefoot/bunions.php",
 		"/Applications/MAMP/htdocs/page.aspx",
@@ -175,17 +180,13 @@
 		"/Applications/MAMP/htdocs/php/examples/simple.php",
 		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/template.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/js/custom.js",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
-		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicon_social.less",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
 		"/Applications/MAMP/htdocs/_/less/bootstrap.less",
@@ -250,6 +251,13 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"<h3>",
+			"</h3>",
+			"<h3>",
+			"</strong>",
+			"<strong>",
+			"&nbsp;",
+			"picline",
 			"right",
 			"mouse",
 			"click",
@@ -279,12 +287,19 @@
 			"var",
 			"yogurt"
 		],
-		"highlight": true,
+		"highlight": false,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": true,
 		"replace_history":
 		[
+			"<h5>",
+			"<h3>",
+			"<h5>",
+			"</h5>",
+			"<h5>",
+			"<h3>",
+			"thumbnail"
 		],
 		"reverse": false,
 		"show_context": false,
@@ -301,7 +316,7 @@
 				{
 					"buffer": 0,
 					"file": "pathology/pathtemplate.php",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 2887,
@@ -311,8 +326,8 @@
 						"selection":
 						[
 							[
-								2227,
-								2227
+								0,
+								2887
 							]
 						],
 						"settings":
@@ -322,56 +337,26 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 701.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pathology/bunions.php",
+					"file": "pathology/haglunds.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 16719,
+						"buffer_size": 6305,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2237,
-								2237
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 845.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "about.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 4161,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
+								1355,
+								1355
 							]
 						],
 						"settings":
@@ -381,7 +366,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 735.0,
+						"translation.y": 99.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -435,7 +420,7 @@
 	"project": "index.sublime-project",
 	"replace":
 	{
-		"height": 42.0
+		"height": 64.0
 	},
 	"save_all_on_build": true,
 	"select_file":
