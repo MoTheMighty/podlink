@@ -172,10 +172,10 @@
 
 <div class="layoutspacing2">
 </div>
-
+    
              <?php include 'components/picturelineup.php'; ?>
 
-      
+          
 
 <!-- footer -->
 

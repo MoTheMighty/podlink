@@ -17,26 +17,27 @@
     
    <div class="center">
     <section class="container">
-      <h2>Our Team<h2> 
+      <h2>Our Team</h2> 
       </section><!-- center -->
       </div><!-- container -->
-
+</div>
 
 <div class="container">
+
+ 
      
-    <div class="col-lg-3 col-md-6 col-sm-6">
-        <div class="picline">
-          <div class="center">
+       <div class="col-lg-3 col-md-6 col-sm-6">
+        <section class="picline">
+          
         <img src="images/wally.png" class="img-rounded">
-          </div>
         <h5>Walter Strash, DPM, FACFAS</h5>
 
           
-        <p>Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
-        He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery. </p>      
+        Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
+        He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery.      
          <a href="../../doctors/strash.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
 
-        </div>  <!-- doc1 -->
+        </section> <!-- doc1 -->
     </div> <!-- col -->
 
     <div class="col-lg-3 col-md-6 col-sm-6">
