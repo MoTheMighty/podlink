@@ -88,19 +88,19 @@
 	"buffers":
 	[
 		{
-			"file": "pathology/pathtemplate.php",
+			"file": "resources/npforms.php",
 			"settings":
 			{
-				"buffer_size": 2887,
+				"buffer_size": 2576,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "pathology/haglunds.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 6305,
-				"line_ending": "Unix"
+				"buffer_size": 5725,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -148,6 +148,19 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/resources/npforms.pdf",
+		"/Applications/MAMP/htdocs/images/pathology/npforms.pdf",
+		"/Applications/MAMP/htdocs/resources/newpatientforms.pdf",
+		"/Applications/MAMP/htdocs/pathology/neuroma.php",
+		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
+		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
+		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
+		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
+		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
+		"/Applications/MAMP/htdocs/images/pathology/hammertoe.jpg",
+		"/Applications/MAMP/htdocs/images/pathology/hammertoeanantomy.jpg",
+		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
+		"/Applications/MAMP/htdocs/pathology/haglunds.php",
 		"/Applications/MAMP/htdocs/pathology/gout.php",
 		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
 		"/Applications/MAMP/htdocs/pathology/charcot.php",
@@ -251,6 +264,12 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"sflb.ashx\"",
+			"/Libraries/Images/",
+			"strsfx2.jpg",
+			"/images/pathology/",
+			"/Files/Images/",
+			"&nbsp;",
 			"<h3>",
 			"</h3>",
 			"<h3>",
@@ -293,6 +312,9 @@
 		"regex": true,
 		"replace_history":
 		[
+			"/images/pathology/",
+			".jpg",
+			"/Files/Images/",
 			"<h5>",
 			"<h3>",
 			"<h5>",
@@ -315,48 +337,50 @@
 			[
 				{
 					"buffer": 0,
-					"file": "pathology/pathtemplate.php",
-					"semi_transient": true,
+					"file": "resources/npforms.php",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2887,
+						"buffer_size": 2576,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								2887
+								921,
+								921
 							]
 						],
 						"settings":
 						{
+							"auto_name": "",
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 166.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "pathology/haglunds.php",
+					"file": "index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6305,
+						"buffer_size": 5725,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1355,
-								1355
+								1442,
+								1442
 							]
 						],
 						"settings":
@@ -366,7 +390,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 99.0,
+						"translation.y": 353.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

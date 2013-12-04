@@ -48,10 +48,10 @@
     <div id="tools">
       <ul class="nav nav-justified">
          
-          <li><a href="#"><span class="glyphicons-icon white notes_2"></span>New Patient Forms</a></li>
+          <li><a href="/resources/npforms.php"><span class="glyphicons-icon white notes_2"></span>New Patient Forms</a></li>
           
-          <li class="#"><a href="#"><span class="glyphicons-icon white compass"></span>Locations</a></li>
-          <li><a href="#"><span class="glyphicons-icon white headset"></span>Contact</a></li>
+          <li> <a href="location.php"><span class="glyphicons-icon white compass"></span>Locations</a></li>
+          <li><a href="contact.php"><span class="glyphicons-icon white headset"></span>Contact</a></li>
           
         </ul>
 
