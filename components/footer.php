@@ -3,24 +3,25 @@
 <footer>
 <div id="bumperpads">
 <section id="footer">
+    
      
-	<div class="container">
-		<div class="col col-lg-4">
-			<div class="header">
+			<div class="container">
+				<div class="col col-lg-4">
+					<div class="header">
 
 				
-				<ul class="list-unstyled" id="move">
-					<li><h4>About </h4></li>
-					
-					
-				</ul>
+							<ul class="list-unstyled" id="move">
+								<li><h4>About </h4></li>
+								
+								
+							</ul>
 
-				<small>Founded in 1991 AFFC Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-				tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-				quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-				consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-				cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-				proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</small>
+							<small>Founded in 1991 AFFC Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+							tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+							quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+							consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+							cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+							proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</small>
 					
 				</ul>
 	  		 </div> <!-- header -->
@@ -68,11 +69,13 @@
 				
 					
 				
-	  		 </div> <!-- header -->
-	  	</div> <!-- col 3-->
+	  			 </div> <!-- header -->
+	  			</div> <!-- col 3-->
 
 
-	</div>  <!-- container -->
+			</div>  <!-- container -->
+		
+		</div><!-- navbarfixedbottom -->
 	</section><!-- footer div -->
 	</div><!-- bumperpads -->
 </footer><!-- footer -->

@@ -5,7 +5,7 @@
 
 <html>
   <head>
-    <title>New Patient Forms</title>
+    <title>Plantar Fasciitis - Heel Pain</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -22,7 +22,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
-  <body id="newpatientforms">
+  <body id="plantarfasciitis">
 
   <?php include '../components/navhead.php'; ?>
 
@@ -32,13 +32,13 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>New Patient Forms<p>
+        <p>Bunions<p>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="../../index.php">Home</a></li>
-            <li><a href="../../pathology.php">Resources</a></li>
-            <li class="active">New Patient Forms</li>
+            <li><a href="../../pathology.php">Conditions</a></li>
+            <li class="active">Bunions</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
      
@@ -49,17 +49,32 @@
 <div class="layoutspacing2"></div>
 
 <div class="container">
-  <section class="jumbotron lead">
-          <ul> 
-          <li>This form can be filled out directly on your computer.</li> 
-          <li>Once the PDF file is open, click on the field you want to fill out and begin typing.</li> 
-          <li>Once complete, print the form out and bring it to your initial consultation.</li> 
-          <li> Alternatively, you can print the form out and write in the necessary information.</li> 
-          </ul>
-        <div class="center">
-          <a href="/resources/npforms.pdf" class="btn btn-primary btn-lg" role="button"><span class="glyphicon glyphicon-file"></span> New Patient Forms</a> 
-        </div>  <!-- center -->
-          </section><!-- center -->
+  
+<ul class="nav nav-tabs nav-justified" style="margin: 20px 0px;">
+              <li class="active"><a href="#cause" data-toggle="tab">Cause</a></li>
+              <li><a href="#signs_symptoms" data-toggle="tab">Signs and Symptoms</a></li>
+              <li><a href="#treatment" data-toggle="tab">Treatment</a></li>
+             
+            </ul>
+
+            <!-- Tab panes -->
+           
+            <div class="tab-content" style="padding: 0px 60px;">
+              <div class="tab-pane fade in active" id="cause">
+                  
+                </div>
+              <!-- tab -->
+              <div class="tab-pane fade" id="signs_symptoms">
+           
+              <!-- tab -->
+              <div class="tab-pane fade" id="treatment">
+                      
+
+              </div>
+              </div>
+              
+            </div><!-- tab0content -->
+
 </div><!-- container -->
 
 <!-- footer -->
@@ -72,7 +87,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/modernizr.js"></script>
-    <?php include '../../components/social.php'; ?>
+    
 
 
 

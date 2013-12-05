@@ -91,7 +91,23 @@
 			"file": "resources/npforms.php",
 			"settings":
 			{
-				"buffer_size": 2576,
+				"buffer_size": 2756,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/footer.php",
+			"settings":
+			{
+				"buffer_size": 1997,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "_/less/_mystyles.less",
+			"settings":
+			{
+				"buffer_size": 2878,
 				"line_ending": "Unix"
 			}
 		},
@@ -99,7 +115,7 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 5725,
+				"buffer_size": 6085,
 				"line_ending": "Windows"
 			}
 		}
@@ -148,6 +164,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/pathology/faq.php",
 		"/Applications/MAMP/htdocs/resources/npforms.pdf",
 		"/Applications/MAMP/htdocs/images/pathology/npforms.pdf",
 		"/Applications/MAMP/htdocs/resources/newpatientforms.pdf",
@@ -332,7 +349,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -341,15 +358,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2576,
+						"buffer_size": 2756,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								921,
-								921
+								2205,
+								2205
 							]
 						],
 						"settings":
@@ -361,36 +378,92 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 166.0,
+						"translation.y": 442.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "index.php",
+					"file": "components/footer.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5725,
+						"buffer_size": 1997,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1442,
-								1442
+								59,
+								59
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "_/less/_mystyles.less",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2878,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 803.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4696,
+								4696
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 353.0,
+						"translation.y": 743.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

@@ -106,10 +106,7 @@
         
           <h2>Knowledge</h2>
           
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. <p>
+        <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified physicians are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages. <p>
       </div> <!-- center-->
    
     </section><!-- col col-lg --><!-- col 1 -->
@@ -123,10 +120,7 @@
         
           <h2>Experience</h2>
           
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. <p>
+        <p>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. <p>
       </div> <!-- center--> 
 
     </section><!-- col col-lg -->
@@ -141,10 +135,7 @@
         
           <h2>Results</h2>
           
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-        tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-        quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-        consequat. <p>
+        <p>We consistently have satisfied patients and in our most recent patient survey 91% of our patients 'agreed' or 'strongly agreed' with the statement, 'I was satisfied with my medical care'.  Our practice routinely receives comments stating, ”was offered treatment that was better than I was offered in another office", “doctor explained my condition, outlined my recovery and explained the expected results and possible future needs" and “Doctor was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand".<p>
       </div> <!-- center-->
       
     </section><!-- col col-lg -->
