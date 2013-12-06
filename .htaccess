@@ -1,0 +1,38 @@
+# This folder does not require access over HTTP
+# (the following directive denies access by default)
+
+
+Redirect 301 /contact-us/saturdayclinic.aspx http://24.173.104.250/resources/saturdayclinic.php
+Redirect 301 /resources/forms/newpatientforms.aspx http://24.173.104.250/resources/npforms.php
+Redirect 301 /resources/faq.aspx http://24.173.104.250/resources/faq.php
+Redirect 301 /home.aspx  http://24.173.104.250/index.php
+Redirect 301 /contact-us.aspx http://24.173.104.250/contact.php
+Redirect 301 /contact-us/locations.aspx http://24.173.104.250/location.php
+Redirect 301 /about.aspx http://24.173.104.250/about.php
+Redirect 301 /about/perez.aspx http://24.173.104.250/doctors/perez.php
+Redirect 301 /about/strash.aspx http://24.173.104.250/doctors/strash.php
+Redirect 301 /about/chaney.aspx http://24.173.104.250/doctors/chaney.php
+Redirect 301 /about/jordanmechell.aspx http://24.173.104.250/doctors/mechell.php
+
+#pathology
+Redirect 301 /treatments-and-conditions/conditions/heel/heel-pain.aspx http://24.173.104.250/pathology/heel-pain.php
+Redirect 301 /treatments-and-conditions/conditions/forefoot/bunions/bunionsurgery.aspx http://24.173.104.250/pathology/bunions.php
+Redirect 301 /treatments-and-conditions/conditions/forefoot/bunions.aspx http://24.173.104.250/pathology/bunions.php
+Redirect 301 /treatments-and-conditions/conditions/ankleproblems/pttd.aspx http://24.173.104.250/pathology/pttd.php
+Redirect 301 /treatments-and-conditions/conditions/forefoot/neuromas.aspx http://24.173.104.250/pathology/neuromas.php
+Redirect 301 /treatments-and-conditions/conditions/skin/IngrownToenails.aspx http://24.173.104.250/pathology/ingrowntoenails.php
+Redirect 301 /treatments-and-conditions/conditions/forefoot/gout.aspx http://24.173.104.250/pathology/gout.php
+Redirect 301 /treatments-and-conditions/conditions/fractures/fifthmetfractures.aspx http://24.173.104.250/pathology/fifthmetatarsalfracture.php
+Redirect 301 /treatments-and-conditions/conditions/heel/shockwave-treatment.aspx http://24.173.104.250/pathology/eswt.php
+Redirect 301 /treatments-and-conditions/conditions/skin/nailfungus.aspx http://24.173.104.250/pathology/nailfungus.php
+Redirect 301 /treatments-and-conditions/conditions/heel/seversdisease.aspx http://24.173.104.250/pathology/seversdisease.php
+Redirect 301 /treatments-and-conditions/conditions/ankleproblems/peroneal.aspx http://24.173.104.250/pathology/peronealtendonitis.php
+Redirect 301 /treatments-and-conditions/conditions/forefoot/hammertoes.aspx http://24.173.104.250/pathology/hammertoes.php
+Redirect 301 /treatments-and-conditions/conditions/ankleproblems/arthrodiastasis.aspx http://24.173.104.250/pathology/arthrodiastasis.php
+Redirect 301 /treatments-and-conditions/conditions/ankleproblems/achilles-tendonitis.aspx http://24.173.104.250/pathology/achillestendonitis.php
+Redirect 301 /treatments-and-conditions/conditions/fractures/anklefracture.aspx http://24.173.104.250/pathology/anklefracture.php
+Redirect 301 /treatments-and-conditions/conditions/heel/haglunds-deformity.aspx http://24.173.104.250/pathology/haglunds.php
+Redirect 301 /treatments-and-conditions/conditions/skin/wart.aspx http://24.173.104.250/pathology/warts.php
+Redirect 301 /treatments-and-conditions/conditions/diabetes/charcot.aspx http://24.173.104.250/pathology/charcot.php
+Redirect 301 /treatments-and-conditions/conditions/forefoot/hallux-rigidus.aspx http://24.173.104.250/pathology/halluxrigidus.php
+Redirect 301 /treatments-and-conditions/conditions/fractures/stressfracture.aspx http://24.173.104.250/pathology/stressfracture.php

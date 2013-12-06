@@ -72,12 +72,16 @@
     <div id="tools">
       <ul class="nav nav-justified">
          
-          <li><a href="#"><span class="glyphicons-icon white notes_2"></span>New Patient Forms</a></li>
+          <li><a data-toggle="modal" data-target="#gps"><span class="glyphicons-icon white google_maps"></span>GPS Directions</a></li>
           
           <li class="#"><a href="location.php"><span class="glyphicons-icon white compass"></span>Locations</a></li>
           <li><a href="contact.php"><span class="glyphicons-icon white headset"></span>Contact</a></li>
           
         </ul>
+        
+        <!-- modal for selecting office -->
+        <?php include 'components/gpsmodal.php'; ?>
+
 
     </div> <!-- tools -->
     </div><!-- col -->
@@ -106,7 +110,7 @@
         
           <h2>Knowledge</h2>
           
-        <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified physicians are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages. <p>
+        <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified physicians are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages. </p>
       </div> <!-- center-->
    
     </section><!-- col col-lg --><!-- col 1 -->
@@ -135,7 +139,7 @@
         
           <h2>Results</h2>
           
-        <p>We consistently have satisfied patients and in our most recent patient survey 91% of our patients 'agreed' or 'strongly agreed' with the statement, 'I was satisfied with my medical care'.  Our practice routinely receives comments stating, ”was offered treatment that was better than I was offered in another office", “doctor explained my condition, outlined my recovery and explained the expected results and possible future needs" and “Doctor was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand".<p>
+        <p>Our Doctors utilize the best available well established, proven scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasiving EBM and applying treatments backed by scientific studies, patients can achieve superior outcomes. <p>
       </div> <!-- center-->
       
     </section><!-- col col-lg -->
@@ -149,15 +153,14 @@
 </section><!-- container -->
 </section>
 
-<div class="layoutspacing2">
+<div class="layoutspacing3">
 </div>
+
+
 
  <section class="container">
  <div class="lead">
-  <blockquote>[I liked] how the doctor listened, didn't seem rushed to get me out quickly. He took the time to sit down 
-  and seemed genuinely concerned, good eye contact and bedside manner. He offered the most thorough treatment. Did not just 
-  walk in and prescribe meds and leave. They had equipment on site to make accurate diagnosis and did not have to travel 
-  for x-rays and then back - which delays treatment.<float-right><small>Patient of Alamo Family Foot & Ankle Care</small></float-right></blockquote>          
+  <blockquote>We consistently have satisfied patients and in our most recent patient survey 91% of our patients 'agreed' or 'strongly agreed' with the statement, 'I was satisfied with my medical care'.  Our practice routinely receives comments stating, ”was offered treatment that was better than I was offered in another office", “doctor explained my condition, outlined my recovery and explained the expected results and possible future needs" and “Doctor was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand".</blockquote>          
   </div><!-- lead -->
   </section>  <!-- container -->     
 

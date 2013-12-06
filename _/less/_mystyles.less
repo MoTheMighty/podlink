@@ -71,17 +71,37 @@
    
 }
 
+html,
+body {
+  height: 100%;
+  /* The html and body elements cannot have any padding or margin. */
+}
+/* Wrapper for page content to push down footer */
+#wrap {
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;
+  /* Negative indent footer by it's height */
+  margin: 0 auto -230px;
+}
+
+/* Set the fixed height of the footer here */
 #push,
 #footer {
-	
-  height: auto;
+  height: 300px;
 }
 #footer {
   background-color: @grey;
+}
 
-  border-top: solid;
-  border-width: 1px;
-  border-color: @blue;
+/* Lastly, apply responsive CSS fixes as necessary */
+@media (max-width: 767px) {
+#footer {
+  margin-left: -20px;
+  margin-right: -20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
 }
 
 
@@ -110,7 +130,7 @@
 	
 	
 	background: lighten(@grey, 40%);
-
+	height: 0 auto;
 	border-radius: @panel-border-radius;
 
 	padding: 10px;
@@ -122,7 +142,11 @@
 	p{
 		text-align: left;
 		}
-	
+	hr {
+		background: @grey;
+		height: 1px;
+		padding: 0px;
+	}
 	}
 
 .navbar-brand {
@@ -229,4 +253,7 @@ text-transform: none;
 	width: auto;
 }
 
-
+.layoutspacing3{
+	height: 350px;
+	width: auto;
+}

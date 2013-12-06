@@ -1,7 +1,8 @@
 
-
+<div id="push"></div>
+</section><!-- wrap -->
 <footer>
-<div id="bumperpads">
+
 <section id="footer">
     
      
@@ -77,5 +78,5 @@
 		
 		</div><!-- navbarfixedbottom -->
 	</section><!-- footer div -->
-	</div><!-- bumperpads -->
+	
 </footer><!-- footer -->
