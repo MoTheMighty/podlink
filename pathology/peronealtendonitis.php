@@ -5,7 +5,7 @@
 
 <html>
   <head>
-    <title>Plantar Fasciitis - Heel Pain</title>
+    <title>Peroneal Tendon Pathology</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -22,7 +22,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
-  <body id="plantarfasciitis">
+  <body id="peronealtendonitis">
 
   <?php include '../components/navhead.php'; ?>
 
@@ -32,13 +32,13 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Bunions<p>
+        <p>Peroneal Tendons<p>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="../../index.php">Home</a></li>
             <li><a href="../../pathology.php">Conditions</a></li>
-            <li class="active">Bunions</li>
+            <li class="active">Peroneal Tendon Pathology</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
      
@@ -61,7 +61,7 @@
            
             <div class="tab-content" style="padding: 0px 60px;">
               <div class="tab-pane fade in active" id="cause">
-                  <div style="float: right;"><img alt="" src="images/pathology.peronealtendon.jpg" /></div> <p>The peroneal tendons consist of two tendon that arise from the muscles on the outside of the leg just below your knee. The tendons course behind the outside of the fibula(outside ankle bone), then turn and connect to two different areas of the mid foot. One peroneal tendon attaches to the outer part of the mid foot, while the other tendon runs under the foot and attaches near the inside of the arch. The main function of the peroneal tendons is to stabilize the outside of foot and ankle.</p> <p>Peroneal tendon problems occur either from repetitive use injuries such as running, tennis, cycling or from a sudden injury such as an ankle sprain or fracture. In the case of repetitive use, patients will usually notice a gradual increase in symptoms to the outside of the ankle which are usually made worse by doing physical activities. Initially, the tendon will become inflamed a condition known as tendonitis. However, if not treated, the tendons generally become scarred and weak and will eventually tear.</p> 
+                  <div style="float: right;"><img alt="" src="/images/pathology/peronealtendon.jpg" /></div> <p>The peroneal tendons consist of two tendon that arise from the muscles on the outside of the leg just below your knee. The tendons course behind the outside of the fibula(outside ankle bone), then turn and connect to two different areas of the mid foot. One peroneal tendon attaches to the outer part of the mid foot, while the other tendon runs under the foot and attaches near the inside of the arch. The main function of the peroneal tendons is to stabilize the outside of foot and ankle.</p> <p>Peroneal tendon problems occur either from repetitive use injuries such as running, tennis, cycling or from a sudden injury such as an ankle sprain or fracture. In the case of repetitive use, patients will usually notice a gradual increase in symptoms to the outside of the ankle which are usually made worse by doing physical activities. Initially, the tendon will become inflamed a condition known as tendonitis. However, if not treated, the tendons generally become scarred and weak and will eventually tear.</p> 
                   <p><strong>Diagnosis</strong><br />
                 Peroneal tendon injuries can be very subtle and difficult to diagnose, it is a progressive injury and will continue to worsen unless treated. That is why it is important to see a board certified podiatrist for prompt evaluation and management. A thorough clinical examination, x-rays and most likely an MRI will be needed to make an accurate diagnosis. Once a diagnosis is made treatment can include the following depending on the severity of the injury:</p>
                 </div>

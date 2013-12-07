@@ -22,7 +22,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
-  <body id="plantarfasciitis">
+  <body id="stressfracture">
 
   <?php include '../components/navhead.php'; ?>
 

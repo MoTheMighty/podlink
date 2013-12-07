@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-decoration"
+			],
+			[
 				"print",
 				"print_r"
 			],
@@ -99,7 +103,7 @@
 			"file": "components/footer.php",
 			"settings":
 			{
-				"buffer_size": 1997,
+				"buffer_size": 2006,
 				"line_ending": "Windows"
 			}
 		},
@@ -107,16 +111,32 @@
 			"file": "_/less/_mystyles.less",
 			"settings":
 			{
-				"buffer_size": 2878,
+				"buffer_size": 3730,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "index.php",
+			"file": "pathology/anklefracture.php",
 			"settings":
 			{
-				"buffer_size": 6085,
-				"line_ending": "Windows"
+				"buffer_size": 7401,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "location.php",
+			"settings":
+			{
+				"buffer_size": 2270,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.php",
+			"settings":
+			{
+				"buffer_size": 4208,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -164,36 +184,44 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/pathology/pttd.php",
+		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
+		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
+		"/Applications/MAMP/htdocs/pathology/wart.php",
+		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
+		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
+		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
+		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
+		"/Applications/MAMP/htdocs/pathology/neuroma.php",
+		"/Applications/MAMP/htdocs/pathology/gout.php",
+		"/Applications/MAMP/htdocs/pathology/haglunds.php",
+		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
+		"/Applications/MAMP/htdocs/pathology/charcot.php",
+		"/Applications/MAMP/htdocs/pathology/eswt.php",
+		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
+		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
+		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
+		"/Applications/MAMP/htdocs/components/gpsmodal.php",
+		"/Applications/MAMP/htdocs/.htaccess",
+		"/Applications/MAMP/htdocs/pathology/arthritis.php",
+		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
+		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/pathology/faq.php",
 		"/Applications/MAMP/htdocs/resources/npforms.pdf",
 		"/Applications/MAMP/htdocs/images/pathology/npforms.pdf",
 		"/Applications/MAMP/htdocs/resources/newpatientforms.pdf",
-		"/Applications/MAMP/htdocs/pathology/neuroma.php",
-		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
-		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
-		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
-		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
-		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
 		"/Applications/MAMP/htdocs/images/pathology/hammertoe.jpg",
 		"/Applications/MAMP/htdocs/images/pathology/hammertoeanantomy.jpg",
-		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
-		"/Applications/MAMP/htdocs/pathology/haglunds.php",
-		"/Applications/MAMP/htdocs/pathology/gout.php",
-		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
-		"/Applications/MAMP/htdocs/pathology/charcot.php",
-		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
-		"/Applications/MAMP/htdocs/index.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
-		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
-		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
-		"/Applications/MAMP/htdocs/pathology/arthritis.php",
-		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
-		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
-		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
-		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/forefoot/bunions.php",
@@ -213,7 +241,6 @@
 		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/js/custom.js",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
@@ -281,6 +308,24 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"move",
+			"&nbsp;",
+			"/Files/Images",
+			"ingrown",
+			"hammertoes",
+			"hallux",
+			"halluxlimitus",
+			"haglunds",
+			"gout",
+			"fifth",
+			"calcaneal",
+			"arthrodiastasis",
+			"arthritis",
+			"anklefracture",
+			"Learn More",
+			"h5",
+			"h6",
+			"picline",
 			"sflb.ashx\"",
 			"/Libraries/Images/",
 			"strsfx2.jpg",
@@ -323,7 +368,7 @@
 			"var",
 			"yogurt"
 		],
-		"highlight": false,
+		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
 		"regex": true,
@@ -378,7 +423,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 442.0,
+						"translation.y": 64.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -389,21 +434,22 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1997,
+						"buffer_size": 2006,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								59,
-								59
+								848,
+								848
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -414,10 +460,37 @@
 				{
 					"buffer": 2,
 					"file": "_/less/_mystyles.less",
-					"semi_transient": true,
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2878,
+						"buffer_size": 3730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1347,
+								1347
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1024.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pathology/anklefracture.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7401,
 						"regions":
 						{
 						},
@@ -430,40 +503,70 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 803.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "index.php",
+					"buffer": 4,
+					"file": "location.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6085,
+						"buffer_size": 2270,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4696,
-								4696
+								449,
+								449
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 743.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4208,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3799,
+								3799
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1494.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

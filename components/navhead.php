@@ -29,38 +29,50 @@
         <li class="dropdown">
           <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-book"></span> Learn<b class="caret"></b></a>
                 <ul class="dropdown-menu">
-                  <li><a href="#">Forefoot</a></li>
+                  <li><a href="#"><strong>Forefoot</strong></a></li>
                   <li class="divider"></li>
-                  <li><a href="#">link1</a></li>
-                  <li><a href="#">link2</a></li>
-                  <li><a href="#">link3</a></li>
-                  <li><a href="#">link4</a></li>
+                  <li><a href="../pathology/bunions.php">Bunions</a></li>
+                  <li><a href="../pathology/halluxlimitus.php">Hallux Limitus</a></li>
+                  <li><a href="../pathology/hammertoes.php">Hammertoes</a></li>
+                  <li><a href="../pathology/neuroma.php">Neuromas</a></li>
+                  <li><a href="../pathology/stressfracture.php">Stress Fracture</a></li>
+                  <li><a href="../pathology/fifthmetatarsalstressfractures.php">Fifth Metatarsal Fractures</a></li>
+                  <li><a href="../pathology/gout.php">Gout</a></li>
+                  <li><a href="../pathology/diabeticfootcomplications.php">Diabetic Foot Complications</a></li>
+                  <li><a href="../pathology/nailfungus.php">Nail Fungus</a></li>
+                  <li><a href="../pathology/ingrowntoenail.php">Ingrown Toenails</a></li>
+                  <li><a href="../pathology/wart.php">Plantars Warts</a></li>
                   <li class="divider"></li>
-                  <li><a href="#">Hindfoot</a></li>
+                  <li><a href="#"><strong>Hindfoot</strong></a></li>
                   <li class="divider"></li>
-                  <li><a href="#">link1</a></li>
-                  <li><a href="#">link2</a></li>
-                  <li><a href="#">link3</a></li>
-                  <li><a href="#">link4</a></li>
+                  <li><a href="../pathology/heel-pain.php">Plantar Fasciitis (heel pain)</a></li>
+                  <li><a href="../pathology/eswt.php">Shochwave Treatment</a></li>
+                  <li><a href="../pathology/charcot.php">Charcot Deformity</a></li>
+                  <li><a href="../pathology/pttd.php">Posterior Tibial Tendonosis</a></li>
+                  <li><a href="../pathology/peronealtendonitis.php">Peroneal Tendonitis</a></li>
+                  <li><a href="../pathology/tarsalcoalition.php">Tarsal Coalition</a></li>
+                  <li><a href="../pathology/pttd.php">Posterior Tibial Tendonosis</a></li>
                   <li class="divider"></li>
-                  <li><a href="#">Misclaneous</a></li>
+                  <li><a href="#"><strong>Ankle</strong></a></li>
                   <li class="divider"></li>
-                   <li><a href="#">link1</a></li>
-                  <li><a href="#">link2</a></li>
-                  <li><a href="#">link3</a></li>
+                   <li><a href="../pathology/achillestendonitis.php">Achilles Tendonitis</a></li>
+                  <li><a href="../pathology/anklefracture.php">Ankle Fractures</a></li>
+                  <li><a href="../pathology/arthritis.php">Arthritis</a></li>
+                  <li><a href="../pathology/arthrodiastasis.php">Arthrodiastasis</a></li>
                   <li><a href="#">link4</a></li>
 
                 </ul>
                   
           </li>
                 <li class="dropdown">
-                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Patient Resources <b class="caret"></b></a>
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-leaf"></span> Patient Resources <b class="caret"></b></a>
               <ul class="dropdown-menu">
-                <li><a href="#">Action</a></li>
-                <li><a href="#">Another action</a></li>
-                <li><a href="#">Something else here</a></li>
-                <li class="divider"></li>
-                <li><a href="#">Separated link</a></li>
+                <li><a href="../resources/npforms.php">New Patient Forms</a></li>
+                <li><a href="../resources/faq.php">Frequent Asked Questions</a></li>
+                <li><a href="../resources/hippa.pdf">Privacy Practices</a></li>
+                <li><a href="../resources/soakinginstructions.pdf">In-office surgery aftercare instructions</a></li>
+               <li><a href="../resources/pfstretches.pdf">Stretching for Plantar Fasciitis</a></li>
+               
               </ul>
                      <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" data-target="#"> <span class="glyphicon glyphicon-search"></span></a>

@@ -16,7 +16,7 @@
       #map-canvas { 
 
        width: 100%;
-       height: 600px;
+       height: 710px;
   
       }
      

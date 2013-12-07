@@ -52,8 +52,8 @@
   
 <ul class="nav nav-tabs nav-justified" style="margin: 20px 0px;">
               <li class="active"><a href="#cause" data-toggle="tab">Cause</a></li>
-              <li><a href="#signs_symptoms" data-toggle="tab">Signs and Symptoms</a></li>
-              <li><a href="#treatment" data-toggle="tab">Treatment</a></li>
+              <li><a href="#signs_symptoms" data-toggle="tab">Video</a></li>
+              
              
             </ul>
 
@@ -61,11 +61,11 @@
            
             <div class="tab-content" style="padding: 0px 60px;">
               <div class="tab-pane fade in active" id="cause">
-                  Ingrown toenails are a common ailment in nearly all ages of patients. The inner or outer side of a toenail can cause pressure on the skin. If the pressure is great enough an infection can result. The most common cause of ingrown toenails is improper cutting. Cutting the nails too short allow the soft tissue on the tip of the toe to wrap around the nail. As the nail continues to grow it pushes on the skin causing pain and infection. Other causes include trauma, shoe or sock pressure and diseases of the nail that cause thickness. Bathroom surgery is not recommended as it is commonly painful and unsuccessful in resolving the problem. A simple in office minor procedure is commonly performed to resolve the problem on a permanent basis.</p> <p><strong>What You Should Know About Home Treatment </strong></p> <ul> <li>Don’t cut a notch in the nail. Contrary to what some people believe, this does not reduce the tendency for the nail to curve downward.</li> <li>Don’t repeatedly trim nail borders. Repeated trimming does not change the way the nail grows, and can make the condition worse.</li> <li>Don’t place cotton under the nail. Not only does this not relieve the pain, it provides a place for harmful bacteria to grow, resulting in infection.</li> <li>Over-the-counter medications are ineffective. Topical medications may mask the pain, but they don’t correct the underlying problem.</li> </ul> <p><br /> </p> <h3></h3> <div style="text-align: center;"><iframe width="420" height="315" src="http://www.youtube.com/embed/NEmFAzUHtqA" frameborder="0"></iframe></div>
+                  Ingrown toenails are a common ailment in nearly all ages of patients. The inner or outer side of a toenail can cause pressure on the skin. If the pressure is great enough an infection can result. The most common cause of ingrown toenails is improper cutting. Cutting the nails too short allow the soft tissue on the tip of the toe to wrap around the nail. As the nail continues to grow it pushes on the skin causing pain and infection. Other causes include trauma, shoe or sock pressure and diseases of the nail that cause thickness. Bathroom surgery is not recommended as it is commonly painful and unsuccessful in resolving the problem. A simple in office minor procedure is commonly performed to resolve the problem on a permanent basis.</p> <p><strong>What You Should Know About Home Treatment </strong></p> <ul> <li>Don’t cut a notch in the nail. Contrary to what some people believe, this does not reduce the tendency for the nail to curve downward.</li> <li>Don’t repeatedly trim nail borders. Repeated trimming does not change the way the nail grows, and can make the condition worse.</li> <li>Don’t place cotton under the nail. Not only does this not relieve the pain, it provides a place for harmful bacteria to grow, resulting in infection.</li> <li>Over-the-counter medications are ineffective. Topical medications may mask the pain, but they don’t correct the underlying problem.</li> </ul> <p><br /> </p> <h3></h3> <div style="text-align: center;"></div>
                 </div>
               <!-- tab -->
               <div class="tab-pane fade" id="signs_symptoms">
-
+              <iframe width="420" height="315" src="http://www.youtube.com/embed/NEmFAzUHtqA" frameborder="0"></iframe>
               </div>
               <!-- tab -->
               <div class="tab-pane fade" id="treatment">
