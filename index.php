@@ -6,7 +6,7 @@
 
 <html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
   <head>
-    <title>Alamo Family Foot & Ankle Care San Antonio's most trusted podiatrist</title>
+    <title>Alamo Family Foot & Ankle Care San Antonio's - Most Trusted Podiatrist</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -15,16 +15,16 @@
         <link rel="canonical" href=""/>
         <!-- fb -->
 
-        <meta name="og:title" content=""/>
-        <meta name="og:url" content=""/>
-        <meta name="og:description" content=""/>
+        <meta name="og:title" content="Alamo Family Foot & Ankle Care San Antonio's - Most Trusted Podiatrist"/>
+        <meta name="og:url" content="podlink.com"/>
+        <meta name="og:description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
         <meta name="og:image" content=""/>
 
         <!-- twitter -->
        
         <!-- Google+ -->
         <meta itemprop="name" content="Alamo Family Foot & Ankle Care San Antonio's most trusted podiatrist"/>
-        <meta itemprop="description" content=""/>
+        <meta itemprop="description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
         <meta itemprop="audience" content="Patients"/>
                 <meta itemprop="image" content=""/>
                         <meta itemprop="alternativeHeadline" content="Alamo Family Foot and Ankle Care"/>

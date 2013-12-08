@@ -70,8 +70,8 @@
 
 				<ul class="list-unstyled">
 					
-					<small><li><span class="glyphicon glyphicon-earphone"></span>  Ph. 210-829-8770</span></li>
-					<li><span class="glyphicon glyphicon-print"></span>  Fx. 210-826-0000</li></small>
+					<small><li><span class="glyphicon glyphicon-earphone"></span>  <span itemprop="telephone">Ph. 210-829-8770</span></span></li>
+					<li><span class="glyphicon glyphicon-print"></span>  <span itemprop="faxNumber">Fx. 210-826-0000<span></li></small>
 					
 					
 				</ul>
