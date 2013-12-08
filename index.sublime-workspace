@@ -92,50 +92,10 @@
 	"buffers":
 	[
 		{
-			"file": "resources/npforms.php",
+			"file": "js/custom.js",
 			"settings":
 			{
-				"buffer_size": 2756,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/footer.php",
-			"settings":
-			{
-				"buffer_size": 2006,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/less/_mystyles.less",
-			"settings":
-			{
-				"buffer_size": 3730,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pathology/anklefracture.php",
-			"settings":
-			{
-				"buffer_size": 7401,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "location.php",
-			"settings":
-			{
-				"buffer_size": 2270,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "about.php",
-			"settings":
-			{
-				"buffer_size": 4208,
+				"buffer_size": 3884,
 				"line_ending": "Unix"
 			}
 		}
@@ -184,8 +144,22 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/php/search/swiftype.php",
+		"/Applications/MAMP/htdocs/php/search/test.php",
+		"/Applications/MAMP/htdocs/php/search/example.php",
 		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/resources/faq.php",
+		"/Applications/MAMP/htdocs/doctors/perez.php",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
+		"/Applications/MAMP/htdocs/resources/npforms.php",
+		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/_/less/bootstrap.less",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
 		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
@@ -208,21 +182,16 @@
 		"/Applications/MAMP/htdocs/components/gpsmodal.php",
 		"/Applications/MAMP/htdocs/.htaccess",
 		"/Applications/MAMP/htdocs/pathology/arthritis.php",
-		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
-		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/pathology/faq.php",
 		"/Applications/MAMP/htdocs/resources/npforms.pdf",
 		"/Applications/MAMP/htdocs/images/pathology/npforms.pdf",
 		"/Applications/MAMP/htdocs/resources/newpatientforms.pdf",
 		"/Applications/MAMP/htdocs/images/pathology/hammertoe.jpg",
 		"/Applications/MAMP/htdocs/images/pathology/hammertoeanantomy.jpg",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
-		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/forefoot/bunions.php",
 		"/Applications/MAMP/htdocs/page.aspx",
@@ -238,7 +207,6 @@
 		"/Applications/MAMP/htdocs/php/examples/simple.php",
 		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/template.php",
-		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/js/custom.js",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
@@ -246,11 +214,8 @@
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicon_social.less",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
-		"/Applications/MAMP/htdocs/_/less/bootstrap.less",
-		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/components/team.php",
 		"/Applications/MAMP/htdocs/about/about.php",
-		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/js/custom1.js",
 		"/Applications/MAMP/htdocs/_/js/custom.js",
@@ -308,6 +273,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"social",
 			"move",
 			"&nbsp;",
 			"/Files/Images",
@@ -394,103 +360,16 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "resources/npforms.php",
-					"semi_transient": false,
+					"file": "js/custom.js",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 2756,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2205,
-								2205
-							]
-						],
-						"settings":
-						{
-							"auto_name": "",
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 64.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "components/footer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2006,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								848,
-								848
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "_/less/_mystyles.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3730,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1347,
-								1347
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 1024.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pathology/anklefracture.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7401,
+						"buffer_size": 3884,
 						"regions":
 						{
 						},
@@ -503,70 +382,12 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "location.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2270,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								449,
-								449
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "about.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4208,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3799,
-								3799
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1494.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

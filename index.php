@@ -4,11 +4,40 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html>
+<html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
   <head>
-    <title>Alamo Family Foot & Ankle Care | San Antonio Podiatrist</title>
+    <title>Alamo Family Foot & Ankle Care San Antonio's most trusted podiatrist</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    
+    <meta property="twitter:account_id" content=""/>
+        <link rel="canonical" href=""/>
+        <!-- fb -->
+
+        <meta name="og:title" content=""/>
+        <meta name="og:url" content=""/>
+        <meta name="og:description" content=""/>
+        <meta name="og:image" content=""/>
+
+        <!-- twitter -->
+       
+        <!-- Google+ -->
+        <meta itemprop="name" content="Alamo Family Foot & Ankle Care San Antonio's most trusted podiatrist"/>
+        <meta itemprop="description" content=""/>
+        <meta itemprop="audience" content="Patients"/>
+                <meta itemprop="image" content=""/>
+                        <meta itemprop="alternativeHeadline" content="Alamo Family Foot and Ankle Care"/>
+                
+              
+                <link rel="author" href="http://plus.google.com/113774021362941412953" />
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
