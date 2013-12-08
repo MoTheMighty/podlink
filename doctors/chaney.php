@@ -4,11 +4,52 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html>
+<html lang="en-US"itemscope itemtype="http://schema.org/physician">
   <head>
-    <title>Dr. D. Martin Chaney | Alamo Family Foot & Ankle Care | San Antonio, Tx</title>
+    <title>Dr. D. Marty Chaney - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+        <meta property="twitter:account_id" content=""/>
+        <link rel="canonical" href=""/>
+        <!-- fb -->
+        <meta name="og:title" content="Dr. D. Marty Chaney - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX"/>
+        <meta name="og:url" content="podlink.com/doctors/chaney.php"/>
+        <meta name="og:description" content="He then completed a two year foot and 
+      ankle surgical residency at the West Houston Medical Center in Houston Texas. 
+      Dr. Chaney finished his training in Houston by completing a one year reconstructive Rearfoot and Ankle Fellowship."/>
+        <meta name="og:image" content="../../images/chaney.png"/>
+        
+        <!-- twitter -->
+        <meta name="Twitter:card" content="summary"/>
+        <meta name="Twitter:site" content="@"/>
+        <meta name="Twitter:creator" content="@"/>
+        <meta name="Twitter:title" content=""/>
+        <meta name="Twitter:url" content=""/>
+        <meta name="Twitter:description" content="He then completed a two year foot and 
+            ankle surgical residency at the West Houston Medical Center in Houston Texas. 
+            Dr. Chaney finished his training in Houston by completing a one year reconstructive Rearfoot and Ankle Fellowship."/>
+        <meta name="Twitter:image"/>
+
+        <!-- Google+ -->
+        <meta itemprop="name" content="Dr. D. Marty Chaney - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX"/>
+        <meta itemprop="description" content="He then completed a two year foot and 
+          ankle surgical residency at the West Houston Medical Center in Houston Texas. 
+          Dr. Chaney finished his training in Houston by completing a one year reconstructive Rearfoot and Ankle Fellowship."/>
+        <meta itemprop="audience" content="patients"/>
+        <meta itemprop="photo" content="../../images/chaney.png"/>
+        <meta itemprop="alternativeHeadline" content="Dr. Dennis Martin Chaney, DPM"/>
+        <meta itemprop="medicalspecialty" content="podiatric"/>
+                
+              
+       
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+  
+
+
     <!-- Bootstrap -->
     <link href="../../css/bootstrap.css" rel="stylesheet">
     <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
@@ -23,7 +64,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
-  <body id="perez">
+  <body id="chaney">
 
   <?php include '../components/navhead.php'; ?>
 
@@ -54,7 +95,7 @@
   <section class="container">
       <div class="row">
          <div class="col-lg-12 col-md-12">
-             <p><img src="../../images/chaney.png" alt="Dr. D. Martin Chaney, DPM" class="img-rounded"></p>
+             <p><span itempscope="photo"><img src="../../images/chaney.png" alt="Dr. D. Martin Chaney, DPM" class="img-rounded"></span></p>
                   
 
                   <div class="socialenlarge">

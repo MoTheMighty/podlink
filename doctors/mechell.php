@@ -4,11 +4,48 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html>
+<html lang="en-US"itemscope itemtype="http://schema.org/physician">
   <head>
-    <title>Dr. R. Jordan Mechell | Alamo Family Foot & Ankle Care | San Antonio, Tx</title>
+    <title>Dr. R. Jordan Mechell - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+        <meta property="twitter:account_id" content=""/>
+        <link rel="canonical" href=""/>
+        <!-- fb -->
+        <meta name="og:title" content="Dr. R. Jordan Mechell - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX"/>
+        <meta name="og:url" content="podlink.com/doctors/mechell.php"/>
+        <meta name="og:description" content="Dr. Mechell is a board qualified podiatrist whos has extensive training in foot and ankle reconstructive surgery, limb deformity correction, nerve decompression procedures, 
+and diabetic limb salvage."/>
+        <meta name="og:image" content="../../images/jordan.png"/>
+        
+        <!-- twitter -->
+        <meta name="Twitter:card" content="summary"/>
+        <meta name="Twitter:site" content="@"/>
+        <meta name="Twitter:creator" content="@"/>
+        <meta name="Twitter:title" content=""/>
+        <meta name="Twitter:url" content=""/>
+        <meta name="Twitter:description" content="Dr. Mechell is a board qualified podiatrist whos has extensive training in foot and ankle reconstructive surgery, limb deformity correction, nerve decompression procedures, 
+and diabetic limb salvage."/>
+        <meta name="Twitter:image"/>
+
+        <!-- Google+ -->
+        <meta itemprop="name" content="Dr. R. Jordan Mechell - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX"/>
+        <meta itemprop="description" content="Dr. Mechell is a board qualified podiatrist whos has extensive training in foot and ankle reconstructive surgery, limb deformity correction, nerve decompression procedures, 
+and diabetic limb salvage."/>
+        <meta itemprop="audience" content="patients"/>
+        <meta itemprop="photo" content="../../images/jordan.png"/>
+        <meta itemprop="alternativeHeadline" content="Dr. R, Jordan Mechell, DPM"/>
+        <meta itemprop="medicalspecialty" content="podiatric"/>
+                
+              
+       
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    
+    
     <!-- Bootstrap -->
     <link href="../../css/bootstrap.css" rel="stylesheet">
     <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
@@ -54,7 +91,7 @@
   <section class="container">
       <div class="row">
          <div class="col-lg-12 col-md-12">
-             <p><img src="../../images/jordan.png" alt="Dr. D. Martin Chaney, DPM" class="img-rounded"></p>
+             <p><span itemprop="photo"><img src="../../images/jordan.png" alt="Dr. R. Jordan Mechell, DPM" class="img-rounded"></span></p>
                   
 
                   <div class="socialenlarge">

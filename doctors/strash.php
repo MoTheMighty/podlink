@@ -4,11 +4,46 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html>
+<html lang="en-US"itemscope itemtype="http://schema.org/physician">
   <head>
-    <title>Dr. Walter W. Strash | Alamo Family Foot & Ankle Care | San Antonio, Tx</title>
+    <title>Dr. Walter Strash, DPM </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+        <meta property="twitter:account_id" content=""/>
+        <link rel="canonical" href=""/>
+        <!-- fb -->
+        <meta name="og:title" content="Dr. Walter Strash, DPM "/>
+        <meta name="og:url" content="podlink.com/doctors/strash.php"/>
+        <meta name="og:description" content="Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
+            He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery."/>
+        <meta name="og:image" content="../../images/strash.png"/>
+        
+        <!-- twitter -->
+        <meta name="Twitter:card" content="summary"/>
+        <meta name="Twitter:site" content="@"/>
+        <meta name="Twitter:creator" content="@"/>
+        <meta name="Twitter:title" content=""/>
+        <meta name="Twitter:url" content=""/>
+        <meta name="Twitter:description" content="Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
+            He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery."/>
+        <meta name="Twitter:image"/>
+
+        <!-- Google+ -->
+        <meta itemprop="name" content="Dr. Walter Strash, DPM "/>
+        <meta itemprop="description" content="Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
+            He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery."/>
+        <meta itemprop="audience" content="patients"/>
+        <meta itemprop="photo" content="../../images/strash.png"/>
+        <meta itemprop="alternativeHeadline" content="Dr. Walter W. Strash DPM"/>
+        <meta itemprop="medicalspecialty" content="podiatric"/>
+                
+              
+       
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
     <!-- Bootstrap -->
     <link href="../../css/bootstrap.css" rel="stylesheet">
     <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
