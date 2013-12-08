@@ -34,7 +34,7 @@
         <meta itemprop="audience" content="patients"/>
         <meta itemprop="photo" content="../../images/perez.png"/>
         <meta itemprop="alternativeHeadline" content="Dr. Richard Perez, DPM"/>
-        <meta itemprop="podiatric"/>
+        <meta itemprop="medicalspecialty" content="podiatric"/>
                 
               
         <link rel="author" href="http://plus.google.com/113774021362941412953" />

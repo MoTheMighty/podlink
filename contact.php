@@ -4,7 +4,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
+<html lang="en-US"itemscope itemtype="http://schema.org/medicalclinic">
   <head>
     <title>Contact Form for Alamo Family Foot & Ankle Care</title>
     <meta charset="utf-8">
