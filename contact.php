@@ -4,15 +4,15 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html>
+<html lang="en-US"itemscope itemtype="http://schema.org/Contactpage">
   <head>
     <title>Contact Form for Alamo Family Foot & Ankle Care</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<html lang="en-US"itemscope itemtype="http://schema.org/ContactPage">
 
-    <head>
+
+ 
        
         <meta property="twitter:account_id" content=""/>
         <link rel="canonical" href=""/>
@@ -30,7 +30,7 @@
         <meta itemprop="audience" content="patients"/>
         <meta itemprop="image" content=""/>
         <meta itemprop="alternativeHeadline" content="Contact Alamo Family Foot Care"/>
-        <meta itemprop="podiatric"/>
+        
                 
               
                 <link rel="author" href="http://plus.google.com/113774021362941412953" />
