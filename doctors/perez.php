@@ -4,11 +4,48 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html>
+<html lang="en-US"itemscope itemtype="http://schema.org/physician">
   <head>
-    <title>Dr. Richard Perez | Alamo Family Foot & Ankle Care | San Antonio, Tx</title>
+    <title>Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+        <meta property="twitter:account_id" content=""/>
+        <link rel="canonical" href=""/>
+        <!-- fb -->
+        <meta name="og:title" content="Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, Tx"/>
+        <meta name="og:url" content="podlink.com/doctors/perez.php"/>
+        <meta name="og:description" content="Dr. Richard Perez is a board certified podiatrist whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
+        <meta name="og:image" content="../../images/perez.png"/>
+        
+        <!-- twitter -->
+        <meta name="Twitter:card" content="summary"/>
+        <meta name="Twitter:site" content="@"/>
+        <meta name="Twitter:creator" content="@"/>
+        <meta name="Twitter:title" content=""/>
+        <meta name="Twitter:url" content=""/>
+        <meta name="Twitter:description" content="Dr. Richard Perez is a board certified podiatrist whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
+        <meta name="Twitter:image"/>
+
+        <!-- Google+ -->
+        <meta itemprop="name" content="Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, Tx"/>
+        <meta itemprop="description" content="Dr. Richard Perez is a board certified podiatrist whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
+        <meta itemprop="audience" content="patients"/>
+        <meta itemprop="photo" content="../../images/perez.png"/>
+        <meta itemprop="alternativeHeadline" content="Dr. Richard Perez, DPM"/>
+        <meta itemprop="podiatric"/>
+                
+              
+        <link rel="author" href="http://plus.google.com/113774021362941412953" />
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+
+
     <!-- Bootstrap -->
     <link href="../../css/bootstrap.css" rel="stylesheet">
     <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
@@ -33,7 +70,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Richard Perez, DPM, FACFAS<p>
+        <p><span itemprop="podiatric">Richard Perez, DPM, FACFAS</span><p>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
@@ -54,7 +91,7 @@
   <section class="container">
       <div class="row">
          <div class="col-lg-3 col-md-3" style="padding-top:85px;">
-             <p><img src="../../images/perez.png" alt="Dr. Richard Perez, DPM" class="img-rounded"></p>
+             <p><span itemprop="photo"><img src="../../images/perez.png" alt="Dr. Richard Perez, DPM" class="img-rounded"></span></p>
                   
 
                   <div class="socialenlarge">
@@ -82,7 +119,7 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in 
+<span itemscope="event">Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997</span>, following completion of his fellowship and residency in 
 advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center. 
 Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medicine and Surgery.
 </div><!-- col-lg-8 -->
@@ -161,8 +198,7 @@ invasive trauma reconstruction, sports injuries and diabetic wounds.
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Dr. Perez lives in San Antonio, Texas with his wife and two children. He is an avid cyclist and can usually be found pedaling 
-the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He has developed and 
-maintained most of the content on this website.
+the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He is responsible for development and programming of this website.
 </div><!-- col-lg-8 -->
 
 </section><!-- container -->
