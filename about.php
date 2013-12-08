@@ -4,11 +4,48 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html>
+<html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
   <head>
-    <title>About Alamo Family Foot & Ankle Care</title>
+    <title>Podiatrist of Alamo Family Foot & Ankle Care</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta property="twitter:account_id" content=""/>
+        <link rel="canonical" href=""/>
+        <!-- fb -->
+        <meta name="og:title" content="Podiatrist of Alamo Family Foot & Ankle Care"/>
+        <meta name="og:url" content=""/>
+        <meta name="og:description" content="Our Podiatrist are board certified in advanced reconstructive techniques in foot and ankle surgery. 
+Drs. Perez and Chaney's fellowship training includes trauma and deformity reconstruction."/>
+        <meta name="og:image" content=""/>
+        
+        <!-- twitter -->
+        <meta name="Twitter:card" content="summary"/>
+        <meta name="Twitter:site" content="@"/>
+        <meta name="Twitter:creator" content="@"/>
+        <meta name="Twitter:title" content=""/>
+        <meta name="Twitter:url" content=""/>
+        <meta name="Twitter:description" content=""/>
+        <meta name="Twitter:image"/>
+
+        <!-- Google+ -->
+        <meta itemprop="name" content="Podiatrist of Alamo Family Foot & Ankle Care"/>
+        <meta itemprop="description" content="Our Podiatrist are board certified in advanced reconstructive techniques in foot and ankle surgery. 
+Drs. Perez and Chaney fellowship training includes trauma and deformity reconstruction."/>
+        <meta itemprop="audience" content="patients"/>
+                <meta itemprop="image" content=""/>
+                        <meta itemprop="alternativeHeadline" content="About Us"/>
+                
+              
+                <link rel="author" href="http://plus.google.com/113774021362941412953" />
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+
+
     <!-- Bootstrap -->
     <link href="../../css/bootstrap.css" rel="stylesheet">
     <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->

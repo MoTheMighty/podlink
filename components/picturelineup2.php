@@ -22,8 +22,8 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
         <section class="thumbnail">
           <div class="center">
-         <img src="images/perez.png" class="img-rounded">
-        <h5>Richard Perez, DPM, FACFAS</h5>
+         <span itemscope="photo"><img src="images/perez.png" class="img-rounded"></span>
+        <h5><span itemscope="physician">Richard Perez, DPM, FACFAS</span></h5>
           </div><!-- center -->
            <hr> 
         <a href="../../doctors/perez.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>

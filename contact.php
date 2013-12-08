@@ -18,7 +18,7 @@
         <link rel="canonical" href=""/>
         <!-- fb -->
         <meta name="og:title" content="Contact Form for Alamo Family Foot & Ankle Care"/>
-        <meta name="og:url" content=""/>
+        <meta name="og:url" content="podlink.com/about.php"/>
         <meta name="og:description" content="Contact form for alamo family foot care.  Address and phone number of each office included"/>
         <meta name="og:image" content=""/>
         
@@ -139,7 +139,7 @@
             </ul>
 
             <!-- Tab panes -->
-           <div itemscope itemtype="http://schema.org/postalAddress">
+           
             <div class="tab-content" style="padding: 0px 60px;">
               <div class="tab-pane fade in active" id="home">
                 <address>
@@ -167,7 +167,7 @@
                   <span itemscope="addressLocality">San Antonio</span>, <span itemscope="addressRegion">TX</span> <span itemscope="postalCode">78258</span><br></span>
                   <abbr title="Phone">P: </abbr> (210) 829-8770<br>
                   <abbr title="Fax">F: </abbr> (210) 829-8770
-                  </div><!-- postaladdress schema -->
+             
                 </address></div>
               </div>
               
