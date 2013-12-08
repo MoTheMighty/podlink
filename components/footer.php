@@ -19,8 +19,8 @@
 								
 						
 
-							<small>Founded in 1991 Alamo Family Foot and Ankle Care is the premiere podiatry practice in San Antonio. We offers Podiatry services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community.</small>
-					
+							<small>Alamo Family Foot and Ankle Care is the premiere podiatry practice in San Antonio. We offers Podiatry services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community.</small>
+				
 				</ul>
 	  		
 	  	</div> <!-- col 1-->
@@ -52,16 +52,13 @@
 					<h4>Social
 						<div class="divider"></div></h4>
 
-				<ul class="list-unstyled">
+						
+								<ul class="list-unstyled">
 					
-					<p><li><span class="social facebook"></span></span></li></p>
-					<p><li><span class="social youtube"></span></li></p>
-					<p><li><span class="social google_plus"></span></li></p>
+									<li><a href="http://facebook.com/alamofamily"><span class="social facebook"></span></a> <a href="http://www.youtube.com/user/alamofamilyfootcare"><span class="social youtube"> </span></a><a href="https://plus.google.com/+Podlink/posts"> <span class="social google_plus"> </span></a></li>
 					
-					
-				</ul>
-			
-				
+								</ul>
+	
 	  		 
 	  	</div> <!-- col 2-->
 

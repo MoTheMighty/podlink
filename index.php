@@ -109,9 +109,10 @@
             </section> <!-- enlarge -->
         
           <h2>Knowledge</h2>
-          
-        <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified physicians are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages. </p>
-      </div> <!-- center-->
+          <hr>
+   
+        <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified physicians are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages.</p>
+             </div> <!-- center-->
    
     </section><!-- col col-lg --><!-- col 1 -->
 
@@ -123,6 +124,7 @@
             </section> <!-- enlarge -->
         
           <h2>Experience</h2>
+          <hr>
           
         <p>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. <p>
       </div> <!-- center--> 
@@ -138,6 +140,7 @@
             </section> <!-- enlarge -->
         
           <h2>Results</h2>
+          <hr>
           
         <p>Our Doctors utilize the best available well established, proven scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasiving EBM and applying treatments backed by scientific studies, patients can achieve superior outcomes. <p>
       </div> <!-- center-->
@@ -153,14 +156,14 @@
 </section><!-- container -->
 </section>
 
-<div class="layoutspacing3">
+<div class="layoutspacing2">
 </div>
 
 
 
  <section class="container">
  <div class="lead">
-  <blockquote>We consistently have satisfied patients and in our most recent patient survey 91% of our patients 'agreed' or 'strongly agreed' with the statement, 'I was satisfied with my medical care'.  Our practice routinely receives comments stating, ”was offered treatment that was better than I was offered in another office", “doctor explained my condition, outlined my recovery and explained the expected results and possible future needs" and “Doctor was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand".</blockquote>          
+  <blockquote>We consistently have satisfied patients and in our most recent patient survey 91% of our patients "agreed" or "strongly agreed" with the statement, "I was satisfied with my medical care."  Our practice routinely receives comments stating, ”was offered treatment that was better than I was offered in another office," “doctor explained my condition, outlined my recovery and explained the expected results and possible future needs" and “Doctor was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand."</blockquote>          
   </div><!-- lead -->
   </section>  <!-- container -->     
 
@@ -169,7 +172,7 @@
     
              <?php include 'components/picturelineup.php'; ?>
 
-          
+  <div class="layoutspacing2"></div>        
 
 <!-- footer -->
 

@@ -24,7 +24,7 @@
 
   <body id="faq">
 
-  <?php include 'components/navhead.php'; ?>
+  <?php include '../components/navhead.php'; ?>
 
 
 
@@ -167,7 +167,7 @@
 
 <!-- footer -->
 
-   <?php include 'components/footer.php'; ?>
+   <?php include '../components/footer.php'; ?>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

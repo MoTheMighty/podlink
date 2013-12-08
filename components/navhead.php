@@ -4,7 +4,7 @@
 </div><!-- fill -->
 
 
-<nav class="navbar navbar-default role="navigation">
+<nav class="navbar navbar-default" role="navigation">
 	<div class="container">
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
@@ -76,13 +76,35 @@
               </ul>
                      <li class="dropdown">
                         <a class="dropdown-toggle" data-toggle="dropdown" data-target="#"> <span class="glyphicon glyphicon-search"></span></a>
-                           <ul class="dropdown-menu"
+                           <ul class="dropdown-menu">
                            <form class="navbar-form navbar-left" role="search">
                             <div class="form-group">
-                              <input type="text" class="form-control" placeholder="Search">
+                              <input id="search-query" type="text" class="search-query" placeholder="Search All"><button type="submit" style="margin-top:3px; float-right" class="btn btn-primary">Submit</button>
                             </div>
-                            <button type="submit" class="btn btn-default">Submit</button>
+                            
                     </form>
+
+<script>    // script to keep search field open in navbar                
+$("ul.nav li.dropdown").hover(
+
+function () {
+    $('.dropdown-menu').show();
+    
+    $(this).addClass('open');
+},
+
+function () {
+    if (!$("#search-query").is(':focus')){
+        $(this).removeClass('open');
+    } else if ( !$( '.events' ).is( ':hover' ) ) {
+        $("#search-query").blur();
+        $('.dropdown-menu').hide();
+    }
+});
+</script>
+
+
+
 
                
                    </ul><!-- dropdown -->
