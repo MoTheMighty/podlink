@@ -19,7 +19,7 @@
 								
 						
 
-							<small>Alamo Family Foot and Ankle Care is the premiere podiatry practice in San Antonio. We offers Podiatry services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community.</small>
+							<small><span itemprop="name">Alamo Family Foot and Ankle Care </span>is the premiere podiatry practice in <span itemprop="addressLocality">San Antonio, TX.</span> We offers Podiatry services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community.</small>
 				
 				</ul>
 	  		
@@ -70,8 +70,8 @@
 
 				<ul class="list-unstyled">
 					
-					<small><li><span class="glyphicon glyphicon-earphone"></span>  <span itemprop="telephone">Ph. 210-829-8770</span></span></li>
-					<li><span class="glyphicon glyphicon-print"></span>  <span itemprop="faxNumber">Fx. 210-826-0000<span></li></small>
+					<small><li><span class="glyphicon glyphicon-earphone"></span>  <span itemprop="telephone"><abbr title="Phone">P: </abbr>210-829-8770</span></span></li>
+					<li><span class="glyphicon glyphicon-print"></span>  <span itemprop="faxNumber"><abbr title="Fax">F: </abbr> 210-826-0000<span></li></small>
 					
 					
 				</ul>

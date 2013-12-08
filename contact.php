@@ -6,9 +6,42 @@
 
 <html>
   <head>
-    <title>Contact Form</title>
+    <title>Contact Form for Alamo Family Foot & Ankle Care</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<html lang="en-US"itemscope itemtype="http://schema.org/ContactPage">
+
+    <head>
+       
+        <meta property="twitter:account_id" content=""/>
+        <link rel="canonical" href=""/>
+        <!-- fb -->
+        <meta name="og:title" content="Contact Form for Alamo Family Foot & Ankle Care"/>
+        <meta name="og:url" content=""/>
+        <meta name="og:description" content="Contact form for alamo family foot care.  Address and phone number of each office included"/>
+        <meta name="og:image" content=""/>
+        
+       
+
+        <!-- Google+ -->
+        <meta itemprop="name" content="Contact Form for Alamo Family Foot & Ankle Care"/>
+        <meta itemprop="description" content="Contact form for alamo family foot care.  Address of each office included"/>
+        <meta itemprop="audience" content="patients"/>
+        <meta itemprop="image" content=""/>
+        <meta itemprop="alternativeHeadline" content="Contact Alamo Family Foot Care"/>
+        <meta itemprop="podiatric"/>
+                
+              
+                <link rel="author" href="http://plus.google.com/113774021362941412953" />
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+
+
     <!-- Bootstrap -->
     <link href="css/bootstrap.css" rel="stylesheet">
     <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
@@ -91,7 +124,7 @@
         <section class="lead">
           
           Central scheduling and all related inquires<br>
-          <strong>(210) 829-8770</strong>
+          <strong><span itemscope="telephone">(210) 829-8770</span></strong>
         </section><!-- lead -->
            <br>
       <hr>
@@ -109,28 +142,28 @@
             <div class="tab-content" style="padding: 0px 60px;">
               <div class="tab-pane fade in active" id="home">
                 <address>
-                  <strong>Alamo Family Foot & Ankle Care - Medical Center</strong><br>
+                  <strong><span itemprop="postalAddress">Alamo Family Foot & Ankle Care - Medical Center</strong><br>
                   9502 Huebner Rd.<br>
                   Building 2, Suite 201<br>
-                  San Antonio, TX 78240 <br>
+                  San Antonio, TX 78240 <br></span>
                   <abbr title="Phone">P: </abbr>  (210) 829-8770<br>
                   <abbr title="Fax">F: </abbr>  (210) 829-8770
                 </address></div>
               <div class="tab-pane fade" id="profile">
               <address>
-                  <strong>Alamo Family Foot & Ankle Care - Alamo Heights</strong><br>
+                  <strong><span itemprop="postalAddress">Alamo Family Foot & Ankle Care - Alamo Heights</strong><br>
                   7424 Broadway<br>
                   
-                  San Antonio, TX 78209<br>
+                  San Antonio, TX 78209<br> </span>
                   <abbr title="Phone">P: </abbr>  (210) 829-8770 <br>
                   <abbr title="Fax">F: </abbr> (210) 829-8770
                 </address></div>
               <div class="tab-pane fade" id="messages">
                    <address>
-                  <strong>Alamo Family Foot & Ankle Care - Stone Oak</strong><br>
+                  <strong><span itemprop="postalAddress">Alamo Family Foot & Ankle Care - Stone Oak</strong><br>
                   9502 Huebner Rd.<br>
                   Building 2, Suite 201<br>
-                  San Antonio, TX 78258<br>
+                  San Antonio, TX 78258<br></span>
                   <abbr title="Phone">P: </abbr> (210) 829-8770<br>
                   <abbr title="Fax">F: </abbr> (210) 829-8770
                 </address></div>

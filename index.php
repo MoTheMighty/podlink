@@ -24,7 +24,7 @@
        
         <!-- Google+ -->
         <meta itemprop="name" content="Alamo Family Foot & Ankle Care San Antonio's most trusted podiatrist"/>
-        <meta itemprop="description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
+        <meta itemprop="description" content="As the premiere podiatrist in San Antonio, we offer services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
         <meta itemprop="audience" content="Patients"/>
                 <meta itemprop="image" content=""/>
                         <meta itemprop="alternativeHeadline" content="Alamo Family Foot and Ankle Care"/>
@@ -191,8 +191,8 @@
 
 
  <section class="container">
- <div class="lead">
-  <blockquote>We consistently have satisfied patients and in our most recent patient survey 91% of our patients "agreed" or "strongly agreed" with the statement, "I was satisfied with my medical care."  Our practice routinely receives comments stating, ”was offered treatment that was better than I was offered in another office," “doctor explained my condition, outlined my recovery and explained the expected results and possible future needs" and “Doctor was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand."</blockquote>          
+ <div class="lead"> 
+  <blockquote>We consistently have satisfied patients and in our most recent patient survey 91% of our patients "agreed" or "strongly agreed" with the statement, "I was satisfied with my medical care."  Our practice routinely receives comments stating, "was offered treatment that was better than I was offered in another office," "doctor explained my condition, outlined my recovery and explained the expected results and possible future needs" and “Doctor was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand."</blockquote>          
   </div><!-- lead -->
   </section>  <!-- container -->     
 

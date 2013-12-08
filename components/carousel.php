@@ -16,7 +16,7 @@
     <!-- Wrapper for slides -->
       <div class="carousel-inner">
           <div class="item active">
-            <img src="/images/carousel/group.jpg" class="img-responsive" alt="...">
+            <span itemprop="image"><img src="/images/carousel/group.jpg" class="img-responsive" alt="group image doctors of alamo family foot and ankle care in san antonio"></span>
            
           </div>
 
