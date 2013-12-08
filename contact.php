@@ -4,7 +4,7 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html lang="en-US"itemscope itemtype="http://schema.org/Contactpage">
+<html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
   <head>
     <title>Contact Form for Alamo Family Foot & Ankle Care</title>
     <meta charset="utf-8">
@@ -30,7 +30,7 @@
         <meta itemprop="audience" content="patients"/>
         <meta itemprop="image" content=""/>
         <meta itemprop="alternativeHeadline" content="Contact Alamo Family Foot Care"/>
-        <meta itemprop="podiatric"/>
+        
         
                 
               
