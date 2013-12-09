@@ -151,7 +151,7 @@
                   <abbr title="Fax">F: </abbr>  (210) 829-8770
                 </address></div>
               <div class="tab-pane fade" id="profile">
-              <address>
+              <address><div class="address" itemprop="address" itemtype="http://schema.org/postalAddress">
                   <strong><span itemprop="name">Alamo Family Foot & Ankle Care - Alamo Heights</span></strong><br>
                   <span itemscope="streetAddress">7424 Broadway</span><br>
                   
@@ -160,7 +160,7 @@
                   <abbr title="Fax">F: </abbr> (210) 829-8770
                 </address></div>
               <div class="tab-pane fade" id="messages">
-                   <address>
+                   <address><div class="address" itemprop="address" itemtype="http://schema.org/postalAddress">
                   <strong><span itemprop="name">Alamo Family Foot & Ankle Care - Stone Oak</span></strong><br>
                   <span itemscope="streetAddress">9502 Huebner Rd.<br>
                   Building 2, Suite 201</span><br>
