@@ -93,7 +93,7 @@
     </div>          
 <hr><div itemscope itemtype="http://schema.org/professionalservice">
  <div itemprop="review" itemscope itemtype="http://schema.org/Review">
-                 <h3>Survey Comments and Reviews:</h3> <p><span itemscope="reviewbody">”was offered treatment that was better than I was offered in another office.”<br /> <br />
+                 <h3>Survey Comments and Reviews:</h3> <p><span itemscope="description">”was offered treatment that was better than I was offered in another office.”<br /> <br />
 “Excellent customer service provided by the entire staff. Doctors office was clean and organized.”</span></div></div><br /> <br />
 “appt availability, was taken back to exam room very quickly.”<br /> <br />
 “My concerns were answered. A treatment plan was agreed upon. I'm very confident that I will be back to my normal life style without issue.”<br /> <br />
