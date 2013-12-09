@@ -93,17 +93,17 @@
     </div>          
 <hr><div itemscope itemtype="http://schema.org/professionalservice">
  <div itemprop="review" itemscope itemtype="http://schema.org/Review">
-                 <h3>Survey Comments and Reviews:</h3> <p><span itemscope="description">”was offered treatment that was better than I was offered in another office.”<br /> <br />
-“Excellent customer service provided by the entire staff. Doctors office was clean and organized.”</span></div></div><br /> <br />
-“appt availability, was taken back to exam room very quickly.”<br /> <br />
-“My concerns were answered. A treatment plan was agreed upon. I'm very confident that I will be back to my normal life style without issue.”<br /> <br />
-“prompt friendly and caring service.”<br /> <br />
-“My daughter is 9. She was scared. Thank you for talking TO her and not just us. (parents)”<br /> <br />
-“The environment was very friendly and clean.”<br /> <br />
-“It was a short wait to see the doctor. He was very nice, understanding, and explained my situation well to me.”<br /> <br />
-“The doctor explained everything and didnt seemed rushed.”<br /> <br />
-“I'm there often enough to know Doctor and the staff and I like all of them.”<br /> <br />
-“I like the fact that the Dr. explained in detail about my foot problem. He also listened and validated to what I was experiencing and did not make me feel like I was talking nonsense. ”<br /> <br />
+                 <h3>Survey Comments and Reviews:</h3> <p><span itemscope="description">”was offered treatment that was better than I was offered in another office.”</span><br /> <br />
+<span itemscope="description">“Excellent customer service provided by the entire staff. Doctors office was clean and organized.”</span><br /> <br />
+<span itemscope="description">“appt availability, was taken back to exam room very quickly.”</span><br /> <br />
+<span itemscope="description">“My concerns were answered. A treatment plan was agreed upon. I'm very confident that I will be back to my normal life style without issue.”</span><br /> <br />
+<span itemscope="description">“prompt friendly and caring service.”</span><br /> <br />
+<span itemscope="description">“My daughter is 9. She was scared. Thank you for talking TO her and not just us. (parents)”</span><br /> <br />
+<span itemscope="description">“The environment was very friendly and clean.”</span><br /> <br />
+<span itemscope="description">“It was a short wait to see the doctor. He was very nice, understanding, and explained my situation well to me.”</span><br /> <br />
+<span itemscope="description">“The doctor explained everything and didnt seemed rushed.”</span><br /> <br />
+<span itemscope="reviewBody">“I'm there often enough to know Doctor and the staff and I like all of them.”</span><br /> <br />
+<span itemscope="description">“I like the fact that the Dr. explained in detail about my foot problem. He also listened and validated to what I was experiencing and did not make me feel like I was talking nonsense. ”</span><br /> <br /></div></div>
 “The office is impressive with how clean everything is  the decor is lovely. However, I especially like Dr's bedside manner. I felt comfortable in talking with him. His drawing needs a little work (joke).”<br /> <br />
 “He stayed later to see me when I called desperate for help.”<br /> <br />
 “Doctor takes his time and explains everything in detail. He is very accommodating.”<br /> <br />
