@@ -94,7 +94,7 @@
 
   <section class="container">
       <div class="row">
-         <div class="col-lg-12 col-md-12">
+         <div class="col-lg-3 col-md-3" style="padding-top:120px;">
              <p><span itempscope="photo"><img src="../../images/chaney.png" alt="Dr. D. Martin Chaney, DPM" class="img-rounded"></span></p>
                   
 
@@ -112,7 +112,7 @@
                   <div class="visible-xs"> 
                     <div class="layoutspacing2"></div>
                   </div><!-- visible-xs -->
-
+  <?php include '../components/social_chaney.php'; ?>
   
     </div><!-- row -->
     <div class="layoutspacing2"></div>

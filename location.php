@@ -4,9 +4,40 @@
      "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
-<html>
-  <head>
-    <title>Locations | Alamo Family Foot & Ankle Care</title>
+<html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
+
+    <head>
+          <title>Locations Map For Alamo Family Foot & Ankle Care</title>
+        <meta property="twitter:account_id" content=""/>
+        <link rel="canonical" href=""/>
+        <!-- fb -->
+        <meta name="og:title" content="Locations Map For Alamo Family Foot & Ankle Care<"/>
+        <meta name="og:url" content="podlink.com/location.php"/>
+        <meta name="og:description" content="location maps for  our Podiatry offices in the San Antonio area"/>
+        <meta name="og:image" content=""/>
+        
+        <!-- twitter -->
+        <meta name="Twitter:card" content="summary"/>
+        <meta name="Twitter:site" content="@"/>
+        <meta name="Twitter:creator" content="@"/>
+        <meta name="Twitter:title" content=""/>
+        <meta name="Twitter:url" content=""/>
+        <meta name="Twitter:description" content=""/>
+        <meta name="Twitter:image"/>
+
+        <!-- Google+ -->
+        <meta itemprop="name" content="Locations Map For Alamo Family Foot & Ankle Care<"/>
+        <meta itemprop="description" content="location maps for  our Podiatry offices in the San Antonio area"/>
+        <meta itemprop="audience" content=""/>
+        <meta itemprop="image" content=""/>
+        <meta itemprop="alternativeHeadline" content=""/>
+                
+              
+        <link rel="author" href="http://plus.google.com/113774021362941412953" />
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+ 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -63,8 +94,8 @@
     </section><!-- container -->
   </div><!-- navibar -->
 
-
-    <div id="map-canvas"></div>
+  <span itemprop="map">
+    <div id="map-canvas"></div></span>
     
      
 

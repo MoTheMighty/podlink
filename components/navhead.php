@@ -55,6 +55,7 @@
                   <li class="divider"></li>
                   <li><a href="#"><strong>Ankle</strong></a></li>
                   <li class="divider"></li>
+                  <li><a href="../pathology/anklesprain.php">Ankle Sprains</a></li>
                    <li><a href="../pathology/achillestendonitis.php">Achilles Tendonitis</a></li>
                   <li><a href="../pathology/anklefracture.php">Ankle Fractures</a></li>
                   <li><a href="../pathology/arthritis.php">Arthritis</a></li>
@@ -69,6 +70,7 @@
               <ul class="dropdown-menu">
                 <li><a href="../resources/npforms.php">New Patient Forms</a></li>
                 <li><a href="../resources/faq.php">Frequent Asked Questions</a></li>
+                <li><a href="../resources/survey.php">Patient Satisfaction Survey</a></li>
                 <li><a href="../resources/hippa.pdf">Privacy Practices</a></li>
                 <li><a href="../resources/soakinginstructions.pdf">In-office surgery aftercare instructions</a></li>
                <li><a href="../resources/pfstretches.pdf">Stretching for Plantar Fasciitis</a></li>
