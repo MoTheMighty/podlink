@@ -90,11 +90,11 @@
   
 <h2>Patient Satisfaction Survey Results</h2>
                   <h3>We are pleased to share the results of our most recent patient satisfaction survey. These reviews represent feedback we received from our patients following their appointment.</h3><img src="/images/surveyresults.jpg" alt="Podiatrist Review Results - Alamo Family Foot Care" align="absmiddle" style="width:100%;border-width:0px;" /><img src="/images/surveyresults2.jpg" alt="Podiatrist Review Results - Alamo Family Foot Care" align="absmiddle" style="width:100%;border-width:0px;" />
-              
-<hr>
+    </div>          
+<hr><div itemscope itemtype="http://schema.org/professionalservice">
  <div itemprop="review" itemscope itemtype="http://schema.org/Review">
                  <h3>Survey Comments and Reviews:</h3> <p><span itemscope="reviewbody">”was offered treatment that was better than I was offered in another office.”<br /> <br />
-“Excellent customer service provided by the entire staff. Doctors office was clean and organized.”</span></div><br /> <br />
+“Excellent customer service provided by the entire staff. Doctors office was clean and organized.”</span></div></div><br /> <br />
 “appt availability, was taken back to exam room very quickly.”<br /> <br />
 “My concerns were answered. A treatment plan was agreed upon. I'm very confident that I will be back to my normal life style without issue.”<br /> <br />
 “prompt friendly and caring service.”<br /> <br />
