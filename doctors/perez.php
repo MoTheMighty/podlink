@@ -31,10 +31,11 @@
         <!-- Google+ -->
         <meta itemprop="name" content="Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, Tx"/>
         <meta itemprop="description" content="Dr. Richard Perez is a board certified podiatrist whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
-        <meta itemprop="audience" content="patients"/>
-        <meta itemprop="photo" content="../../images/perez.png"/>
-        <meta itemprop="alternativeHeadline" content="Dr. Richard Perez, DPM"/>
-        <meta itemprop="medicalspecialty" content="podiatric"/>
+       
+        <meta itemprop="photo" content="http://podlink.com/images/perez.png"/>
+        <meta itemprop="medicalSpecialty" content="podiatry"/>
+       
+        
                 
               
         <link rel="author" href="http://plus.google.com/113774021362941412953" />
@@ -70,7 +71,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p><span itemprop="podiatric">Richard Perez, DPM, FACFAS</span><p>
+        <p><span itemprop="name">Richard Perez, DPM, FACFAS</span><p>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
@@ -91,7 +92,7 @@
   <section class="container">
       <div class="row">
          <div class="col-lg-3 col-md-3" style="padding-top:85px;">
-             <p><span itemprop="photo"><img src="../../images/perez.png" alt="Dr. Richard Perez, DPM" class="img-rounded"></span></p>
+             <p><span itemprop="photo"><img src="../../images/perez.png" itemprop="photo" alt="Dr. Richard Perez, DPM" class="img-rounded"></span></p>
                   
 
                   <div class="socialenlarge">
@@ -119,7 +120,7 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-<span itemscope="event">Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997</span>, following completion of his fellowship and residency in 
+Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in 
 advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center. 
 Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medicine and Surgery.
 </div><!-- col-lg-8 -->
@@ -155,8 +156,8 @@ Dr. Perez is a graduate of Des Moines University’s College of Podiatric Medici
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He is board certified by the American Board of Podiatric Surgery and a Fellow of the American College of Foot and Ankle 
-Surgeons. He has lectured to professional societies on various aspects of cutting edge techniques in foot and ankle treatment. 
+He is board certified by the <span itemprop="member">American Board of Podiatric Surgery</span> and a <span itemprop="member">Fellow of the American College of Foot and Ankle 
+Surgeons</span>. He has lectured to professional societies on various aspects of cutting edge techniques in foot and ankle treatment. 
 His scholarly publications include works on extra corporeal shock wave treatment and revisional surgical techniques.
 </div><!-- col-lg-8 -->
 <hr>
@@ -169,7 +170,7 @@ His scholarly publications include works on extra corporeal shock wave treatment
 <section class="container">
 <hr>
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He also serves as assistants clinical professor in the Department of Orthopedics at the University of Texas Health Science Center. 
+He also serves as assistants <span itemprop="member">clinical professor in the Department of Orthopedics at the University of Texas Health Science Center</span>. 
 His areas of clinical interest include: bunion surgeries which emphasize early mobility and maximal cosmetic appearance, minimally 
 invasive trauma reconstruction, sports injuries and diabetic wounds.
 </div><!-- col-lg-8 -->

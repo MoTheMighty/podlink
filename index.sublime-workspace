@@ -92,19 +92,34 @@
 	"buffers":
 	[
 		{
-			"file": "resources/testamonial",
+			"file": "contact.php",
 			"settings":
 			{
-				"buffer_size": 11263,
-				"line_ending": "Unix",
-				"name": "<h3>Dr. Strash:</h3> <p>To date one of the best Do"
+				"buffer_size": 7524,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".htaccess",
+			"file": "about.php",
 			"settings":
 			{
-				"buffer_size": 4127,
+				"buffer_size": 5954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/picturelineup2.php",
+			"settings":
+			{
+				"buffer_size": 2071,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pathology/charcot.php",
+			"settings":
+			{
+				"buffer_size": 8773,
 				"line_ending": "Unix"
 			}
 		},
@@ -112,7 +127,7 @@
 			"file": "components/seoMarkup",
 			"settings":
 			{
-				"buffer_size": 1316,
+				"buffer_size": 1284,
 				"line_ending": "Unix",
 				"name": "<html lang=\"en-US\"itemscope itemtype=\"http://schem"
 			}
@@ -162,12 +177,17 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/components/social_chaney.php",
-		"/Applications/MAMP/htdocs/doctors/chaney.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
-		"/Applications/MAMP/htdocs/resources/survey.php",
+		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/resources/testamonial",
+		"/Applications/MAMP/htdocs/.htaccess",
+		"/Applications/MAMP/htdocs/components/social_chaney.php",
+		"/Applications/MAMP/htdocs/doctors/chaney.php",
+		"/Applications/MAMP/htdocs/resources/survey.php",
 		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php",
@@ -175,11 +195,9 @@
 		"/Applications/MAMP/htdocs/images/pathology/AS3 (1).jpg",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/contact.php",
-		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
-		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/php/search/swiftype.php",
 		"/Applications/MAMP/htdocs/php/search/test.php",
 		"/Applications/MAMP/htdocs/php/search/example.php",
@@ -209,9 +227,7 @@
 		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
 		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
 		"/Applications/MAMP/htdocs/components/gpsmodal.php",
-		"/Applications/MAMP/htdocs/.htaccess",
 		"/Applications/MAMP/htdocs/pathology/arthritis.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
 		"/Applications/MAMP/htdocs/pathology/faq.php",
 		"/Applications/MAMP/htdocs/resources/npforms.pdf",
@@ -297,6 +313,7 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"signsorsymptoms",
 			"24.173.104.250",
 			"&amp;",
 			"&nbsp;",
@@ -390,229 +407,141 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "resources/testamonial",
+					"file": "contact.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11263,
+						"buffer_size": 7524,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								11263,
-								11263
+								1196,
+								1196
 							]
 						],
 						"settings":
 						{
-							"auto_name": "<h3>Dr. Strash:</h3> <p>To date one of the best Do",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 473.0,
+						"translation.y": 5.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": ".htaccess",
+					"file": "about.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4127,
+						"buffer_size": 5954,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								166,
-								166
-							],
-							[
-								265,
-								265
-							],
-							[
-								339,
-								339
-							],
-							[
-								401,
-								401
-							],
-							[
-								460,
-								460
-							],
-							[
-								531,
-								531
-							],
-							[
-								588,
-								588
-							],
-							[
-								648,
-								648
-							],
-							[
-								717,
-								717
-							],
-							[
-								787,
-								787
-							],
-							[
-								864,
-								864
-							],
-							[
-								986,
-								986
-							],
-							[
-								1116,
-								1116
-							],
-							[
-								1230,
-								1230
-							],
-							[
-								1346,
-								1346
-							],
-							[
-								1458,
-								1458
-							],
-							[
-								1576,
-								1576
-							],
-							[
-								1695,
-								1695
-							],
-							[
-								1817,
-								1817
-							],
-							[
-								1955,
-								1955
-							],
-							[
-								2065,
-								2065
-							],
-							[
-								2184,
-								2184
-							],
-							[
-								2318,
-								2318
-							],
-							[
-								2446,
-								2446
-							],
-							[
-								2576,
-								2576
-							],
-							[
-								2715,
-								2715
-							],
-							[
-								2847,
-								2847
-							],
-							[
-								2974,
-								2974
-							],
-							[
-								3082,
-								3082
-							],
-							[
-								3193,
-								3193
-							],
-							[
-								3314,
-								3314
-							],
-							[
-								3442,
-								3442
-							],
-							[
-								3556,
-								3556
-							],
-							[
-								3679,
-								3679
-							],
-							[
-								3822,
-								3822
-							],
-							[
-								3963,
-								3963
-							],
-							[
-								4097,
-								4097
+								1716,
+								1716
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 41.0,
+						"translation.y": 438.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
-				}
-			]
-		},
-		{
-			"selected": 0,
-			"sheets":
-			[
+				},
 				{
 					"buffer": 2,
-					"file": "components/seoMarkup",
+					"file": "components/picturelineup2.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1316,
+						"buffer_size": 2071,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1316,
-								92
+								706,
+								652
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 129.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pathology/charcot.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8773,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4840,
+								4840
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 83.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "components/seoMarkup",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1284,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								96,
+								1284
 							]
 						],
 						"settings":
@@ -648,12 +577,6 @@
 				0,
 				1,
 				1
-			],
-			[
-				0,
-				1,
-				1,
-				2
 			]
 		],
 		"cols":
@@ -664,7 +587,6 @@
 		"rows":
 		[
 			0.0,
-			0.662131519274,
 			1.0
 		]
 	},

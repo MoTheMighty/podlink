@@ -1,7 +1,7 @@
 
 <div id="push"></div>
 </section><!-- wrap -->
-<footer>
+<footer itemscope itemtype="http://schema.org/podiatric">
 
 <section id="footer">
 	

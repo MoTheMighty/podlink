@@ -27,13 +27,13 @@ and diabetic limb salvage."/>
         <meta name="Twitter:title" content=""/>
         <meta name="Twitter:url" content=""/>
         <meta name="Twitter:description" content="Dr. Mechell is a board qualified podiatrist whos has extensive training in foot and ankle reconstructive surgery, limb deformity correction, nerve decompression procedures, 
-and diabetic limb salvage."/>
+        and diabetic limb salvage."/>
         <meta name="Twitter:image"/>
 
         <!-- Google+ -->
         <meta itemprop="name" content="Dr. R. Jordan Mechell - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX"/>
         <meta itemprop="description" content="Dr. Mechell is a board qualified podiatrist whos has extensive training in foot and ankle reconstructive surgery, limb deformity correction, nerve decompression procedures, 
-and diabetic limb salvage."/>
+         and diabetic limb salvage."/>
         <meta itemprop="audience" content="patients"/>
         <meta itemprop="photo" content="../../images/jordan.png"/>
         <meta itemprop="alternativeHeadline" content="Dr. R, Jordan Mechell, DPM"/>

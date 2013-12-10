@@ -47,12 +47,13 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
         <section class="picline">
 
-         <img src="images/perez.png" class="img-rounded">
-        <h6>Richard Perez, DPM, FACFAS</h6>
+          <div itemscope itemtype="http://schema.org/podiatric">
+         <img src="images/perez.png" itemprop="photo" class="img-rounded">
+        <h6 itemprop="name">Richard Perez, DPM, FACFAS</h6>
             <hr>
-        <p>Dr. Perez joined Alamo Family Foot and Ankle Care in 1997, following completion of his fellowship and residency in advanced reconstructive foot and ankle surgery with emphasis on trauma at Broadlawns Medical Center. </p>
+        <p itemprop="description">Dr. Perez joined Alamo Family Foot and Ankle Care in 1997, following completion of his fellowship and residency in advanced reconstructive foot and ankle surgery with emphasis on trauma at Broadlawns Medical Center. </p>
         <a href="../../doctors/perez.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
-
+        </div><!-- schema markup -->
 
         </section> <!-- doc 2 -->
     </div><!-- col -->

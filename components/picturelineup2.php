@@ -22,8 +22,10 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
         <section class="thumbnail">
           <div class="center">
-         <span itemscope="photo"><img src="images/perez.png" class="img-rounded"></span>
-        <h5><span itemscope="physician">Richard Perez, DPM, FACFAS</span></h5>
+          <div itemscope itemtype="http://schema.org/podiatric">
+         <img src="images/perez.png" itemprop="photo" class="img-rounded">
+        <h5 itemprop="name">Richard Perez, DPM, FACFAS</h5>
+          </div><!-- schema markup -->
           </div><!-- center -->
            <hr> 
         <a href="../../doctors/perez.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>

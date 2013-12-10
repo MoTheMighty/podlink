@@ -33,11 +33,11 @@ Drs. Perez and Chaney's fellowship training includes trauma and deformity recons
         <meta itemprop="description" content="Our Podiatrist are board certified in advanced reconstructive techniques in foot and ankle surgery. 
 Drs. Perez and Chaney fellowship training includes trauma and deformity reconstruction."/>
         <meta itemprop="audience" content="patients"/>
-                <meta itemprop="image" content=""/>
-                        <meta itemprop="alternativeHeadline" content="About Us"/>
+        <meta itemprop="photo" content=""/>
+        <meta itemprop="alternativeHeadline" content="About Us"/>
                 
               
-                <link rel="author" href="http://plus.google.com/113774021362941412953" />
+        <link rel="author" href="http://plus.google.com/113774021362941412953" />
         
         <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
         <link rel="icon" href="/favicon.ico" type="image/x-icon">

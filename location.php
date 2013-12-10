@@ -26,11 +26,17 @@
         <meta name="Twitter:image"/>
 
         <!-- Google+ -->
-        <meta itemprop="name" content="Locations Map For Alamo Family Foot & Ankle Care<"/>
+        <meta itemprop="name" content="Locations Map For Alamo Family Foot & Ankle Care"/>
         <meta itemprop="description" content="location maps for  our Podiatry offices in the San Antonio area"/>
         <meta itemprop="audience" content=""/>
         <meta itemprop="image" content=""/>
         <meta itemprop="alternativeHeadline" content=""/>
+        <meta itemprop="map" content"https://www.google.com/maps/preview#!data=!1m4!1m3!1d4267!2d-98.590796!3d29.529615!4m16!3m15!1m0!1m4!3m2!3d29.5295963!4d-98.5911179!6e2!3m8!1m3!1d55551!2d-98.606231!3d29.5175395!3m2!1i1024!2i768!4f13.1&fid=0"/>
+        <div itemprop="geo" itemscope itemtype="http://schema.org/GeoCoordinates">
+         <meta itemprop="latitude" content="29.5295963" />
+        <meta itemprop="longitude" content="-98.5911179" />
+        </div>
+
                 
               
         <link rel="author" href="http://plus.google.com/113774021362941412953" />
@@ -94,15 +100,15 @@
     </section><!-- container -->
   </div><!-- navibar -->
 
-  <span itemprop="map">
-    <div id="map-canvas"></div></span>
+
+    <div id="map-canvas"></div>
     
      
 
 <!-- footer -->
-<div style="margin-top: -70px">
+
    <?php include 'components/footer.php'; ?>
-   </div>
+  
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

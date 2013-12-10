@@ -28,7 +28,7 @@
         <meta itemprop="name" content="Contact Form for Alamo Family Foot & Ankle Care"/>
         <meta itemprop="description" content="Contact form for alamo family foot care.  Address of each office included"/>
         <meta itemprop="audience" content="patients"/>
-        <meta itemprop="image" content=""/>
+        <meta itemprop="" content=""/>
         <meta itemprop="alternativeHeadline" content="Contact Alamo Family Foot Care"/>
         
         
