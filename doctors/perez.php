@@ -202,6 +202,47 @@ Dr. Perez lives in San Antonio, Texas with his wife and two children. He is an a
 the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He is responsible for development and programming of this website.
 </div><!-- col-lg-8 -->
 
+
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-11">
+ <hr>
+ 
+       
+<div class="panel panel-default">
+<div class="panel-heading"><h4>Patient Reviews</h4></div>
+<div class="panel-body">
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+ <div class="center">
+          
+            <section class="iconsizing" style="margin-top: 50%;">
+              <span class="glyphicons pen"></span>
+            </section><!-- icon -->
+ </div><!-- center -->  
+ </div><!-- col 4 -->
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+<p itemprop="review">I just wanted to express my thanks and appreciation for the wonderful treatment and care Dr. Perez showed to me following my recent Bunion surgery.</p> <p>I travel from the Rio Grand Valley to San Antonio for all my Podiatry needs because I heard from a relative that Dr. Perez is the best podiatrist. I have lived with bunion pain for many years and thanks to Dr. Richard Perez excellent medical practice I am pain free. I could not thank him enough he has changed my life, no one should have to learn to live with pain and he has taught me that.</p> <p>Dr. Perez demonstrated total commitment into caring for me when I was helpless in the days immediately following the operation and also gave me the support and encouragement I needed to take my first steps on the road to my recovery which meant so much to me.</p>
+
+<hr>
+</div><!-- col 8 -->
+
+
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+<p itemprop="review">I would like to give Dr. Perez a thousand thanks for being an excelling doctor and having a beautiful, humane personality. I would highly recommend him to anyone. For 13 years I have had diabetes and I have never known a doctor like him. He is the one who saved my feet. <span itemprop="review">Other doctors have told me my feet cannot be saved, but Dr. Perez did not give up on me. He knows what he is doing, he is fast, but more importantly, he treats you like a person. I give thanks to God for putting him in my life and for helping so many people with foot problems.</p>
+</div><!-- col 8 -->
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+ <div class="center">
+          
+            <section class="iconsizing" style="margin-top: 30%;">
+              <span class="glyphicons pen"></span>
+            </section><!-- icon -->
+ </div><!-- center -->  
+ </div><!-- col 4 -->
+
+
+</div><!-- panelbody -->
+</div><!-- panel -->
+
 </section><!-- container -->
 
 

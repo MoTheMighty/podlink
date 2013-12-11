@@ -50,6 +50,10 @@
       <script src="js/html5shiv.js"></script>
       <script src="js/respond.min.js"></script>
     <meta http-equiv="X-UA-Compatible" content="IE=9">
+
+
+
+
   </head>
 
   <body id="home">
@@ -155,7 +159,7 @@
           <h2>Experience</h2>
           <hr>
           
-        <p>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. <p>
+        <h7>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. </h7>
       </div> <!-- center--> 
 
     </section><!-- col col-lg -->
@@ -190,13 +194,25 @@
 
 
 
+
  <section class="container">
- <div class="lead"> 
-  <blockquote>We consistently have satisfied patients and in our most recent patient survey 91% of our patients "agreed" or "strongly agreed" with the statement, "I was satisfied with my medical care."  Our practice routinely receives comments stating, "was offered treatment that was better than I was offered in another office," "doctor explained my condition, outlined my recovery and explained the expected results and possible future needs" and “Doctor was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand."</blockquote>          
-  </div><!-- lead -->
-  </section>  <!-- container -->     
+ <hr>
+        <div class="lead col-lg-6 center"> 
+            <div class="layoutspacing2"></div>
+            <p>We consistently have satisfied patients.  In our most recent patient survey 91% of our patients "strongly agreed" or "agreed" with the statement, "I was satisfied with my medical care."  </p>      
+        </div><!-- lead -->
+  <div class="col-lg-6">
+        <div id="piechart" style="height: 400px; width: 700px; margin-top: 0px;"> </div><!-- piechart -->
+        
+    </div><!-- col -->
+
+</section>  <!-- container -->     
+
+
+
 
 <div class="layoutspacing2">
+  <div class="container"><hr></div>
 </div>
     
              <?php include 'components/picturelineup.php'; ?>
@@ -217,6 +233,30 @@
     <script src="js/modernizr.js"></script>
 
 
+    <!-- google charts script -->
+     <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type="text/javascript">
+      google.load("visualization", "1", {packages:["corechart"]});
+      google.setOnLoadCallback(drawChart);
+      function drawChart() {
+        var data = google.visualization.arrayToDataTable([
+          ['Task', 'Hours per Day'],
+          ['Strongly Agree / Agree',     140],
+          
+          ['Neutral',  9],
+          ['Disagree', 4]
+
+        ]);
+
+        var options = {
+          title: '"I was satisfied with my medical care"'
+        };
+
+        var chart = new google.visualization.PieChart(document.getElementById('piechart'));
+        chart.draw(data, options);
+      }
+     </script>
+     <!-- end google charts script -->
 
   </body>
 </html>

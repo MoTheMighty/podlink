@@ -88,7 +88,7 @@
 
   <section class="container">
       <div class="row">
-         <div class="col-lg-12 col-md-12">
+         <div class="col-lg-3 col-md-3">
              <p><img src="../../images/wally.png" alt="Dr. Walter Strash DPM" class="img-rounded"></p>
                   
 
@@ -106,10 +106,10 @@
                   <div class="visible-xs"> 
                     <div class="layoutspacing2"></div>
                   </div><!-- visible-xs -->
-
+ <?php include '../components/social_strash.php'; ?>
   
     </div><!-- row -->
-    <div class="layoutspacing2"></div>
+    <div class="layoutspacing"></div>
     <hr>
 </section><!-- container-->
 

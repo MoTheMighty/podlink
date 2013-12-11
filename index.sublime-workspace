@@ -91,47 +91,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "contact.php",
-			"settings":
-			{
-				"buffer_size": 7524,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "about.php",
-			"settings":
-			{
-				"buffer_size": 5954,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/picturelineup2.php",
-			"settings":
-			{
-				"buffer_size": 2071,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pathology/charcot.php",
-			"settings":
-			{
-				"buffer_size": 8773,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/seoMarkup",
-			"settings":
-			{
-				"buffer_size": 1284,
-				"line_ending": "Unix",
-				"name": "<html lang=\"en-US\"itemscope itemtype=\"http://schem"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -177,27 +136,36 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/js/custom.js",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/components/social_strash.php",
+		"/Applications/MAMP/htdocs/doctors/chaney.php",
+		"/Applications/MAMP/htdocs/doctors/strash.php",
+		"/Applications/MAMP/htdocs/test.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/doctors/perez.php",
+		"/Applications/MAMP/htdocs/components/seoMarkup",
+		"/Applications/MAMP/htdocs/components/social_perez.php",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/.htaccess",
+		"/Applications/MAMP/htdocs/resources/survey.php",
+		"/Applications/MAMP/htdocs/pathology/bunions.php",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/components/picturelineup2.php",
+		"/Applications/MAMP/htdocs/pathology/charcot.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
-		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
-		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/resources/testamonial",
-		"/Applications/MAMP/htdocs/.htaccess",
 		"/Applications/MAMP/htdocs/components/social_chaney.php",
-		"/Applications/MAMP/htdocs/doctors/chaney.php",
-		"/Applications/MAMP/htdocs/resources/survey.php",
 		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php",
 		"/Applications/MAMP/htdocs/blog/monckebergs.php",
 		"/Applications/MAMP/htdocs/images/pathology/AS3 (1).jpg",
-		"/Applications/MAMP/htdocs/components/footer.php",
-		"/Applications/MAMP/htdocs/contact.php",
-		"/Applications/MAMP/htdocs/doctors/strash.php",
-		"/Applications/MAMP/htdocs/about.php",
-		"/Applications/MAMP/htdocs/components/picturelineup2.php",
 		"/Applications/MAMP/htdocs/php/search/swiftype.php",
 		"/Applications/MAMP/htdocs/php/search/test.php",
 		"/Applications/MAMP/htdocs/php/search/example.php",
@@ -205,7 +173,6 @@
 		"/Applications/MAMP/htdocs/resources/faq.php",
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
 		"/Applications/MAMP/htdocs/resources/npforms.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/_/less/bootstrap.less",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
@@ -214,14 +181,12 @@
 		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
 		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
 		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
-		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
 		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
 		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
 		"/Applications/MAMP/htdocs/pathology/neuroma.php",
 		"/Applications/MAMP/htdocs/pathology/gout.php",
 		"/Applications/MAMP/htdocs/pathology/haglunds.php",
 		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
-		"/Applications/MAMP/htdocs/pathology/charcot.php",
 		"/Applications/MAMP/htdocs/pathology/eswt.php",
 		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
 		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
@@ -235,7 +200,6 @@
 		"/Applications/MAMP/htdocs/resources/newpatientforms.pdf",
 		"/Applications/MAMP/htdocs/images/pathology/hammertoe.jpg",
 		"/Applications/MAMP/htdocs/images/pathology/hammertoeanantomy.jpg",
-		"/Applications/MAMP/htdocs/pathology/bunions.php",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/forefoot/bunions.php",
 		"/Applications/MAMP/htdocs/page.aspx",
@@ -248,11 +212,8 @@
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/php/examples/simple.php",
-		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/components/social.php",
-		"/Applications/MAMP/htdocs/js/custom.js",
-		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicon_social.less",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
 		"/Applications/MAMP/htdocs/components/team.php",
@@ -313,6 +274,11 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"reviewbody",
+			"<br /> <br />",
+			"style=\"margin: 0px 0px 10px; padding: 0px;\"",
+			"itemscope",
+			"...",
 			"signsorsymptoms",
 			"24.173.104.250",
 			"&amp;",
@@ -407,156 +373,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "contact.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7524,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1196,
-								1196
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 5.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "about.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5954,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1716,
-								1716
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 438.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "components/picturelineup2.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2071,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								706,
-								652
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 129.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pathology/charcot.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 8773,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4840,
-								4840
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true,
-							"word_wrap": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 83.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "components/seoMarkup",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1284,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								96,
-								1284
-							]
-						],
-						"settings":
-						{
-							"auto_name": "<html lang=\"en-US\"itemscope itemtype=\"http://schem",
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],

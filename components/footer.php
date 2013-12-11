@@ -31,12 +31,12 @@
 
 								<ul class="list-unstyled">
 									
-									<small><a href="../location.php"<li>Locations</li></a>
-									<a href="../contact.php"<li>Contact</li></a>
-									<a href="../resources/npforms.php"<li>Patient Forms</li></a>
-									<a href="../conditions.php"<li>Learning Center</li></a>
-									<a href="../resources/faq.php"<li>FAQ</li></a>
-									<a href="../#"><li>HIPPA Privacy Policy</li></small></a>
+									<small><a href="../location.php"><li>Locations</li></a>
+									<a href="../contact.php"><li>Contact</li></a>
+									<a href="../resources/npforms.php"><li>Patient Forms</li></a>
+									<a href="../conditions.php"><li>Learning Center</li></a>
+									<a href="../resources/faq.php"><li>FAQ</li></a>
+									<a href="../#"><li>HIPPA Privacy Policy</li></a></small>
 								</ul>	
 				
 </div>
