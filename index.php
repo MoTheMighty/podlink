@@ -199,7 +199,7 @@
  <hr>
         <div class="lead col-lg-6 center"> 
             <div class="layoutspacing2"></div>
-            <p>We consistently have satisfied patients.  In our most recent patient survey 91% of our patients "strongly agreed" or "agreed" with the statement, "I was satisfied with my medical care."  </p>      
+            <p>We consistently have satisfied patients.  In our most recent patient survey, 91% of our patients "strongly agreed" or "agreed" with the statement, "I was satisfied with my medical care."  </p>      
         </div><!-- lead -->
   <div class="col-lg-6">
         <div id="piechart" style="height: 400px; width: 700px; margin-top: 0px;"> </div><!-- piechart -->
