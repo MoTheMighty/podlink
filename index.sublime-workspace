@@ -91,6 +91,54 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "pathology/achillestendonitis.php",
+			"settings":
+			{
+				"buffer_size": 4662,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/social.php",
+			"settings":
+			{
+				"buffer_size": 576,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "doctors/perez.php",
+			"settings":
+			{
+				"buffer_size": 10674,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 8532,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 4130,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/navhead.php",
+			"settings":
+			{
+				"buffer_size": 6354,
+				"line_ending": "Windows"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -136,6 +184,9 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/sitemap.rb",
 		"/Applications/MAMP/htdocs/js/custom.js",
 		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
@@ -144,7 +195,6 @@
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
@@ -156,7 +206,6 @@
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
 		"/Applications/MAMP/htdocs/pathology/charcot.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
@@ -373,8 +422,180 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "pathology/achillestendonitis.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4662,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/social.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "doctors/perez.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3002,
+								2955
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 857.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8532,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6425,
+								6425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2562.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4130,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								401,
+								401
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "components/navhead.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6354,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6321,
+								6321
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1027.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],

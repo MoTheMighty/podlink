@@ -189,8 +189,6 @@
 </section><!-- container -->
 </section>
 
-<div class="layoutspacing2">
-</div>
 
 
 
@@ -201,10 +199,15 @@
             <div class="layoutspacing2"></div>
             <p>We consistently have satisfied patients.  In our most recent patient survey, 91% of our patients "strongly agreed" or "agreed" with the statement, "I was satisfied with my medical care."  </p>      
         </div><!-- lead -->
-  <div class="col-lg-6">
+  <div class="col-lg-6 hidden-xs">
         <div id="piechart" style="height: 400px; width: 700px; margin-top: 0px;"> </div><!-- piechart -->
         
     </div><!-- col -->
+
+  <div class="visible-xs">
+        <div id="piechart" style=""> </div><!-- piechart -->
+        
+    </div><!-- col -->  
 
 </section>  <!-- container -->     
 

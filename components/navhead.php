@@ -123,5 +123,6 @@ function () {
     </ul>
   </div><!-- /.navbar-collapse -->
   </div> <!-- container -->
-
+  <?php include '../components/social.php'; ?>
+  <?php include 'components/social.php'; ?>
 </nav>
