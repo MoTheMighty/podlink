@@ -1,3 +1,4 @@
+
 <?php
     
     namespace AlphaMail\Examples;
@@ -33,5 +34,5 @@
     {
         printf("Error! %s (%s)", $exception->getMessage(), $exception->getErrorCode());
     }
-
+    header("Location: ../index.php");
 ?>
