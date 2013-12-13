@@ -28,11 +28,11 @@
     try
     {
         $response = $email_service->queue($payload);
-        printf("Mail successfully sent! ID = %s", $response->result);
+        printf('<a href="../podlink.com/index.php">Mail</a> successfully sent! ID = %s', $response->result);
     }
     catch(ServiceException $exception)
     {
         printf("Error! %s (%s)", $exception->getMessage(), $exception->getErrorCode());
     }
-    header("Location: http://www.podlink.herokuapp.com/index.php");
+
 ?>
