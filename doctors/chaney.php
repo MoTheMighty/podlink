@@ -78,7 +78,7 @@
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li><a href="../../about.php">About</a></li>
             <li class="active">Dr. D. Martin Chaney</li>
         </ol><!-- breadcrumb -->
@@ -98,15 +98,7 @@
              <p><span itempscope="photo"><img src="../../images/chaney.png" alt="Dr. D. Martin Chaney, DPM" class="img-rounded"></span></p>
                   
 
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social google_plus"></span></a>
-                  </div>
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social youtube" style="margin-left:70px;"></span></a>
-                  </div>
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social facebook" style="margin-left:140px;"></span></a>
-                  </div>
+                   <?php include '../components/socialicons.php'; ?>
 
         </div><!-- col -->
                   <div class="visible-xs"> 

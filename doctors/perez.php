@@ -75,7 +75,7 @@
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li><a href="../../about.php">About</a></li>
             <li class="active">Dr. Richard Perez</li>
         </ol><!-- breadcrumb -->
@@ -94,16 +94,8 @@
          <div class="col-lg-3 col-md-3" style="padding-top:85px;">
              <p><span itemprop="photo"><img src="../../images/perez.png" itemprop="photo" alt="Dr. Richard Perez, DPM" class="img-rounded"></span></p>
                   
-
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social google_plus"></span></a>
-                  </div>
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social youtube" style="margin-left:70px;"></span></a>
-                  </div>
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social facebook" style="margin-left:140px;"></span></a>
-                  </div>
+               <?php include '../components/socialicons.php'; ?>
+                  
 
         </div><!-- col -->
                   <div class="visible-xs"> 

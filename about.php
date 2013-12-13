@@ -74,7 +74,7 @@ Drs. Perez and Chaney fellowship training includes trauma and deformity reconstr
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li class="active">About</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
@@ -88,7 +88,7 @@ Drs. Perez and Chaney fellowship training includes trauma and deformity reconstr
 
  <?php include 'components/picturelineup2.php'; ?>
 
-<section class="container">
+<section class="container page-header">
 <hr>
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Our physicians are board certified in advanced reconstructive techniques in foot and ankle surgery. 
@@ -119,7 +119,7 @@ therapies and treatment that optimize patient outcomes, and individually they of
 </div><!-- linespacing -->
 
 
-<section class="container">
+<section class="container page-header">
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
@@ -164,7 +164,7 @@ giving our patients a full spectrum of treatment choices to maximize their recov
 
 
                
-   <div class="layoutspacing3"></div>
+   <div class="layoutspacing2"></div>
 
 <!-- footer -->
 

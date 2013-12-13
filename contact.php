@@ -72,7 +72,7 @@
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li class="active">Contact</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
@@ -149,7 +149,9 @@
                   <span itemscope="addressLocality">San Antonio</span>, <span itemscope="addressRegion">TX</span> <span itemscope="postalCode">78240</span> <br>
                   <abbr title="Phone">P: </abbr>  (210) 829-8770<br>
                   <abbr title="Fax">F: </abbr>  (210) 829-8770
-                </address></div>
+                </address>
+                <img src="/images/mc.jpg" class="img-thumbnail img-responsive">
+                </div>
               <div class="tab-pane fade" id="profile">
               <address><div class="address" itemprop="address" itemtype="http://schema.org/postalAddress">
                   <strong><span itemprop="name">Alamo Family Foot & Ankle Care - Alamo Heights</span></strong><br>
@@ -158,7 +160,9 @@
                   <span itemscope="addressLocality">San Antonio</span>, <span itemscope="addressRegion">TX</span> <span itemscope="postalCode">78209</span><br> 
                   <abbr title="Phone">P: </abbr>  (210) 829-8770 <br>
                   <abbr title="Fax">F: </abbr> (210) 829-8770
-                </address></div>
+                </address>
+                <img src="/images/ah.jpg" class="img-thumbnail img-responsive">
+                </div>
               <div class="tab-pane fade" id="messages">
                    <address><div class="address" itemprop="address" itemtype="http://schema.org/postalAddress">
                   <strong><span itemprop="name">Alamo Family Foot & Ankle Care - Stone Oak</span></strong><br>
@@ -169,7 +173,9 @@
                   <abbr title="Fax">F: </abbr> (210) 829-8770 
                   </div><!-- itemscope -->
              
-                </address></div>
+                </address>
+                <img src="/images/stoneoak.jpg" class="img-thumbnail img-responsive">
+                </div>
               </div>
               
             </div><!-- tab0content -->

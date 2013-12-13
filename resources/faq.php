@@ -37,7 +37,7 @@
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="../../index.php">Home</a></li>
-            <li><a href="../../pathology.php">Conditions</a></li>
+            <li><a href="#">Resources</a></li>
             <li class="active">FAQ</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->

@@ -77,7 +77,7 @@
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="index.php">Home</a></li>
-            <li><a href="../../about.php">Conditions</a></li>
+            <li><a href="/pathology/pathology.php">Conditions</a></li>
             <li class="active">Plantar Fasciitis</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->

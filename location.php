@@ -92,7 +92,7 @@
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
-            <li><a href="#">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li class="active">Locations</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
@@ -101,8 +101,18 @@
   </div><!-- navibar -->
 
 
+<div class="container center page-header">
+
+  <h1>  Hover or touch map-pins for more information </h1>  
+
+
+</div> <!-- container -->
+
+
+<!-- googlemap api -->
+<div class="container">
     <div id="map-canvas"></div>
-    
+</div>   <!-- container -->
      
 
 <!-- footer -->

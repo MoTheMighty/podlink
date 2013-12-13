@@ -6,7 +6,7 @@
 
 <html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
   <head>
-    <title>Alamo Family Foot & Ankle Care San Antonio's - Most Trusted Podiatrist</title>
+    <title>Alamo Family Foot & Ankle Care San Antonio's - Most Trusted Podiatrists</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

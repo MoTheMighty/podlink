@@ -70,7 +70,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Satisfaction<p>
+        <p>Patient Reviews<p>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
@@ -86,10 +86,10 @@
   <!-- end navibar -->
 <div class="layoutspacing2"></div>
 
-<div class="container">
+<div class="container page-header">
   
-<h2>Patient Satisfaction Survey Results</h2>
-                  <h3>We are pleased to share the results of our most recent patient satisfaction survey. These reviews represent feedback we received from our patients following their appointment.</h3><img src="/images/surveyresults.jpg" alt="Podiatrist Review Results - Alamo Family Foot Care" align="absmiddle" style="width:100%;border-width:0px;" /><img src="/images/surveyresults2.jpg" alt="Podiatrist Review Results - Alamo Family Foot Care" align="absmiddle" style="width:100%;border-width:0px;" />
+<h2>Patient Satisfaction Survey Results</p>
+                  <small>We are pleased to share the results of our most recent patient satisfaction survey. These reviews represent feedback we received from our patients following their appointment.</small></h2><img src="/images/surveyresults.jpg" alt="Podiatrist Review Results - Alamo Family Foot Care" align="absmiddle" style="width:100%;border-width:0px;" /><img src="/images/surveyresults2.jpg" alt="Podiatrist Review Results - Alamo Family Foot Care" align="absmiddle" style="width:100%;border-width:0px;" />
           
 <hr>
  
@@ -116,49 +116,7 @@
 <p itemprop="review">“Staff  Doctor were extremely nice  eased my fears.”</p>
 <p itemprop="review">“They know how to handle scaredy cat patients.”</p>
 <p itemprop="review">“Location, prompt, courteous and cheerful.”</p> 
-<p itemprop="review">I was offered treatment that was better than I was offered in another office.</p> 
-<p  itemprop="review">Excellent customer service provided by the entire staff. Doctors office was clean and organized.</p> 
-<p  itemprop="review">appt availability, was taken back to exam room very quickly</p> 
-<p  itemprop="review">My concerns were answered. A treatment plan was agreed upon. I'm very confident that I will be back to my normal life style without issue.</p> 
-<p  itemprop="review">prompt friendly and caring service</p> 
-<p  itemprop="review">My daughter is 9. She was scared. Thank you for talking TO her and not just us. (parents)</p> 
-<p  itemprop="review">The environment was very friendly and clean.</p> 
-<p  itemprop="review">It was a short wait to see the doctor. He was very nice, understanding, and explained my situation well to me.</p> 
-<p  itemprop="review">The doctor explained everything and didnt seemed rushed</p> 
-<p  itemprop="review">I'm there often enough to know Dr. Chaney and the staff and I like all of them.</p> 
-<p  itemprop="review">I like the fact that the Dr. Chaney explained in detail about my foot problem. He also listened and validated to what I was experiencing and did not make me feel like I was talking nonsense.</p> 
-<p  itemprop="review">The office is impressive with how clean everything is  the decor is lovely. However, I especially like Dr. Chaney's bedside manner. I felt comfortable in talking with him. His drawing needs a little work (joke).</p> 
-<p  itemprop="review">He stayed later to see me when I called desperate for help.</p> 
-<p  itemprop="review">Dr. C takes his time and explains everything in detail. He is very accommodating.</p> 
-<p  itemprop="review">THE STAFF, OFFICE AND THE WAY I WAS TREATED........STRONGLY SATISFIED.</p> <p >Dr. Perez explained my condition, outlined my recovery and explained the expected reults and possible future needs.</p> <p >The visit was fast and informative.</p> 
-<p  itemprop="review">Virtually no waiting !</p> 
-<p  itemprop="review">You and your staff are very professional. I enjoy coming to see you, because my feet tell me when I need expert medical issues taken care.</p> 
-<p  itemprop="review">Dr Strash was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand.</p> <p >Staff  Dr Stash were extremely nice  eased my fears</p> 
-<p  itemprop="review">They know how to handle scaredy cat patients.</p> 
-<p  itemprop="review">Location, prompt, courteous and cheerful</p> 
-<p  itemprop="review">I was offered treatment that was better than I was offered in another office.</p> 
-<p  itemprop="review">Excellent customer service provided by the entire staff. Doctors office was clean and organized.</p> 
-<p  itemprop="review">appt availability, was taken back to exam room very quickly</p> 
-<p  itemprop="review">My concerns were answered. A treatment plan was agreed upon. I'm very confident that I will be back to my normal life style without issue.</p> 
-<p itemprop="review" >prompt friendly and caring service</p> 
-<p  itemprop="review">My daughter is 9. She was scared. Thank you for talking TO her and not just us. (parents)</p> 
-<p  itemprop="review">The environment was very friendly and clean.</p> 
-<p  itemprop="review">It was a short wait to see the doctor. He was very nice, understanding, and explained my situation well to me.</p> 
-<p  itemprop="review">The doctor explained everything and didnt seemed rushed</p> 
-<p  itemprop="review">I'm there often enough to know Dr. Chaney and the staff and I like all of them.</p> 
-<p  itemprop="review">I like the fact that the Dr. Chaney explained in detail about my foot problem. He also listened and validated to what I was experiencing and did not make me feel like I was talking nonsense.</p> 
-<p  itemprop="review">The office is impressive with how clean everything is  the decor is lovely. However, I especially like Dr. Chaney's bedside manner. I felt comfortable in talking with him. His drawing needs a little work (joke).</p> 
-<p  itemprop="review">He stayed later to see me when I called desperate for help.</p> 
-<p  itemprop="review">Dr. C takes his time and explains everything in detail. He is very accommodating.</p> 
-<p  itemprop="review">THE STAFF, OFFICE AND THE WAY I WAS TREATED........STRONGLY SATISFIED.</p> 
-<p  itemprop="review">Dr. Perez explained my condition, outlined my recovery and explained the expected reults and possible future needs.</p> 
-<p  itemprop="review">The visit was fast and informative.</p> 
-<p  itemprop="review">Virtually no waiting !</p> 
-<p  itemprop="review">You and your staff are very professional. I enjoy coming to see you, because my feet tell me when I need expert medical issues taken care.</p> 
-<p  itemprop="review">Dr Strash was very knowledgeable and patient. He gave me a thorough explanation about my problem in a way that was easy to understand.</p> 
-<p  itemprop="review">Staff  Dr Stash were extremely nice  eased my fears</p> 
-<p  itemprop="review">They know how to handle scaredy cat patients.</p> 
-<p  itemprop="review">Location, prompt, courteous and cheerful</p>
+
 
 </div><!-- container -->
 

@@ -74,7 +74,7 @@ and diabetic limb salvage."/>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="/index.php">Home</a></li>
             <li><a href="../../about.php">About</a></li>
             <li class="active">Dr. R. Jordan Mechell</li>
         </ol><!-- breadcrumb -->
@@ -94,15 +94,7 @@ and diabetic limb salvage."/>
              <p><span itemprop="photo"><img src="../../images/jordan.png" alt="Dr. R. Jordan Mechell, DPM" class="img-rounded"></span></p>
                   
 
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social google_plus"></span></a>
-                  </div>
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social youtube" style="margin-left:70px;"></span></a>
-                  </div>
-                  <div class="socialenlarge">
-                    <a href="#"> <span class="social facebook" style="margin-left:140px;"></span></a>
-                  </div>
+                   <?php include '../components/socialicons.php'; ?>
 
         </div><!-- col -->
                   <div class="visible-xs"> 
