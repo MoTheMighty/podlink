@@ -34,5 +34,5 @@
     {
         printf("Error! %s (%s)", $exception->getMessage(), $exception->getErrorCode());
     }
-    header("Location: ../index.php");
+    header("Location: http://www.podlink.herokuapp.com/index.php");
 ?>
