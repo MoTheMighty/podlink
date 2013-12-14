@@ -3,11 +3,11 @@
 </section><!-- wrap -->
 <footer itemscope itemtype="http://schema.org/podiatric">
 
-<section id="footer">
+<section id="footer" >
 	
-  
+
      
-			<div class="container">
+			<div class="container" >
 				<div class="col col-lg-1"></div>
 
 				
