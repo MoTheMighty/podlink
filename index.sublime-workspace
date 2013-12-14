@@ -136,6 +136,8 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/php/examples/simple.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/pathology/pathology.php",
 		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/pathology/arthritis.php",
@@ -178,7 +180,6 @@
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/.htaccess",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/sitemap.rb",
 		"/Applications/MAMP/htdocs/js/custom.js",
@@ -215,7 +216,6 @@
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
 		"/Applications/MAMP/htdocs/php/examples/advanced.php",
-		"/Applications/MAMP/htdocs/php/examples/simple.php",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicon_social.less",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
