@@ -1,4 +1,3 @@
-
 <?php
     
     namespace AlphaMail\Examples;
@@ -25,7 +24,7 @@
         ->setReceiver(new EmailContact("podlink contact request", "alamofamilyfoot@gmail.com"))
         ->setBodyObject($message);
     
-     try
+    try
     {
         $response = $email_service->queue($payload);
         printf("Mail successfully sent! ID = %s", $response->result);
