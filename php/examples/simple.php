@@ -23,7 +23,7 @@
         ->setSender(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
         ->setReceiver(new EmailContact("podlink contact request", "alamofamilyfoot@gmail.com"))
         ->setBodyObject($message);
-   header(‘Location: contact.php?s=’.urlencode(‘Thank you for your message.’)); exit;
+  
     try
     {
         $response = $email_service->queue($payload);
