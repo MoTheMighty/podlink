@@ -77,15 +77,17 @@
                
               </ul>
                      <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="dropdown" data-target="#"> <span class="glyphicon glyphicon-search"></span></a>
+                        <a class="dropdown-toggle" data-toggle="modal" data-target="#searchmodals"> <span class="glyphicon glyphicon-search"></span></a>
+
+                        <?php include 'components/searchmodal.php'; ?>
                            <ul class="dropdown-menu">
+                           
                            <form class="navbar-form navbar-left" role="search">
                             <div class="form-group">
-                              <input id="search-query" type="text" class="search-query" placeholder="Search All"><button type="submit" style="margin-top:3px; float-right" class="btn btn-primary">Submit</button>
+                              <input id="search-query" name="s" type="text" class="search-query" placeholder="Search All"><button type="submit" style="margin-top:3px; float-right" class="btn btn-primary">Submit</button>
                             </div>
                             
                     </form>
-
 
 <!-- google analytics -->
 <script type="text/javascript">
@@ -139,6 +141,5 @@ function () {
     </ul>
   </div><!-- /.navbar-collapse -->
   </div> <!-- container -->
-  <?php include '../components/social.php'; ?>
-  <?php include 'components/social.php'; ?>
+
 </nav>
