@@ -175,8 +175,49 @@ His hobbies include water sports and Taekwondo along with spending most weekends
 <hr>
 </section><!-- container -->
 
-<!-- 3 -->
 
+
+<div class="container">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-11">
+ <hr>
+ 
+<!-- 3 -->
+<div class="panel panel-default">
+<div class="panel-heading"><h4>Patient Reviews</h4></div>
+<div class="panel-body">
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+ <div class="center">
+          
+            <section class="iconsizing" style="margin-top: 70%;">
+              <span class="glyphicons pen"></span>
+            </section><!-- icon -->
+ </div><!-- center -->  
+ </div><!-- col 4 -->
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+<p>You helped my fracture go from fractured to fabulous! I fractured my toe this July... I am a competitive Irish Dancer and cannot dance with a fracture! I went to Alamo Family Foot and Ankle Care on Broadway, and was put in a boot for 6 weeks, the healing went awesome and I was out of the boot in no time! I still had pain when I danced and so Dr. Strash sent us to PT. The PT physicians were awesome, he picked the right people for me! We had a blast! I easily recovered and now am back dancing!But, just last week at dance class I had pain in my heel. I knew it was Sever's disease and after talking to Dr. Strash... he put me in a night time splint and in spenco heel lifts with sneakers. I don't feel any pain now and it's only been 6 days!! I need more shoes  but can only wear ones that support my arch because I have a high arch. So Dr. Strash gave my mom a prescription for Chacos and Merrels so we have a tax deduction for a good, supportive pair of shoes! Dr. Strash is the reason I can still dance today and this December travel to D.C. for regionals which I would not be able to compete in without the Alamo Family Foot and Ankle Care! Being a growing kid, I have lots of problems with my feet, but I now know exactly what to do if I have any pain... Call Alamo Family Foot and Ankle Care!! You guys are lifesavers! Thank You sooooooooooooo much!!!</p>
+
+<hr>
+</div><!-- col 8 -->
+
+
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+<p itemprop="review">
+<p>You can not improve more than now. You are great and it is me that needs to work more with my feet and ankle. Thank you for everything.</p> <p>Happy Holidays with all my heart for being there whenever I have needed you.</p>
+</div><!-- col 8 -->
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+ <div class="center">
+          
+            <section class="iconsizing" style="margin-top: 10%;">
+              <span class="glyphicons pen"></span>
+            </section><!-- icon -->
+ </div><!-- center -->  
+ </div><!-- col 4 -->
+
+
+</div><!-- panelbody -->
+</div><!-- panel -->
 
 
 <!-- footer -->

@@ -256,7 +256,7 @@
                                       <ul>
 
                                        
-                                          <li><a href="/treatments-and-conditions/conditions/forefoot/bunions/bunionsurgery.aspx" sfref="[Sitefinity]e039b23b-17c8-4ca4-9348-68b3ce04f345"><strong>Before and After Pictures of Bunion Surgery</strong></a></li>
+                                          <li><strong>Before and After Pictures of Bunion Surgery</strong></a></li>
                                       </ul>
 
 
