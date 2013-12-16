@@ -33,14 +33,14 @@
 
     <div class="container center">
   
-      <img src="/images/404.jpg" class="img-responsive img-rounded center">
+      <img src="/images/404.jpg" class="img-responsive img-rounded centerpod">
         <div class="jumbotron" style="margin-top: 10px;">
               <h3>Oh noos...the page you are looking for no longer exits.</p>  <small> You may find these links helpful</small></h3>
        
 
         <h4><a href="/pathology/pathology.php" style="padding-right:15px;">Common Foot and Ankle Problems</a> 
-        <a href="contact.php" style="padding-right:15px;"> Contact Us </a>
-        <a href="about.php"> About Us </a></h4>
+        <a href="/contact.php" style="padding-right:15px;"> Contact Us </a>
+        <a href="/about.php"> About Us </a></h4>
        </div><!-- jumbotron -->
        </div><!-- container center -->
             <div class="container">
