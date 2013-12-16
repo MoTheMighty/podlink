@@ -42,4 +42,4 @@ Redirect 301 /treatments-and-conditions/conditions/fractures/fifthmetfractures.a
 Redirect 301 /treatments-and-conditions/conditions/skin/IngrownToenails.aspx http://podlink.com/pathology/ingrowntoenail.php
 Redirect 301 /treatments-and-conditions/conditions/ankleproblems/tarsalcoalition.aspx http://podlink.com/pathology/tarsalcoalition.php
 
-
+ErrorDocument 404     /404.php

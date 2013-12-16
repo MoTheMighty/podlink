@@ -104,24 +104,7 @@
 
 </script>
 <!-- google analytics -->
-<script>    // script to keep search field open in navbar                
-$("ul.nav li.dropdown").hover(
 
-function () {
-    $('.dropdown-menu').show();
-    
-    $(this).addClass('open');
-},
-
-function () {
-    if (!$("#search-query").is(':focus')){
-        $(this).removeClass('open');
-    } else if ( !$( '.events' ).is( ':hover' ) ) {
-        $("#search-query").blur();
-        $('.dropdown-menu').hide();
-    }
-});
-</script>
 
 
 
