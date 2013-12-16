@@ -33,7 +33,7 @@
 
     <div class="container center">
   
-      <img src="/images/404.jpg" class="img-responsive img-rounded centerpod">
+      <img src="/images/404.jpg" class="img-responsive img-rounded center">
         <div class="jumbotron" style="margin-top: 10px;">
               <h3>Oh noos...the page you are looking for no longer exits.</p>  <small> You may find these links helpful</small></h3>
        

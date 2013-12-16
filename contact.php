@@ -93,12 +93,12 @@
   <div class="col-lg-4 col-md-4 col-sm-4">
   <form method="POST" action="php/examples/simple.php">
     <div class="form-group">
-      <label for="firstname">First Name: </label>
-      <input type="text" name="first_name" class="form-control" id="firstname" placeholder="First Name">
+      <label for="firstname">Name: </label>
+      <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name">
     </div><!-- formgroup firstname -->
     <div class="form-group">
-      <label for="lastname">Last Name:</label>
-      <input type="text" name="last_name" class="form-control" id="lastname" placeholder="Last Name">
+      <label for="lastname">Telephone:</label>
+      <input type="tel" name="last_name" class="form-control" id="lastname" placeholder="Telephone Number">
     </div><!-- lastname -->
     <form role="form">
     <div class="form-group">
@@ -142,38 +142,15 @@
            
             <div class="tab-content" style="padding: 0px 60px;">
               <div class="tab-pane fade in active" id="home">
-                <address><div class="address" itemprop="address" itemtype="http://schema.org/postalAddress">
-                  <strong><span itemprop="name">Alamo Family Foot & Ankle Care - Medical Center</span></strong><br>
-                  <span itemscope="streetAddress">9502 Huebner Rd.<br>
-                  Building 2, Suite 201</span><br>
-                  <span itemscope="addressLocality">San Antonio</span>, <span itemscope="addressRegion">TX</span> <span itemscope="postalCode">78240</span> <br>
-                  <abbr title="Phone">P: </abbr>  (210) 829-8770<br>
-                  <abbr title="Fax">F: </abbr>  (210) 829-8770
-                </address>
+                  <?php include 'components/medcenteraddress.php'; ?>
                 <img src="/images/mc.jpg" class="img-thumbnail img-responsive">
                 </div>
               <div class="tab-pane fade" id="profile">
-              <address><div class="address" itemprop="address" itemtype="http://schema.org/postalAddress">
-                  <strong><span itemprop="name">Alamo Family Foot & Ankle Care - Alamo Heights</span></strong><br>
-                  <span itemscope="streetAddress">7424 Broadway</span><br>
-                  
-                  <span itemscope="addressLocality">San Antonio</span>, <span itemscope="addressRegion">TX</span> <span itemscope="postalCode">78209</span><br> 
-                  <abbr title="Phone">P: </abbr>  (210) 829-8770 <br>
-                  <abbr title="Fax">F: </abbr> (210) 829-8770
-                </address>
+                    <?php include 'components/ahaddress.php'; ?>
                 <img src="/images/ah.jpg" class="img-thumbnail img-responsive">
                 </div>
               <div class="tab-pane fade" id="messages">
-                   <address><div class="address" itemprop="address" itemtype="http://schema.org/postalAddress">
-                  <strong><span itemprop="name">Alamo Family Foot & Ankle Care - Stone Oak</span></strong><br>
-                  <span itemscope="streetAddress">9502 Huebner Rd.<br>
-                  Building 2, Suite 201</span><br>
-                  <span itemscope="addressLocality">San Antonio</span>, <span itemscope="addressRegion">TX</span> <span itemscope="postalCode">78258</span><br></span>
-                  <abbr title="Phone">P: </abbr> (210) 829-8770<br>
-                  <abbr title="Fax">F: </abbr> (210) 829-8770 
-                  </div><!-- itemscope -->
-             
-                </address>
+                   <?php include 'components/stoneoakaddress.php'; ?>
                 <img src="/images/stoneoak.jpg" class="img-thumbnail img-responsive">
                 </div>
               </div>

@@ -92,28 +92,18 @@
 	"buffers":
 	[
 		{
-			"contents": "Searching 232 files for \"conditions\" (regex, case sensitive)\n\n/Applications/MAMP/htdocs/.htaccess:\n   18: Redirect 301 /treatments-and-conditions/conditions/heel/heel-pain.aspx http://podlink.com/pathology/heel-pain.php\n   19: Redirect 301 /treatments-and-conditions/conditions/forefoot/bunions/bunionsurgery.aspx http://podlink.com/pathology/bunions.php\n   20: Redirect 301 /treatments-and-conditions/conditions/forefoot/bunions.aspx http://podlink.com/pathology/bunions.php\n   21: Redirect 301 /treatments-and-conditions/conditions/ankleproblems/pttd.aspx http://podlink.com/pathology/pttd.php\n   22: Redirect 301 /treatments-and-conditions/conditions/forefoot/neuromas.aspx http://podlink.com/pathology/neuroma.php\n   23: Redirect 301 /treatments-and-conditions/conditions/skin/IngrownToenails.aspx http://podlink.com/pathology/ingrowntoenails.php\n   24: Redirect 301 /treatments-and-conditions/conditions/forefoot/gout.aspx http://podlink.com/pathology/gout.php\n   25: Redirect 301 /treatments-and-conditions/conditions/fractures/fifthmetfractures.aspx http://podlink.com/pathology/fifthmetatarsalfracture.php\n   26: Redirect 301 /treatments-and-conditions/conditions/heel/shockwave-treatment.aspx http://podlink.com/pathology/eswt.php\n   27: Redirect 301 /treatments-and-conditions/conditions/skin/nailfungus.aspx http://podlink.com/pathology/nailfungus.php\n   28: Redirect 301 /treatments-and-conditions/conditions/heel/seversdisease.aspx http://podlink.com/pathology/calcanealaphophysitis.php\n   29: Redirect 301 /treatments-and-conditions/conditions/ankleproblems/peroneal.aspx http://podlink.com/pathology/peronealtendonitis.php\n   30: Redirect 301 /treatments-and-conditions/conditions/forefoot/hammertoes.aspx http://podlink.com/pathology/hammertoes.php\n   31: Redirect 301 /treatments-and-conditions/conditions/ankleproblems/arthrodiastasis.aspx http://podlink.com/pathology/arthrodiastasis.php\n   32: Redirect 301 /treatments-and-conditions/conditions/ankleproblems/achilles-tendonitis.aspx http://podlink.com/pathology/achillestendonitis.php\n   33: Redirect 301 /treatments-and-conditions/conditions/fractures/anklefracture.aspx http://podlink.com/pathology/anklefracture.php\n   34: Redirect 301 /treatments-and-conditions/conditions/heel/haglunds-deformity.aspx http://podlink.com/pathology/haglunds.php\n   35: Redirect 301 /treatments-and-conditions/conditions/skin/wart.aspx http://podlink.com/pathology/wart.php\n   36: Redirect 301 /treatments-and-conditions/conditions/diabetes/charcot.aspx http://podlink.com/pathology/charcot.php\n   37: Redirect 301 /treatments-and-conditions/conditions/forefoot/hallux-rigidus.aspx http://podlink.com/pathology/halluxlimitus.php\n   38: Redirect 301 /treatments-and-conditions/conditions/fractures/stressfracture.aspx http://podlink.com/pathology/stressfracture.php\n   39: Redirect 301 /treatments-and-conditions/conditions/arthritis.aspx http://podlink.com/pathology/arthritis.php\n   40: Redirect 301 /treatments-and-conditions/conditions/diabetes/diabeticwounds.aspx http://podlink.com/pathology/diabeticfootcomplications.php\n   41: Redirect 301 /treatments-and-conditions/conditions/fractures/fifthmetfractures.aspx http://podlink.com/pathology/fifthmetatarsalstressfractures.php\n   42: Redirect 301 /treatments-and-conditions/conditions/skin/IngrownToenails.aspx http://podlink.com/pathology/ingrowntoenail.php\n   43: Redirect 301 /treatments-and-conditions/conditions/ankleproblems/tarsalcoalition.aspx http://podlink.com/pathology/tarsalcoalition.php\n\n/Applications/MAMP/htdocs/index.php:\n  147:         <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified physicians are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages.</p>\n\n/Applications/MAMP/htdocs/blog/monckebergs.php:\n    1: <br /> <p>Monckeberg's arteriosclerosis, also called medial calcific sclerosis, is a form of arteriosclerosis or vessel hardening, where calcium deposits form in the middle layer of the walls of medium sized vessels (the tunica media). It is often not clinical unless it is severe. This human medial calcification, Mönckeberg’s sclerosis, is common and occurs independently of atherosclerosis. It is more frequent in people over 50 years of age and diabetics. In advanced cases of Monckeberg's medial calcific sclerosis, vessels may become rigid and lose their distensibility. It can easily be seen as an opaque vessel on normal x-rays and purple material on histological slides. It is usually more benign than other forms of arteriosclerosis because it does not cause narrowing of the lumen,[4] but can still be associated with important medical conditions. Monckeberg's arteriosclerosis is most commonly found in the radial or ulnar arteries causing \"pipestem\" arteries, which will present as a bounding pulse at the end of the calcific zone. It may also result in \"pulselessness.\"It is associated with trophic foot ulceration and peripheral artery occlusive disease.Its presence predicts risk of cardiovascular events and leg amputation in diabetic patients.Mönckeberg's medial arteriosclerosis was diagnosed in 34 of 297 patients referred for pelvic radiography for a variety of reasons. It is strongly associated with metabolic bone disease, especially osteoporosis, whether induced by corticosteroids or arising spontaneously.</p>\n\n/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php:\n    1: Hammer Toes, Claw Toes, Mallet Toes, Curly Toes &amp; Webbed Toes are all toe deformities. Most of these conditions are caused by poorly fitting, tight shoes combined with a muscle imbalance. Two main muscles work<br /> <br /> <br />\n    3: These conditions can become extremely painful especially while walking due to the toe or toes pressing and rubbing against the shoe. Each of the above conditions involve a different toe joint or combination of joints. These deformities are called 'deformities of the lesser toes' because they usually affect all toes except the big (great) toe.<br /> <br />\n    4: The foot is a highly mechanical apparatus made of many bones, tendons, ligaments and other coordinated structures. The foot carries the entire weight of the body, and it propels us forward to stand, walk and run. Several common foot conditions--deformities of the toes--can cause extreme pain and loss of the function of the feet.<br /> <br />\n   10: While most toe deformities are a result of poorly fitting shoes, a claw toe is caused by muscle imbalance, and the imbalance may be due to conditions like rheumatoid arthritis, polio, neuromuscular disorders, a stroke or other conditions. A claw toe is a toe that is contracted at the middle and end joints and can occur in any toe except the big toe. It can lead to severe pain and pressure. The toe curls downward due to tendons and ligaments that have tightened. The top part of the toe rubs against the shoe causing discomfort at the top and the end of the toe. The toe is also pressed against the bottom of the shoe causing pain.<br /> <br />\n\n/Applications/MAMP/htdocs/components/footer.php:\n   37: 									<a href=\"../conditions.php\"><li>Learning Center</li></a>\n\n/Applications/MAMP/htdocs/pathology/bunions.php:\n  259:                                           <li><a href=\"/treatments-and-conditions/conditions/forefoot/bunions/bunionsurgery.aspx\" sfref=\"[Sitefinity]e039b23b-17c8-4ca4-9348-68b3ce04f345\"><strong>Before and After Pictures of Bunion Surgery</strong></a></li>\n\n/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php:\n   83:                   <h3>Diagnosis</h3> <p>A thorough history and physical will be performed by one of our podiatrist. X-rays are usually obtained along with an analysis of the child’s range of motion and walking patterns. An MRI is also sometimes ordered to rule out other more serious conditions.</p> <p><strong>Treatment</strong></p> <p><br /> Based on the history and physical findings, our podiatrist may select one or more of the following options to treat calcaneal apophysitis:</p> \n\n/Applications/MAMP/htdocs/pathology/gout.php:\n   73:                   In secondary gout, hyperuricemia is caused by drug therapy or by medical conditions other than an inborn metabolic disorder.<br /> <br />\n  118:                   Until recently a standard diagnostic test was administering a trial of the traditional antigout drug colchicine. Improvement in the patient's condition after taking the drug is an indication of gout. There are limitations, however, to this approach. Colchicine often has distressing side effects, including nausea, vomiting, diarrhea, and abdominal cramps when taken orally. In any event, its attractiveness as a diagnostic tool is limited because it can also relieve symptoms in other arthritic conditions, including pseudogout.<br /> <br /> </p> <h4>How Is Gout Treated?</h4> <p><br /> </p> <h4>General Guidelines.</h4> <p>\n  123:                   The goals of antihyperuricemic therapy are to reduce uric acid levels to normal, decrease the frequency of attacks, and to dissolve monosodium urate (MSU) crystals and tophi. Allopurinol and drugs known as uricosurics, which include probenecid and sulfinpyrazone, are available for these purposes and are all very effective. Which drug to prescribe depends on individual conditions [ see Specific Drugs for Long-Term Treatment, below]. When and if to prescribe them at all, however, is not entirely clear. Some physicians do not prescribe them if hyperuricemia is mild and not until a patient has had two attacks. Others prescribe them immediately after a single attack. It should be noted that any of these drugs can actually precipitate acute gout symptoms and so should not used until symptoms have subsided, and then the patient should start with small doses that gradually increase. Colchicine or an immediate-acting NSAID, such as naprosyn, should be given during the initial months of therapy to prevent symptoms attacks. Most of the time, antihyperuricemic therapy means taking a drug routinely throughout life, which many people find difficult to adhere to. In rare cases, surgery is used to treat the effects of chronic gout.<br /> <br /> </p> <h4>Specific Drugs Used for Acute Attacks.</h4> <p>\n\n/Applications/MAMP/htdocs/pathology/haglunds.php:\n   92:                     orthosis, physical therapy and extra corporeal <a title=\"shockwave treatment\" href=\"/treatments-and-conditions/shockwave-treatment.aspx\">shockwave treatment</a>.&nbsp;\n\n/Applications/MAMP/htdocs/pathology/heel-pain.php:\n  185:                       <p>This technology represent the latest innovation in the treatment of resistant plantar  fasciitis. We have been utilizing this modality since January of 2000 with excellent  results. <a title=\"Shock Wave Therapy\" href=\"/treatments-and-conditions/shockwave-treatment.aspx\">Learn more about Shock Wave Therapy</a></p>\n\n/Applications/MAMP/htdocs/pathology/neuroma.php:\n   66:                     <p>An intermetatarsal neuroma is any irritative process of the common digital nerve branch that supplies the plantar (bottom) of adjacent toes. It most commonly involves the nerve that supplies sensation to adjacent sides of the third and fourth toes, but can also affect other toes of the foot. A neuroma is not cancerous and is not a true tumor but a reactive, degenerative process such as a scar. Therefore, a neuroma is benign inflammation  (enlargement) of the nerve.</p> <h3 style=\"text-align: center;\"><img alt=\"Neuroma of the foot\" src=\"/images/pathology/mortonsneuroma.jpg\" /></h3> <div style=\"text-align: center;\"><img src=\"/images/pathology/neuroma.jpg\" alt=\"neuroma symptoms bottom of the foot\" /><img width=\"280\" height=\"360\" src=\"/images/pathology/neuromad.jpg\" alt=\"neuroma symptoms top of foot\" /></div> <p>Neuromas occur in all adults and are most common in females. Several factors contribute to its occurrence:</p> <ul> <li>High heeled shoes, </li> <li>trauma, </li> <li>inflammatory conditions such as arthritis</li> <li>repetitive trauma from stresses incurred in occupational and recreational activities. are some of these factors.</li> </ul> <p>Any condition that causes constriction or irritation to the nerve can lead to the development of a neuroma.</p>\n\n/Applications/MAMP/htdocs/pathology/pttd.php:\n   64:                   <p>Posterior tibial tendonitis is an inflammation of the posterior tibial tendon and its sheath. It affects this tendon as it runs from the inside of the ankle to the arch of the foot.</p> <p>Tendons are fibrous cords that connect muscles to bones. The posterior tibialis tendon helps maintain the arch of the foot and is used to turn the foot in (the medical term for this is “inversion”) and to help flex it (plantar flexion). Injury to this tendon can result in loss of function, primarily affecting push off from the ground with walking and running.</p> <p><strong>Causes</strong></p> <ul> <li>Too much running, dancing, or other athletic activity</li> <li>Trauma with high impact</li> <li><strong>Pronation</strong>, which is walking on the inner aspect of the foot. Walking this way alters the normal forces in the feet—the arch flattens and the foot turns outward. To compensate, the muscles work harder and become tired. This may lead to chronic inflammation of the tendon. Long term, it can cause the tendon to deteriorate, lengthen, and even completely rupture. If that happens, the foot flattens. This condition is called flatfoot deformity.</li> <li><strong>Aging.</strong> With age, the posterior tibial muscle and tendon may become weaker and cause flattening of the arch. This puts further stress on the tendon. Other foot conditions may contribute to loss of the arch over time.</li> <li><strong>Chronic inflammation</strong>, which is associated with rheumatoid arthritis or other arthritic conditions.</li> </ul> <p><strong>Risk Factors</strong></p> <ul> <li>A risk factor is something that increases your chance of getting a disease or condition. Risk factors for posterior tibial tendonitis include:</li> <li>History of rheumatoid arthritis or other arthritic conditions</li> <li>Running and jumping</li> <li>Dancing, for example ballet pointe work and excessive foot rotation</li> <li>Pronated feet</li> </ul>\n\n/Applications/MAMP/htdocs/pathology/stressfracture.php:\n   64:                     <p><img class=\"border-right\" alt=\"Stress Fracture\" src=\"/images/pathology/stress-fracture.png\" />A stress fracture is one type of incomplete fracture in bones. It is caused by \"unusual or repeated stress.\" This is in contrast to other types of fractures, which are usually characterized by a solitary, severe impact. It could be described as a very small sliver or crack in the bone; this is why it is sometimes dubbed \"hairline fracture\". It typically occurs in weight-bearing bones, such as the metatarsals(bones of the foot).</p> <p>It is a common sports injury, and most cases are associated with athletics.</p> <p><strong>Presentation</strong></p> <p>Stress fractures usually have only a few symptoms. A stress fracture could present as a generalized area of pain and tenderness associated with weight bearing. Usually when running, a stress fracture in the leg or foot will cause severe pain at the beginning of the run, moderate pain in the middle of the run, and severe pain at the end and after the run.</p> <p><strong>Causes</strong></p> <p>Bones are constantly attempting to remodel and repair themselves, especially during a sport where extraordinary stress is applied to the bone. Over time, if enough stress is placed on the bone that it exhausts the capacity of the bone to remodel, a weakened site—a stress fracture—on the bone may appear. The fracture does not appear suddenly. It occurs from repeated traumas, none of which is sufficient to cause a sudden break, but which, when added together, overwhelm the osteoblasts that remodel the bone.</p> <p>Stress fractures commonly occur in sedentary people who suddenly undertake a burst of exercise (whose bones are not used to the task). They may also occur in Olympic-class athletes who do extraordinary quantities of high-impact exercise, in professional and amateur distance runners who run high weekly mileage, or in soldiers who march long distances.</p> <p>Muscle fatigue can also play a role in the occurrence of stress fractures. Consider a human runner. With each stride, large forces are exerted at various places in the legs. Each shock—a rapid acceleration and energy transfer—must be absorbed. Both muscles and bones serve as shock absorber. However, the muscles, usually those in the lower leg, become fatigued after running a long distance and lose their ability to absorb shock. As the bones now experience larger stresses, this increases the risk of fracture.</p> <p>Previous stress fractures have been identified as a risk factor.</p><p><strong>Diagnosis</strong></p> <p>As with most conditions, a stress fracture is diagnosed with a history and physical exam.</p> <div style=\"float: right;\"><img alt=\"\" src=\"/images/pathology/strsfx2.jpg\" /></div> <p>X-rays usually do not show any evidence of stress fractures, so a CT scan, MRI, or bone scan may be more effective in unclear cases.</p>\n\n/Applications/MAMP/htdocs/php/LICENSE.md:\n   10: furnished to do so, subject to the following conditions:\n\n75 matches across 14 files\n",
+			"file": "schedule.php",
 			"settings":
 			{
-				"buffer_size": 17405,
-				"line_ending": "Unix",
-				"name": "Find Results",
-				"scratch": true
-			}
-		},
-		{
-			"file": "pathology/arthrodiastasis.php",
-			"settings":
-			{
-				"buffer_size": 2653,
+				"buffer_size": 2524,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": ".htaccess",
+			"file": "about.php",
 			"settings":
 			{
-				"buffer_size": 4130,
+				"buffer_size": 5987,
 				"line_ending": "Unix"
 			}
 		}
@@ -162,10 +152,22 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/.htaccess",
+		"/Applications/MAMP/htdocs/sitemap.xml",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/404.php",
+		"/Applications/MAMP/htdocs/search.php",
+		"/Applications/MAMP/htdocs/components/searchmodal.php",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/components/social.php",
+		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
-		"/Applications/MAMP/htdocs/components/footer.php",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
@@ -174,12 +176,9 @@
 		"/Applications/MAMP/htdocs/php/examples/simple.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
 		"/Applications/MAMP/htdocs/saturdayclinic.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/pathology/pathology.php",
 		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/pathology/arthritis.php",
-		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
 		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
 		"/Applications/MAMP/htdocs/pathology/charcot.php",
 		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
@@ -189,7 +188,6 @@
 		"/Applications/MAMP/htdocs/pathology/haglunds.php",
 		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
 		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
-		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
 		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
 		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
 		"/Applications/MAMP/htdocs/pathology/neuroma.php",
@@ -205,10 +203,6 @@
 		"/Applications/MAMP/htdocs/resources/survey.php",
 		"/Applications/MAMP/htdocs/resources/faq.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
-		"/Applications/MAMP/htdocs/about.php",
-		"/Applications/MAMP/htdocs/location.php",
-		"/Applications/MAMP/htdocs/components/social.php",
-		"/Applications/MAMP/htdocs/.htaccess",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/sitemap.rb",
 		"/Applications/MAMP/htdocs/js/custom.js",
@@ -285,8 +279,7 @@
 		"/Users/pod1098/Desktop/website/assets/js/jquery.scrollTo.js",
 		"/Users/pod1098/Desktop/website/assets/css/style.css",
 		"/Users/pod1098/Desktop/website/assets/js/jquery.nicescroll.js",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.maps.js",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.scrollTo.min.js"
+		"/Users/pod1098/Desktop/website/assets/js/jquery.maps.js"
 	],
 	"find":
 	{
@@ -405,365 +398,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "schedule.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 17405,
-						"regions":
-						{
-							"match":
-							{
-								"flags": 112,
-								"regions":
-								[
-									[
-										135,
-										145
-									],
-									[
-										146,
-										156
-									],
-									[
-										256,
-										266
-									],
-									[
-										267,
-										277
-									],
-									[
-										391,
-										401
-									],
-									[
-										402,
-										412
-									],
-									[
-										512,
-										522
-									],
-									[
-										523,
-										533
-									],
-									[
-										632,
-										642
-									],
-									[
-										643,
-										653
-									],
-									[
-										754,
-										764
-									],
-									[
-										765,
-										775
-									],
-									[
-										887,
-										897
-									],
-									[
-										898,
-										908
-									],
-									[
-										1002,
-										1012
-									],
-									[
-										1013,
-										1023
-									],
-									[
-										1150,
-										1160
-									],
-									[
-										1161,
-										1171
-									],
-									[
-										1276,
-										1286
-									],
-									[
-										1287,
-										1297
-									],
-									[
-										1399,
-										1409
-									],
-									[
-										1410,
-										1420
-									],
-									[
-										1536,
-										1546
-									],
-									[
-										1547,
-										1557
-									],
-									[
-										1674,
-										1684
-									],
-									[
-										1685,
-										1695
-									],
-									[
-										1801,
-										1811
-									],
-									[
-										1812,
-										1822
-									],
-									[
-										1943,
-										1953
-									],
-									[
-										1954,
-										1964
-									],
-									[
-										2092,
-										2102
-									],
-									[
-										2103,
-										2113
-									],
-									[
-										2226,
-										2236
-									],
-									[
-										2237,
-										2247
-									],
-									[
-										2355,
-										2365
-									],
-									[
-										2366,
-										2376
-									],
-									[
-										2466,
-										2476
-									],
-									[
-										2477,
-										2487
-									],
-									[
-										2587,
-										2597
-									],
-									[
-										2598,
-										2608
-									],
-									[
-										2721,
-										2731
-									],
-									[
-										2732,
-										2742
-									],
-									[
-										2857,
-										2867
-									],
-									[
-										2868,
-										2878
-									],
-									[
-										2973,
-										2983
-									],
-									[
-										2984,
-										2994
-									],
-									[
-										3119,
-										3129
-									],
-									[
-										3130,
-										3140
-									],
-									[
-										3274,
-										3284
-									],
-									[
-										3285,
-										3295
-									],
-									[
-										3406,
-										3416
-									],
-									[
-										3417,
-										3427
-									],
-									[
-										3674,
-										3684
-									],
-									[
-										4759,
-										4769
-									],
-									[
-										5621,
-										5631
-									],
-									[
-										5763,
-										5773
-									],
-									[
-										5908,
-										5918
-									],
-									[
-										6355,
-										6365
-									],
-									[
-										6612,
-										6622
-									],
-									[
-										6700,
-										6710
-									],
-									[
-										7199,
-										7209
-									],
-									[
-										7372,
-										7382
-									],
-									[
-										7383,
-										7393
-									],
-									[
-										7912,
-										7922
-									],
-									[
-										8261,
-										8271
-									],
-									[
-										8847,
-										8857
-									],
-									[
-										9373,
-										9383
-									],
-									[
-										10486,
-										10496
-									],
-									[
-										10872,
-										10882
-									],
-									[
-										12033,
-										12043
-									],
-									[
-										13720,
-										13730
-									],
-									[
-										13890,
-										13900
-									],
-									[
-										14162,
-										14172
-									],
-									[
-										16965,
-										16975
-									],
-									[
-										17365,
-										17375
-									]
-								],
-								"scope": ""
-							}
-						},
-						"selection":
-						[
-							[
-								17390,
-								17390
-							]
-						],
-						"settings":
-						{
-							"detect_indentation": false,
-							"line_numbers": false,
-							"output_tag": 1,
-							"result_base_dir": "",
-							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
-							"result_line_regex": "^ +([0-9]+):",
-							"scroll_past_end": true,
-							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "pathology/arthrodiastasis.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2653,
+						"buffer_size": 2524,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								970,
-								970
+								2103,
+								2103
 							]
 						],
 						"settings":
@@ -773,18 +425,18 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 202.0,
+						"translation.y": 368.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": ".htaccess",
+					"buffer": 1,
+					"file": "about.php",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 4130,
+						"buffer_size": 5987,
 						"regions":
 						{
 						},
@@ -797,10 +449,12 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 651.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
