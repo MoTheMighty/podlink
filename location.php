@@ -54,6 +54,7 @@
 
        width: 100%;
        height: 710px;
+       background: transparent url(images/ajax-loading.gif) no-repeat center center;
   
       }
      
@@ -111,10 +112,14 @@
 
 
 <!-- googlemap api -->
+
+
+
+
 <div class="container">
     <div id="map-canvas"></div>
 </div>   <!-- container -->
-     
+
 
 <!-- footer -->
 
@@ -131,7 +136,13 @@
     <script type="text/javascript"
        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB04qAy3ED0uYAgHWV4ZA8LJsomQg8T1m8&sensor=true">
     </script>
-    <script src="js/custom.js"></script>
+ <script type="text/javascript" src="js/custom.js"></script>
+
+
+
+
+  
+
 
 
 

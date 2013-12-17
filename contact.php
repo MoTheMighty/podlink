@@ -103,7 +103,7 @@
     <form role="form">
     <div class="form-group">
       <label for="exampleInputEmail1">Email Address:</label>
-      <input type="email" name="email" class="form-control" id="exampleInputEmail1" placeholder="Email">
+      <input type="email" class="form-control" name="email"  id="exampleInputEmail1" placeholder="Email">
     </div><!-- email -->
     <label for="message">Message:</label>
     <textarea name="contact_message" class="form-control" rows="4"></textarea>

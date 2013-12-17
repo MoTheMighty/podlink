@@ -104,6 +104,9 @@
     <div class="layoutspacing"></div>
     <hr>
 </section><!-- container-->
+<div class="layoutspacing"></div>
+<?php include '../components/schedule_strash.php'; ?>
+<div class="layoutspacing"></div>
 
 
 

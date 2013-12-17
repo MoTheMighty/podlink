@@ -77,7 +77,7 @@
                
               </ul>
                      <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="modal" data-target="#searchmodals"> <span class="glyphicon glyphicon-search"></span></a>
+                        <a class="dropdown-toggle" data-toggle="modal" data-target="#searchmodal"> <span class="glyphicon glyphicon-search"></span></a>
 
                         <?php include 'components/searchmodal.php'; ?>
                            <ul class="dropdown-menu">

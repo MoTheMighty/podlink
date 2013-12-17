@@ -102,14 +102,18 @@
 
         </div><!-- col -->
                   <div class="visible-xs"> 
-                    <div class="layoutspacing2"></div>
+                    <div class="layoutspacing"></div>
                   </div><!-- visible-xs -->
   <?php include '../components/social_chaney.php'; ?>
   
     </div><!-- row -->
-    <div class="layoutspacing2"></div>
+    
     <hr>
 </section><!-- container-->
+
+
+<?php include '../components/schedule_chaney.php'; ?>
+<div class="layoutspacing"></div>
 
 
 

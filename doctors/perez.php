@@ -105,10 +105,14 @@
   <?php include '../components/social_perez.php'; ?>
 
     </div><!-- row -->
-    <hr>
+  
+    
+ <hr>
 </section><!-- container-->
 
-
+<div class="layoutspacing"></div>
+<?php include '../components/schedule_perez.php'; ?>
+<div class="layoutspacing"></div>
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">

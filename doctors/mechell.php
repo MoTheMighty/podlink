@@ -107,7 +107,9 @@ and diabetic limb salvage."/>
     <hr>
 </section><!-- container-->
 
-
+<div class="layoutspacing"></div>
+<?php include '../components/schedule_mechell.php'; ?>
+<div class="layoutspacing"></div>
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
