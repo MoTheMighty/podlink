@@ -17,7 +17,7 @@
  
     <a class="navbar-brand" href="../../index.php"><img src="/images/Alamo_Logo.png" itemprop="logo"> <span itemprop="name">Alamo Family Foot & Ankle Care</span></a>
   </div>
-
+<div class="header-nav">
   <!-- Collect the nav links, forms, and other content for toggling -->
   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
     <ul class="nav navbar-nav navbar-right">
@@ -77,9 +77,9 @@
                
               </ul>
                      <li class="dropdown">
-                        <a class="dropdown-toggle" data-toggle="modal" data-target="#searchmodal"> <span class="glyphicon glyphicon-search"></span></a>
+                        <a href="#"  data-toggle="modal" data-target="#searchmodal"> <span class="glyphicon glyphicon-search"></span></a>
 
-                        <?php include 'components/searchmodal.php'; ?>
+                        <?php include '../components/searchmodal.php'; ?>
                            <ul class="dropdown-menu">
                            
                            <form class="navbar-form navbar-left" role="search">
@@ -126,3 +126,4 @@
   </div> <!-- container -->
 
 </nav>
+</div><!-- headernav -->

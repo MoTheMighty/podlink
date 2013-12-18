@@ -1,204 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-<url>
-  <loc>http://podlink.com/</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/index.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/location.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/contact.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/about.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/bunions.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/halluxlimitus.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/hammertoes.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/neuroma.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/stressfracture.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/fifthmetatarsalstressfractures.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/gout.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/diabeticfootcomplications.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/nailfungus.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/ingrowntoenail.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/wart.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/heel-pain.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/eswt.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/charcot.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/pttd.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/peronealtendonitis.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/tarsalcoalition.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/anklesprain.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/achillestendonitis.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/anklefracture.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/arthritis.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/arthrodiastasis.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/resources/npforms.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/resources/faq.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/resources/survey.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/resources/hippa.pdf</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/resources/soakinginstructions.pdf</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/resources/pfstretches.pdf</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/doctors/strash.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/doctors/perez.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/doctors/chaney.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/doctors/mechell.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/pathology/pathology.php</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
-<url>
-  <loc>http://podlink.com/resources/npforms.pdf</loc>
-  <lastmod>2013-12-15T22:07:15+00:00</lastmod>
-  <changefreq>daily</changefreq>
-</url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url><loc>http://www.podlink.com/</loc><changefreq>daily</changefreq><priority>1.00</priority></url>
+<url><loc>http://www.podlink.com/location.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/index.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/contact.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/about.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/bunions.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/halluxlimitus.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/hammertoes.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/neuroma.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/stressfracture.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/fifthmetatarsalstressfractures.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/gout.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/diabeticfootcomplications.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/nailfungus.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/ingrowntoenail.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/wart.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/heel-pain.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/eswt.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/charcot.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/pttd.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/peronealtendonitis.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/tarsalcoalition.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/anklesprain.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/achillestendonitis.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/anklefracture.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/arthritis.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/arthrodiastasis.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/resources/npforms.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/resources/survey.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/resources/faq.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/doctors/strash.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/doctors/perez.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/doctors/chaney.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/doctors/mechell.php</loc><changefreq>daily</changefreq><priority>0.85</priority></url>
+<url><loc>http://www.podlink.com/pathology/pathology.php</loc><changefreq>daily</changefreq><priority>0.69</priority></url>
+<!-- Generated by www.web-site-map.com -->
 </urlset>
+ 

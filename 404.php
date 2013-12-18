@@ -5,7 +5,7 @@
 
 <html>
   <head>
-    <title>Plantar Fasciitis - Heel Pain</title>
+    <title>Page not found.. :(</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -35,7 +35,7 @@
   
       <img src="/images/404.jpg" class="img-responsive img-rounded center">
         <div class="jumbotron" style="margin-top: 10px;">
-              <h3>Oh noos...the page you are looking for no longer exits.</p>  <small> You may find these links helpful</small></h3>
+              <h3>Oh noos...the page you are looking for no longer exists.</p>  <small> You may find these links helpful</small></h3>
        
 
         <h4><a href="/pathology/pathology.php" style="padding-right:15px;">Common Foot and Ankle Problems</a> 

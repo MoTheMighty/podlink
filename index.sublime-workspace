@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"al",
+				"alt	Attr"
+			],
+			[
 				"text",
 				"text-decoration"
 			],
@@ -92,18 +96,42 @@
 	"buffers":
 	[
 		{
-			"file": "schedule.php",
+			"file": "404.php",
 			"settings":
 			{
-				"buffer_size": 2524,
+				"buffer_size": 3042,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "about.php",
+			"file": "components/gpsmodal.php",
 			"settings":
 			{
-				"buffer_size": 5987,
+				"buffer_size": 1505,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 8545,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/searchmodal.php",
+			"settings":
+			{
+				"buffer_size": 1038,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "_/less/_mystyles.less",
+			"settings":
+			{
+				"buffer_size": 4320,
 				"line_ending": "Unix"
 			}
 		}
@@ -152,25 +180,34 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/schedule.php",
+		"/Applications/MAMP/htdocs/components/schedule_perez.php",
+		"/Applications/MAMP/htdocs/components/schedule_mechell.php",
+		"/Applications/MAMP/htdocs/doctors/perez.php",
+		"/Applications/MAMP/htdocs/doctors/mechell.php",
+		"/Applications/MAMP/htdocs/doctors/chaney.php",
+		"/Applications/MAMP/htdocs/components/schedule_chaney.php",
+		"/Applications/MAMP/htdocs/doctors/strash.php",
+		"/Applications/MAMP/htdocs/components/schedule_strash.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/components/medcenteraddress.php",
+		"/Applications/MAMP/htdocs/components/ahaddress.php",
+		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
 		"/Applications/MAMP/htdocs/.htaccess",
 		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
 		"/Applications/MAMP/htdocs/404.php",
 		"/Applications/MAMP/htdocs/search.php",
 		"/Applications/MAMP/htdocs/components/searchmodal.php",
-		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/about.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
-		"/Applications/MAMP/htdocs/doctors/chaney.php",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
-		"/Applications/MAMP/htdocs/contact.php",
-		"/Applications/MAMP/htdocs/doctors/strash.php",
-		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/resources/testamonial",
 		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/php/examples/simple.php",
@@ -202,7 +239,6 @@
 		"/Applications/MAMP/htdocs/components/socialicons.php",
 		"/Applications/MAMP/htdocs/resources/survey.php",
 		"/Applications/MAMP/htdocs/resources/faq.php",
-		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/sitemap.rb",
 		"/Applications/MAMP/htdocs/js/custom.js",
@@ -271,15 +307,7 @@
 		"/Users/pod1098/Desktop/bootstrap/templateheader.html",
 		"/Users/pod1098/Desktop/bootstrap/js/respond.js",
 		"/Users/pod1098/Desktop/bootstrap/css/justified.css",
-		"/Users/pod1098/Dropbox/website/index.htm",
-		"/Users/pod1098/Desktop/bootstrap/untitled.html",
-		"/Users/pod1098/Desktop/website/index.htm",
-		"/Users/pod1098/Dropbox/index.html",
-		"/Users/pod1098/Desktop/website/assets/css/font-awesome-ie7.css",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.scrollTo.js",
-		"/Users/pod1098/Desktop/website/assets/css/style.css",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.nicescroll.js",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.maps.js"
+		"/Users/pod1098/Dropbox/website/index.htm"
 	],
 	"find":
 	{
@@ -398,24 +426,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "schedule.php",
+					"file": "404.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2524,
+						"buffer_size": 3042,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2103,
-								2103
+								1258,
+								1258
 							]
 						],
 						"settings":
@@ -425,18 +453,76 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 368.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "about.php",
-					"semi_transient": true,
+					"file": "components/gpsmodal.php",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5987,
+						"buffer_size": 1505,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								804,
+								804
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7731,
+								7731
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3081.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/searchmodal.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1038,
 						"regions":
 						{
 						},
@@ -454,7 +540,34 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 651.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "_/less/_mystyles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4320,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4319,
+								4319
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 3921.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

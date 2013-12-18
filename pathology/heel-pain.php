@@ -180,9 +180,9 @@
                       <p><span class="label label-primary">Surgery:</span><p>
                       <p itemprop="possibletreatment">Surgery maybe needed for those cases of plantar fasciitis which have failed all forms of conservative treatment. There are many different forms of surgery for plantar fasciitis, each of our physicians has his preferred method.</p>
 
-                       <p>Click <a href="http://www.youtube.com/watch?v=tUrkGnRdOhs" title="Watch a youtube video ">here </a>to watch a video of this surgery being performed.</p>
+                       
                       <p itemprop="possibleTreatment"><strong>Extracorporeal shock wave treatment (ESWT)</strong></p>
-                      <p>This technology represent the latest innovation in the treatment of resistant plantar  fasciitis. We have been utilizing this modality since January of 2000 with excellent  results. <a title="Shock Wave Therapy" href="/treatments-and-conditions/shockwave-treatment.aspx">Learn more about Shock Wave Therapy</a></p>
+                      <p>This technology represent the latest innovation in the treatment of resistant plantar  fasciitis. We have been utilizing this modality since January of 2000 with excellent  results. 
                     </div>
                          <div class="tab-pane fade" id="videos">
                          <div class="col-lg-8">

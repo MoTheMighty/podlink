@@ -1,4 +1,4 @@
-<div class="grey">
+<div class="grey hidden-xs">
 <section class="container">
 
   <div id="titlecarousel" class="carousel slide"   data-ride="carousel">

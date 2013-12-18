@@ -47,8 +47,7 @@
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     
-      <script src="js/html5shiv.js"></script>
-      <script src="js/respond.min.js"></script>
+      
     <meta http-equiv="X-UA-Compatible" content="IE=9">
 
 
@@ -105,7 +104,7 @@
     <div id="tools">
       <ul class="nav nav-justified">
          
-          <li><a data-toggle="modal" data-target="#gps"><span class="glyphicons-icon white google_maps"></span>GPS Directions</a></li>
+          <li><a href="#" data-toggle="modal" data-target="#gps"><span class="glyphicons-icon white google_maps"></span>GPS Directions</a></li>
           
           <li class="#"><a href="location.php"><span class="glyphicons-icon white compass"></span>Locations</a></li>
           <li><a href="contact.php"><span class="glyphicons-icon white headset"></span>Contact</a></li>
@@ -234,6 +233,8 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
+    <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
 
 
     <!-- google charts script -->
