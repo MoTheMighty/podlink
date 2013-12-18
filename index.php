@@ -32,8 +32,8 @@
               
                 <link rel="author" href="http://plus.google.com/113774021362941412953" />
         
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+        <!--<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
+       <!-- <link rel="icon" href="/favicon.ico" type="image/x-icon"> -->
 
 
 

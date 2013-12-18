@@ -5,6 +5,14 @@
 Redirect 301 /contact-us/saturdayclinic.aspx http://podlink.com/resources/saturdayclinic.php
 Redirect 301 /resources/forms/newpatientforms.aspx http://podlink.com/resources/npforms.php
 Redirect 301 /resources/faq.aspx http://podlink.com/resources/faq.php
+Redirect 301 /resources/forms.aspx http://podlink.com/resources/npforms.php
+Redirect 301 /resources/faq.aspx http://podlink.com/resources/faq.php
+
+
+
+
+
+
 Redirect 301 /home.aspx  http://podlink.com/index.php
 Redirect 301 /contact-us.aspx http://podlink.com/contact.php
 Redirect 301 /contact-us/locations.aspx http://podlink.com/location.php
@@ -41,5 +49,18 @@ Redirect 301 /treatments-and-conditions/conditions/diabetes/diabeticwounds.aspx 
 Redirect 301 /treatments-and-conditions/conditions/fractures/fifthmetfractures.aspx http://podlink.com/pathology/fifthmetatarsalstressfractures.php
 Redirect 301 /treatments-and-conditions/conditions/skin/IngrownToenails.aspx http://podlink.com/pathology/ingrowntoenail.php
 Redirect 301 /treatments-and-conditions/conditions/ankleproblems/tarsalcoalition.aspx http://podlink.com/pathology/tarsalcoalition.php
+
+Redirect 301 /treatments-and-conditions/conditions.aspx http://podlink.com/pathology/pathology.php
+Redirect 301 /treatments-and-conditions/bunions.aspx http://podlink.com/pathology/bunions.php
+Redirect 301 /treatments-and-conditions/neuromas.aspx http://podlink.com/pathology/neuroma.php
+Redirect 301 /treatments-and-conditions/hammertoes.aspx http://podlink.com/pathology/hammertoes.php
+Redirect 301 /treatments-and-conditions/achilles-tendonitis.aspx http://podlink.com/pathology/achillestendonitis.php
+Redirect 301 /treatments-and-conditions/interactive-diagnosis.aspx http://podlink.com/pathology/pathology.php
+Redirect 301 /treatments-and-conditions/Ultrasound.aspx http://podlink.com/pathology/pathology.php
+Redirect 301 /treatment-and-conditions.aspx http://podlink.com/pathology/pathology.php
+Redirect 301 /pathology.php http://podlink.com/pathology/pathology.php
+
+
+
 
 ErrorDocument 404     /404.php

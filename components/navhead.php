@@ -14,8 +14,8 @@
       <span class="icon-bar"></span>
       <span class="icon-bar"></span>
     </button>
- 
-    <a class="navbar-brand" href="../../index.php"><img src="/images/Alamo_Logo.png" itemprop="logo"> <span itemprop="name">Alamo Family Foot & Ankle Care</span></a>
+    
+    <a class="navbar-brand" href="../../index.php"><img src="/images/Alamo_Logo.png" itemprop="logo"> <span itemprop="name">Alamo Family Foot & Ankle Care</a></span>
   </div>
 <div class="header-nav">
   <!-- Collect the nav links, forms, and other content for toggling -->
@@ -60,7 +60,7 @@
                   <li><a href="../pathology/anklefracture.php">Ankle Fractures</a></li>
                   <li><a href="../pathology/arthritis.php">Arthritis</a></li>
                   <li><a href="../pathology/arthrodiastasis.php">Arthrodiastasis</a></li>
-                  <li><a href="#">link4</a></li>
+                  
 
                 </ul>
                   
@@ -82,15 +82,12 @@
                         <?php include '../components/searchmodal.php'; ?>
                            <ul class="dropdown-menu">
                            
-                           <form class="navbar-form navbar-left" role="search">
-                            <div class="form-group">
-                              <input id="search-query" name="s" type="text" class="search-query" placeholder="Search All"><button type="submit" style="margin-top:3px; float-right" class="btn btn-primary">Submit</button>
-                            </div>
+                           
                             
                     </form>
 
 <!-- google analytics -->
-<script type="text/javascript">
+script type="text/javascript">
 
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-18705174-1']);
@@ -126,4 +123,3 @@
   </div> <!-- container -->
 
 </nav>
-</div><!-- headernav -->
