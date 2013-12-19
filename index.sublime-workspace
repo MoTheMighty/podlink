@@ -4,6 +4,14 @@
 		"selected_items":
 		[
 			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
 				"al",
 				"alt	Attr"
 			],
@@ -34,10 +42,6 @@
 			[
 				"font",
 				"font-size"
-			],
-			[
-				"margin",
-				"margin-right"
 			],
 			[
 				"backg",
@@ -96,18 +100,21 @@
 	"buffers":
 	[
 		{
-			"file": "404.php",
+			"file": "components/navhead.php",
 			"settings":
 			{
-				"buffer_size": 3042,
-				"line_ending": "Unix"
+				"buffer_size": 6109,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "components/gpsmodal.php",
+			"contents": "@import \"variables.less\";\n@blue:			#2980b9;\n@grey:			#7f909a;\n@green:			#33a052;\n@glyphsize:		58px;\n\n@lightgrey:		(lighten(@gray, 30%));\n\n\n.grey	{\n	background-color: @grey;\n\n}\n\n.navibar	{\n	background-color: @grey;\n\n	height:	0 auto;\n	.pull-left {\n		padding:	1em 0 0 0;\n	}\n	p {\n		padding:	0em 0 0 0;\n\n		font-weight: 	200;\n		font-size: 		2em;\n		color:			#fff;\n	\n}}\n\n.fill {\n	background: @blue;\n	height: 1em;\n}\n\n.toolbar {\n	background: @blue;\n	height: auto;\n}\n\n\n#tools {\n	border-color: @grey;\n	border-right-style: solid;\n	border-width: 2px;\n    background: @blue;\n\n    a:hover\n			{ \n		background-color:@grey;\n		}\n\n    \n    .nav a {\n    	border-color: @grey;\n   		border-bottom-style: solid;\n   		border-left-style:solid;\n   		border-top-width: 0px;\n   		border-color: @grey;\n   		\n   		border-width: 2px;\n    	padding-top: 30px;\n    	color: #fff;\n   		height: 5em;	\n    }\n   \n   .glyphicons-icon {\n   		margin-top: -13px;\n   }\n    \n   \n}\n\nhtml,\nbody {\n  height: 100%;\n  /* The html and body elements cannot have any padding or margin. */\n}\n/* Wrapper for page content to push down footer */\n#wrap {\n  min-height: 100%;\n  height: auto !important;\n  height: 100%;\n  /* Negative indent footer by it's height */\n  margin: 0 auto;\n}\n\n/* Set the fixed height of the footer here */\n#push,\n#footer {\n   \n   	a {\n   		color: #333;\n   	}\n  \n  height:   0 auto;\n}\n#footer {\n  background-color: @grey;\n  \n}\n\n/* Lastly, apply responsive CSS fixes as necessary */\n@media (max-width: 767px) {\n#footer {\n  margin-left: -20px;\n  margin-right: -20px;\n  padding-left: 20px;\n  padding-right: 20px;\n}\n}\n\n\n \n\n.center {\n	margin-left: auto;\n	margin-right: auto;\n\n	text-align: center;\n\n	\n	\n}\n  \n/*.glyphicons{\n	\n	margin-top: -20px;\n	padding-right: 0px;\n	margin-left: -0px;   \n	\n} */\n\n\n.picline	{\n	\n	\n	background: lighten(@grey, 40%);\n	height: 0 auto;\n	border-radius: @panel-border-radius;\n\n	padding: 10px;\n	width: 	0 auto;\n	//height: 35em;\n	border:	 1px solid;\n	border-color: lighten(@gray, 30%);\n	text-align: center;\n	p{\n		text-align: left;\n		}\n	hr {\n		background: @grey;\n		height: 1px;\n\n	}\n	}\n\n.navbar-brand {\n	\n	\n	padding: 0px;\n	font-size: 1em   \n	\n}\n\n\n.navbar {\n	margin-bottom: auto;\n}\n\n#bumperpads {\n\n\n	margin-top: 70px;\n\n}\n\n.breadcrumb {\n\n	padding: 1.6em 0 0;\n	background: @grey;\n	a {\n		color: #ccc;\n	}		\n	\n}\n\n.enlarge{\n	padding: 2em 0;\n	.glyphicons:before {\n\nposition: absolute;\nleft: 0;\ntop: 0;\nmargin: -30px 0 0px 0;\ndisplay: inline-block;\n\n\nfont: @glyphsize 'Glyphicons Regular';\nfont-style: normal;\nfont-weight: 400;\ncolor: @grey;\nvertical-align: middle;\ntext-transform: none;\n\n-webkit-font-smoothing: antialiased;\n} }\n\n.iconsizing{	\n	.glyphicons:before {\nmargin-left: -20px;\nposition: absolute;\nleft: 0;\ntop: 0;\ndisplay: inline-block;\n\npadding:  0px 0px 0 0;\nfont: 100px/1em 'Glyphicons Regular';\nfont-style: normal;\nfont-weight: 400;\n color: @blue;\n//vertical-align: middle;\ntext-transform: none;\n\n-webkit-font-smoothing: antialiased;\n}\n}\n.socialenlarge{\n  \n	\n  .social:before{\n  	\n    position: absolute;\n    left: 0;\n    top: 0;\n    display: inline-block;\n    margin: 0px 0px 0px 0px;\n    \n    \n    font: 60px/1em 'Glyphicons Social Regular';\n    font-style: normal;\n    font-weight: normal;\n    color: @blue;\n    *display: inline;\n    *zoom: 4;\n    vertical-align:middle;\n    text-transform:none;\n    -webkit-font-smoothing: antialiased;\n  }\n  &.white{\n    &:before{\n      color: #fff;\n    }\n  }}\n\n.layoutspacing{\n	height: 2em;\n	width: auto;\n}\n\n.layoutspacing2{\n	height: 5em;\n	width: auto;\n}\n\n.layoutspacing3{\n	height: 350px;\n	width: auto;\n}\n.divider {\n	border-style: solid;\n	border-width: 1px;\n	color: @blue;\n	\n}\n.col-centered {\n	float: none;\n	margin: 0 auto;\n}\n.videowrapper {\n    float: none;\n    clear: both;\n    width: 100%;\n    position: relative;\n    padding-bottom: 56.25%;\n    padding-top: 25px;\n    height: 0;\n}\n.videowrapper iframe {\n    position: absolute;\n    top: 0;\n    left: 0;\n    width: 100%;\n    height: 100%;\n}\n\n.greybar {\n	background: lighten(@grey, 40%);\n}\n\n\n// google search\n\n\n/* Option 2A: Reset an entire region via CSS */\n.reset-box-sizing,\n.reset-box-sizing *,\n.reset-box-sizing *:before,\n.reset-box-sizing *:after {\n  -webkit-box-sizing: content-box;\n     -moz-box-sizing: content-box;\n          box-sizing: content-box;\n}\n\ntable 	{\n	.glyphicon {\n		color:	red;\n	}\n}\nthead	{\n	background: lighten(@grey, 40%);\n\n}\n\n// fix dropdown for ios devices\n.header-nav {\nposition: relative;\nz-index: 10000;\n}\n",
+			"file": "_/less/_mystyles.less",
+			"file_size": 4413,
+			"file_write_time": 130318103830000000,
 			"settings":
 			{
-				"buffer_size": 1505,
+				"buffer_size": 4411,
 				"line_ending": "Unix"
 			}
 		},
@@ -115,23 +122,23 @@
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 8545,
+				"buffer_size": 8561,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "components/searchmodal.php",
+			"file": "components/carousel.php",
 			"settings":
 			{
-				"buffer_size": 1038,
-				"line_ending": "Unix"
+				"buffer_size": 2160,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_/less/_mystyles.less",
+			"file": "_/less/navbar.less",
 			"settings":
 			{
-				"buffer_size": 4320,
+				"buffer_size": 14214,
 				"line_ending": "Unix"
 			}
 		}
@@ -180,7 +187,17 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/.htaccess",
 		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/sitemap.xml",
+		"/Applications/MAMP/htdocs/404.php",
+		"/Applications/MAMP/htdocs/components/gpsmodal.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
+		"/Applications/MAMP/htdocs/components/searchmodal.php",
+		"/Applications/MAMP/htdocs/components/carousel.php",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/schedule.php",
 		"/Applications/MAMP/htdocs/components/schedule_perez.php",
@@ -191,18 +208,11 @@
 		"/Applications/MAMP/htdocs/components/schedule_chaney.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/components/schedule_strash.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/components/medcenteraddress.php",
 		"/Applications/MAMP/htdocs/components/ahaddress.php",
 		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
-		"/Applications/MAMP/htdocs/.htaccess",
-		"/Applications/MAMP/htdocs/sitemap.xml",
-		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
-		"/Applications/MAMP/htdocs/404.php",
 		"/Applications/MAMP/htdocs/search.php",
-		"/Applications/MAMP/htdocs/components/searchmodal.php",
 		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/components/social.php",
@@ -233,7 +243,6 @@
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
 		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
 		"/Applications/MAMP/htdocs/pathology/wart.php",
-		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
 		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
 		"/Applications/MAMP/htdocs/components/socialicons.php",
@@ -245,7 +254,6 @@
 		"/Applications/MAMP/htdocs/components/social_strash.php",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
-		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/components/social_chaney.php",
 		"/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php",
 		"/Applications/MAMP/htdocs/blog/monckebergs.php",
@@ -255,7 +263,6 @@
 		"/Applications/MAMP/htdocs/php/search/example.php",
 		"/Applications/MAMP/htdocs/resources/npforms.php",
 		"/Applications/MAMP/htdocs/_/less/bootstrap.less",
-		"/Applications/MAMP/htdocs/components/gpsmodal.php",
 		"/Applications/MAMP/htdocs/pathology/faq.php",
 		"/Applications/MAMP/htdocs/resources/npforms.pdf",
 		"/Applications/MAMP/htdocs/images/pathology/npforms.pdf",
@@ -326,6 +333,9 @@
 		"case_sensitive": true,
 		"find_history":
 		[
+			"style",
+			"pathology",
+			"-webkit-transform",
 			"conditions",
 			"reviewbody",
 			"<br /> <br />",
@@ -426,24 +436,24 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "404.php",
+					"file": "components/navhead.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3042,
+						"buffer_size": 6109,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1258,
-								1258
+								5850,
+								5850
 							]
 						],
 						"settings":
@@ -453,36 +463,34 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1016.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "components/gpsmodal.php",
+					"file": "_/less/_mystyles.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1505,
+						"buffer_size": 4411,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								804,
-								804
+								440,
+								440
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 4076.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -493,15 +501,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8545,
+						"buffer_size": 8561,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7731,
-								7731
+								2013,
+								2013
 							]
 						],
 						"settings":
@@ -511,18 +519,18 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3081.0,
+						"translation.y": 94.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "components/searchmodal.php",
+					"file": "components/carousel.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1038,
+						"buffer_size": 2160,
 						"regions":
 						{
 						},
@@ -547,27 +555,29 @@
 				},
 				{
 					"buffer": 4,
-					"file": "_/less/_mystyles.less",
+					"file": "_/less/navbar.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4320,
+						"buffer_size": 14214,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4319,
-								4319
+								3732,
+								3732
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3921.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
