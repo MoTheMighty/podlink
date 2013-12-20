@@ -175,6 +175,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
 	"project": "test.sublime-project",
 	"replace":
 	{
