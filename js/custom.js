@@ -1,3 +1,19 @@
+
+
+
+
+
+
+//load delay of social bar
+ $ (document);setTimeout(function(){
+  $("#bomb").load('/components/social.php');
+  
+  
+}, 5000);
+
+
+
+
 /*function initialize() {
     var mapOptions = {
       center: new google.maps.LatLng(29.5141220, -98.4936280),
@@ -110,3 +126,5 @@ function initialize() {
 
   }
   google.maps.event.addDomListener(window, 'load', initialize);
+
+

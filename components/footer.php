@@ -87,6 +87,6 @@
 		
 		</div><!-- navbarfixedbottom -->
 	</section><!-- footer div -->
-	  <?php include '../components/social.php'; ?>
-      <?php include 'components/social.php'; ?>
+ <?php include 'components/social.php'; ?>
+ <?php include '../components/social.php'; ?>
 </footer><!-- footer -->

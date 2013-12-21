@@ -2,6 +2,7 @@
 
 <div class="hidden-xs">
 
+
 <!-- AddThis Button BEGIN -->
 			<div class="addthis_toolbox addthis_floating_style addthis_counter_style" style="left:0px;top:200px;">
 				<a class="addthis_button_facebook_like" fb:like:layout="box_count"></a>

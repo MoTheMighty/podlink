@@ -100,18 +100,34 @@
 	"buffers":
 	[
 		{
-			"file": "components/navhead.php",
+			"file": "components/footer.php",
 			"settings":
 			{
-				"buffer_size": 6050,
+				"buffer_size": 2499,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "sitemap.xml",
+			"file": "components/navhead.php",
 			"settings":
 			{
-				"buffer_size": 5768,
+				"buffer_size": 6049,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "js/custom.js",
+			"settings":
+			{
+				"buffer_size": 4021,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/social.php",
+			"settings":
+			{
+				"buffer_size": 720,
 				"line_ending": "Unix"
 			}
 		}
@@ -119,16 +135,16 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 167.0,
+		"height": 392.0,
 		"selected_items":
 		[
 			[
-				"view",
+				"",
 				"View In Browser"
 			],
 			[
-				"",
-				"Package Control: Install Package"
+				"view",
+				"View In Browser"
 			],
 			[
 				"brow",
@@ -139,7 +155,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 575.0
+		"width": 467.0
 	},
 	"console":
 	{
@@ -160,16 +176,18 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/template.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/sitemap.xml",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/gpsmodal.php",
 		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
-		"/Applications/MAMP/htdocs/template.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/.htaccess",
-		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Applications/MAMP/htdocs/404.php",
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
 		"/Applications/MAMP/htdocs/components/searchmodal.php",
@@ -248,8 +266,6 @@
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/forefoot/bunions.php",
 		"/Applications/MAMP/htdocs/page.aspx",
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/heel/heel-pain.php",
-		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
@@ -415,19 +431,48 @@
 			[
 				{
 					"buffer": 0,
-					"file": "components/navhead.php",
+					"file": "components/footer.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6050,
+						"buffer_size": 2499,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5596,
-								5596
+								2474,
+								2474
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": -0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/navhead.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 6049,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -437,38 +482,68 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": -0.0,
-						"translation.y": 829.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "sitemap.xml",
+					"buffer": 2,
+					"file": "js/custom.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5768,
+						"buffer_size": 4021,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5766,
-								5766
+								3,
+								3
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/XML/XML.tmLanguage"
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 2212.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "components/social.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 720,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								26,
+								26
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
 					"type": "text"
 				}
 			]

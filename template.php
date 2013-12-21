@@ -47,7 +47,7 @@
 
 
 <hr>
-<script src="http://www.gliffy.com/diagramEmbed.js" type="text/javascript"> </script><script type="text/javascript"> gliffy_did = "5210109"; embedGliffy(); </script>
+<div id="bomb"></div>
 <hr>
 
 <!-- footer -->
@@ -60,7 +60,10 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
+    <script src="js/custom.js"></script>
 
+
+ 
 
 
   </body>
