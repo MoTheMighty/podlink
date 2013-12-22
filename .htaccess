@@ -30,6 +30,7 @@ Redirect 301 /treatments-and-conditions/conditions/ankleproblems/pttd.aspx http:
 Redirect 301 /treatments-and-conditions/conditions/forefoot/neuromas.aspx http://podlink.com/pathology/neuroma.php
 Redirect 301 /treatments-and-conditions/conditions/skin/IngrownToenails.aspx http://podlink.com/pathology/ingrowntoenails.php
 Redirect 301 /treatments-and-conditions/conditions/forefoot/gout.aspx http://podlink.com/pathology/gout.php
+Redirect 301 /pathology/gout.htm http://podlink.com/pathology/gout.php
 Redirect 301 /treatments-and-conditions/conditions/fractures/fifthmetfractures.aspx http://podlink.com/pathology/fifthmetatarsalfracture.php
 Redirect 301 /treatments-and-conditions/conditions/heel/shockwave-treatment.aspx http://podlink.com/pathology/eswt.php
 Redirect 301 /treatments-and-conditions/conditions/skin/nailfungus.aspx http://podlink.com/pathology/nailfungus.php

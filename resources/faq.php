@@ -61,8 +61,20 @@
     </div>
     <div id="collapseOne" class="panel-collapse collapse">
       <div class="panel-body">
-        <p>Alamo Family Foot and Ankle Care participates with most major carriers. Please consult your insurance carrier or contact one of our scheduling representatives prior to your appointment to verify our participation status with your insurance plan.  Below is a partial list of participating plans.</p>  <p>Medicare</p> <p>BCBS PPO/HMO</p> <p>Aetna</p> <p>Cigna</p> <p>United HealthCare</p> <p>Humana HMO/PPO</p> <p>Humana Gold Plus</p> <p>Texas True Choice</p> <p>Methodist Physician Alliance</p> <p>Community First Health Plans</p> <p>CHIP</p> <p>Workers' Compensation</p> <p>Accountable Health Plans of Texas</p> <p>Aetna Baptist PHO:Beech Street</p> <p>Comp Health Network</p> <p>Direct Care</p> <p>Elder Health</p> <p>TexasEmployers Health Network</p> <p>First health</p> <p>Focus</p> <p>Galaxy Health Network</p> <p>Great West Healthcare of Texas</p> <p>Group Pension Administrators, Inc</p> <p>Health Payors Organization</p> <p>HealthSmart Preferred Care</p> <p>Integrated Medical SystemsMed/Corp</p> <p>SouthwestMedical Control Inc.</p> <p>Medicare Railroad</p> <p>Multiplan</p> <p>Private Healthcare Systems</p> <p>San Antonio Employer's Health</p> <p>AllianceSouth</p> <p>West Medical Provider Network</p> <p>Texas True Choice</p> <p>Tricare</p> <p>Texas True Choice/ Ethix Southwest</p> <p>Unicare</p> <p>US Department of Labor</p> <p>USA Managed Care Organization</p> <p>Wellcare</p> <p>Bravo</p> <p>CPS</p>
-      </div>
+           
+          <div class="col-lg-4 col-md-4">
+            <p>Medicare</p> <p>BCBS PPO/HMO</p> <p>Aetna</p> <p>Cigna</p> <p>Tricare</p> <p>United HealthCare</p> <p>Humana HMO/PPO</p> <p>Humana Gold Plus</p> 
+            <p>Texas True Choice</p> <p>Methodist Physician Alliance</p> <p>Community First Health Plans</p> <p>CHIP</p> <p>Workers' Compensation</p><p>Aetna Baptist PHO:Beech Street</p>  <p> GEHA </p>
+          </div><!-- col -->
+
+          <div class="col-lg-4 col-md-4">
+            <p>Liberty Mutual</p> <p>Comp Health Network</p> <p>Direct Care</p> <p>Elder Health</p> <p>TexasEmployers Health Network</p> <p>First health</p> <p>Focus</p> <p>Galaxy Health Network</p> <p>Great West Healthcare of Texas</p> <p>Group Pension Administrators, Inc</p> <p>Health Payors Organization</p> <p>HealthSmart Preferred Care</p> <p>Integrated Medical SystemsMed/Corp</p><p> Golden Rule </p>
+
+          </div><!-- col -->
+          <div class="col-lg-4 col-md-4">
+               <p>SouthwestMedical Control Inc.</p> <p>Medicare Railroad</p> <p>Multiplan</p> <p>Private Healthcare Systems</p> <p>San Antonio Employer's Health</p> <p>AllianceSouth</p> <p>West Medical Provider Network</p>  <p>Texas True Choice/ Ethix Southwest</p> <p>Unicare</p> <p>US Department of Labor</p> <p>USA Managed Care Organization</p> <p>Wellcare</p>  <p>CPS</p>  <p>Accountable Health Plans of Texas</p> 
+          </div><!-- col -->
+      </div><!-- panel -->
     </div>
   </div>
   <div class="panel panel-default">
@@ -89,7 +101,7 @@
     </div>
     <div id="collapseThree" class="panel-collapse collapse">
       <div class="panel-body">
-         <p>Yes, all of our doctors are certified by the American Board of Podiatric Medicine. &nbsp;Additionally, they are also members of the American College of Foot and Ankle Surgeons, American Podiatric Medical Association, Texas Podiatric Medical Association and the Bexar County Podiatric Medical Society..</p>
+         <p>Yes, Drs. Chaney, Perez and Strash are certified by the American Board of Podiatric Medicine.  Dr. Mechell is board Qualified by the American Board of Podiatric Medicine.  Additionally, our doctors are members of the American College of Foot and Ankle Surgeons, American Podiatric Medical Association, Texas Podiatric Medical Association and the Bexar County Podiatric Medical Society.</p>
         </div>
       </div>
     </div>
