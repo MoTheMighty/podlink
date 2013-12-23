@@ -5,7 +5,7 @@
 
 <html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
   <head>
-    <title>Bunion Deformity - Hallux Abducto Valgus</title>
+    <title>Bunion Deformity - Why is there a big bump on my big toe joint?</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -85,7 +85,7 @@
   </div><!-- navibar -->
 
   <!-- end navibar -->
-
+<div class="layoutspacing2"></div>
 
 <div class="container">
  <ul class="nav nav-tabs" style="margin: 20px 0px;">

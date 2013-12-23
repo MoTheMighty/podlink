@@ -47,7 +47,28 @@
 
 
 <hr>
-<div id="bomb"></div>
+<div class="container">
+<div class="dropdown">
+  <button class="btn dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
+    Doctor's schedule for this location
+    <span class="caret"></span>
+  </button>
+  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
+    <li class="dropdown"> <a href="#"  data-toggle="modal" data-target="#clinicschedule">Dr. Chaney</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dr. Perez</a></li>
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dr. Strash</a></li>
+    
+    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dr. Mechell</a></li> 
+   
+                        
+                           
+  </ul>
+  <?php include 'components/schedulemodal.php'; ?>
+  </div>
+ </div>
+
+                       
+</div>
 <hr>
 
 <!-- footer -->

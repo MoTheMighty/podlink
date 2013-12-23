@@ -4,7 +4,7 @@
 </div><!-- fill -->
 
 
-<nav class="navbar navbar-default" role="navigation">
+<nav class="navbar navbar-default" role="navigation" >
 	<div class="container">
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
@@ -15,7 +15,7 @@
       <span class="icon-bar"></span>
     </button>
     
-    <a class="navbar-brand" href="../../index.php"><img src="/images/Alamo_Logo.png" itemprop="logo"> <span itemprop="name">Alamo Family Foot & Ankle Care</a></span>
+    <a class="navbar-brand" href="../../index.php"> <span itemscope itemtype="http://schema.org/podiatric"><img src="/images/Alamo_Logo.png" itemprop="logo"> </span><span itemprop="name">Alamo Family Foot & Ankle Care</a></span>
   </div>
 <div class="header-nav">
   <!-- Collect the nav links, forms, and other content for toggling -->
@@ -77,7 +77,7 @@
                
               </ul>
                      <li class="dropdown">
-                        <a href="#"  data-toggle="modal" data-target="#searchmodal"> <span class="glyphicon glyphicon-search"></span></a>
+                        <a href="#"  data-toggle="modal" data-target="#clinicScheduleModal"> <span class="glyphicon glyphicon-search"></span></a>
 
                         <?php include '../components/searchmodal.php'; ?>
                            <ul class="dropdown-menu">

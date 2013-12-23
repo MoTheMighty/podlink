@@ -5,7 +5,7 @@
 
 <html>
   <head>
-    <title>Haglunds Deformity</title>
+    <title>Haglunds Deformity | What is that bump on the back of my heel?</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

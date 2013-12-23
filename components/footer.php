@@ -81,7 +81,9 @@
 				
 	  			 </div> <!-- header -->
 	  			</div> <!-- col 3-->
-			
+	  				
+						<small style="padding-left:60%">© 2013 Alamo Family Foot & Ankle Care</small>
+					
 
 			</div>  <!-- container -->
 		

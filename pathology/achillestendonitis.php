@@ -128,11 +128,11 @@
                   <p itemprop="cause">The pain caused by Achilles tendonitis can develop gradually without a history of trauma. If left untreated, Achilles tendonitis can often lead to rupture. Symptoms include pain during exercise, swelling, redness, pain in the pack of the ankle when arising from rest, inability to walk without limping, or a cracking sensation. Squeezing the tendon from side to side can sometimes elicit significant pain.</p>
                   <h4>Symptoms:</h4>
                   <div class="ul">
-                    <li itemprop="signorsymptoms">Pain in the back of the ankle when walking or running.  Pain is aggravated with increased activities. </li>
-                    <li itemprop="signorsymptoms">Squeezing of the tendon causes pain.</li>
-                    <li itemprop="signorsymptoms">Swelling and or warmth to the back of the heel.</li>
-                    <li itemprop="signorsymptoms">Achilles tendon has a lump or lumps in the back of the ankle.</li>
-                    <li itemprop="signorsymptoms">Pain is better when wearing shoes with a heel (high heels or boots) are used.</li>
+                    <li itemprop="signorsymptom">Pain in the back of the ankle when walking or running.  Pain is aggravated with increased activities. </li>
+                    <li itemprop="signorsymptom">Squeezing of the tendon causes pain.</li>
+                    <li itemprop="signorsymptom">Swelling and or warmth to the back of the heel.</li>
+                    <li itemprop="signorsymptom">Achilles tendon has a lump or lumps in the back of the ankle.</li>
+                    <li itemprop="signorsymptom">Pain is better when wearing shoes with a heel (high heels or boots) are used.</li>
                     </div><!-- ul -->
 
               </div>
