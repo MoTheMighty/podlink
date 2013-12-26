@@ -8,6 +8,9 @@
   <head>
     <title>Alamo Family Foot & Ankle Care San Antonio's - Most Trusted Podiatrists</title>
     <meta charset="utf-8">
+    <!-- bing authorization -->
+    <meta name="msvalidate.01" content="FA44635B9B76597E752EE0BFB60B89F0" />
+    <!-- end bing authorization -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     

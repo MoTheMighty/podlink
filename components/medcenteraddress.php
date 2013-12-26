@@ -5,4 +5,5 @@
                   <span itemscope="addressLocality">San Antonio</span>, <span itemscope="addressRegion">TX</span> <span itemscope="postalCode">78240</span> <br>
                   <abbr title="Phone">P: </abbr>  (210) 829-8770<br>
                   <abbr title="Fax">F: </abbr>  (210) 446-5799
+                  <a href="/location.php"><p><span class="glyphicon glyphicon-globe"></span> Map</p></a>
                 </address>

@@ -59,11 +59,31 @@
     <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dr. Strash</a></li>
     
     <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dr. Mechell</a></li> 
-   
-                        
-                           
-  </ul>
-  <?php include 'components/schedulemodal.php'; ?>
+    </ul>
+    </div> 
+                      
+     </div>                      
+  
+
+  <div class="modal fade" id="clinicschedule">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+        <h4 class="modal-title">Modal title</h4>
+      </div>
+      <div class="modal-body">
+      
+        <div class="container-lg-6">
+          <?php include 'components/schedule_perez_data.php'; ?>
+        
+        </div>
+      </div>
+    
+    </div><!-- /.modal-content -->
+  </div><!-- /.modal-dialog -->
+</div><!-- /.modal -->
+
   </div>
  </div>
 

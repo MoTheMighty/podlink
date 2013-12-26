@@ -87,7 +87,7 @@
 
 
 <section class="container">
-<div="row">
+<div class="row">
   <section id="bumperpads">
  
   <div class="col-lg-4 col-md-4 col-sm-4">
@@ -130,6 +130,7 @@
            <br>
       <hr>
       <br>
+    
 
       <ul class="nav nav-tabs nav-justified" style="margin: 20px 0px;">
               <li class="active"><a href="#home" data-toggle="tab">Medical Center</a></li>
@@ -142,29 +143,66 @@
            
             <div class="tab-content" style="padding: 0px 60px;">
               <div class="tab-pane fade in active" id="home">
-                  <?php include 'components/medcenteraddress.php'; ?>
-                <img src="/images/mc.jpg" class="img-thumbnail img-responsive">
-                </div>
+                  <div class="col-lg-6 col-md-6">
+                      <?php include 'components/medcenteraddress.php'; ?>
+
+
+
+
+                      
+                  </div><!-- col 6 -->
+                  <div class="col-lg-6 col-md-6">
+                      <img src="/images/mc.jpg" class="img-thumbnail img-responsive">
+                  </div><!-- col 6 -->
+
+                </div><!-- tabpain -->
+
+
               <div class="tab-pane fade" id="profile">
-                    <?php include 'components/ahaddress.php'; ?>
-                <img src="/images/ah.jpg" class="img-thumbnail img-responsive">
-                </div>
+                    <div class="col-lg-6 col-md-6">
+                      <?php include 'components/ahaddress.php'; ?>
+                    </div><!-- col 6 -->
+                    <div class="col-lg-6 col-md-6">
+                        <img src="/images/ah.jpg" class="img-thumbnail img-responsive">
+                    </div><!-- col 6 -->
+                </div><!-- tabpane -->
+
               <div class="tab-pane fade" id="messages">
-                   <?php include 'components/stoneoakaddress.php'; ?>
-                <img src="/images/stoneoak.jpg" class="img-thumbnail img-responsive">
-                </div>
+                  <div class="col-lg-6 col-md-6">
+                      <?php include 'components/stoneoakaddress.php'; ?>
+                   </div><!-- col 6 -->   
+                      <div class="col-lg-6 col-md-6">
+                     <img src="/images/stoneoak.jpg" class="img-thumbnail img-responsive">
+                  </div><!-- col 6 --> 
+                </div><!-- tabpane -->
               </div>
-              
+
+
+
             </div><!-- tab0content -->
+    
+                  
+            <?php include 'components/schedule_modal.php'; ?>   
+
+          
       </section><!-- center -->
      
 
          
     </div><!-- col -->
+
     </section><!-- bumperpads -->
     
   </div><!-- row -->
        <!-- Nav tabs -->
+  
+
+        
+
+
+
+
+
          
 </section><!-- container -->
 
@@ -182,7 +220,8 @@
     <script src="js/modernizr.js"></script>
     
 
-
+<!-- googleconversioncode -->
+<?php include 'http://wwww.podlink.com/components/googleconversioncode.php'; ?>
 
   </body>
 </html>

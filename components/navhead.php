@@ -77,7 +77,7 @@
                
               </ul>
                      <li class="dropdown">
-                        <a href="#"  data-toggle="modal" data-target="#clinicScheduleModal"> <span class="glyphicon glyphicon-search"></span></a>
+                        <a href="#"  data-toggle="modal" data-target="#searchmodal"> <span class="glyphicon glyphicon-search"></span></a>
 
                         <?php include '../components/searchmodal.php'; ?>
                            <ul class="dropdown-menu">
