@@ -112,18 +112,18 @@
 	"buffers":
 	[
 		{
-			"file": "components/navhead.php",
+			"file": "location.php",
 			"settings":
 			{
-				"buffer_size": 6111,
-				"line_ending": "Windows"
+				"buffer_size": 4634,
+				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "components/footer.php",
+			"file": "components/navhead.php",
 			"settings":
 			{
-				"buffer_size": 2661,
+				"buffer_size": 6113,
 				"line_ending": "Windows"
 			}
 		}
@@ -172,13 +172,14 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/js/custom.js",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/schedule_chaney_data.php",
 		"/Applications/MAMP/htdocs/components/schedule_perez_data.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/components/googleconversion.php",
 		"/Applications/MAMP/htdocs/components/schedule_mechell_data.php",
 		"/Applications/MAMP/htdocs/components/schedule_strash_data.php",
@@ -200,7 +201,6 @@
 		"/Applications/MAMP/htdocs/_/js/custom.js",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
 		"/Applications/MAMP/htdocs/pathology/neuroma.php",
-		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
 		"/Applications/MAMP/htdocs/pathology/haglunds.php",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
@@ -431,19 +431,49 @@
 			[
 				{
 					"buffer": 0,
-					"file": "components/navhead.php",
+					"file": "location.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6111,
+						"buffer_size": 4634,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5814,
-								5814
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1097.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/navhead.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -453,36 +483,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "components/footer.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2661,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2609,
-								2609
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 436.0,
+						"translation.y": 971.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

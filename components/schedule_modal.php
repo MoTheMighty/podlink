@@ -26,7 +26,7 @@
       </div> <!-- modal header -->
         <div class="modal-body">
           <div class="reset-box-sizing">
-            <?php include '../components/schedule_perez_data.php'; ?>
+            <?php include 'components/schedule_perez_data.php'; ?>
           </div><!-- resetboxsizing -->
         </div><!-- modalbody -->
       
@@ -90,7 +90,7 @@
       </div> <!-- modal header -->
         <div class="modal-body">
           <div class="reset-box-sizing">
-            <?php include '../components/schedule_mechell_data.php'; ?>
+            <?php include 'components/schedule_mechell_data.php'; ?>
           </div><!-- resetboxsizing -->
         </div><!-- modalbody -->
       
