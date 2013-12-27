@@ -89,6 +89,5 @@
 		
 		</div><!-- navbarfixedbottom -->
 	</section><!-- footer div -->
- <?php include 'components/social.php'; ?>
- <?php include '../components/social.php'; ?>
+<?php include  $_SERVER['DOCUMENT_ROOT'] . '/components/social.php'; ?>
 </footer><!-- footer -->

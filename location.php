@@ -145,7 +145,7 @@
 
 
 <!-- googleconversioncode -->
-<?php include 'http://wwww.podlink.com/components/googleconversioncode.php'; ?>
+<?php include 'components/googleconversioncode.php'; ?>
 
 
   </body>
