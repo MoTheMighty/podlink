@@ -79,7 +79,7 @@
                      <li class="dropdown">
                         <a href="#"  data-toggle="modal" data-target="#searchmodal"> <span class="glyphicon glyphicon-search"></span></a>
 
-                        <?php include '../components/searchmodal.php'; ?>
+                        <?php include  $_SERVER['DOCUMENT_ROOT'] . '/components/searchmodal.php'; ?>
                            <ul class="dropdown-menu">
                            
                            

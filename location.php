@@ -136,7 +136,7 @@
     <script type="text/javascript"
        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB04qAy3ED0uYAgHWV4ZA8LJsomQg8T1m8&sensor=true">
     </script>
- <script type="text/javascript" src="js/custom.js"></script>
+ <script type="text/javascript" src="js/googlemap.js"></script>
 
 
 

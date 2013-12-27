@@ -94,7 +94,7 @@ surgical techniques can be utilized to improve daily symptoms.</p>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/modernizr.js"></script>
-    <?php include '../../components/social.php'; ?>
+   
 
 
 

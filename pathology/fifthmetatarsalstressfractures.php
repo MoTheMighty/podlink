@@ -65,7 +65,7 @@ Two types of fractures that often occur in the fifth metatarsal are:</p> <ul> <l
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/modernizr.js"></script>
-    <?php include '../../components/social.php'; ?>
+    
 
 
 
