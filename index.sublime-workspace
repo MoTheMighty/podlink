@@ -115,7 +115,7 @@
 			"file": "location.php",
 			"settings":
 			{
-				"buffer_size": 4634,
+				"buffer_size": 4633,
 				"line_ending": "Unix"
 			}
 		},
@@ -123,8 +123,16 @@
 			"file": "components/navhead.php",
 			"settings":
 			{
-				"buffer_size": 6113,
+				"buffer_size": 6140,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pathology/stressfracture.php",
+			"settings":
+			{
+				"buffer_size": 13465,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -172,10 +180,33 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
+		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
-		"/Applications/MAMP/htdocs/components/footer.php",
-		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/pathology/charcot.php",
+		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
+		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
+		"/Applications/MAMP/htdocs/pathology/gout.php",
+		"/Applications/MAMP/htdocs/pathology/haglunds.php",
+		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
+		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
+		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
+		"/Applications/MAMP/htdocs/pathology/neuroma.php",
+		"/Applications/MAMP/htdocs/pathology/pathology.php",
+		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
+		"/Applications/MAMP/htdocs/components/schedule_modal.php",
+		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
+		"/Applications/MAMP/htdocs/pathology/bunions.php",
+		"/Applications/MAMP/htdocs/pathology/arthritis.php",
+		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
+		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
+		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
+		"/Applications/MAMP/htdocs/js/googlemap.js",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/js/custom.js",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/schedule_chaney_data.php",
@@ -183,7 +214,6 @@
 		"/Applications/MAMP/htdocs/components/googleconversion.php",
 		"/Applications/MAMP/htdocs/components/schedule_mechell_data.php",
 		"/Applications/MAMP/htdocs/components/schedule_strash_data.php",
-		"/Applications/MAMP/htdocs/components/schedule_modal.php",
 		"/Applications/MAMP/htdocs/components/schedule_chaney.php",
 		"/Applications/MAMP/htdocs/components/schedule_perez.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
@@ -200,22 +230,12 @@
 		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
 		"/Applications/MAMP/htdocs/_/js/custom.js",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
-		"/Applications/MAMP/htdocs/pathology/neuroma.php",
-		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
-		"/Applications/MAMP/htdocs/pathology/haglunds.php",
-		"/Applications/MAMP/htdocs/pathology/bunions.php",
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/schedule.php",
 		"/Applications/MAMP/htdocs/resources/faq.php",
 		"/Applications/MAMP/htdocs/components/schedulemodal.php",
-		"/Applications/MAMP/htdocs/pathology/gout.php",
-		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
 		"/Applications/MAMP/htdocs/.htaccess",
-		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
-		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
-		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
-		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
@@ -223,26 +243,15 @@
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
 		"/Applications/MAMP/htdocs/components/gpsmodal.php",
 		"/Applications/MAMP/htdocs/404.php",
-		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
-		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/search.php",
-		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
 		"/Applications/MAMP/htdocs/resources/testamonial",
 		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/php/examples/simple.php",
-		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
 		"/Applications/MAMP/htdocs/saturdayclinic.php",
-		"/Applications/MAMP/htdocs/pathology/pathology.php",
-		"/Applications/MAMP/htdocs/pathology/arthritis.php",
-		"/Applications/MAMP/htdocs/pathology/charcot.php",
-		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
 		"/Applications/MAMP/htdocs/pathology/eswt.php",
-		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
-		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
-		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
 		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
 		"/Applications/MAMP/htdocs/pathology/wart.php",
@@ -298,8 +307,7 @@
 		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/glyphicons.less",
 		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/style.less",
 		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/style.css",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/glyphicons.css",
-		"/Users/pod1098/Desktop/bootstrap/css/justified-nav.css"
+		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/glyphicons.css"
 	],
 	"find":
 	{
@@ -426,7 +434,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -435,7 +443,67 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4634,
+						"buffer_size": 4633,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4604,
+								4604
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": -0.0,
+						"translation.y": 1422.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/navhead.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6140,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5881,
+								5881
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 971.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "pathology/stressfracture.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 13465,
 						"regions":
 						{
 						},
@@ -453,37 +521,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": -0.0,
-						"translation.y": 1097.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "components/navhead.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6113,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 971.0,
+						"translation.y": 1722.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

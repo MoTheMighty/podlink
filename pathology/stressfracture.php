@@ -116,7 +116,7 @@
                       </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 thumbnail">
                        <img alt="xray of stress fracture metatarsal with moderate displacement" src="/images/pathology/stressfx.jpg" class="img-rounded img-responsive" />
-                        <p class="text-muted small center">Stress fracture with moderate dispalcement</p>
+                        <p class="text-muted small center">Stress fracture with moderate displacement</p>
                     </div> 
                     </div>
              
