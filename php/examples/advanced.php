@@ -77,6 +77,6 @@
     }
     
     // Writing to out like a boss
-    die('<meta http-equiv="Refresh" content="0; url=http://localhost:8888/contact.php" /> <script>alert("Thank you, your message has been sent successfully")</script>');
+    die('<meta http-equiv="Refresh" content="0; url=http://www.podlink.com/contact.php" /> <script>alert("Thank you, your message has been sent successfully")</script>');
 
 ?>
