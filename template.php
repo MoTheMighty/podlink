@@ -45,7 +45,29 @@
     </section><!-- container -->
   </div><!-- navibar -->
 
-
+ 
+  <div class="col-lg-4 col-md-4 col-sm-4">
+  <form method="POST" action="php/examples/simple.php">
+    <div class="form-group">
+      <label for="firstname">Name: </label>
+      <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name" required />
+    </div><!-- formgroup firstname -->
+    <div class="form-group">
+      <label for="lastname">Telephone:</label>
+      <input type="tel" name="last_name" class="form-control" id="lastname" placeholder="Telephone Number" required />
+    </div><!-- lastname -->
+    <form role="form">
+    <div class="form-group">
+      <label for="exampleInputEmail1">Email Address:</label>
+      <input type="email" class="form-control" name="email"  placeholder="Email" required />
+    </div><!-- email -->
+    <label for="message">Message:</label>
+    <textarea name="contact_message" class="form-control" rows="4"></textarea>
+    
+  <br>
+  
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
 
 
 <!-- footer -->

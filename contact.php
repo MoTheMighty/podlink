@@ -1,7 +1,5 @@
 
-<!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
 
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalclinic">
@@ -92,7 +90,7 @@
  
   <div class="col-lg-4 col-md-4 col-sm-4">
   <form method="POST" action="php/examples/simple.php">
-    <div class="form-group">
+    <div class="form-group has-success">
       <label for="firstname">Name: </label>
       <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name" required />
     </div><!-- formgroup firstname -->
