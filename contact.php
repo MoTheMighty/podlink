@@ -94,16 +94,16 @@
   <form method="POST" action="php/examples/simple.php">
     <div class="form-group">
       <label for="firstname">Name: </label>
-      <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name">
+      <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name" required>
     </div><!-- formgroup firstname -->
     <div class="form-group">
       <label for="lastname">Telephone:</label>
-      <input type="tel" name="last_name" class="form-control" id="lastname" placeholder="Telephone Number">
+      <input type="tel" name="last_name" class="form-control" id="lastname" placeholder="Telephone Number" required>
     </div><!-- lastname -->
     <form role="form">
     <div class="form-group">
       <label for="exampleInputEmail1">Email Address:</label>
-      <input type="email" class="form-control" name="email"  id="exampleInputEmail1" placeholder="Email">
+      <input type="email" class="form-control" name="email"  id="exampleInputEmail1" placeholder="Email" required>
     </div><!-- email -->
     <label for="message">Message:</label>
     <textarea name="contact_message" class="form-control" rows="4"></textarea>

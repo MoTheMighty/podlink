@@ -46,50 +46,7 @@
   </div><!-- navibar -->
 
 
-<hr>
-<div class="container">
-<div class="dropdown">
-  <button class="btn dropdown-toggle" type="button" id="dropdownMenu1" data-toggle="dropdown">
-    Doctor's schedule for this location
-    <span class="caret"></span>
-  </button>
-  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu1">
-    <li class="dropdown"> <a href="#"  data-toggle="modal" data-target="#clinicschedule">Dr. Chaney</a></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dr. Perez</a></li>
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dr. Strash</a></li>
-    
-    <li role="presentation"><a role="menuitem" tabindex="-1" href="#">Dr. Mechell</a></li> 
-    </ul>
-    </div> 
-                      
-     </div>                      
-  
 
-  <div class="modal fade" id="clinicschedule">
-  <div class="modal-dialog">
-    <div class="modal-content">
-      <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-        <h4 class="modal-title">Modal title</h4>
-      </div>
-      <div class="modal-body">
-      
-        <div class="container-lg-6">
-          <?php include 'components/schedule_perez_data.php'; ?>
-        
-        </div>
-      </div>
-    
-    </div><!-- /.modal-content -->
-  </div><!-- /.modal-dialog -->
-</div><!-- /.modal -->
-
-  </div>
- </div>
-
-                       
-</div>
-<hr>
 
 <!-- footer -->
 

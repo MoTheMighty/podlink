@@ -22,29 +22,29 @@
 
           <!--  -->
           <div class="item">
-            <img src="/images/carousel/operating.jpg" class="img-responsive" alt="...">
+            <img src="/images/carousel/operating.jpg" class="img-responsive" alt="Drs. Perez, Strash and Chaney operating">
             
           </div>
          <!--  -->
           <div class="item">
-            <img src="/images/carousel/strash_patient.jpg" class="img-responsive" alt="...">
-            
+                         <img src="/images/carousel/perez_patient.jpg" class="img-responsive" alt="Dr. Richard Perez performs diagnostic ultrasound of the foot">
           </div>
            <!--  -->
           <div class="item">
-            <img src="/images/carousel/perez_patient.jpg" class="img-responsive" alt="...">
+               <img src="/images/carousel/strash_patient.jpg" class="img-responsive" alt="Dr. Strash talking with a patient">
+
             
           </div>
        
       
          <!--  -->
           <div class="item">
-            <img src="/images/carousel/chaney_patient.jpg" class="img-responsive" alt="...">
+            <img src="/images/carousel/chaney_patient.jpg" class="img-responsive" alt="Dr. Chaney talks with patient">
             
           </div>
           <!--  -->
           <div class="item">
-            <img src="/images/carousel/jordan_patient.jpg" class="img-responsive" alt="...">
+            <img src="/images/carousel/jordan_patient.jpg" class="img-responsive" alt="Dr. Mechell talks with patient">
           </div>
         
       </div>

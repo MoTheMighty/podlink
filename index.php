@@ -212,6 +212,8 @@
     </div><!-- col -->  
 
 </section>  <!-- container -->     
+  
+  <?php include 'components/carouselReviews.php'; ?>
 
 
 
