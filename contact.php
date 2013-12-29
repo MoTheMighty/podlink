@@ -1,5 +1,7 @@
 
-<!DOCTYPE html>
+<!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalclinic">
@@ -89,8 +91,8 @@
   <section id="bumperpads">
  
   <div class="col-lg-4 col-md-4 col-sm-4">
-  <form method="POST" action="php/examples/simple.php">
-    <div class="form-group has-success">
+  <form method="POST" action="php/examples/advanced.php">
+    <div class="form-group">
       <label for="firstname">Name: </label>
       <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name" required />
     </div><!-- formgroup firstname -->
@@ -216,6 +218,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
+    <script type="text/javascript">alert(mail)</script>
     
 
 <!-- googleconversioncode -->

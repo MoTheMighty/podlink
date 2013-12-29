@@ -22,17 +22,18 @@
         ->setApiToken("5297e21bda6302-02922761"); // Token "Heroku Application"
     
     // Step #2: Let's fill in the gaps for the variables (stuff) we've used in our template
-    $message = array(
-        "name" => "John Doe",
-        "username" => "john_doe42",
-        "token" => "b0b0f25f-c65b-43ce-8df8-cbc5dfbd1a13"
+   $message = array(
+        "first_name" => $_POST["first_name"],
+        "last_name" => $_POST["last_name"],
+        "email" => $_POST["email"],
+        "message" => $_POST["contact_message"]
     );
     
     // Step #3: Let's set up everything that is specific for delivering this email
-    $payload = EmailMessagePayload::create()
-        ->setProjectId(3715) // ID of "Reset Password" project
-        ->setSender(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
-        ->setReceiver(new EmailContact("heroku_bcc84b281380105c3655d26f065e569a", "app19512107@heroku.com"))
+     $payload = EmailMessagePayload::create()
+        ->setProjectId(3716) // ID of "Test" project
+        ->setSender(new EmailContact("Podlink Contact Request", "app19512107@heroku.com"))
+        ->setReceiver(new EmailContact("podlink contact request", "richard.perez@me.com"))
         ->setBodyObject($message);
     
     try
@@ -41,7 +42,7 @@
         $response = $email_service->queue($payload);
 
         // Step #5: Pop the champagné! We got here which mean that the request was sent successfully and the email is on it's way!        
-        echo sprintf("Successfully queued message with id '%s' (you can use this ID to get more details about the delivery)", $response->result);
+        //echo sprintf("Successfully queued message with id '%s' (you can use this ID to get more details about the delivery)", $response->result);
     }
     // Oh heck. Something went wrong. But don't stop here.
     // If you haven't solved it yourself. Just contact our brilliant support and they will help you.
@@ -76,7 +77,6 @@
     }
     
     // Writing to out like a boss
-    die("<br /><br /><strong>In doubt or experiencing problems?</strong><br />" .
-        "Please email our support at 'support@comfirm.se'");
+    die('<meta http-equiv="Refresh" content="0; url=http://localhost:8888/contact.php" /> <script>alert("Thank you, your message has been sent successfully")</script>');
 
 ?>

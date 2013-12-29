@@ -112,26 +112,10 @@
 	"buffers":
 	[
 		{
-			"file": "location.php",
+			"file": "components/schedule_modal.php",
 			"settings":
 			{
-				"buffer_size": 4633,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/navhead.php",
-			"settings":
-			{
-				"buffer_size": 6140,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "404.php",
-			"settings":
-			{
-				"buffer_size": 2995,
+				"buffer_size": 4276,
 				"line_ending": "Unix"
 			}
 		}
@@ -144,7 +128,7 @@
 		[
 			[
 				"",
-				"View In Browser"
+				"Package Control: Install Package"
 			],
 			[
 				"view",
@@ -159,7 +143,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 467.0
+		"width": 575.0
 	},
 	"console":
 	{
@@ -180,10 +164,29 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/template.php",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/php/examples/simple.php",
+		"/Applications/MAMP/htdocs/php/examples/advanced.php",
+		"/Applications/MAMP/htdocs/pathology/pathology.php",
+		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
+		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/404.php",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/schedule.php",
+		"/Applications/MAMP/htdocs/pathology/neuroma.php",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Applications/MAMP/htdocs/components/carouselReviews.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/components/carousel.php",
+		"/Applications/MAMP/htdocs/resources/survey.php",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/saturdayclinic.php",
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
 		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
-		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/pathology/charcot.php",
 		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
 		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
@@ -192,10 +195,7 @@
 		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
 		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
 		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
-		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
 		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
-		"/Applications/MAMP/htdocs/pathology/neuroma.php",
-		"/Applications/MAMP/htdocs/pathology/pathology.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
 		"/Applications/MAMP/htdocs/components/schedule_modal.php",
 		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
@@ -205,10 +205,8 @@
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
 		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
 		"/Applications/MAMP/htdocs/js/googlemap.js",
-		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/js/custom.js",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/schedule_chaney_data.php",
 		"/Applications/MAMP/htdocs/components/schedule_perez_data.php",
 		"/Applications/MAMP/htdocs/components/googleconversion.php",
@@ -217,7 +215,6 @@
 		"/Applications/MAMP/htdocs/components/schedule_chaney.php",
 		"/Applications/MAMP/htdocs/components/schedule_perez.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
-		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/components/schedule_mechell.php",
 		"/Applications/MAMP/htdocs/components/searchmodal.php",
 		"/Applications/MAMP/htdocs/components/schedule_strash.php",
@@ -231,7 +228,6 @@
 		"/Applications/MAMP/htdocs/_/js/custom.js",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
 		"/Applications/MAMP/htdocs/about.php",
-		"/Applications/MAMP/htdocs/schedule.php",
 		"/Applications/MAMP/htdocs/resources/faq.php",
 		"/Applications/MAMP/htdocs/components/schedulemodal.php",
 		"/Applications/MAMP/htdocs/.htaccess",
@@ -239,25 +235,18 @@
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
-		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
 		"/Applications/MAMP/htdocs/components/gpsmodal.php",
-		"/Applications/MAMP/htdocs/404.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/search.php",
 		"/Applications/MAMP/htdocs/resources/testamonial",
 		"/Applications/MAMP/htdocs/test.php",
-		"/Applications/MAMP/htdocs/php/examples/simple.php",
-		"/Applications/MAMP/htdocs/saturdayclinic.php",
 		"/Applications/MAMP/htdocs/pathology/eswt.php",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
-		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
 		"/Applications/MAMP/htdocs/pathology/wart.php",
 		"/Applications/MAMP/htdocs/components/socialicons.php",
-		"/Applications/MAMP/htdocs/resources/survey.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/sitemap.rb",
 		"/Applications/MAMP/htdocs/components/social_strash.php",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
@@ -281,11 +270,8 @@
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/forefoot/bunions.php",
 		"/Applications/MAMP/htdocs/page.aspx",
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/heel/heel-pain.php",
-		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
-		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
-		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/_/less/glyphicon_social.less",
 		"/Applications/MAMP/htdocs/_/less/glyphicons.less",
 		"/Applications/MAMP/htdocs/components/team.php",
@@ -305,9 +291,7 @@
 		"/Users/pod1098/Downloads/svgedit_app/manifest.json",
 		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/fonts/glyphicons-regular.svg",
 		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/glyphicons.less",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/style.less",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/style.css",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/glyphicons.css"
+		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/style.less"
 	],
 	"find":
 	{
@@ -434,54 +418,24 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "location.php",
-					"semi_transient": false,
+					"file": "components/schedule_modal.php",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 4633,
+						"buffer_size": 4276,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4604,
-								4604
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 1422.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "components/navhead.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6140,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5881,
-								5881
+								0,
+								0
 							]
 						],
 						"settings":
@@ -491,37 +445,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 971.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "404.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2995,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2974,
-								2974
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": -0.0,
-						"translation.y": 356.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
