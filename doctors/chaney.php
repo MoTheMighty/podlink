@@ -74,7 +74,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>D. Martin Chaney, DPM, FACFAS<p>
+        <h1>D. Martin Chaney, DPM, FACFAS</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

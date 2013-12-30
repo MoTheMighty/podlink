@@ -32,7 +32,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Posterior Tibial Tendonitis<p>
+        <h1>Posterior Tibial Tendonitis</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

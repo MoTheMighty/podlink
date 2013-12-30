@@ -70,7 +70,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Hallux Limitus/Rigidus<p>
+        <h1>Hallux Limitus/Rigidus</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

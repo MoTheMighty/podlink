@@ -66,7 +66,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Calcaneal Apophysitis<p>
+        <h1>Calcaneal Apophysitis</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

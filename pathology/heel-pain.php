@@ -72,7 +72,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Plantar Fasciitis<p>
+        <h1>Plantar Fasciitis</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

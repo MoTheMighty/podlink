@@ -72,7 +72,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Ankle Fracture<p>
+        <h1>Ankle Fracture</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

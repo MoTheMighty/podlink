@@ -90,7 +90,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Locations<p>
+        <h1>Locations</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

@@ -32,7 +32,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Hammertoes<p>
+        <h1>Hammertoes</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

@@ -70,7 +70,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Patient Reviews<p>
+        <h1>Patient Reviews</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

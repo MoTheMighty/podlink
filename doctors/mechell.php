@@ -70,7 +70,7 @@ and diabetic limb salvage."/>
     <section class="container">
   
       <div class="pull-left">
-        <p>R. Jordan Mechell, DPM<p>
+        <h1>R. Jordan Mechell, DPM</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

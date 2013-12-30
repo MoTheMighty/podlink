@@ -64,11 +64,11 @@
 <!-- pageheadnavigation -->
 
   <div class="navibar">
-  <div class="row">
+  
     <section class="container">
   
       <div class="pull-left">
-        <p>Contact<p>
+        <h1>Contact</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
@@ -78,7 +78,7 @@
       </div><!-- pull-right -->
      
     </section><!-- container -->
-    </div><!-- row -->
+    
   </div><!-- navibar -->
 
 <!-- end pageheadnavigation -->

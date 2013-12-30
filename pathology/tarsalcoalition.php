@@ -5,7 +5,7 @@
 
 <html>
   <head>
-    <title>Plantar Fasciitis - Heel Pain</title>
+    <title>Tarsal Coalition - Why is my foot stiff and sore?</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -32,7 +32,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Tarsal Coalition<p>
+        <h1>Tarsal Coalition</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

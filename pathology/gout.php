@@ -72,7 +72,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Gout<p>
+        <h1>Gout</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

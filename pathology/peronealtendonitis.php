@@ -69,7 +69,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Peroneal Tendons<p>
+        <h1>Peroneal Tendons</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

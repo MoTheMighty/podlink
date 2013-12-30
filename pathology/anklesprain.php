@@ -76,7 +76,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Ankle Sprains<p>
+        <h1>Ankle Sprains</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

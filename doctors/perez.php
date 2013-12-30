@@ -71,7 +71,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p><span itemprop="name">Richard Perez, DPM, FACFAS</span><p>
+        <h1><span itemprop="name">Richard Perez, DPM, FACFAS</span></h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

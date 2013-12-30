@@ -76,7 +76,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Achilles Tendonitis<p>
+        <h1>Achilles Tendonitis</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

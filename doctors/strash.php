@@ -68,7 +68,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Walter W. Strash, DPM, FACFAS<p>
+        <h1>Walter W. Strash, DPM, FACFAS</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

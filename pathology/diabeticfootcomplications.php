@@ -32,7 +32,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Diabetic Foot Complications<p>
+        <h1>Diabetic Foot Complications</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

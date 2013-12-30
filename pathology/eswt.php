@@ -32,7 +32,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>Extra Corporeal Shockwave Treatment<p>
+        <h1>Extra Corporeal Shockwave Treatment</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

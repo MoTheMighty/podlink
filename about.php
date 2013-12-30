@@ -70,7 +70,7 @@ Drs. Perez and Chaney fellowship training includes trauma and deformity reconstr
     <section class="container">
   
       <div class="pull-left">
-        <p>About<p>
+        <h1>About</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

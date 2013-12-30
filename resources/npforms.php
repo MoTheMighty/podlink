@@ -32,7 +32,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <p>New Patient Forms<p>
+        <h1>New Patient Forms</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
