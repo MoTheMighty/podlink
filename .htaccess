@@ -14,7 +14,7 @@ RewriteCond %{HTTP_HOST} ^www\.podlink\.com$ [NC]
 RewriteRule ^(.*)$ http://podlink.com/$1 [R=301,L]
 
 
-#Redirect 301 http://www.podlink.com  http://podlink.com/
+
 Redirect 301 /home.aspx  http://www.podlink.com/index.php
 Redirect 301 /contact-us.aspx http://podlink.com/contact.php
 Redirect 301 /contact-us/locations.aspx http://podlink.com/location.php
