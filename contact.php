@@ -218,15 +218,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
-    <script type="text/javascript">
-(function(){
-    window._EP   = "https://www.manycontacts.com";
-    window.__bID = "52c219391761401d32a74436";
-    document.body.appendChild(
-        document.createElement("script")
-    ).src = window._EP + "/assets/js/manycontacts.min.js";
-})();
-</script>
+  
     
 
 <!-- googleconversioncode -->
