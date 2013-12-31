@@ -217,7 +217,6 @@
 
 
 
-
 <div class="layoutspacing2">
   <div class="container"><hr></div>
 </div>
@@ -229,9 +228,8 @@
 <!-- footer -->
 
   
+  <?php include 'components/footer.php'; ?>        
           
-             <?php include 'components/footer.php'; ?>
-
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
@@ -273,5 +271,9 @@
      </script>
      <!-- end google charts script -->
 
+     <script>
+
+
+</script> 
   </body>
 </html>

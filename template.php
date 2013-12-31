@@ -33,7 +33,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <h1>Template</h1>>
+        <h1>Template</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
@@ -44,12 +44,8 @@
      
     </section><!-- container -->
 </div><!-- navibar -->
-<script>
- var sPath = window.location.pathname;
-var sPage = sPath.substring(sPath.lastIndexOf('/') + 1); 
-alert(sPath);
-</script>  
-
+ 
+<?php include 'components/schedule_perez_data.php'; ?>
 <!-- footer -->
 
    <?php include 'components/footer.php'; ?>
@@ -60,10 +56,17 @@ alert(sPath);
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
-    <script src="js/custom.js"></script>
+   
 
-
- 
+<script type="text/javascript">
+(function(){
+    window._EP   = "https://www.manycontacts.com";
+    window.__bID = "52c219391761401d32a74436";
+    document.body.appendChild(
+        document.createElement("script")
+    ).src = window._EP + "/assets/js/manycontacts.min.js";
+})();
+</script>
 
 
   </body>
