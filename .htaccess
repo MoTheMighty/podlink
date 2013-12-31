@@ -12,7 +12,7 @@ Redirect 301 /resources/faq.aspx http://podlink.com/resources/faq.php
 
 
 
-Redirect 301 http://www.podlink.com  http://podlink.com/index.php
+Redirect 301 http://www.podlink.com  http://podlink.com/
 Redirect 301 /home.aspx  http://www.podlink.com/index.php
 Redirect 301 /contact-us.aspx http://podlink.com/contact.php
 Redirect 301 /contact-us/locations.aspx http://podlink.com/location.php

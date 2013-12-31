@@ -11,6 +11,7 @@
     <meta charset="utf-8">
     <!-- bing authorization -->
     <meta name="msvalidate.01" content="FA44635B9B76597E752EE0BFB60B89F0" />
+    <meta name="google-site-verification" content="8pkl5tuBhGKs_XFheIJ8pmXyBeExSoQiuVZhCT1Acv4" />
     <!-- end bing authorization -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
