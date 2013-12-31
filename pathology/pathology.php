@@ -5,7 +5,7 @@
 
   <html>
   <head>
-    <title>Plantar Fasciitis - Heel Pain</title>
+    <title>Compendium of Common Foot and Ankle Problems</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

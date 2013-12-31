@@ -29,6 +29,7 @@
         <!-- Google+ -->
         <meta itemprop="name" content="Ankle Fractures"/>
         <meta itemprop="description" content="There are many ways to fracture an ankle bone, the most common injuries involve a sudden sharp twist of the ankle. Ankle fractures are common injuries among people of all ages, interests and lifestyles. People involved in a wide range of athletic activities, including basketball players, snowboarders, soccer players and football players are at high risk of ankle fractures because of the physical demands placed on their ankles."/>
+        <meta name="description" content="There are many ways to fracture an ankle bone, the most common injuries involve a sudden sharp twist of the ankle. Ankle fractures are common injuries among people of all ages, interests and lifestyles. People involved in a wide range of athletic activities, including basketball players, snowboarders, soccer players and football players are at high risk of ankle fractures because of the physical demands placed on their ankles."/>
        
         <meta itemprop="image" content="/images/pathology/anklejoint.jpg"/>
         <meta itemprop="alternativeHeadline" content=""/>

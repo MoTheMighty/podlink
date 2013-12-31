@@ -31,6 +31,7 @@
         <!-- Google+ -->
         <meta itemprop="name" content="Achilles Tendonitis"/>
         <meta itemprop="description" content="The achilles tendon is the largest tendon in the body.  It is subject to extreme loads and as a results can oftem suffer from overuse injuries"/>
+        <meta name="description" content="The achilles tendon is the largest tendon in the body.  It is subject to extreme loads and as a results can oftem suffer from overuse injuries"/>
         <meta itemprop="alternatename" content="Achilles Tendonosis"/>
         <meta itemprop="image" content=""/>
        
