@@ -7,6 +7,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
   <head>
     <title>Alamo Family Foot & Ankle Care San Antonio's - Most Trusted Podiatrists</title>
+    <meta name="description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
     <meta charset="utf-8">
     <!-- bing authorization -->
     <meta name="msvalidate.01" content="FA44635B9B76597E752EE0BFB60B89F0" />

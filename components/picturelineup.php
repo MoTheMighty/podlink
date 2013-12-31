@@ -34,7 +34,7 @@
        <div class="col-lg-3 col-md-6 col-sm-6">
         <section class="picline">
           
-        <img src="images/wally.png" class="img-rounded">
+        <img src="images/wally.png" alt="Dr. Strash" class="img-rounded">
         <h6>Walter W. Strash, DPM, FACFAS</h6>
 
           <hr>
@@ -49,7 +49,7 @@
         <section class="picline">
 
           <div itemscope itemtype="http://schema.org/podiatric">
-         <img src="images/perez.png" itemprop="photo" class="img-rounded">
+         <img src="images/perez.png" alt="Dr. Richard Perez, DPM" itemprop="photo" class="img-rounded">
         <h6 itemprop="name">Richard Perez, DPM, FACFAS</h6>
             <hr>
         <p itemprop="description">Dr. Perez is board certified by the American Board of Podiatric Surgery and a Fellow of the American College of Foot and Ankle Surgeons.  His clinical interest include sports injuries, cosmetic foot surgery and trauma.  </p>
@@ -61,7 +61,7 @@
 
      <div class="col-lg-3 col-md-6 col-sm-6"> 
       <section class="picline">
-        <img src="images/chaney.png" class="img-rounded">
+        <img src="images/chaney.png" alt="Dr. Chaney" class="img-rounded">
         <h6>D. Martin Chaney, DPM, FACFAS</h6>
           <hr>
         <p>Dr. Dennis Martin 'Marty' Chaney has been in private practice since 1999. He was born and raised in Southwest Iowa. He attended the University of Northern Iowa where he majored in Biology and Chemistry.</p>
@@ -75,7 +75,7 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
       <section class="picline">
 
-         <img src="images/jordan.png" class="img-rounded">
+         <img src="images/jordan.png" alt="Dr. Mechell" class="img-rounded">
         <h6>R. Jordan Mechell, DPM, AACFAS</h6>
             <hr>
         <p>Dr. R. Jordan Mechell was born and raised in a small town in South Texas. At a very young age, he found himself fascinated by the field of medicine and surgery. After graduating early from the University of Texas at Austin.</p>

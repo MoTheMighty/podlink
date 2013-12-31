@@ -9,7 +9,7 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="thumbnail">
           <div class="center">
-        <img src="images/wally.png" class="img-rounded">
+        <img src="images/wally.png" alt="Dr. Strash" class="img-rounded">
          
         <h5>Walter Strash, DPM, FACFAS</h5>
          </div><!-- center --> 
@@ -23,7 +23,7 @@
         <section class="thumbnail">
           <div class="center">
           <div itemscope itemtype="http://schema.org/podiatric">
-         <img src="images/perez.png" itemprop="photo" class="img-rounded">
+         <img src="images/perez.png" alt="Dr. Richard Perez, DPM" itemprop="photo" class="img-rounded">
         <h5 itemprop="name">Richard Perez, DPM, FACFAS</h5>
           </div><!-- schema markup -->
           </div><!-- center -->
@@ -37,7 +37,7 @@
      <div class="col-lg-3 col-md-6 col-sm-6"> 
       <section class="thumbnail">
         <div class="center">
-        <img src="images/chaney.png" class="img-rounded">
+        <img src="images/chaney.png" alt="Dr. Chaney" class="img-rounded">
         <h5>D. Martin Chaney, DPM, FACFAS</h5>
         </div><!-- center -->
          <hr> 
@@ -50,7 +50,7 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
       <section class="thumbnail">
         <div class="center">
-         <img src="images/jordan.png" class="img-rounded">
+         <img src="images/jordan.png" alt="Dr. Mechell" class="img-rounded">
           <h5> R. Jordan Mechell, DPM <h5>
           </div><!-- center -->
         <hr> 

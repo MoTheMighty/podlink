@@ -1,6 +1,8 @@
 <section id="wrap">
 <div class="fill">
-  
+  <div class="container">
+    <p><small>Schedule your appointment now: ph. 210-829-8770 </small></p>
+  </div>
 </div><!-- fill -->
 
 
@@ -15,7 +17,7 @@
       <span class="icon-bar"></span>
     </button>
     
-    <a class="navbar-brand" href="../../index.php"> <span itemscope itemtype="http://schema.org/podiatric"><img src="/images/Alamo_Logo.png" itemprop="logo"> </span><span itemprop="name">Alamo Family Foot & Ankle Care</a></span>
+    <a class="navbar-brand" href="../../index.php"> <span itemscope itemtype="http://schema.org/podiatric"><img src="/images/Alamo_Logo.png" alt="logo" itemprop="logo"> </span><span itemprop="name">Alamo Family Foot & Ankle Care</a></span>
   </div>
 <div class="header-nav">
   <!-- Collect the nav links, forms, and other content for toggling -->
