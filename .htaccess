@@ -2,6 +2,26 @@
 # (the following directive denies access by default)
 
 
+<FilesMatch "\.(ico|pdf|flv)$">
+Header set Cache-Control "max-age=29030400, public"
+</FilesMatch>
+ 
+
+<FilesMatch "\.(jpg|jpeg|png|gif|swf)$">
+Header set Cache-Control "max-age=29030400,, public"
+</FilesMatch>
+ 
+
+<FilesMatch "\.(xml|txt|css|js)$">
+Header set Cache-Control "max-age=29030400,, proxy-revalidate"
+</FilesMatch>
+ 
+
+<FilesMatch "\.(html|htm|php)$">
+Header set Cache-Control "max-age=29030400,, private, proxy-revalidate"
+</FilesMatch>
+
+
 Redirect 301 /contact-us/saturdayclinic.aspx http://podlink.com/resources/saturdayclinic.php
 Redirect 301 /resources/forms/newpatientforms.aspx http://podlink.com/resources/npforms.php
 Redirect 301 /resources/faq.aspx http://podlink.com/resources/faq.php
