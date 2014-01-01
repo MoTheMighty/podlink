@@ -2,9 +2,6 @@
 # (the following directive denies access by default)
 
 
-<FilesMatch "\.(ico|pdf|html|htm|php|css|js)$">
-Header set Cache-Control "max-age=29030400, public"
-</FilesMatch>
  
 
 
