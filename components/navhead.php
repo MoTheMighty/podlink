@@ -72,8 +72,8 @@
               <ul class="dropdown-menu">
                 <li><a href="../resources/npforms.php">New Patient Forms</a></li>
                 <li><a href="../resources/faq.php">Frequent Asked Questions</a></li>
-                <li><a href="../resources/survey.php">Patient Satisfaction Survey</a></li>
-                <li><a href="../resources/hippa.pdf">Privacy Practices</a></li>
+                <li><a href="../resources/privacyPractices.php">Website Privacy Notice</a></li>
+                <li><a href="../resources/hippa.pdf">HIPPA Privacy Notice (PDF)</a></li>
                 <li><a href="../resources/soakinginstructions.pdf">In-office surgery aftercare instructions</a></li>
                <li><a href="../resources/pfstretches.pdf">Stretching for Plantar Fasciitis</a></li>
                

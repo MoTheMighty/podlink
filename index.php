@@ -1,5 +1,7 @@
 
-    <!DOCTYPE html>
+  <!DOCTYPE html
+     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
     <html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
@@ -45,6 +47,9 @@
       <!-- <link href="css/glyphicons.css" rel="stylesheet"> -->
 
       <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+      <script src="js/html5shiv.js"></script>
+    <script src="js/respond.min.js"></script>
+
       <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
 
 
@@ -143,7 +148,7 @@
               <h2>Knowledge</h2>
               <hr>
 
-              <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified physicians are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages.</p>
+              <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified Podiatrist are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages.</p>
             </div> <!-- center-->
 
           </section><!-- col col-lg --><!-- col 1 -->
@@ -267,8 +272,7 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
-    <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
+   
 
 
 
