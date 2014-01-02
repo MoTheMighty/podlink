@@ -236,7 +236,7 @@
         </section> <!-- container -->
       </section><!-- center -->
        <div class="layoutspacing2"> </div>
-      <h2 class="center">What is the training and education of Podiatrist?</h2>
+      <h2 class="center">What is the training and education of Podiatrists?</h2>
 
       <div class="col-lg-7" style="padding-top:50px">
 
@@ -248,8 +248,8 @@
       </div><!-- col-lg-8 -->
 
       <div class="col-lg-5 lead">
-      As Podiatrist and Foot and Ankle Surgeons, we treat any condition of the foot and ankle 
-        using traditional, proven literature, driven by evidence based medicine.  Podiatrist are truly specialized in what we do. We spend four years in medical school learning about the whole body like every other medical student. Podiatrist then enter into residency where we work side by side with clinicians from internal medicine, general surgery, emergency medicine, endocrinology and radiology among others to form a solid foundation in advance of entering private practice.
+      As Podiatrists and Foot and Ankle Surgeons, we treat any condition of the foot and ankle 
+        using traditional, proven literature, driven by evidence based medicine.  Podiatrists are truly specialized in what we do. We spend four years in medical school learning about the whole body like every other medical student. Podiatrists then enter into residency where we work side by side with clinicians from internal medicine, general surgery, emergency medicine, endocrinology and radiology among others to form a solid foundation in advance of entering private practice.
 
 
 
