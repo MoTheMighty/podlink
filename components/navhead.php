@@ -122,7 +122,7 @@ var WRInitTime=(new Date()).getTime();
 
         
         </ul>
-      <!--</li>
+      </li>
     </ul><!-- navbarright -->
    
     
@@ -131,4 +131,4 @@ var WRInitTime=(new Date()).getTime();
   </div><!-- /.navbar-collapse -->
   </div> <!-- container -->
 
-<!</nav>
+</nav>
