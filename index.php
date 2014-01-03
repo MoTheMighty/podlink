@@ -11,7 +11,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 
 
-      <meta property="twitter:account_id" content=""/>
+      <meta property="twitter:alamofamilyfoot" content=""/>
       <link rel="canonical" href="http://podlink.com"/>
       <!-- fb -->
 
@@ -244,7 +244,7 @@
 
          <div class="video-container">
           <iframe id="ytplayer" type="text/html" width="640" height="360"
-          src="https://www.youtube.com/embed/CQ8ak79KCWQ?modestbranding=1&rel=0&showinfo=0&theme=light"
+          src="http://www.youtube.com/embed/CQ8ak79KCWQ?modestbranding=1&rel=0&showinfo=0&theme=light"
           frameborder="0" allowfullscreen></iframe>
         </div><!-- videocontainer -->
       </div><!-- col-lg-8 -->

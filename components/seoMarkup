@@ -11,13 +11,13 @@
         <meta name="og:image" content=""/>
         
         <!-- twitter -->
-        <meta name="Twitter:card" content="summary"/>
-        <meta name="Twitter:site" content="@"/>
-        <meta name="Twitter:creator" content="@"/>
-        <meta name="Twitter:title" content=""/>
-        <meta name="Twitter:url" content=""/>
-        <meta name="Twitter:description" content=""/>
-        <meta name="Twitter:image"/>
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:site" content="@alamofamilyfoot">
+      <meta name="twitter:title" content="">
+      <meta name="twitter:description" content="">
+      <meta name="twitter:creator" content="@alamofamilyfoot">
+      <meta name="twitter:image:src" content="">
+      <meta name="twitter:domain" content="">
 
         <!-- Google+ -->
         <meta itemprop="name" content=""/>

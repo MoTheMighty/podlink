@@ -10,22 +10,20 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 
-    <meta property="twitter:account_id" content=""/>
-    <link rel="canonical" href=""/>
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:site" content="@alamofamilyfoot">
+      <meta name="twitter:title" content="Hallux Limitus | Why does my big toe joint hurt?">
+      <meta name="twitter:description" content="Stiffness and pain of the big toe joint is termed Hallux Rigidus or Hallux Limitus.">
+      <meta name="twitter:creator" content="@alamofamilyfoot">
+      <meta name="twitter:image:src" content="/images/pathology/chilectomypost.jpg">
+      <meta name="twitter:domain" content="">
     <!-- fb -->
-    <meta name="og:title" content="Hallux Limitus | Why does my big toe joint hurt?"/>
-    <meta name="og:url" content=""/>
-    <meta name="og:description" content="Stiffness and pain of the big toe joint is termed Hallux Rigidus or Hallux Limitus."/>
-    <meta name="og:image" content=""/>
+    <meta property="og:title" content="Hallux Limitus | Why does my big toe joint hurt?"/>
+    <meta property="og:url" content="http://podlink.com/pathology/halluxliimitus.php"/>
+    <meta property="og:description" content="Stiffness and pain of the big toe joint is termed Hallux Rigidus or Hallux Limitus."/>
+    <meta property="og:image" content="/images/pathology/chilectomypost.jpg"/>
 
-    <!-- twitter -->
-    <meta name="Twitter:card" content="summary"/>
-    <meta name="Twitter:site" content="@"/>
-    <meta name="Twitter:creator" content="@"/>
-    <meta name="Twitter:title" content=""/>
-    <meta name="Twitter:url" content=""/>
-    <meta name="Twitter:description" content=""/>
-    <meta name="Twitter:image"/>
+   
 
     <!-- Google+ -->
     <meta itemprop="name" content="Hallux Limitus | Why does my big toe joint hurt?"/>
@@ -54,9 +52,13 @@
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+<![endif]-->
 
-    <script src="/js/html5shiv.js"></script>
-    <script src="/js/respond.min.js"></script>
+    
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
@@ -88,18 +90,11 @@
 
     <div class="container">
 
-      <ul class="nav nav-tabs nav-justified" style="margin: 20px 0px;">
-        <li class="active"><a href="#cause" data-toggle="tab">Cause</a></li>
-        <li><a href="#signs_symptoms" data-toggle="tab">Signs and Symptoms</a></li>
-        <li><a href="#treatment" data-toggle="tab">Treatment</a></li>
-        <li><a href="#video" data-toggle="tab">Video</a></li>
-
-      </ul>
+      
 
       <!-- Tab panes -->
 
-      <div class="tab-content" style="padding: 0px 60px;">
-        <div class="tab-pane fade in active" id="cause">
+      
          <h3>Definition:</h3> 
          <p>Stiffness and pain of the big toe joint is termed Hallux Rigidus or Hallux Limitus. Hallux is the medical term for the big toe and the terms rigidus and limitus describe the extent to which the toe can move.</p> 
          <p style="text-align: center;"><img src="/images/pathology/chilectomypost.jpg" alt="One month post op following chielectomy for hallux rigidus/limitus" /></p> 
@@ -127,13 +122,13 @@
          </ul> 
          <span class="thumbnail text-muted center"><img src="/images/pathology/stage4.jpg" alt="Stage One Hallux Limitus" class-"img img-responsive"/>
           <small>Arrows indicate joing collapse</small></span> 
-       </div>
+      
        <!-- tab -->
-       <div class="tab-pane fade" id="signs_symptoms">
+      
         <h3>Symptoms:</h3> <p>Symptoms can vary from patient to patient. Most people describe a burning and throbbing pain in their forefoot which may radiate up into the arch. For women, wearing high heel shoes generallyaggravatesthe problem. Additionally, walking and running tend to cause pain. There maybe anoticeablebump on the top of the great to joint with some overling redness. Usually, there is little swelling. Moving the big to joint up usually causes pain. </p> <p>Patient may experience periods of relatively few symptoms which may last for months at a time, only to be followed by extreme flair ups of pain. The big toe is usually always stiff, even when there are no symptoms.</p> <p>An easy test patients can perform on their own is to compare the ability of the big toe joint to move upwards. If one side is significantly stiffer then other toe and there is occasional to frequent pain, this is a good sign of Hallux Limitus or Rigidus.</p>
-      </div>
+   
       <!-- tab -->
-      <div class="tab-pane fade" id="treatment">
+     
         <h3>Treatment:</h3> 
         <p>In the early stages on Hallux Limitus/Rigidus, non-surgical care maybe of benefit. This includes <span itemprop="possibletreatment">custom arch supports to better align the first metatarsal relative to the proximal phalanx.</span> Orthopedic rockerbottom shoes for non-surgical candidates can also be of use. <span itemprop"possibletreatment">Cortisone injections into the joint can also temporarily alleviate the symptoms.</span> Generally, however, this condition requires surgery. Surgical management falls into two broadcategories, preserving the joint or fusing the joint. The surgery ischosenbased on the above mentioned staging system. </p> 
         <h3>Joint preserving:</h3>  
@@ -156,17 +151,15 @@
             <ul> 
               <li itemprop="possibletreatment">Arthroplasty: removal of the joint with possible implant of an artificial joint. This is usually done for pain relief inpatients who are not able to undergo a fusion. Generally return to sporting activity is not possible.</li> 
             </ul>
-          </div>
-          <div class="tab-pane fade" id="video">
+        
+          
             <div class="video-container">  
            <iframe id="ytplayer" type="text/html" width="640" height="360"
            src="https://www.youtube.com/embed/0NOXD6_vaws?modestbranding=1&rel=0&showinfo=0&theme=light"
            frameborder="0" allowfullscreen></iframe>
            </div><!-- video container -->
-         </div>
+      
 
-       </div>
-     </div><!-- tab0content -->
 
    </div><!-- container -->
 
