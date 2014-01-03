@@ -7,7 +7,7 @@
 	
 
      
-			<div class="container" >
+			<div class="container">
 				<div class="col col-lg-1"></div>
 
 				

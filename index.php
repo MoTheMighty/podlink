@@ -2,7 +2,7 @@
   <!DOCTYPE html>
 
 
-    <html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
+    <html lang="en-US" itemscope itemtype="http://schema.org/podiatric">
     <head>
       <title>Alamo Family Foot &amp;  Ankle Care San Antonio's Most Trusted Podiatrists</title>
       <meta name="description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot &amp; Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area."/>
@@ -12,13 +12,13 @@
 
 
       <meta property="twitter:account_id" content=""/>
-      <link rel="canonical" href=""/>
+      <link rel="canonical" href="http://podlink.com"/>
       <!-- fb -->
 
-      <meta name="og:title" content="Alamo Family Foot &amp;  Ankle Care San Antonio's Most Trusted Podiatrist"/>
-      <meta name="og:url" content="podlink.com"/>
-      <meta name="og:description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot &amp;Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
-      <meta name="og:image" content=""/>
+      <meta property="og:title" content="Alamo Family Foot &amp;  Ankle Care San Antonio's Most Trusted Podiatrist"/>
+      <meta property="og:url" content="htttp://podlink.com"/>
+      <meta property="og:description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot &amp;Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
+      <meta property="og:image" content=""/>
 
       <!-- twitter -->
 
