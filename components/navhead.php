@@ -80,6 +80,7 @@ var WRInitTime=(new Date()).getTime();
               <ul class="dropdown-menu">
                 <li><a href="../resources/npforms.php">New Patient Forms</a></li>
                 <li><a href="../resources/faq.php">Frequent Asked Questions</a></li>
+                <li><a href="../resources/saturdayclinic.php">Saturday Clinic Dates</a></li>
                 <li><a href="../resources/privacyPractices.php">Website Privacy Notice</a></li>
                 <li><a href="../resources/hippa.pdf">HIPPA Privacy Notice (PDF)</a></li>
                 <li><a href="../resources/soakinginstructions.pdf">In-office surgery aftercare instructions</a></li>
@@ -98,7 +99,7 @@ var WRInitTime=(new Date()).getTime();
 
 !-- google analytics -->
 
-<script>
+script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -107,7 +108,7 @@ var WRInitTime=(new Date()).getTime();
   ga('create', 'UA-18705174-1', 'podlink.com');
   ga('send', 'pageview');
 
-</script>
+/script>
 <!-- google analytics -->
 
 

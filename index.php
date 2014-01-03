@@ -1,12 +1,10 @@
 
-  <!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+  <!DOCTYPE html>
 
 
     <html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
     <head>
-      <title>Alamo Family Foot &amp;  Ankle Care San Antonio's - Most Trusted Podiatrists</title>
+      <title>Alamo Family Foot &amp;  Ankle Care San Antonio's Most Trusted Podiatrists</title>
       <meta name="description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot &amp; Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area."/>
       <meta charset="utf-8"/>
      
@@ -128,17 +126,19 @@
       </section> <!-- toolbar -->
 
 
-      <div id="bomb"></div>
+      
 
 
 
 
       <section class="container">
-        <div id="bumperpads">
+       
+
+       <div class="layoutspacing2"></div>
 
 
           <!-- col 1 -->
-          <section class="col col-lg-4">
+          <section class="col col-lg-4 col-md-4">
 
             <div class="center">
               <section class="enlarge">
@@ -154,7 +154,7 @@
           </section><!-- col col-lg --><!-- col 1 -->
 
           <!-- col 2 -->
-          <section class="col col-lg-4">
+          <section class="col col-lg-4 col-md-4">
             <div class="center">
               <section class="enlarge">
                 <span class="glyphicons cogwheels"></span>
@@ -170,7 +170,7 @@
 
           <!-- col 3 -->
 
-          <section class="col col-lg-4">
+          <section class="col col-lg-4 col-md-4">
             <div class="center">
               <section class="enlarge">
                 <span class="glyphicons screenshot"></span>
@@ -184,7 +184,7 @@
 
             </section><!-- col col-lg -->
 
-          </div><!-- bumperpads -->
+         
 
         </section> <!-- container -->
 
@@ -238,7 +238,9 @@
        <div class="layoutspacing2"> </div>
       <h2 class="center">What is the training and education of Podiatrists?</h2>
 
-      <div class="col-lg-7" style="padding-top:50px">
+      <div class="layoutspacing2"></div>
+
+      <div class="col-lg-7">
 
          <div class="video-container">
           <iframe id="ytplayer" type="text/html" width="640" height="360"
@@ -247,9 +249,9 @@
         </div><!-- videocontainer -->
       </div><!-- col-lg-8 -->
 
-      <div class="col-lg-5 lead">
-      As Podiatrists and Foot and Ankle Surgeons, we treat any condition of the foot and ankle 
-        using traditional, proven literature, driven by evidence based medicine.  Podiatrists are truly specialized in what we do. We spend four years in medical school learning about the whole body like every other medical student. Podiatrists then enter into residency where we work side by side with clinicians from internal medicine, general surgery, emergency medicine, endocrinology and radiology among others to form a solid foundation in advance of entering private practice.
+      <div class="col-lg-5" style="font-size:20px">
+      <p>As Podiatrists and Foot and Ankle Surgeons, we treat any condition of the foot and ankle 
+        using traditional, proven literature, driven by evidence based medicine.  Podiatrists are truly specialized in what we do. We spend four years in medical school learning about the whole body like every other medical student. Podiatrists then enter into residency where we work side by side with clinicians from internal medicine, general surgery, emergency medicine, endocrinology and radiology, among others, to form a solid foundation in advance of entering private practice.</p>
 
 
 

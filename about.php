@@ -114,9 +114,7 @@ therapies and treatment that optimize patient outcomes, and individually they of
 </section><!-- container -->
 <!-- 1 -->
 
-<div class="layoutspacing">
 
-</div><!-- linespacing -->
 
 
 <section class="container page-header">
@@ -132,7 +130,7 @@ therapies and treatment that optimize patient outcomes, and individually they of
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Although technological advancements are paramount to their success, our physicians make 
-teamwork and integrity the cornerstones of their practice. Our physicians provide services from 
+teamwork and integrity the cornerstones of their practice. Our Podiatrists provide services from 
 three locations in San Antonio.
 </div><!-- col-lg-8 -->
 
@@ -140,15 +138,13 @@ three locations in San Antonio.
 
 <!-- 2 -->
 
-<div class="layoutspacing">
 
-</div><!-- linespacing -->
 
 <section class="container">
 
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Their fully equipped and staffed clinics offer the latest in cutting edge technology 
-giving our patients a full spectrum of treatment choices to maximize their recovery.
+Their fully equipped and staffed clinics offer the latest in cutting edge technology, including MRI, ultrasound and digital xray- 
+giving our patients a full spectrum of treatment choices to maximize and speed their recovery.
 </div><!-- col-lg-8 -->
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
