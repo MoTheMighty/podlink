@@ -1,146 +1,135 @@
 <!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+ PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 
 
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
-  <head>
-    <title>Calcaneal Apophysitis | Why does my child's heel hurt?</title>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<head>
+  <title>Calcaneal Apophysitis | Why does my child's heel hurt?</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-     <meta property="twitter:account_id" content=""/>
-        <link rel="canonical" href=""/>
-        <!-- fb -->
-        <meta name="og:title" content="Calcaneal Apophysitis | Why does my child's heel hurt?"/>
-        <meta name="og:url" content=""/>
-        <meta name="og:description" content="Sever’s disease, also known as calcaneal apophysitis is a very common condition among young (8-15) athletic children. It is caused by movement of a growth plate in the back of the heel during activities."/>
-        <meta name="og:image" content=""/>
-        
-        <!-- twitter -->
-        <meta name="Twitter:card" content="summary"/>
-        <meta name="Twitter:site" content="@"/>
-        <meta name="Twitter:creator" content="@"/>
-        <meta name="Twitter:title" content=""/>
-        <meta name="Twitter:url" content=""/>
-        <meta name="Twitter:description" content=""/>
-        <meta name="Twitter:image"/>
+  
+  <link rel="canonical" href=""/>
+  <!-- fb -->
+  <meta property="og:title" content="Calcaneal Apophysitis | Why does my child's heel hurt?"/>
+  <meta property="og:url" content="http://podlink.com/pathology/calcanealapophysitis"/>
+  <meta property="og:description" content="Sever’s disease, also known as calcaneal apophysitis is a very common condition among young (8-15) athletic children. It is caused by movement of a growth plate in the back of the heel during activities."/>
+  <meta property="og:image" content=""/>
+  
+  <!-- twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@alamofamilyfoot">
+  <meta name="twitter:title" content="Calcaneal Apophysitis | Why does my child's heel hurt?">
+  <meta name="twitter:description" content="Sever’s disease, also known as calcaneal apophysitis is a very common condition among young (8-15) athletic children. It is caused by movement of a growth plate in the back of the heel during activities.">
+  <meta name="twitter:creator" content="@alamofamilyfoot">
+  <meta name="twitter:image:src" content="http://podlink.com">
+  <meta name="twitter:domain" content="http://podlink.com">
 
-        <!-- Google+ -->
-        <meta itemprop="name" content="Calcaneal Apophysitis | Why does my child's heel hurt?"/>
-        <meta itemprop="description" content="Sever’s disease, also known as calcaneal apophysitis is a very common condition among young (8-15) athletic children. It is caused by movement of a growth plate in the back of the heel during activities."/>
-        
-        <meta itemprop="image" content=""/>
-       
-                
-              
-        <link rel="author" href="http://plus.google.com/113774021362941412953" />
-        
-        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-        <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
-
+  <!-- Google+ -->
+  <meta itemprop="name" content="Calcaneal Apophysitis | Why does my child's heel hurt?"/>
+  <meta itemprop="description" content="Sever’s disease, also known as calcaneal apophysitis is a very common condition among young (8-15) athletic children. It is caused by movement of a growth plate in the back of the heel during activities."/>
+  
+  <meta itemprop="image" content=""/>
+  
+  
+  
+  <link rel="author" href="http://plus.google.com/113774021362941412953" />
+  
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-    <!-- Bootstrap -->
-    <link href="../../css/bootstrap.css" rel="stylesheet">
-    <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
-    <link href="../../css/mystyles.css" rel="stylesheet">
-    <!-- <link href="css/glyphicons.css" rel="stylesheet"> -->
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    
-      <script src="/js/html5shiv.js"></script>
-      <script src="/js/respond.min.js"></script>
+
+  <!-- Bootstrap -->
+  <link href="../../css/bootstrap.css" rel="stylesheet">
+  <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
+  <link href="../../css/mystyles.css" rel="stylesheet">
+  <!-- <link href="css/glyphicons.css" rel="stylesheet"> -->
+
+    <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
   <body id="calcanealapophysitis">
 
-  <?php include '../components/navhead.php'; ?>
+    <?php include '../components/navhead.php'; ?>
 
 
 
-  <div class="navibar">
-    <section class="container">
-  
-      <div class="pull-left">
-        <h1>Calcaneal Apophysitis</h1>
-      </div><!-- pullleft -->
-      <div class="pull-right">
-        <ol class="breadcrumb">
+    <div class="navibar">
+      <section class="container">
+        
+        <div class="pull-left">
+          <h1>Calcaneal Apophysitis</h1>
+        </div><!-- pullleft -->
+        <div class="pull-right">
+          <ol class="breadcrumb">
             <li><a href="../../index.php">Home</a></li>
             <li><a href="/pathology/pathology.php">Conditions</a></li>
             <li class="active">Calcaneal Apophysitis</li>
-        </ol><!-- breadcrumb -->
-      </div><!-- pull-right -->
-     
-    </section><!-- container -->
-  </div><!-- navibar -->
+          </ol><!-- breadcrumb -->
+        </div><!-- pull-right -->
+        
+      </section><!-- container -->
+    </div><!-- navibar -->
 
-  <!-- end navibar -->
-<div class="layoutspacing2"></div>
+    <!-- end navibar -->
+    <div class="layoutspacing2"></div>
 
-<div class="container">
-  
-<ul class="nav nav-tabs nav-justified" style="margin: 20px 0px;">
-              <li class="active"><a href="#cause" data-toggle="tab">Cause</a></li>
-              <li><a href="#signs_symptoms" data-toggle="tab">Signs and Symptoms</a></li>
-              <li><a href="#treatment" data-toggle="tab">Treatment</a></li>
-             
-            </ul>
+    <div class="container">
+      
 
-            <!-- Tab panes -->
-           
-            <div class="tab-content" style="padding: 0px 60px;">
-              <div class="tab-pane fade in active" id="cause">
-                      <h2>Calcaneal Apophysitis (Sever's Disease)</h2>
-                     
-                          <p>Sever’s disease, also known as calcaneal apophysitis is a very common condition among young (8-15) athletic children. It is <span itemprop="cause">caused by movement of a growth plate in the back of the heel during activities. This usually occurs during periods of high impact sports, thus children who are active</span> tend to complain of pain to their heel during and after sports. <span itemprop="signorsymptom">Sever’s disease is not a true “disease,” rather a painful swelling of the growth plate due to abnormal forces on the heel.</span></p> <p style="text-align: center; margin: 0in 0in 10pt;"><img  alt="Children running, Sever's Disease" src="/images/pathology/children-running[1].jpg" /></p>
-                          <h3>Cause</h3> <p itemprop="associatedanatomy">The growth plate located on the back of the heel, known as the physis, is firmly attached to the Achilles tendon. As children experience rapid growth during puberty, often times, the Achilles tendon will begin to pull with more force to the growth plate. In most children, the Achilles tendon and its associated muscles will growth at the same relative rate as the leg bones. However, in some individuals, the bones grow much faster than the tendons and bones, resulting in an increased pull to the growth plate. This results in a painful inflammation to the back of the heel. Especially after high impact sports</p> <p style="text-align: center; margin: 0in 0in 10pt;"><img alt="growth plate of the calcaneus"  src="/images/pathology/calcaphysis.jpg" /></p>
-                </div>
-              <!-- tab -->
-              <div class="tab-pane fade" id="signs_symptoms">
-                  
-                  <h3><strong>Symptoms</strong></h3> <p>Symptoms of calcaneal apophysitis may include:</p> 
-                  <ul> 
-                  <li itemprop="signorsymptom">Pain in the back or bottom of the heel </li> 
-                  <li itemprop="signorsymptom">Limping </li> <li itemprop="signorsymptom">Walking on toes </li> 
-                  <li itemprop="signorsymptom">Difficulty running, jumping, or participating in usual activities or sports </li> 
-                  <li itemprop="signorsymptom">Pain when the sides of the heel are squeezed </li> 
-                  </ul> 
-              </div>
-              <!-- tab -->
-              <div class="tab-pane fade" id="treatment">
-                  
-                  <h3>Diagnosis</h3> <p>A thorough history and physical will be performed by one of our podiatrist. X-rays are usually obtained along with an analysis of the child’s range of motion and walking patterns. An MRI is also sometimes ordered to rule out other more serious conditions.</p> <p><strong>Treatment</strong></p> <p><br /> Based on the history and physical findings, our podiatrist may select one or more of the following options to treat calcaneal apophysitis:</p> 
-                  <ul> <li itemprop="possbiletreatment">Reduce activity.The child needs to reduce or stop any activity that causes pain. </li> 
-                  <li itemprop="possbiletreatment">Support the heel.Temporary shoe inserts or custom orthotic devices may provide support for the heel. </li> 
-                  <li itemprop="possbiletreatment">Medications.Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen, help reduce the pain and inflammation. </li> 
-                  <li itemprop="possbiletreatment">Physical therapy.Stretching or physical therapy modalities are sometimes used to promote healing of the inflamed issue. </li> 
-                  <li itemprop="possbiletreatment">Immobilization.In some severe cases of pediatric heel pain, a cast may be used to promote healing while keeping the foot and ankle totally immobile. </li> 
-                  <li itemprop="possbiletreatment">Orthosis. These are used to correct any biomechanical abnormality.</li>
-              </div>
-             
-              
-            </div><!-- tab0content -->
+      <div class="page-header">
+        <h3>Cause / Background</h3>
+      </div>
+      
+      <p>Sever’s disease, also known as calcaneal apophysitis is a very common condition among young (8-15) athletic children. It is <span itemprop="cause">caused by movement of a growth plate in the back of the heel during activities. This usually occurs during periods of high impact sports, thus children who are active</span> tend to complain of pain to their heel during and after sports. <span itemprop="signorsymptom">Sever’s disease is not a true “disease,” rather a painful swelling of the growth plate due to abnormal forces on the heel.</span></p> <p style="text-align: center; margin: 0in 0in 10pt;"><img  alt="Children running, Sever's Disease" src="/images/pathology/children-running[1].jpg" /></p>
+      <h3>Cause</h3> <p itemprop="associatedanatomy">The growth plate located on the back of the heel, known as the physis, is firmly attached to the Achilles tendon. As children experience rapid growth during puberty, often times, the Achilles tendon will begin to pull with more force to the growth plate. In most children, the Achilles tendon and its associated muscles will growth at the same relative rate as the leg bones. However, in some individuals, the bones grow much faster than the tendons and bones, resulting in an increased pull to the growth plate. This results in a painful inflammation to the back of the heel. Especially after high impact sports</p> <p style="text-align: center; margin: 0in 0in 10pt;"><img alt="growth plate of the calcaneus"  src="/images/pathology/calcaphysis.jpg" /></p>
+      
+      <div class="page-header">
+        <h3>Symptoms</h3>
+      </div>
+      
+      <ul> 
+        <li itemprop="signorsymptom">Pain in the back or bottom of the heel </li> 
+        <li itemprop="signorsymptom">Limping </li> <li itemprop="signorsymptom">Walking on toes </li> 
+        <li itemprop="signorsymptom">Difficulty running, jumping, or participating in usual activities or sports </li> 
+        <li itemprop="signorsymptom">Pain when the sides of the heel are squeezed </li> 
+      </ul> 
+      
+      
+      <div class="page-header">
+        <h3>Diagnosis and Treatment</h3>
+      </div>
 
-</div><!-- container -->
+      <p>A thorough history and physical will be performed by one of our podiatrist. X-rays are usually obtained along with an analysis of the child’s range of motion and walking patterns. An MRI is also sometimes ordered to rule out other more serious conditions.</p> <p><strong>Treatment</strong></p> <p><br /> Based on the history and physical findings, our podiatrist may select one or more of the following options to treat calcaneal apophysitis:</p> 
+      <ul> <li itemprop="possbiletreatment">Reduce activity.The child needs to reduce or stop any activity that causes pain. </li> 
+        <li itemprop="possbiletreatment">Support the heel.Temporary shoe inserts or custom orthotic devices may provide support for the heel. </li> 
+        <li itemprop="possbiletreatment">Medications.Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen, help reduce the pain and inflammation. </li> 
+        <li itemprop="possbiletreatment">Physical therapy.Stretching or physical therapy modalities are sometimes used to promote healing of the inflamed issue. </li> 
+        <li itemprop="possbiletreatment">Immobilization.In some severe cases of pediatric heel pain, a cast may be used to promote healing while keeping the foot and ankle totally immobile. </li> 
+        <li itemprop="possbiletreatment">Orthosis. These are used to correct any biomechanical abnormality.</li>
+        
+      </div><!-- container -->
+      <div class="layoutspacing2"></div>
+      <!-- footer -->
 
-<!-- footer -->
-
-   <?php include '../components/footer.php'; ?>
+      <?php include '../components/footer.php'; ?>
 
 
-    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://code.jquery.com/jquery.js"></script>
-    <!-- Include all compiled plugins (below), or include individual files as needed -->
-    <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/modernizr.js"></script>
-   
+      <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+      <script src="https://code.jquery.com/jquery.js"></script>
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="/js/bootstrap.min.js"></script>
+      <script src="/js/modernizr.js"></script>
+      
 
 
 
-  </body>
-</html>
+    </body>
+    </html>

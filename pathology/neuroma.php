@@ -133,7 +133,7 @@
 
 
         <div class="page-header">
-          <h3>Neurolysis | Sclerosing Alcohl Treatment</h3>
+          <h3>Neurolysis | Sclerosing Alcohol Treatment</h3>
         </div>
         <p>Neuromas have typically been very challenging to treat. Whenever we are dealing with a nerve, any treatment must be aimed at not causing additional irritation. In the late part of the 1990’s we began to read reports of a new treatment for this tough problem.</p> <p>A novel approach was being taken, where a dilute solution of alcohol was injected into the diseased nerve. Initial reports at scientific meetings were promising. After publication of the Dr. Dockery’s work confirming success of the new technique, Drs. Richard Perez and Walter Strash became the first podiatrist in San Antonio to offer this new technique.</p> <p>Following the recognized protocol, we achieved similar success to what was described in the study. Since that time, we have also incorporated the use of diagnostic ultrasound, which allows direct visualization of the nerve bundle.</p> <p>The alcohol solution is injected into the nerve on a weekly basis. The alcohol molecules displace the abundant water molecules present within the nerve fibers. This has the affect of slowly shrinking the nerve. And with time, the symptoms disappear.</p> <p><strong>Procedure:</strong></p> 
         <ul> 

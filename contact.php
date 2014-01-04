@@ -181,7 +181,7 @@
             </div><!-- tab0content -->
     
                   
-            <?php include 'components/schedule_modal.php'; ?>   
+           
 
           
       </section><!-- center -->
