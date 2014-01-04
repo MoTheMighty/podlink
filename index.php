@@ -21,6 +21,13 @@
       <meta property="og:image" content=""/>
 
       <!-- twitter -->
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:site" content="@alamofamilyfoot">
+      <meta name="twitter:title" content="Alamo Family Foot &amp;  Ankle Care San Antonio's Most Trusted Podiatrists">
+      <meta name="twitter:description" content="As the premiere podiatrist in San Antonio, we offer services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community.">
+      <meta name="twitter:creator" content="@alamofamilyfoot">
+      <meta name="twitter:image:src" content="http://podlink.com">
+      <meta name="twitter:domain" content="http://podlink.com">
 
       <!-- Google+ -->
       <meta itemprop="name" content="Alamo Family Foot &amp;  Ankle Care San Antonio's most trusted podiatrist"/>
@@ -44,11 +51,10 @@
       <link href="css/mystyles.css" rel="stylesheet">
       <!-- <link href="css/glyphicons.css" rel="stylesheet"> -->
 
-      <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-      <script src="js/html5shiv.js"></script>
-    <script src="js/respond.min.js"></script>
-
-      <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+       <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
 
 
       <meta http-equiv="X-UA-Compatible" content="IE=9">

@@ -73,10 +73,7 @@ function initialize() {
     // Calling the open method of the infoWindow
     infowindow1.open(map, marker1);
     });
-     google.maps.event.addListener(marker1, 'click', function() {
-    map.setZoom(18);
-    map.setCenter(new google.maps.LatLng(29.5295963, -98.5911179));
-  });
+     
     // -------- END OF 1st MARKER
 
 
