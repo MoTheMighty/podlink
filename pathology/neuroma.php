@@ -64,7 +64,7 @@
       <section class="container">
 
         <div class="pull-left">
-          <p>Neuromas<p>
+          <h1>Neuromas</h1>
           </div><!-- pullleft -->
           <div class="pull-right">
             <ol class="breadcrumb">
