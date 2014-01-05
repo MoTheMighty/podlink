@@ -16,7 +16,7 @@
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
     <![endif]-->
-    <meta http-equiv="X-UA-Compatible" content="IE=9">\
+    <meta http-equiv="X-UA-Compatible" content="IE=9">
 
 
         <!-- fb -->
@@ -52,9 +52,10 @@
 
   <body id="Template">
 
-  <?php include '../components/navhead.php'; ?>
 
-<div class="layoutspacing2"></div>
+  <?php  include $_SERVER['DOCUMENT_ROOT'] . '/components/navhead.php'; ?>
+
+
 
  
  <div class="layoutspacing2"></div>
@@ -75,14 +76,15 @@
       <hr>
       <p>Monckeberg's arteriosclerosis, also called medial calcific sclerosis, is a form of arteriosclerosis or vessel hardening, where calcium deposits form in the middle layer of the walls of medium sized vessels (the tunica media). It is often not clinical unless it is severe. This human medial calcification, Mönckeberg’s sclerosis, is common and occurs independently of atherosclerosis.</p> <p>It is more frequent in people over 50 years of age and diabetics. In advanced cases of Monckeberg's medial calcific sclerosis, vessels may become rigid and lose their distensibility.</p> <p>It can easily be seen as an opaque vessel on normal x-rays and purple material on histological slides. It is usually more benign than other forms of arteriosclerosis because it does not cause narrowing of the lumen,[4] but can still be associated with important medical conditions. Monckeberg's arteriosclerosis is most commonly found in the radial or ulnar arteries causing "pipestem" arteries, which will present as a bounding pulse at the end of the calcific zone. <p>It may also result in "pulselessness."It is associated with trophic foot ulceration and peripheral artery occlusive disease.Its presence predicts risk of cardiovascular events and leg amputation in diabetic patients.Mönckeberg's medial arteriosclerosis was diagnosed in 34 of 297 patients referred for pelvic radiography for a variety of reasons. It is strongly associated with metabolic bone disease, especially osteoporosis, whether induced by corticosteroids or arising spontaneously.</p>
 
-      <?php include '../../components/blogseo.php'; ?>
+             <?php  include $_SERVER['DOCUMENT_ROOT'] . '/components/blogseo.php'; ?>
 
       <hr>
 </div><!-- blog -->
 
 <!-- footer -->
 
-   <?php include '../components/footer.php'; ?>
+  
+ <?php  include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->

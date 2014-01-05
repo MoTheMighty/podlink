@@ -36,7 +36,7 @@
 									<a href="../resources/npforms.php"><li>Patient Forms</li></a>
 									<a href="../pathology.php"><li>Learning Center</li></a>
 									<a href="../resources/faq.php"><li>FAQ</li></a>
-									<a href="../#"><li>HIPPA Privacy Policy</li></a></small>
+									<a href="../blog/blog.php"><li>Blog</li></a></small>
 								</ul>	
 				
 </div>
@@ -71,7 +71,7 @@
 				<ul class="list-unstyled">
 					
 					<small><li><span class="glyphicon glyphicon-earphone"></span>  <span itemprop="telephone"><abbr title="Phone">P: </abbr>210-829-8770</span></span></li>
-					<li><span class="glyphicon glyphicon-print"></span>  <span itemprop="faxNumber"><abbr title="Fax">F: </abbr> 210-826-0000<span></li></small>
+					<li><span class="glyphicon glyphicon-print"></span>  <span itemprop="faxNumber"><abbr title="Fax">F: </abbr> 210-826-4864<span></li></small>
 					
 					
 				</ul>

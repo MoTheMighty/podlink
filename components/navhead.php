@@ -79,6 +79,7 @@ var WRInitTime=(new Date()).getTime();
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-leaf"></span> Patient Resources <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="../resources/npforms.php">New Patient Forms</a></li>
+                <li><a href="../blog.php">Blog</a></li>
                 <li><a href="../resources/faq.php">Frequently Asked Questions</a></li>
                 <li><a href="../resources/saturdayclinic.php">Saturday Clinic Dates</a></li>
                 <li><a href="../resources/privacyPractices.php">Website Privacy Notice</a></li>
