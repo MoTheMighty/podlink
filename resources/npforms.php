@@ -57,7 +57,7 @@
           <li> Alternatively, you can print the form out and write in the necessary information.</li> 
           </ul>
         <div class="center">
-          <a href="/resources/npforms.pdf" class="btn btn-primary btn-lg" role="button"><span class="glyphicon glyphicon-file"></span> New Patient Forms</a> 
+          <a href="/resources/npforms.pdf" class="btn btn-success btn-lg" role="button"><span class="glyphicon glyphicon-file"></span> New Patient Forms</a> 
         </div>  <!-- center -->
           </section><!-- center -->
 </div><!-- container -->

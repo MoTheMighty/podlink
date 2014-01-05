@@ -146,10 +146,11 @@
                   <p>Radiographs, ultrasound and MRI along with a physical signs and symptoms are utilized to diagnose the condition.
                   
                     
-                    <p>Prior to initiation of treatment, it is important to determine the extent of damage to the Achilles tendon.  Often times, patients can have mild symptoms and yet have significant degeneration of the tendon.  This is why it is critical to seek medical care prior to attempting self treatment.</p>
+                    <p>Prior to initiation of treatment, it is important to determine the extent of damage to the Achilles tendon.  Often times, patients can have mild symptoms and yet have significant degeneration of the tendon.  This is why it is critical to seek medical care prior to attempting self treatment.  If moderate to severe degeneration has taken place, complete rupture of the Achilles tendon can occur.</p>
                     <p><strong>Non-surgical treatment of Achilles tendonitis</strong> is aimed at rest, stretching and improving range of motion. This is usually accomplished medication with icing, stretching, lifts, orthosis, physical therapy, cast immobilization, topical or oral anti-inflammatory medications and extra corporeal shockwave treatment.  Early stage Achilles tendonitis can usually be treated successfully without surgery.</p>
                     <div class="ul">
                       <p><li itemprop="possibletreatment"><strong>Rest:</strong> Stopping or modifying whatever high impact activity you are doing can rest the tendon and eliminate abnormal forces.  For example, if you are a runner, switching to biking or using an elliptical trainer can help.</li></p>
+                      <p><li itemprop="possibletreatment"><strong>Immobilization:</strong> Often times, the extremity will need to be place in a CAM-boot or cast.  If there is significant disease, the patient maybe placed in plantarflexed non-weight bearing below the knee cast.</li></p>
                       <p><li itemprop="possibletreatment"><strong>Stretching:</strong>  Simple stretching exercises done DAILY can help decrease the abnormal forces on the tendon.</li></p>
                       <img src="/images/pathology/achillesstretch.gif" class="img img-responsive center" alt="flow chart of inflammation and degenration of achilles tendonitis and tendonosis">
 
@@ -158,7 +159,7 @@
                       <p><li itemprop="possibletreatment"><strong>Extra corporeal shock wave therapy (ESWT):</strong>  This technique breaks up the scar tissue that has formed in the tendon and helps increase circulation to the area facilitating the natural healing process.</li></p>
                     </div> <!-- ul -->
 
-                    <p>If non-surgical treatment fails to provide adequate pain relief, surgery may be needed.  Generally, surgery involves removal of the diseased portions of the tendon.  Biological membranes maybe applied to augment the repair.  Also, transfer of tendons from the foot to the ankle are sometimes needed when there is severe degeneration.</p>
+                    <p>If non-surgical treatment fails to provide adequate pain relief, surgery may be needed.  Generally, surgery involves removal of the diseased portions of the tendon.  Biological membranes maybe applied to augment the repair.  Also, transfer of tendons from the foot to the ankle are sometimes needed when there is severe degeneration of the Achilles tendon.  These surgeries typically are quite extensive and have a prolonged recovery.  Fortunately, most cases of Achilles tendonitis do not require surgical management.</p>
                     <div class="layoutspacing2"></div>
 
                     <!-- tab0content -->

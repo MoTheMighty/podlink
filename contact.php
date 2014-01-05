@@ -123,8 +123,8 @@
       
         <section class="lead">
           
-          Central scheduling and all related inquires<br>
-          <strong><span itemscope="telephone">(210) 829-8770</span></strong>
+          <p>Central scheduling and all related inquires</p>
+          <h1><span itemscope="telephone">(210) 829-8770</span></h1>
         </section><!-- lead -->
            <br>
       <hr>

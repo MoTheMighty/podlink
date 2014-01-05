@@ -79,13 +79,13 @@ var WRInitTime=(new Date()).getTime();
                 <a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="glyphicon glyphicon-leaf"></span> Patient Resources <b class="caret"></b></a>
               <ul class="dropdown-menu">
                 <li><a href="../resources/npforms.php">New Patient Forms</a></li>
-                <li><a href="../blog.php">Blog</a></li>
+                <li><a href="../blog/blog.php">Blog</a></li>
                 <li><a href="../resources/faq.php">Frequently Asked Questions</a></li>
                 <li><a href="../resources/saturdayclinic.php">Saturday Clinic Dates</a></li>
-                <li><a href="../resources/privacyPractices.php">Website Privacy Notice</a></li>
+                <li class="divider"></li>
                 <li><a href="../resources/hippa.pdf">HIPPA Privacy Notice (PDF)</a></li>
-                <li><a href="../resources/soakinginstructions.pdf">In-office surgery aftercare instructions</a></li>
-               <li><a href="../resources/pfstretches.pdf">Stretching for Plantar Fasciitis</a></li>
+                <li><a href="../resources/soakinginstructions.pdf">In-office surgery aftercare instructions(PDF)</a></li>
+               <li><a href="../resources/pfstretches.pdf">Stretching for Plantar Fasciitis(PDF)</a></li>
                
               </ul>
                      <li class="dropdown">
@@ -98,7 +98,7 @@ var WRInitTime=(new Date()).getTime();
                             
                   
 
-!-- google analytics -->
+<!-- google analytics -->
 
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
