@@ -1,6 +1,6 @@
 
 
-<div class="hidden-xs hidden-sm">
+<div class="hidden-xs hidden-md hidden-sm">
 
 
 <!-- AddThis Button BEGIN -->
@@ -21,8 +21,8 @@
 
 
 <!-- AddThis Button BEGIN -->
-<div class="hidden-lg hidden-md hidden-xs">
-			<div class="addthis_toolbox addthis_floating_style addthis_16x16_style" style="left:0px;top:50px;">
+<div class="hidden-lg hidden-xs">
+			<div class="addthis_toolbox addthis_floating_style addthis_16x16_style" style="left:0px;top:350px;">
 			<a class="addthis_button_preferred_1"></a>
 			<a class="addthis_button_preferred_2"></a>
 			<a class="addthis_button_preferred_3"></a>

@@ -111,6 +111,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "doctors/perez.php",
+			"settings":
+			{
+				"buffer_size": 10338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/social_perez.php",
+			"settings":
+			{
+				"buffer_size": 1457,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/saturdayclinic.php",
+			"settings":
+			{
+				"buffer_size": 2502,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -160,10 +184,12 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
+		"/Applications/MAMP/htdocs/pathology/haglunds.php",
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
 		"/Applications/MAMP/htdocs/pathology/beforeandafterbunionpictures.php",
 		"/Applications/MAMP/htdocs/index.php",
@@ -207,8 +233,6 @@
 		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
 		"/Applications/MAMP/htdocs/pathology/eswt.php",
 		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
-		"/Applications/MAMP/htdocs/pathology/haglunds.php",
-		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
 		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
 		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
 		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
@@ -431,8 +455,99 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "doctors/perez.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1140.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/social_perez.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1457,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								807,
+								807
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/saturdayclinic.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 2502,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
