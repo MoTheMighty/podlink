@@ -42,7 +42,7 @@
       <!--<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"> -->
       <!-- <link rel="icon" href="/favicon.ico" type="image/x-icon"> -->
 
-
+      <meta name="msvalidate.01" content="FA44635B9B76597E752EE0BFB60B89F0" />
 
 
       <!-- Bootstrap -->

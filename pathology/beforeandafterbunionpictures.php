@@ -88,6 +88,21 @@
   <div class="page-header">
     <h3>Before and After Bunionectomy Pictures</h3>
   </div>
+
+   <div class="row">
+    <div class="col-xs-6 col-md-3 col-lg-6">
+      <a href="#" class="thumbnail">
+        <img src="/images/pathology/bun10.jpg" itemprop="image" class="img img-responsive img-rounded" alt="bunion deformity before and after">
+      </a>
+    </div><!-- col -->
+    <div class="col-xs-6 col-md-3 col-lg-6">
+      <a href="#" class="thumbnail">
+        <img src="/images/pathology/bun10a.jpg" itemprop="image" class="img img-responsive img-rounded" alt="bunion deformity before and after">
+      </a>
+    </div><!-- col -->
+   
+  </div><!-- row --> 
+  <hr/>
    
   <div class="row">
     <div class="col-xs-6 col-md-3 col-lg-6">
