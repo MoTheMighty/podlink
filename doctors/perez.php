@@ -17,7 +17,7 @@
         <meta name="og:title" content="Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, Tx"/>
         <meta name="og:url" content="podlink.com/doctors/perez.php"/>
         <meta name="og:description" content="Dr. Richard Perez is a board certified podiatrist whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
-        <meta name="og:image" content="../../images/perez.png"/>
+        <meta name="og:image" content="http://podlink.com/images/perez.png"/>
         
         <!-- twitter -->
         <meta name="Twitter:card" content="summary"/>
