@@ -1,7 +1,5 @@
 
-<!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
 
 <html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
@@ -11,10 +9,10 @@
         <meta property="twitter:account_id" content=""/>
         <link rel="canonical" href=""/>
         <!-- fb -->
-        <meta name="og:title" content="Locations Map For Alamo Family Foot & Ankle Care<"/>
-        <meta name="og:url" content="podlink.com/location.php"/>
-        <meta name="og:description" content="location maps for  our Podiatry offices in the San Antonio area"/>
-        <meta name="og:image" content=""/>
+        <meta property="og:title" content="Locations Map For Alamo Family Foot & Ankle Care<"/>
+        <meta property="og:url" content="http://podlink.com/location.php"/>
+        <meta property="og:description" content="location maps for  our Podiatry offices in the San Antonio area"/>
+        <meta property="og:image" content=""/>
         
         <!-- twitter -->
         <meta name="Twitter:card" content="summary"/>
