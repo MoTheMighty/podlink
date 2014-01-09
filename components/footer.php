@@ -8,10 +8,10 @@
 
      
 			<div class="container">
-				<div class="col col-lg-1"></div>
+				<div class="col col-lg-1 col-md-1 "></div>
 
 				
-				<div class="col col-lg-4 ">
+				<div class="col col-lg-4 col-md-4">
 				
 						<h4>About
 							<div class="divider"></div></h4>
@@ -19,13 +19,13 @@
 								
 						
 
-							<small><span itemprop="name">Alamo Family Foot and Ankle Care </span>is the premiere podiatry practice in <span itemprop="addressLocality">San Antonio, TX.</span> We offers Podiatry services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community.</small>
+							<small><span itemprop="name">Alamo Family Foot and Ankle Care </span>is the premiere podiatry practice in <span itemprop="addressLocality">San Antonio, TX.</span> We offer Podiatry services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community.</small>
 				
 				</ul>
 	  		
 	  	</div> <!-- col 1-->
 
-<div class="col col-lg-2">
+<div class="col col-lg-2 col-md-2">
 		<h4>Navigation
 						<div class="divider"></div></h4>
 
@@ -43,7 +43,7 @@
 <!-- col 2 -->
 
 
-		<div class="col col-lg-2">
+		<div class="col col-lg-2 col-md-2">
 		
 
 
@@ -53,17 +53,17 @@
 						<div class="divider"></div></h4>
 
 						
-								<ul class="list-unstyled">
+								<ul class="list-unstyled"  style="padding-bottom: 20px;">
 					
 									<li><a href="http://facebook.com/alamofamily"><span class="social facebook"></span></a> <a href="http://www.youtube.com/user/alamofamilyfootcare"><span class="social youtube"> </span></a><a href="https://plus.google.com/+Podlink/posts"> <span class="social google_plus"> </span></a></li>
 					
 								</ul>
 	
-	  		 
+	  		 			<div class="divider"></div>
 	  	</div> <!-- col 2-->
 
 	  	<!-- col 3 -->
-	  	<div class="col col-lg-2">
+	  	<div class="col col-lg-2 col-md-2">
 		
 					<h4>Contact Us
 					<div class="divider"></div></h4>
@@ -89,10 +89,20 @@
 		
 		</div><!-- navbarfixedbottom -->
 	</section><!-- footer div -->
+<div id="socialbar">
 <?php include  $_SERVER['DOCUMENT_ROOT'] . '/components/social.php'; ?>
 <!-- ClickTale Bottom part -->
+</div>
+<script src="https://code.jquery.com/jquery.js"></script>
+<script>
+    $(document).ready(function() {
+     
+      
+        $("#socialbar").delay(5000).slideDown("2000")
+      });
 
-<script type='text/javascript'>
+   
+
 // The ClickTale Balkan Tracking Code may be programmatically customized using hooks:
 // 
 //   function ClickTalePreRecordingHook() { /* place your customized code here */  }

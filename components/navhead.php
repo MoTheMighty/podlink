@@ -9,7 +9,7 @@ var WRInitTime=(new Date()).getTime();
 <section id="wrap">
 <div class="fill">
   <div class="container">
-    <p><small>Schedule your appointment now: ph. 210-829-8770 </small></p>
+    
   </div>
 </div><!-- fill -->
 

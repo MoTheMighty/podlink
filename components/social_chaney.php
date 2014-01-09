@@ -6,8 +6,8 @@
         
         <div class="panel-body">
         
+         <div class="videowrapper"> <iframe width="640" height="360" src="//www.youtube.com/embed/ovP6kBlgtL4" frameborder="0" allowfullscreen></iframe></div>
          
-         <iframe width="560" height="315" src="//www.youtube.com/embed/ovP6kBlgtL4" frameborder="0" allowfullscreen></iframe>
         
           
 
