@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 
 
-<html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
+<html lang="en-US" itemscope itemtype="http://schema.org/podiatric">
 
     <head>
           <title>Locations Map For Alamo Family Foot & Ankle Care</title>
@@ -99,9 +99,9 @@
   </div><!-- navibar -->
 
 
-<div class="container center page-header">
+<div class="container center page-header alert-success">
 
-  <h1>  Hover or touch map-pins for more information </h1>  
+  <h1>Click or Touch map-pins for more information</h1>  
 
 
 </div> <!-- container -->

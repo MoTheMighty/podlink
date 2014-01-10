@@ -28,7 +28,23 @@
 
     <div class="blog">
 
-
+      <!-- the actual blog post: title/author/date/content -->
+      <h1>Rickets- Victorian era malady with modern day persistence</h1>
+      <p class="lead">by <a href="../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on January 4, 2014 at 6:05 PM</p>
+      <hr>
+      
+      <hr>
+      <img src="../../../blog/images/osteomalacia.jpg" class="img-responsive">
+      <hr>
+      <p>It is not often that I see a Victorian era disease come through the office.  But that's exactly what occurred recently.  Rickets , also known as Osteomalacia  is a bone disease caused primarily by a lack of Vitamin D.</p>
+      <p>If you are a baby boomer, think back to sitting at the kitchen table with a box of cereal and milk...</p> 
+      <p><a href="../blog/2014/rickets.php">// Read More</a></p>
+      <hr>
+       <div class="layoutspacing"></div>
+   <!-- the actual blog post: title/author/date/content -->
+      <hr>
       <!-- the actual blog post: title/author/date/content -->
       <h1>Monckeberg's arteriosclerosis</h1>
       <p class="lead">by <a href="../doctors/perez.php">Dr. Richard Perez</a></p>
@@ -40,12 +56,12 @@
       <img src="../../../blog/images/mockXray.jpg" class="img-responsive">
       <hr>
       <p>Monckeberg's arteriosclerosis, also called medial calcific sclerosis, is a form of arteriosclerosis or vessel hardening, where calcium deposits form in the middle layer of the walls of medium sized vessels (the tunica media). It is often not clinical unless it is severe. This human medial calcification, Mönckeberg’s sclerosis, is common and occurs independently of atherosclerosis.</p> 
-      <a href="../blog/2014/monckebergs.php">// Read More</a>
+      <p><a href="../blog/2014/monckebergs.php">// Read More</a></p>
       
 
       <hr>
 
-
+   <!-- the actual blog post: title/author/date/content -->
 
       <div class="layoutspacing"></div>
 

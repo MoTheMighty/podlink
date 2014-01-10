@@ -4,12 +4,7 @@
 
 
 
-//load delay of social bar
- $ (document);setTimeout(function(){
-  $("#bomb").load('/components/social.php');
-  
-  
-}, 5000);
+
 
 
 
@@ -21,9 +16,9 @@
       mapTypeId: google.maps.MapTypeId.ROADMAP,*/
 
 function initialize() {
-  var myLatlng = new google.maps.LatLng(29.4899220, -98.5466280);
+  var myLatlng = new google.maps.LatLng(29.5504220, -98.53006280);
   var mapOptions = {
-    zoom: 11,
+    zoom: 12,
     center: myLatlng
   };
 
@@ -69,7 +64,7 @@ function initialize() {
     // End of infowindow code
 
     // Adding a click event to the marker
-    google.maps.event.addListener(marker1, 'mouseover', function() {
+    google.maps.event.addListener(marker1, 'click', function() {
     // Calling the open method of the infoWindow
     infowindow1.open(map, marker1);
     });
@@ -91,7 +86,7 @@ function initialize() {
     // End of infowindow code
 
     // Adding a click event to the marker
-    google.maps.event.addListener(marker2, 'mouseover', function() {
+    google.maps.event.addListener(marker2, 'click', function() {
     // Calling the open method of the infoWindow
     infowindow2.open(map, marker2);
     });
@@ -114,7 +109,7 @@ function initialize() {
     // End of infowindow code
 
     // Adding a click event to the marker
-    google.maps.event.addListener(marker3, 'mouseover', function() {
+    google.maps.event.addListener(marker3, 'click', function() {
     // Calling the open method of the infoWindow
     infowindow3.open(map, marker3);
     });
