@@ -112,11 +112,19 @@
 	"buffers":
 	[
 		{
-			"file": "_/less/_mystyles.less",
+			"file": "components/navhead.php",
 			"settings":
 			{
-				"buffer_size": 5750,
-				"line_ending": "Unix"
+				"buffer_size": 6523,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 11619,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -168,6 +176,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/components/social_chaney.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
@@ -175,7 +184,6 @@
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
@@ -440,21 +448,46 @@
 	"groups":
 	[
 		{
-			"sheets":
-			[
-			]
-		},
-		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_/less/_mystyles.less",
+					"file": "components/navhead.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5750,
+						"buffer_size": 6523,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4255,
+								4255
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 161.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11619,
 						"regions":
 						{
 						},
@@ -467,10 +500,12 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 754.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -496,12 +531,6 @@
 				0,
 				1,
 				1
-			],
-			[
-				0,
-				1,
-				1,
-				2
 			]
 		],
 		"cols":
@@ -512,7 +541,6 @@
 		"rows":
 		[
 			0.0,
-			0.0548847420417,
 			1.0
 		]
 	},
