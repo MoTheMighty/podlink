@@ -78,7 +78,7 @@
       <p itemprop="possibletreatment">Treatment for rickets wasn't always quite so pedestrian.  Prevalence of the disease was high in Europe and New England in the 17th and 18th century.  Treatments of the time included, snail and earthworm "pottage" or stew, sulfuric acid in syrup of roses and laxatives.  In the mid 19th century,  the link between sunlight (which helps in Vitamin D synthesis) and cod liver oil came into focus as a possible treatment for the ailment.</p>  
       <p>Although, I have read about rickets, I had never actually seen a case until very recently.  This particular person, growing up during the depression of the 1930s,  developed rickets as a child, and for reasons he does not recall, the condition was allowed to progress until permanent deformity resulted.  Today, he lives an active life, but is constantly reminded of his childhood disease each time he takes a step.</p>
 
-             <?php  include $_SERVER['DOCUMENT_ROOT'] . '/components/blogseo.php'; ?>
+             <?php  include $_SERVER['DOCUMENT_ROOT'] . '/components/blogSEO.php'; ?>
 
       <hr>
 </div><!-- blog -->
