@@ -66,10 +66,10 @@
 
     <body id="home">
 
-
-
-
-
+<div id="calltoaction">
+    <div class="container">
+     <h4>Call for an appointment now: <a href="tel:210-829-8770">(210) 829-8770</a></h4></div>
+    </div>
 
       <?php include 'components/navhead.php'; ?>
 
@@ -140,7 +140,7 @@
       <section class="container">
        
 
-       <div class="layoutspacing2"></div>
+       <div class="layoutspacing"></div>
 
 
           <!-- col 1 -->
@@ -185,7 +185,7 @@
               <h2>Results</h2>
               <hr>
 
-              <p>Our Doctors utilize the best available well established, proven scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasiving EBM and applying treatments backed by scientific studies, patients can achieve superior outcomes. <p>
+              <p>Our Doctors utilize the best available  and well established scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasiving EBM and applying treatments backed by scientific studies, patients can achieve superior outcomes in shorter time. <p>
               </div> <!-- center-->
 
             </section><!-- col col-lg -->
@@ -281,7 +281,15 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
    
+     <script>
+    $(document).ready(function() {
+     
+      
+        $("#calltoaction").delay(15000).slideDown("2000")
+      });
 
+   
+    </script>
 
 
 

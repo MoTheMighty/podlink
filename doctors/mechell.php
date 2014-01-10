@@ -89,7 +89,7 @@ and diabetic limb salvage."/>
 
   <section class="container">
       <div class="row">
-         <div class="col-lg-12 col-md-12">
+         <div class="col-lg-3 col-md-3 sm-3" style="padding-top:120px;">
              <p><span itemprop="photo"><img src="../../images/jordan.png" alt="Dr. R. Jordan Mechell, DPM" class="img-rounded"></span></p>
                   
 
@@ -100,6 +100,7 @@ and diabetic limb salvage."/>
                     <div class="layoutspacing2"></div>
                   </div><!-- visible-xs -->
 
+              <?php include '../components/social_mechell.php'; ?>
   
     </div><!-- row -->
     <div class="layoutspacing2"></div>

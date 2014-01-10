@@ -93,7 +93,7 @@
 
   <section class="container">
       <div class="row">
-         <div class="col-lg-3 col-md-3" style="padding-top:120px;">
+         <div class="col-lg-3 col-md-3 sm-3" style="padding-top:120px;">
              <p><span itempscope="photo"><img src="../../images/chaney.png" alt="Dr. D. Martin Chaney, DPM" class="img-rounded"></span></p>
                   
 
