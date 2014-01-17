@@ -141,16 +141,14 @@ foot ulcers and pain management.
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
           
-            <section class="iconsizing" style="margin-top: 10%;">
+            <section class="iconsizing" style="margin-top: 14%;">
               <span class="glyphicons edit"></span>
             </section>
      
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He is a published author in various medical journals. Dr. Strash founded Alamo Family Foot and Ankle Care, P.A. 
-and has been in private practice in San Antonio since 1991. He also serves as an associate professor in the Department 
-of Orthopedic Surgery at the University of Texas San Antonio Health Science Center.
+Dr. Strash founded Alamo Family Foot and Ankle Care, P.A. and has been in private practice in San Antonio since 1991. He is a leader in the industry frequently being invited to deliver lectures and is compensated for his time spent as a consultant.  He is a published author in various medical journals and serves as an associate professor in the Department of Orthopedic Surgery at the University of Texas San Antonio Health Science Center.  Dr. Strash is a shareholder and is on the medical board of Specialty Surgery Center.
 </div><!-- col-lg-8 -->
 <hr>
 </section><!-- container -->

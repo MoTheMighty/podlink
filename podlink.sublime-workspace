@@ -112,11 +112,27 @@
 	"buffers":
 	[
 		{
-			"file": "components/navhead.php",
+			"file": "_/less/_mystyles.less",
 			"settings":
 			{
-				"buffer_size": 6523,
-				"line_ending": "Windows"
+				"buffer_size": 5832,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pathology/halluxlimitus.php",
+			"settings":
+			{
+				"buffer_size": 11874,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "pathology/heel-pain.php",
+			"settings":
+			{
+				"buffer_size": 13097,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -176,6 +192,14 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/js/googlemap.js",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/blog/2014/rickets.php",
+		"/Applications/MAMP/htdocs/blog/2014/bunionblues.php",
+		"/Applications/MAMP/htdocs/blog/2014/monckebergs.php",
+		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/components/social_chaney.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
@@ -184,19 +208,14 @@
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
-		"/Applications/MAMP/htdocs/index.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/images/pathology/achillesstretch.GIF",
 		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
-		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/pathology/beforeandafterbunionpictures.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/contact.php",
-		"/Applications/MAMP/htdocs/blog/2014/bunionblues.php",
-		"/Applications/MAMP/htdocs/blog/2014/monckebergs.php",
 		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
 		"/Applications/MAMP/htdocs/pathology/haglunds.php",
 		"/Applications/MAMP/htdocs/about.php",
@@ -212,7 +231,6 @@
 		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
-		"/Applications/MAMP/htdocs/js/googlemap.js",
 		"/Applications/MAMP/htdocs/pathology/halluxlimitus1.php",
 		"/Applications/MAMP/htdocs/saturdayclinic.php",
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
@@ -301,9 +319,7 @@
 		"/Applications/MAMP/htdocs/about/about.php",
 		"/Applications/MAMP/htdocs/js/custom1.js",
 		"/Applications/MAMP/htdocs/notes",
-		"/Applications/MAMP/htdocs/_/less/breadcrumbs.less",
-		"/Applications/MAMP/htdocs/components/navigator.php",
-		"/Applications/MAMP/htdocs/js/html5shiv.js"
+		"/Applications/MAMP/htdocs/_/less/breadcrumbs.less"
 	],
 	"find":
 	{
@@ -448,24 +464,52 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "components/navhead.php",
+					"file": "_/less/_mystyles.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6523,
+						"buffer_size": 5832,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4255,
-								4255
+								5367,
+								5367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 5339.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "pathology/halluxlimitus.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								10038,
+								10038
 							]
 						],
 						"settings":
@@ -475,16 +519,46 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 161.0,
+						"translation.y": 2325.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 1,
-					"file": "index.php",
+					"buffer": 2,
+					"file": "pathology/heel-pain.php",
 					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13097,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6972,
+								6972
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1635.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "index.php",
+					"semi_transient": true,
 					"settings":
 					{
 						"buffer_size": 11619,
@@ -505,10 +579,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 754.0,
+						"translation.y": 689.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

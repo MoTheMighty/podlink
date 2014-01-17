@@ -91,7 +91,7 @@
          <div class="col-lg-3 col-md-3" style="padding-top:85px;">
              <p><span itemprop="photo"><img src="../../images/perez.png" itemprop="photo" alt="Dr. Richard Perez, DPM" class="img-rounded"></span></p>
                   
-               <?php include '../components/socialicons.php'; ?>
+              
                   
 
         </div><!-- col -->
@@ -113,9 +113,8 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Richard Perez joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in 
-advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center in Des Moines, IA. 
-Dr. Perez received his Doctorate of Podiatric Medicine from the Des Moines University’s College of Podiatric Medicine and Surgery.
+Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied at Florida State University. Dr. Perez received his Doctorate of Podiatric Medicine from the Des Moines University’s College of Podiatric Medicine and Surgery. He then joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center in Des Moines, IA. Dr. Perez became a partner in 1999.  He also is a shareholder of Speciality Surgery Center where most of his surgeries are performed.
+
 </div><!-- col-lg-8 -->
 
 
@@ -163,7 +162,7 @@ His scholarly publications include works on extra corporeal shock wave treatment
 <section class="container">
 <hr>
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He also serves as assistants <span itemprop="member">clinical professor in the Department of Orthopedics at the University of Texas Health Science Center where is help train second and third year residents their surgical skills.</span>
+He also serves as assistant <span itemprop="member">clinical professor in the Department of Orthopedics at the University of Texas Health Science Center, helping train second and third year residents surgical techniques and procedures.</span>
 His areas of clinical interest include: bunion surgeries which emphasize early mobility and optimal cosmetic appearance, minimally 
 invasive trauma reconstruction, sports injuries and plantar fasciitis.  His primary focus is to deliver timely and comprehensive care, utilizing non-surgical means whenever possible.
 </div><!-- col-lg-8 -->

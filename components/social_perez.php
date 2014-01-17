@@ -20,7 +20,7 @@
          </div><!-- col -->
          <div class="col-lg-3 col-md-3 col-sm-3 col-xs-9">
            
-           <iframe  frameborder='0' allowtransparency='true' scrolling='no' src='http://app.strava.com/athletes/151733/activity-summary/69d813e49123312293ae671f7cc9daac4118421f'></iframe>
+          <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/athletes/151733/activity-summary/69d813e49123312293ae671f7cc9daac4118421f'></iframe>
 
          </div><!-- col -->
 

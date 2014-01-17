@@ -66,7 +66,7 @@
 
       <!-- the actual blog post: title/author/date/content -->
       <h1>Rickets- Victorian era malady with modern day persistence</h1>
-      <p class="lead">by <a href="../doctors/perez.php">Dr. Richard Perez</a></p>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
       <hr>
       <p><span class="glyphicon glyphicon-time"></span> Posted on January 10, 2014 at 3:31 PM</p>
       <hr>

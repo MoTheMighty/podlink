@@ -101,20 +101,19 @@
 
         <p>The most common reason patients seek our care is for heel pain. This condition can be caused by a variety of factors. Including, <span itemprop="differentialdiagnosis">entrapped nerves, metabolic disorders, arthritis and infections.</span> By far the most common cause, accounting for 95% of all cases, is abnormal, repetitive stresses placed on the anatomic structures of the foot and leg resulting in injury and inflammation. This condition is known as <span itemprop="name">plantar fasciitis</span>.</p>
         <p>The <span itemprop="associatedAnatomy">plantar fascia</span> has several functions. It helps keep the small muscles of the foot in a compact and efficient package beneath the foot when full weight is bore. More importantly, it helps <span itemprop="associatedAnatomy">maintain the bones of the foot in an "arch" orientation. As body weight is transmitted down through the leg and ankle, the foot tries to maintain a triangle shape.</span> The base of the triangle is the plantar fascia. The fascia must resist the force of the heel and arch bones to flatten out. The extent to which the arch flattens is dependent on how much the plantar fascia can support. Thus, during the normal course of walking, our plantar fascia is subjected to tremendous, repetitive forces.</p>
+
         <p>To understand what is causing heel pain, an examination of the anatomy is necessary. The plantar fascia is a dense thin layer of tissue just beneath the skin on the sole of the foot. It is shaped like a triangle (blue lines), with the apex oriented towards the back of the foot.</p>
 
         <p><img src="/images/pathology/plantar-fasciitisline.jpg" alt="Anatomic orientation of the plantar fascia" style="float: left; margin-left: 15px; margin-right: 15px;"/></p>
-        <p> The plantar fascia has several functions. It helps keep the small muscles of the foot in a compact and efficient package beneath the foot when full weight is bore. More importantly, it helps maintain the bones of the foot in an "arch" orientation.</p>
-        <p>As body weight is transmitted down through the leg and ankle, the foot tries to maintain a triangle shape. The base of the triangle is the plantar fascia (blue line). The fascia must resist the force of the heel and arch bones to flatten out(red lines). The extent to which the arch flattens is dependent on how much the plantar fascia can support. Thus, during the normal course of walking, our plantar fascia is subjected to tremendous, repetitive forces.</p>
-
-
+     
         <p><img src="/images/pathology/pfforces.jpg" alt="Forces resisted by the plantar fascia" style="float: right; margin-left: 15px;"  /></p>
         <p> Since the plantar fascia is shaped like a triangle, a great deal of force is concentrated at the heel. <span itemprop="cause">When too much strain is placed on the fascia, the area of greatest strain becomes inflamed. This inflammatory process leads to pain and swelling.</span> This is often termed plantar fasciitis or heel spur syndrome. <span itemprop="naturalprogression">Over time, this condition may produce bone projections off the heel known as spurs. Often times, patients will come to the office with heel pain wishing their "spurs" be removed.</span> They believe the heel pain is caused by these bony growths, when in fact, the true reason for the pain is from inflammation of their plantar fascia. The heel spur has developed in response to the chronic irritation of the plantar fascia on the calcaneus (heel bone). </p>
         <hr>
-        <div class="well center">
 
-          <h4 itemprop="possibletreatment">"Treatment targets the plantar fascia, not the heel spur, since it is the true source of the  pain."</h4>
+        <div class="thumbnail center text-muted">
+          <img src="/images/pathology/pffactors.png" alt="diagram of common causes of plantar fasciitis, a common cause of heel pain" class="img img-responsive"><small>Diagram of Common Causes of Plantar Fasciitis</small>
         </div>
+        
 
 
 
@@ -136,7 +135,11 @@
         
           <div class="page-header">
           <h3>Treatment</h3>
+        </div>   
+        <div class="well center">
+          <h4 itemprop="possibletreatment">"Treatment targets the plantar fascia, not the heel spur, since it is the true source of the  pain."</h4>
         </div>
+
             <p itemprop="expectedprognosis">For the vast majority of patients (95%), conservative treatment can eliminate their pain. We tailor our treatment to the individual patient, taking into account health, lifestyle and their work environment. A cookie cutter approach will not be as effective, as there are many factors which must be considered. In general, the steps outlines below are utilized in different combinations and varying degrees of emphasis.</p>
 
             <hr>

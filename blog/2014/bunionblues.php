@@ -68,7 +68,7 @@
 
       <!-- the actual blog post: title/author/date/content -->
        <h1>The Bunion Blues</h1>
-      <p class="lead">by <a href="../doctors/mechell.php">Dr. R. Jordan Mechell</a></p>
+      <p class="lead">by <a href="../../doctors/mechell.php">Dr. R. Jordan Mechell</a></p>
       <hr>
       <p><span class="glyphicon glyphicon-time"></span> Posted on January 6, 2014 at 7:13 AM</p>
 
