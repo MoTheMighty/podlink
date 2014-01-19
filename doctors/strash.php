@@ -57,7 +57,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
-  <body id="perez">
+  <body id="strash">
 
   <?php include '../components/navhead.php'; ?>
 
@@ -174,13 +174,36 @@ His hobbies include water sports and Taekwondo along with spending most weekends
 </div><!-- col 4 -->
 <hr>
 </section><!-- container -->
+ <div class="container">
+ <div class="col-lg-12 col-md-12 col-sm-12 col-xs-11 lead">
+ <hr>
+ <div class="center"><h2>Published Works</h2></div>
+ 
 
+ <citation><p>Arthroplasty for Fifth Toe Deformity. Clinics in Podiatric Medicine and Surgery. Volume 27, Number 4, October 2010</p></citation>
+
+<citation><p>Radiographic Assessment of the Hindfoot & Ankle. Clinics in Podiatric Medicine and Surgery. Volume 21, Number 3, July 2004.</p></citation>
+
+<citation><p>Revision of Malaligned Triple Arthrodesis: A Case Report. Clinics in Podiatric Medicine and Surgery. Volume 21, Number 3, July 2004.</p></citation>
+<citation><p>Extracorporeal Shockwave Therapy for Plantar Fasciitis and Other Musculoskeletal Conditions Utilizing the Ossatron - An Update. Clinics in Podiatric Medicine and Surgery. Volume 21, Number 3, July 2004.</p></citation>
+
+<citation><p>Extracorporeal shockwave therapy for chronic proximal plantar fasciitis. Clinics in Podiatric Medicine and Surgery. Volume 19, Number 4, October 2002.</p></citation>
+
+<citation><p>Audio Lecture: Extracorporeal Shock Wave Therapy for Insertional Plantar Fasciitis. Foot & Ankle Quarterly, The Seminar Journal. Volume 14, Number 3, Fall 2001.</p></citation>
+
+<citation><p>Audio Lecture: Arthroscopic Treatment of Talar Dome Lesions. Foot & Ankle Quarterly, The Seminar Journal. Volume 13, Number 4. Winter 2000.</p></citation>
+
+<citation><p>Sonographic Analysis of Morton's Neuroma. The Journal of Foot Surgery, Vol. 31, #16, November/December 1992.</p></citation>
+
+<citation><p>Lesser Metatarsal Surgery. Book chapter in Principles & Practice of Podiatric Medicine. Churchill Livingston Medical Publishers 1989.</p></citation>
+ </div></div>
 
 
 <div class="container">
  <div class="col-lg-12 col-md-12 col-sm-12 col-xs-11">
  <hr>
- 
+
+
 <!-- 3 -->
 <div class="panel panel-default">
 <div class="panel-heading"><h4>Patient Reviews</h4></div>
