@@ -149,12 +149,21 @@
             <li itemprop="possibletreatment">Fusion: Removal of the remaining cartilage, removal of the bone spurs and fusion of the metatarsal to the proximal phalanx. This results in a stiff big toe joint which generally no longer has pain. Patient can usually return to most activities including running and other high impact sports once they arecompletely healed.</li> 
           </ul> 
 
-          <p><span class="thumbnail text-muted center" style="width:233px"><img src="/images/pathology/fusion.jpg" alt="Example of fusion of the great toe joint (first metatarsal phalangeal joint)" ><small>Fusion of MP joint</small>
-            <img src="/images/pathology/mpfusion.jpg" alt="crossing screws first mp joint fusion" ><small>Fusion of MP joint</small>
-            <img src="/images/pathology/mpfusionplate.jpg" alt="plate fusion great toe joint" ><small>Fusion of MP joint</small>
-          </span>
-
-          <span class="thumbnail text-muted center"><img src="/images/pathology/fusionclinical.jpg" alt="Clinical appearance following fusion of great toe joint" /><small>Appearance after fusion</small></span>
+         
+          <div class="row">
+                    <div class="col-lg-4 col-md-4 col-sm-4 thumbnail">
+                      <img src="/images/pathology/fusion.jpg" alt="Example of fusion of the great toe joint (first metatarsal phalangeal joint)" class="img-rounded img-responsive" >
+                        <p class="text-muted small center">Fusion of MP joint</p>
+                      </div>
+                    <div class="col-lg-4 col-md-4 col-sm-4 thumbnail">
+                       <img src="/images/pathology/mpfusion.jpg" alt="crossing screws first mp joint fusion"  class="img-rounded img-responsive" />
+                        <p class="text-muted small center">Fusion of MP joint</p>
+                    </div> 
+                    <div class="col-lg-4 col-md-4 col-sm-4 thumbnail">
+                    <img src="/images/pathology/fusionclinical.jpg" alt="Clinical appearance following fusion of great toe joint"   class="img-rounded img-responsive" />
+                        <p class="text-muted small center">Fusion of MP joint</p>
+                    </div>
+                       </div><!-- row -->
           <ul> 
             <li itemprop="possibletreatment">Arthroplasty: removal of the joint with possible implant of an artificial joint. This is usually done for pain relief inpatients who are not able to undergo a fusion. Generally return to sporting activity is not possible.</li> 
           </ul>

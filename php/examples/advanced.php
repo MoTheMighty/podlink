@@ -33,7 +33,7 @@
      $payload = EmailMessagePayload::create()
         ->setProjectId(3716) // ID of "Test" project
         ->setSender(new EmailContact("Podlink Contact Request", "app19512107@heroku.com"))
-        ->setReceiver(new EmailContact("podlink contact request", "alamofamilyfoot@gmail.com"))
+        ->setReceiver(new EmailContact("podlink contact request", "contact@podlink.com"))
         ->setBodyObject($message);
     
     try

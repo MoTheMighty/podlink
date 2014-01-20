@@ -1,10 +1,8 @@
 
-<!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
 
-<html lang="en-US"itemscope itemtype="http://schema.org/physician">
+<html lang="en-US" itemscope itemtype="http://schema.org/physician">
   <head>
     <title>Dr. D. Marty Chaney - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
     <meta charset="utf-8">

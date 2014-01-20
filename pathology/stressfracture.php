@@ -105,6 +105,7 @@
                     </div> 
                     <p>As with most conditions, a stress fracture is diagnosed with a history and physical exam.</p> 
                     <p>X-rays may not show any evidence of stress fractures, so a CT scan, MRI, or bone scan may be more effective in unclear cases.</p>
+                    <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6 thumbnail">
                       <img alt="stress fracture of the foot diagram" src="/images/pathology/strsfx2.jpg" class="img-rounded img-responsive" >
                         <p class="text-muted small center">X-ray image of stress sracture</p>
@@ -113,7 +114,12 @@
                        <img alt="xray of stress fracture metatarsal with moderate displacement" src="/images/pathology/stressfx.jpg" class="img-rounded img-responsive" />
                         <p class="text-muted small center">Stress fracture with moderate displacement</p>
                     </div> 
-                    
+                       </div>
+                    <div class="col-lg-12 col-md-12 col-sm-12 thumbnail">
+                       <img alt="MRI of stress fracture metatarsal with signal abnormality" src="/images/pathology/stressfxmri.jpg" class="img-rounded img-responsive" />
+                        <p class="text-muted small center">MRI of stress fracture.  Arrows indicate abnormal signal.</p>
+                    </div> 
+            
              
                 
 
