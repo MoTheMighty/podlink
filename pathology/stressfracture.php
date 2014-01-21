@@ -108,7 +108,7 @@
                     <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6 thumbnail">
                       <img alt="stress fracture of the foot diagram" src="/images/pathology/strsfx2.jpg" class="img-rounded img-responsive" >
-                        <p class="text-muted small center">X-ray image of stress sracture</p>
+                        <p class="text-muted small center">X-ray image of stress fracture</p>
                       </div>
                     <div class="col-lg-6 col-md-6 col-sm-6 thumbnail">
                        <img alt="xray of stress fracture metatarsal with moderate displacement" src="/images/pathology/stressfx.jpg" class="img-rounded img-responsive" />

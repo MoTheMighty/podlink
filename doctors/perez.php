@@ -113,7 +113,7 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied at Florida State University. Dr. Perez received his Doctorate of Podiatric Medicine from the Des Moines University’s College of Podiatric Medicine and Surgery. He then joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center in Des Moines, IA. Dr. Perez became a partner in 1999.  He also is a shareholder of Speciality Surgery Center where most of his surgeries are performed.
+Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied at Florida State University. Dr. Perez received his Doctorate of Podiatric Medicine from the Des Moines University’s College of Podiatric Medicine and Surgery. He then joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center in Des Moines, IA. Dr. Perez became a partner in 1999.  He also is a shareholder of Specialty Surgery Center where most of his surgeries are performed.
 
 </div><!-- col-lg-8 -->
 
@@ -191,7 +191,7 @@ invasive trauma reconstruction, sports injuries and plantar fasciitis.  His prim
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Dr. Perez lives in San Antonio, Texas with his wife and two children. He is an avid cyclist and can usually be found pedaling 
-the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He is responsible for development and programming of this website with the help of the following tools:<a href="http://getbootrap.com">Twitter's Bootstrap Framwork,</a> <a href="http://www.sublimetext.com/3">Sublime Text 3,</a> and <a href="http://incident57.com/codekit/">CodeKit.</a>
+the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He is responsible for development and programming of this website with the help of the following tools:<a href="http://getbootrap.com">Twitter's Bootstrap Framework,</a> <a href="http://www.sublimetext.com/3">Sublime Text 3,</a> and <a href="http://incident57.com/codekit/">CodeKit.</a>
 </div><!-- col-lg-8 -->
 
 
