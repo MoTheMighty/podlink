@@ -118,54 +118,6 @@
 				"buffer_size": 5859,
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"file": "doctors/strash.php",
-			"settings":
-			{
-				"buffer_size": 11617,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "doctors/perez.php",
-			"settings":
-			{
-				"buffer_size": 10904,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/social_perez.php",
-			"settings":
-			{
-				"buffer_size": 1480,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/socialicons.php",
-			"settings":
-			{
-				"buffer_size": 631,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pathology/halluxlimitus.php",
-			"settings":
-			{
-				"buffer_size": 11874,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "pathology/heel-pain.php",
-			"settings":
-			{
-				"buffer_size": 13097,
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -216,29 +168,41 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/404.php",
+		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
+		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
+		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
+		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
+		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
+		"/Applications/MAMP/htdocs/pathology/pathology.php",
+		"/Applications/MAMP/htdocs/pathology/wart.php",
+		"/Applications/MAMP/htdocs/doctors/chaney.php",
+		"/Applications/MAMP/htdocs/blog/2014/rickets.php",
+		"/Applications/MAMP/htdocs/php/examples/advanced.php",
+		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
+		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/doctors/perez.php",
+		"/Applications/MAMP/htdocs/components/social_perez.php",
+		"/Applications/MAMP/htdocs/components/socialicons.php",
 		"/Applications/MAMP/htdocs/js/googlemap.js",
 		"/Applications/MAMP/htdocs/location.php",
-		"/Applications/MAMP/htdocs/blog/2014/rickets.php",
 		"/Applications/MAMP/htdocs/blog/2014/bunionblues.php",
 		"/Applications/MAMP/htdocs/blog/2014/monckebergs.php",
 		"/Applications/MAMP/htdocs/blog/blog.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/components/social_chaney.php",
-		"/Applications/MAMP/htdocs/doctors/chaney.php",
-		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/components/social_mechell.php",
-		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/images/pathology/achillesstretch.GIF",
-		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
-		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/pathology/beforeandafterbunionpictures.php",
-		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/social.php",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
@@ -247,17 +211,13 @@
 		"/Applications/MAMP/htdocs/components/seoMarkup",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
 		"/Applications/MAMP/htdocs/pathology/neuroma.php",
-		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
-		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
 		"/Applications/MAMP/htdocs/pathology/charcot.php",
 		"/Applications/MAMP/htdocs/pathology/gout.php",
 		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
-		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/index.sublime-project",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
 		"/Applications/MAMP/htdocs/pathology/halluxlimitus1.php",
 		"/Applications/MAMP/htdocs/saturdayclinic.php",
-		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
 		"/Applications/MAMP/htdocs/resources/privacyPractices.php",
 		"/Applications/MAMP/htdocs/resources/template.php",
 		"/Applications/MAMP/htdocs/.htaccess",
@@ -265,7 +225,6 @@
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
 		"/Applications/MAMP/htdocs/sitemap.xml",
-		"/Applications/MAMP/htdocs/pathology/pathology.php",
 		"/Applications/MAMP/htdocs/robots.txt",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
 		"/Applications/MAMP/htdocs/pathology/arthritis.php",
@@ -274,21 +233,15 @@
 		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
 		"/Applications/MAMP/htdocs/pathology/eswt.php",
 		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
-		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
-		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
-		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate 2.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
 		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
-		"/Applications/MAMP/htdocs/pathology/wart.php",
 		"/Applications/MAMP/htdocs/resources/faq.php",
 		"/Applications/MAMP/htdocs/resources/npforms.php",
 		"/Applications/MAMP/htdocs/resources/survey.php",
 		"/Applications/MAMP/htdocs/schedule.php",
-		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/php/examples/simple.php",
-		"/Applications/MAMP/htdocs/404.php",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
 		"/Applications/MAMP/htdocs/components/carouselReviews.php",
@@ -316,7 +269,6 @@
 		"/Applications/MAMP/htdocs/search.php",
 		"/Applications/MAMP/htdocs/resources/testamonial",
 		"/Applications/MAMP/htdocs/test.php",
-		"/Applications/MAMP/htdocs/components/socialicons.php",
 		"/Applications/MAMP/htdocs/sitemap.rb",
 		"/Applications/MAMP/htdocs/components/social_strash.php",
 		"/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php",
@@ -488,7 +440,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -513,188 +465,10 @@
 							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 5610.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "doctors/strash.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11617,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7071,
-								7071
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2274.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "doctors/perez.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10904,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3785,
-								3785
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1143.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "components/social_perez.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1480,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								998,
-								998
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "components/socialicons.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 631,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								384,
-								384
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "pathology/halluxlimitus.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11874,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								10038,
-								10038
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2325.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "pathology/heel-pain.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 13097,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6972,
-								6972
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1635.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
 					"type": "text"
 				}
 			]
