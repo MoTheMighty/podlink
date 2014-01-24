@@ -14,7 +14,7 @@
   <meta property="og:title" content="Bunion Deformity - Hallux Abducto Valgus"/>
   <meta property="og:url" content="http://podlink.com/pathology/bunion.php"/>
   <meta property="og:description" content="Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal."/>
-  <meta name="og:image" content=""/>
+  <meta name="og:image" content="http://podlink.com/images/pathology/bunionetiology.png"/>
 
   <!-- twitter -->
   <meta name="twitter:card" content="summary">
@@ -22,7 +22,7 @@
   <meta name="twitter:title" content="Bunion Deformity - Why is there a big bump on my big toe joint?">
   <meta name="twitter:description" content="Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.">
   <meta name="twitter:creator" content="@alamofamilyfoot">
-  <meta name="twitter:image:src" content="http://podlink.com">
+  <meta name="twitter:image:src" content="http://podlink.com/images/pathology/bunionetiology.png">
   <meta name="twitter:domain" content="http://podlink.com">
 
   <!-- Google+ -->
@@ -90,14 +90,18 @@
 
     <div class="container">
 
-      <div class="pull-right"><img src="/images/pathology/bunionrotation.jpg" alt="bunion splaying of foot xray with arrows" class="img-rounded img-responsive"></div>
+      
       <div class="page-header">
         <h3>Cause of Bunion Deformity</h3>
-      </div>
+      </div><div class="pull-right"><img src="/images/pathology/bunionrotation.jpg" alt="bunion splaying of foot xray with arrows" class="img-rounded img-responsive"></div>
       <p itemprop="signorsymptom">The classic bunion is a bump on the side of the great toe joint. This bump represents an actual deviation of the 1st metatarsal. In addition, there is also deviation of the great toe toward the second toe. In severe cases, the great toe can either lie above or below the second toe.</p>
 
-      <p>Shoes are often blamed for creating these problems. This, however, is inaccurate. It has been researched in primitive tribes where going barefoot is the norm and they also developed bunions. Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal. As the deformity increases, there is an abnormal pull of certain tendons, which leads to the drifting of the great toe toward the 2nd toe. At this stage, there is also adaptation of the joint itself that occurs. This is typically followed by degeneration and arthritis of the great toe joint.  Patients with this condition will usually complain of pain when wearing shoes, especially narrow dress shoes, or with physical activity, such as walking or running.</p>
-      <p itemprop="cause"> The fundamental driving force behind developing bunions as a result of faulty foot mechanics is genetics. Issues such as loose ligaments and flat feet, are inherited. The traits then act as the foundation for abnormal foot mechanics and lead to formation of bunions. </p>
+      <p>What causes bunions?  This question is often answered by blaming shoes.  But in fact, shoes only play a small role in developing bunions.  Yes, shoes, especially high heels cause abnormal squeezing of your forefoot.  This in turn to help promote a bunion.  But if everyone who wore high heels shoes had a bunion, there would be a lot more then the 15% prevalence we see in the general population.  As you can see from the flow chart, genetics plays the major role in development of bunion deformities.</p>
+      <p itemprop="cause">Genetics determines the way your foot functions.  Are you flatfooted? Are your joints flexible or stiff?  Do you have a high arch?  Do you have tight muscles? These traits are determined by your genetic code.  These characteristics then govern how your bones and joints move when you walk.  As an example, if your joints are very flexible, this can cause an abnormal amount of instability in your forefoot when you walk.  Over time, this abnormal motion will cause the a bunion to develop by allowing your first metatarsal to "drift" towards the mid-line of your body.</p>
+
+      
+      <p itemprop="cause"><blockquote>The fundamental driving force behind developing bunions as a result of faulty foot mechanics is genetics. Issues such as loose ligaments and flat feet, are inherited. The traits then act as the foundation for abnormal foot mechanics and lead to formation of bunions.</blockquote></p>
+      
       <span class="thumbnail center"><img src="/images/pathology/bunionetiology.png" itemprop="image" class="img img-responsive" alt="flow chart of how you why bunions happen" class="img-rounded img-responsive"></span>
       
 

@@ -10,10 +10,10 @@
   <meta property="twitter:account_id" content="By far the most common cause, accounting for 95% of all cases, is abnormal, repetitive stresses placed on the anatomic structures of the foot and leg resulting in injury and inflammation. This condition is known as plantar fasciitis."/>
   <link rel="canonical" href=""/>
   <!-- fb -->
-  <meta name="og:title" content="Plantar Fasciitis - Why does my heel hurt?"/>
-  <meta name="og:url" content="http://podlink.com/pathology/heel-pain.php"/>
-  <meta name="og:description" content="By far the most common cause, accounting for 95% of all cases, is abnormal, repetitive stresses placed on the anatomic structures of the foot and leg resulting in injury and inflammation. This condition is known as plantar fasciitis."/>
-  <meta name="og:image" content=""/>
+  <meta property="og:title" content="Plantar Fasciitis - Why does my heel hurt?"/>
+  <meta property="og:url" content="http://podlink.com/pathology/heel-pain.php"/>
+  <meta property="og:description" content="By far the most common cause, accounting for 95% of all cases, is abnormal, repetitive stresses placed on the anatomic structures of the foot and leg resulting in injury and inflammation. This condition is known as plantar fasciitis."/>
+  <meta property="og:image" content="http://podlink.com/images/pathology/pffactors.png"/>
 
   <!-- twitter -->
   <meta name="twitter:card" content="summary">
@@ -21,14 +21,14 @@
   <meta name="twitter:title" content="Plantar Fasciitis - Why does my heel hurt?">
   <meta name="twitter:description" content="By far the most common cause, accounting for 95% of all cases, is abnormal, repetitive stresses placed on the anatomic structures of the foot and leg resulting in injury and inflammation. This condition is known as plantar fasciitis.">
   <meta name="twitter:creator" content="@alamofamilyfoot">
-  <meta name="twitter:image:src" content="http://podlink.com">
+  <meta name="twitter:image:src" content="http://podlink.com/images/pathology/pffactors.png">
   <meta name="twitter:domain" content="http://podlink.com">
 
   <!-- Google+ -->
   <meta itemprop="name" content="Plantar Fasciitis - Why does my heel hurt?"/>
   <meta itemprop="description" content="By far the most common cause, accounting for 95% of all cases, is abnormal, repetitive stresses placed on the anatomic structures of the foot and leg resulting in injury and inflammation. This condition is known as plantar fasciitis."/>
 
-  <meta itemprop="image" content=""/>
+  <meta itemprop="image" content="http://podlink.com/images/pathology/pffactors.png"/>
   <meta itemprop="alternatename" content="Heel Spurs"/>
 
 

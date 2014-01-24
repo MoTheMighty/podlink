@@ -12,19 +12,19 @@
         <meta property="twitter:account_id" content=""/>
         <link rel="canonical" href=""/>
         <!-- fb -->
-        <meta property="og:title" content="Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, Tx"/>
+        <meta property="og:title" content="Dr. Richard Perez,DPM - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, Tx"/>
         <meta property="og:url" content="http://podlink.com/doctors/perez.php"/>
-        <meta property="og:description" content="Dr. Richard Perez is a board certified podiatrist whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
-        <meta property="og:image" content="http://podlink.com/images/perez.png"/>
+        <meta property="og:description" content="Dr. Richard Perez is a board certified podiatrist / foot and ankle surgeon whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
+        <meta property="og:image" content="http://podlink.com/images/perez1.png"/>
         
         <!-- twitter -->
         <meta name="Twitter:card" content="summary"/>
         <meta name="Twitter:site" content="@"/>
         <meta name="Twitter:creator" content="@"/>
-        <meta name="Twitter:title" content=""/>
-        <meta name="Twitter:url" content=""/>
+        <meta name="Twitter:title" content="Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX"/>
+        <meta name="Twitter:url" content="http://podlink.com/doctors/perez.php"/>
         <meta name="Twitter:description" content="Dr. Richard Perez is a board certified podiatrist whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
-        <meta name="Twitter:image"/>
+        <meta name="Twitter:image" content="http://podlink.com/images/perez1.png"/>
 
         <!-- Google+ -->
         <meta itemprop="name" content="Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, Tx"/>
@@ -32,6 +32,7 @@
        
         <meta itemprop="photo" content="http://podlink.com/images/perez.png"/>
         <meta itemprop="medicalSpecialty" content="podiatry"/>
+        <meta itemprop="url" content="http://podlink.com/doctors.perez.php"
        
         
                 
@@ -88,8 +89,8 @@
 
   <section class="container">
       <div class="row">
-         <div class="col-lg-3 col-md-3" style="padding-top:85px;">
-             <p><span itemprop="photo"><img src="../../images/perez.png" itemprop="photo" alt="Dr. Richard Perez, DPM" class="img-rounded"></span></p>
+         <div class="col-lg-5 col-md-5" style="padding-top:0px;">
+             <p><span itemprop="photo"><img src="../../images/perez1.png" itemprop="photo" alt="Dr. Richard Perez, DPM" class="img-rounded"></span></p>
                   
               
                   
