@@ -28,6 +28,26 @@
 
     <div class="blog">
 
+      <h1>5 causes of top of foot pain</h1>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on January 25, 2014 at 10:40 AM</p>
+
+      <hr>
+      <p>
+
+      
+
+        <h4>Background</h4>
+        <p itemprop="associatedanatomy">Before talking about causes of pain to the top of the foot, lets review the anatomy.  The top of the foot consists of bones (talus, navicular, cuneiforms, cuboid, metatarsals), several small arteries, small nerves, and tendons.  So any pain generally is a problem with one or a combination of those anatomic structures.</p>
+      <img src="../../../blog/images/dorsalfootanatomy.jpg" class="img-responsive">
+      <h4 itemprop="name"> 1. Stress Fracture</h4>
+      <p itemprop="cause">Stress fractures the the most common cause of top of foot pain.  Usually, these injuries start of as a mild discomfort which gradually progress and become worse.  Swelling will usually occur towards the end of the day or after prolonged activities, only to feel better in the morning.  Stress fracture are caused from repetitive  stress to the bones which results in microscopic injuries.  The body is unable to heal the injuries fast enough and an accumulation of micro fractures leads to increasing pain and swelling.</p>
+       <p><a href="../blog/2014/dorsalfootpain.php">// Read More</a></p>
+       <hr>
+      
+      <hr>
+
       <!-- the actual blog post: title/author/date/content -->
       <h1>Rickets- Victorian era malady with modern day persistence</h1>
       <p class="lead">by <a href="../doctors/perez.php">Dr. Richard Perez</a></p>
@@ -35,7 +55,7 @@
       <p><span class="glyphicon glyphicon-time"></span> Posted on January 4, 2014 at 6:05 PM</p>
       <hr>
       
-      <hr>
+     
       <img src="../../../blog/images/osteomalacia.jpg" class="img-responsive">
       <hr>
       <p>It is not often that I see a Victorian era disease come through the office.  But that's exactly what occurred recently.  Rickets , also known as Osteomalacia  is a bone disease caused primarily by a lack of Vitamin D.</p>

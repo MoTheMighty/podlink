@@ -4,7 +4,7 @@
 
 <html lang="en-US" itemscope itemtype="http://schema.org/physician">
   <head>
-    <title>Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
+    <title>Dr. Richard Perez - Podiatrist and Surgeon at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
