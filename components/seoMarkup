@@ -1,14 +1,13 @@
-<html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
+<html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
 
     <head>
        
-        <meta property="twitter:account_id" content=""/>
-        <link rel="canonical" href=""/>
+       
         <!-- fb -->
-        <meta name="og:title" content=""/>
-        <meta name="og:url" content=""/>
-        <meta name="og:description" content=""/>
-        <meta name="og:image" content=""/>
+        <meta property="og:title" content=""/>
+        <meta property="og:url" content=""/>
+        <meta property="og:description" content=""/>
+        <meta property="og:image" content=""/>
         
         <!-- twitter -->
       <meta name="twitter:card" content="summary">

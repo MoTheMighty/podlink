@@ -1,9 +1,7 @@
-<!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
 
-<html>
+<html lang="en-US" itemscope itemtype="http://schema.org/medicaldevice">
   <head>
     <title>Extra Corporeal Shockwave Treatment</title>
     <meta charset="utf-8">
@@ -14,11 +12,39 @@
     <link href="../../css/mystyles.css" rel="stylesheet">
     <!-- <link href="css/glyphicons.css" rel="stylesheet"> -->
 
-    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-    
-      <script src="/js/html5shiv.js"></script>
-      <script src="/js/respond.min.js"></script>
+   <!-- fb -->
+        <meta property="og:title" content="Extra Corporeal Shockwave Treatment"/>
+        <meta property="og:url" content=""/>
+        <meta property="og:description" content=""/>
+        <meta property="og:image" content=""/>
+        
+        <!-- twitter -->
+      <meta name="twitter:card" content="summary">
+      <meta name="twitter:site" content="@alamofamilyfoot">
+      <meta name="twitter:title" content="Extra Corporeal Shockwave Treatment">
+      <meta name="twitter:description" content="">
+      <meta name="twitter:creator" content="@alamofamilyfoot">
+      <meta name="twitter:image:src" content="http://podlink.com">
+      <meta name="twitter:domain" content="http://podlink.com">
+
+        <!-- Google+ -->
+        <meta itemprop="name" content="Extra Corporeal Shockwave Treatment"/>
+        <meta itemprop="description" content=""/>
+        <meta itemprop="audience" content=""/>
+        <meta itemprop="image" content=""/>
+        <meta itemprop="alternativeHeadline" content=""/>
+                
+              
+        <link rel="author" href="http://plus.google.com/113774021362941412953" />
+        
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+         <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
+    <![endif]-->
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
