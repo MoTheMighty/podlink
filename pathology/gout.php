@@ -6,6 +6,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Gout | What happened to my foot last night?</title>
+    <meta name="description" content="Gout is a type of arthritis (inflammation of the joints) that mostly affects men age 40 and older. It is caused by chronic hyperuricemia--a long-lasting, abnormally high concentration of uric acid in the blood."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -24,7 +25,7 @@
         <meta name="Twitter:creator" content="@"/>
         <meta name="Twitter:title" content=""/>
         <meta name="Twitter:url" content=""/>
-        <meta name="Twitter:description" content=""/>
+        <meta name="Twitter:description" content="Gout is a type of arthritis (inflammation of the joints) that mostly affects men age 40 and older. It is caused by chronic hyperuricemia--a long-lasting, abnormally high concentration of uric acid in the blood."/>
         <meta name="Twitter:image"/>
 
         <!-- Google+ -->

@@ -6,6 +6,7 @@
   <head>
 
     <title>Why does the top of my foot hurt?</title>
+    <meta name="description" content="Arthritis, stress fracture, tendonitis, neuritis and sprain are all possible causes of pain to the top of the foot"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

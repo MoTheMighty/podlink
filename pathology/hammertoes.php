@@ -4,6 +4,7 @@
   <html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Hammertoes | Why are my toes curled?</title>
+    <meta name="description" content="A hammertoe is a curling of toe the joints, sometimes affecting one or both joints of the toe. This curling of the toes often leads to rubbing on shoe gear. This abnormal rubbing leads to painful and unsightly toes. Calluses and corns soon follow."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

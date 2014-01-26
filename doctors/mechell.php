@@ -5,6 +5,8 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/physician">
   <head>
     <title>Dr. R. Jordan Mechell - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
+    <meta name="description" content="Dr. Mechell is a board qualified podiatrist whos has extensive training in foot and ankle reconstructive surgery, limb deformity correction, nerve decompression procedures, 
+        and diabetic limb salvage."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

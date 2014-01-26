@@ -4,6 +4,7 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
 <head>
   <title>Bunion Deformity - Why is there a big bump on my big toe joint?</title>
+  <meta name="description" content="Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal."/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

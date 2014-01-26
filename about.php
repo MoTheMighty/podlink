@@ -5,6 +5,8 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/podiatric">
   <head>
     <title>Podiatrist of Alamo Family Foot & Ankle Care</title>
+    <meta name="description" content="Our Podiatrist are board certified in advanced reconstructive techniques in foot and ankle surgery. 
+Drs. Perez and Chaney fellowship training includes trauma and deformity reconstruction."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

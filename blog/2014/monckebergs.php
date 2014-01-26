@@ -4,6 +4,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Monckeberg's arteriosclerosis</title>
+    <meta name="description" content="Monckeberg's arteriosclerosis, also called medial calcific sclerosis, is a form of arteriosclerosis or vessel hardening, where calcium deposits form in the middle layer of the walls of medium sized vessels (the tunica media)."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

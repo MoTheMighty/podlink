@@ -5,6 +5,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalclinic">
   <head>
     <title>Contact Form for Alamo Family Foot & Ankle Care</title>
+    <meta name="description" content="Contact form for Alamo Family Foot and Ankle Care"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
@@ -122,7 +123,7 @@
         <section class="lead">
           
           <p>Central scheduling and all related inquires</p>
-          <h1><span itemscope="telephone">(210) 829-8770</span></h1>
+          <h2><span itemscope="telephone">(210) 829-8770</span></h2>
         </section><!-- lead -->
            <br>
       <hr>

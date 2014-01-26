@@ -4,6 +4,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Rickets Disease</title>
+    <meta name="description" content="Rickets , also known as Osteomalacia  is a bone disease caused primarily by a lack of Vitamin D."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

@@ -6,6 +6,7 @@
   <head>
 
     <title>The Bunion Blues</title>
+    <meta name="description" content="A bunion is a bump on the side of the foot. A bunion is NOT an extra piece of bone; is NOT an enlargement of bone; is NOT a bone spur and more importantly it is NOT a tumor but it represents progressive disorder caused by a splaying of 2 bones that are normally parallel."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

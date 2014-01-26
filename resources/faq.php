@@ -1,11 +1,11 @@
-<!DOCTYPE html
-     PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
-     "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!DOCTYPE html>
 
 
 <html>
   <head>
     <title>FAQ</title>
+    <meta name="description" content="Frequently asked question for patients being treated by Podiatrist at Alamo Family Foot and Ankle Care"/>
+  <meta charset="utf-8">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

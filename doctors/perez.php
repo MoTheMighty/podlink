@@ -5,6 +5,7 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/physician">
   <head>
     <title>Dr. Richard Perez - Podiatrist and Surgeon at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
+    <meta name="description" content="Dr. Richard Perez is a board certified podiatrist / foot and ankle surgeon whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

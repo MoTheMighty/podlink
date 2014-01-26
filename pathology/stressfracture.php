@@ -4,6 +4,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Stress Fractures of the Foot | Why is my foot swollen?</title>
+    <meta name="description" content="Stress fractures typically occurs in weight-bearing bones, such as the metatarsals(bones of the foot).  It is a common sports injury, and most cases are associated with athletics"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

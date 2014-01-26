@@ -4,6 +4,7 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
 <head>
   <title>Tarsal Coalition - Why is my foot stiff and sore?</title>
+  <meta name="description" content="A tarsal coalition is a bone condition in feet that causes decreased motion or absence of motion in one or more of the joints in the foot. The lack of motion or absence of motion is due to abnormal bone, cartilage or fibrous tissue growth across a joint."/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Bootstrap -->

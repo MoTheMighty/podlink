@@ -5,6 +5,8 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/physician">
   <head>
     <title>Dr. Walter Strash, DPM </title>
+    <meta name="description" content="Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
+            He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

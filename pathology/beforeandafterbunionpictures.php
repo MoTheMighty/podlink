@@ -4,6 +4,7 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
 <head>
   <title>Before and After Bunionectomy Pictures</title>
+  <meta name="description" content="Pictures showing appearance of the foot following bunion surgery"/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

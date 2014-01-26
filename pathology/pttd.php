@@ -4,6 +4,7 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Posterior Tibial Tendonitis - Why is the inside of my ankle Swollen?</title>
+    <meta name="description" content="Posterior tibial tendonitis is an inflammation of the posterior tibial tendon and its sheath. It extends from the inside of the ankle to the arch of the foot."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

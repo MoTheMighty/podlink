@@ -5,6 +5,7 @@
 
 <head>
   <title>Achilles Tendonitis Why Does My Achilles Hurt?</title>
+  <meta name="description" content="The achilles tendon is the largest tendon in the body.  It is subject to extreme loads and as a results can oftem suffer from overuse injuries"/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

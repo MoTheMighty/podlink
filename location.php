@@ -6,7 +6,7 @@
 
     <head>
           <title>Locations Map For Alamo Family Foot & Ankle Care</title>
-        <meta property="twitter:account_id" content=""/>
+        <meta name="description" content="Locations Map For Alamo Family Foot & Ankle Care"/>
         <link rel="canonical" href=""/>
         <!-- fb -->
         <meta property="og:title" content="Locations Map For Alamo Family Foot & Ankle Care<"/>

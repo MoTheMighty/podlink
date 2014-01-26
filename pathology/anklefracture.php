@@ -4,6 +4,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Ankle Fractures</title>
+     <meta name="description" content="There are many ways to fracture an ankle bone, the most common injuries involve a sudden sharp twist of the ankle. Ankle fractures are common injuries among people of all ages, interests and lifestyles."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

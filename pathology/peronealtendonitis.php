@@ -4,6 +4,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
 <head>
   <title>Peroneal Tendons | Why does the side of my ankle hurt?</title>
+  <meta name="description" content="Peroneal tendon problems occur either from repetitive use injuries such as running, tennis, cycling or from a sudden injury such as an ankle sprain or fracture."/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

@@ -4,6 +4,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
 <head>
   <title>Plantar Fasciitis - Why does my heel hurt?</title>
+  <meta name="description" content="By far the most common cause, accounting for 95% of all cases, is abnormal, repetitive stresses placed on the anatomic structures of the foot and leg resulting in injury and inflammation. This condition is known as plantar fasciitis."/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

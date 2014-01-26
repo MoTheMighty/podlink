@@ -4,6 +4,7 @@
   <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Neuromas | Why is my forefoot numb?</title>
+    <meta name="description" content="An intermetatarsal neuroma is any irritative process of the common digital nerve branch that supplies the plantar (bottom) of adjacent toes."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

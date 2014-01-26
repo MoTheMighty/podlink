@@ -4,6 +4,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>Ankle Sprains, Grading System and Treatment Protocal</title>
+    <meta name="description" content="The most common type of ankle sprain mechanism is an inversion (foot twisting inward) ankle sprain. This is due to the anatomy of the ankle joint being stronger on the inside.."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

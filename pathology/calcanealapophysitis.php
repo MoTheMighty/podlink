@@ -6,6 +6,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
 <head>
   <title>Calcaneal Apophysitis | Why does my child's heel hurt?</title>
+  <meta name="description" content="Sever’s disease, also known as calcaneal apophysitis is a very common condition among young (8-15) athletic children. It is caused by movement of a growth plate in the back of the heel during activities."/>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

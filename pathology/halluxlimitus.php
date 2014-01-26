@@ -4,6 +4,8 @@
     <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
     <head>
       <title>Hallux Limitus | Why does my big toe joint hurt?</title>
+      <meta name="description" content="Stiffness and pain of the big toe joint is termed Hallux Rigidus or Hallux Limitus."/>
+
       <meta charset="utf-8">
       <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

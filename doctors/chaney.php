@@ -5,6 +5,8 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/physician">
   <head>
     <title>Dr. D. Marty Chaney - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX</title>
+    <meta name="description" content="Dr. Chaney then completed a two year foot and 
+      ankle surgical residency at the West Houston Medical Center in Houston Texas."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

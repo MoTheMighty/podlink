@@ -4,6 +4,7 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/medicaldevice">
   <head>
     <title>Extra Corporeal Shockwave Treatment</title>
+    <meta name="description" content="Extracorporeal shock wave therapy (ESWT) is a modern and highly effective treatment method: high-energy sound waves are introduced into the painful areas of the body. With this innovative treatment, pathological alterations of tendons, ligaments, capsules, muscles and bones can be eliminated systematically."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
@@ -15,21 +16,21 @@
    <!-- fb -->
         <meta property="og:title" content="Extra Corporeal Shockwave Treatment"/>
         <meta property="og:url" content=""/>
-        <meta property="og:description" content=""/>
+        <meta property="og:description" content="Extracorporeal shock wave therapy (ESWT) is a modern and highly effective treatment method: high-energy sound waves are introduced into the painful areas of the body. With this innovative treatment, pathological alterations of tendons, ligaments, capsules, muscles and bones can be eliminated systematically."/>
         <meta property="og:image" content=""/>
         
         <!-- twitter -->
       <meta name="twitter:card" content="summary">
       <meta name="twitter:site" content="@alamofamilyfoot">
       <meta name="twitter:title" content="Extra Corporeal Shockwave Treatment">
-      <meta name="twitter:description" content="">
+      <meta name="twitter:description" content="Extracorporeal shock wave therapy (ESWT) is a modern and highly effective treatment method: high-energy sound waves are introduced into the painful areas of the body. With this innovative treatment, pathological alterations of tendons, ligaments, capsules, muscles and bones can be eliminated systematically.">
       <meta name="twitter:creator" content="@alamofamilyfoot">
       <meta name="twitter:image:src" content="http://podlink.com">
       <meta name="twitter:domain" content="http://podlink.com">
 
         <!-- Google+ -->
         <meta itemprop="name" content="Extra Corporeal Shockwave Treatment"/>
-        <meta itemprop="description" content=""/>
+        <meta itemprop="description" content="Extracorporeal shock wave therapy (ESWT) is a modern and highly effective treatment method: high-energy sound waves are introduced into the painful areas of the body. With this innovative treatment, pathological alterations of tendons, ligaments, capsules, muscles and bones can be eliminated systematically."/>
         <meta itemprop="audience" content=""/>
         <meta itemprop="image" content=""/>
         <meta itemprop="alternativeHeadline" content=""/>

@@ -4,6 +4,8 @@
 <html>
   <head>
     <title>Page not found.. :(</title>
+            <meta name="description" content="page not found"/>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

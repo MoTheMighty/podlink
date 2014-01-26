@@ -4,6 +4,8 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
 <head>
   <title>Warts on the bottom of my foot</title>
+  <meta name="description" content="Warts infect the skin by penetrating microscopic cuts in its outer layers. The HPV virus can live for many months of moist surfaces. Hence, gyms, showers"/>
+
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Bootstrap -->

@@ -6,6 +6,7 @@
 <html lang="en-US" itemscope itemtype="http://schema.org/MedicalCondition">
   <head>
     <title>Charcot Deformity</title>
+    <meta name="description" content="Charcot foot can occur in a diabetic who has neuropathy (nerve damage) in the foot that impairs the ability to feel pain."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

@@ -4,6 +4,7 @@
   <html>
   <head>
     <title>Compendium of Common Foot and Ankle Problems</title>
+    <meta name="description" content="List and description of common foot and ankle problems"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
