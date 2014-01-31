@@ -21,7 +21,7 @@
         <!-- twitter -->
         <meta name="Twitter:card" content="summary"/>
         <meta name="Twitter:site" content="@"/>
-        <meta name="Twitter:creator" content="@"/>
+        <meta name="Twitter:creator" content="@alamofamilyfoot"/>
         <meta name="Twitter:title" content="Dr. Richard Perez - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, TX"/>
         <meta name="Twitter:url" content="http://podlink.com/doctors/perez.php"/>
         <meta name="Twitter:description" content="Dr. Richard Perez is a board certified podiatrist whos interest includes cosmetic bunion correction and sports injuries.  He is residency and fellowship trained"/>
@@ -115,7 +115,7 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied at Florida State University. Dr. Perez received his Doctorate of Podiatric Medicine from the Des Moines University’s College of Podiatric Medicine and Surgery. He then joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center in Des Moines, IA. Dr. Perez became a partner in 1999.  He also is a shareholder of Specialty Surgery Center where most of his surgeries are performed.
+Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied at Florida State University. Dr. Perez received his Doctorate of Podiatric Medicine from the Des Moines University’s College of Podiatric Medicine and Surgery. He then joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center in Des Moines, IA. Dr. Perez became a partner and shareholder of Alamo Family Foot & Ankle Care in 1999.  He also is a shareholder of Specialty Surgery Center where most of his surgeries are performed.
 
 </div><!-- col-lg-8 -->
 
@@ -166,7 +166,7 @@ His scholarly publications include works on extra corporeal shock wave treatment
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 He also serves as assistant <span itemprop="member">clinical professor in the Department of Orthopedics at the University of Texas Health Science Center, helping train second and third year residents surgical techniques and procedures.</span>
 His areas of clinical interest include: bunion surgeries which emphasize early mobility and optimal cosmetic appearance, minimally 
-invasive trauma reconstruction, sports injuries and plantar fasciitis.  His primary focus is to deliver timely and comprehensive care, utilizing non-surgical means whenever possible.
+invasive trauma reconstruction, sports injuries and plantar fasciitis.  His primary focus is to deliver timely and comprehensive care, utilizing non-surgical means whenever possible.  Dr. Perez speaks both English and Spanish.
 </div><!-- col-lg-8 -->
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
@@ -193,7 +193,7 @@ invasive trauma reconstruction, sports injuries and plantar fasciitis.  His prim
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Dr. Perez lives in San Antonio, Texas with his wife and two children. He is an avid cyclist and can usually be found pedaling 
-the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He is responsible for development and programming of this website with the help of the following tools:<a href="http://getbootrap.com">Twitter's Bootstrap Framework,</a> <a href="http://www.sublimetext.com/3">Sublime Text 3,</a> and <a href="http://incident57.com/codekit/">CodeKit.</a>
+the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He is responsible for the development and programming of this website with the help of the following tools:<a href="http://getbootrap.com">Twitter's Bootstrap Framework,</a> <a href="http://www.sublimetext.com/3">Sublime Text 3,</a> and <a href="http://incident57.com/codekit/">CodeKit.</a>
 </div><!-- col-lg-8 -->
 
 
