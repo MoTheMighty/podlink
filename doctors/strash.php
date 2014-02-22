@@ -91,7 +91,7 @@
              <p><img src="../../images/wally.png" alt="Dr. Walter Strash DPM" class="img-rounded"></p>
                   
 
-                  <?php include '../components/socialicons.php'; ?>
+                  
 
         </div><!-- col -->
                   <div class="visible-xs"> 
@@ -242,7 +242,7 @@ His hobbies include water sports and Taekwondo along with spending most weekends
 </div><!-- panelbody -->
 </div><!-- panel -->
 
-
+<div class="layoutspacing2"></div>
 <!-- footer -->
 
    <?php include '../components/footer.php'; ?>

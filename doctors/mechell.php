@@ -93,7 +93,7 @@ and diabetic limb salvage."/>
              <p><span itemprop="photo"><img src="../../images/jordan.png" alt="Dr. R. Jordan Mechell, DPM" class="img-rounded"></span></p>
                   
 
-                   <?php include '../components/socialicons.php'; ?>
+                   
 
         </div><!-- col -->
                   <div class="visible-xs"> 
@@ -201,6 +201,7 @@ music enthusiast.
 
 </section><!-- container -->
 
+<div class="layoutspacing2"></div>
 
 <!-- footer -->
 

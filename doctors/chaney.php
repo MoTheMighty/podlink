@@ -97,7 +97,7 @@
              <p><span itempscope="photo"><img src="../../images/chaney.png" alt="Dr. D. Martin Chaney, DPM" class="img-rounded"></span></p>
                   
 
-                   <?php include '../components/socialicons.php'; ?>
+                  
 
         </div><!-- col -->
                   <div class="visible-xs"> 
@@ -125,7 +125,7 @@ He attended the University of Northern Iowa where he majored in Biology and Chem
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
     <div class="center">
-          <section class="iconsizing" style="margin-top: 10%;">
+          <section class="iconsizing" style="margin-top: 3%;">
             
               <span class="glyphicons book"></span>
             
@@ -175,7 +175,7 @@ clinical adjunct faculty for the University of Texas Health Science Center at Sa
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
-            <section class="iconsizing" style="margin-top: 10%;">
+            <section class="iconsizing" style="margin-top: 20%;">
               <span class="glyphicons keynote"></span>
             </section> 
  </div><!-- center -->
@@ -203,7 +203,7 @@ Dr. Chaney enjoys spending time with his family and hobbies include scuba diving
 
 </section><!-- container -->
 
-
+<div class="layoutspacing2"></div>
 <!-- footer -->
 
    <?php include '../components/footer.php'; ?>
