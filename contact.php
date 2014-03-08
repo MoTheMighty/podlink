@@ -83,13 +83,12 @@
 
 
 
-
 <section class="container">
 <div class="row">
   <section id="bumperpads">
  
   <div class="col-lg-4 col-md-4 col-sm-4">
-  <form method="POST" action="php/examples/advanced.php">
+  <form method="post" action="php/examples/advanced.php">
     <div class="form-group">
       <label for="firstname">Name: </label>
       <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name" required />
@@ -101,8 +100,7 @@
     <form role="form">
     <div class="form-group">
       <label for="exampleInputEmail1">Email Address:</label>
-      <input type="email" class="form-control" name="email"  id="exampleInputEmail1" placeholder="Email" required />
-    </div><!-- email -->
+      <input type="email" class="form-control" name="email" id="exampleInputEmail1" placeholder="Email" required="">    </div><!-- email -->
     <label for="message">Message:</label>
     <textarea name="contact_message" class="form-control" rows="4"></textarea>
     
@@ -216,6 +214,12 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
+    <script src="js/jquery.validate.js"></script>
+<script>
+$("form").validate();
+</script>
+ 
+       
        <script>
 
     

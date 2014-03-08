@@ -111,22 +111,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "contact.php",
-			"settings":
-			{
-				"buffer_size": 6778,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.sublime-project",
-			"settings":
-			{
-				"buffer_size": 266,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -176,6 +160,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
 		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
@@ -184,7 +169,6 @@
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/pathology/neuroma.php",
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
-		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
@@ -447,67 +431,8 @@
 	"groups":
 	[
 		{
-			"selected": 1,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "contact.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6778,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6048,
-								6048
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2445.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.sublime-project",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 266,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
