@@ -27,6 +27,21 @@
     <div class="layoutspacing2"></div>
 
 
+
+    <div class="blog">
+
+      <h1>In Office MRI - We are the first San Antonio Podiatrist to offer this advanced technology.</h1>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on March 30, 2014 at 4:16 PM</p>
+      <hr>
+      <img src="../../../blog/images/oscan.jpg" class="img-responsive">
+      <hr>
+      
+      <p>Since 2012, we are proud to be the first and only(as of this writing) podiatrist in the San Antonio area to offer this advanced imaging modality for our patients.  MRI is a critical part of establishing</p>
+       <p><a href="../blog/2014/mri.php">// Read More</a></p>
+       <hr>
+
     <div class="blog">
 
       <h1>5 causes of top of foot pain</h1>
