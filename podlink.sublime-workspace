@@ -112,35 +112,11 @@
 	"buffers":
 	[
 		{
-			"file": "template.php",
+			"file": "blog/2014/mri.php",
 			"settings":
 			{
-				"buffer_size": 3750,
+				"buffer_size": 5920,
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "_/less/_mystyles.less",
-			"settings":
-			{
-				"buffer_size": 6505,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "php/examples/advanced.php",
-			"settings":
-			{
-				"buffer_size": 3780,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 11726,
-				"line_ending": "Windows"
 			}
 		}
 	],
@@ -192,18 +168,21 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/template.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/resources/employment.php",
 		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/js/jqBootstrapValidation.js",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/js/html5shiv.js",
 		"/Applications/MAMP/htdocs/components/footer.php",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
-		"/Applications/MAMP/htdocs/resources/employment.php",
 		"/Users/pod1098/Downloads/Entrenamiento matutino.gpx",
 		"/Applications/MAMP/htdocs/resources/faq.php",
 		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
@@ -212,7 +191,6 @@
 		"/Applications/MAMP/htdocs/resources/saturdayclinic.php",
 		"/Applications/MAMP/htdocs/blog/2014/monckebergs.php",
 		"/Applications/MAMP/htdocs/blog/2014/rickets.php",
-		"/Applications/MAMP/htdocs/blog/blog.php",
 		"/Applications/MAMP/htdocs/resources/privacyPractices.php",
 		"/Applications/MAMP/htdocs/resources/npforms.php",
 		"/Applications/MAMP/htdocs/pathology/wart.php",
@@ -236,7 +214,6 @@
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
 		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/404.php",
 		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
@@ -249,7 +226,6 @@
 		"/Applications/MAMP/htdocs/js/googlemap.js",
 		"/Applications/MAMP/htdocs/components/social_chaney.php",
 		"/Applications/MAMP/htdocs/components/social_mechell.php",
-		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/images/pathology/achillesstretch.GIF",
@@ -465,125 +441,38 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "template.php",
+					"file": "blog/2014/mri.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 3750,
+						"buffer_size": 5920,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1699,
-								1699
+								2881,
+								2881
 							]
 						],
 						"settings":
 						{
+							"spell_check": true,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 399.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "_/less/_mystyles.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6505,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								6285,
-								6285
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 6435.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "php/examples/advanced.php",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 3780,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 435.0,
+						"translation.y": 991.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 11726,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5791,
-								5791
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]

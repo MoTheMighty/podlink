@@ -86,7 +86,7 @@
     <section class="container">
   
       <div class="pull-left">
-        <h1>Locations</h1>
+        <h1>Locations - San Antonio Podiatrist</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">

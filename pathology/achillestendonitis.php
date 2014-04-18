@@ -159,6 +159,7 @@
                     </div> <!-- ul -->
 
                     <p>If non-surgical treatment fails to provide adequate pain relief, surgery may be needed.  Generally, surgery involves removal of the diseased portions of the tendon.  Biological membranes maybe applied to augment the repair.  Also, transfer of tendons from the foot to the ankle are sometimes needed when there is severe degeneration of the Achilles tendon.  These surgeries typically are quite extensive and have a prolonged recovery.  Fortunately, most cases of Achilles tendonitis do not require surgical management.</p>
+                    <p>San Antonio, TX has a temperate climate. As a result outdoor sports and activities are popular throughout the year.  Sports such as Golf, football and soccer are played year round.  Consequently, as podiatrist, we see Achilles tendon injuries throughout the year with a slight up tick in spring and summer.</p>
                     <div class="layoutspacing2"></div>
 
                     <!-- tab0content -->

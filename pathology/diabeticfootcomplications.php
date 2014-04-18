@@ -105,6 +105,7 @@
                           </ul> 
                           <p>In addition to these foot care guidelines, good control of your blood sugar and your blood
                           pressure help prevent foot problems.</p>
+                          <p><a href="http://uthscsa.edu/hscnews/singleformat.asp?newID=4583">San Antonio has one of the highest incidence of diabetes and obsesity in the country.</a>  Podiatrist in San Antonio are all to familiar with the common presentation of Charcot foot to their office.</p><hr> 
               </div>
               <!-- tab -->
               <div class="tab-pane fade" id="treatment">

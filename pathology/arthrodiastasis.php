@@ -49,7 +49,7 @@
 <div class="layoutspacing2"></div>
 
 <div class="container">
-<h3>Arthrodiastasis of the ankle</h3> <p>Distraction of joints is very common in the management of an arthritic ankle by European surgeons.  The arthrodiastasis procedure is indicated as an alternative to fusion or joint replacement in the younger population.  An external fixator is applied to the distal portion of the leg and foot for approximately 12 weeks, followed by a period of physical therapy.  Our practice has performed several of these over the years.</p>
+<h3>Arthrodiastasis of the ankle</h3> <p>Distraction of joints is very common in the management of an arthritic ankle by European surgeons.  The arthrodiastasis procedure is indicated as an alternative to fusion or joint replacement in the younger population.  An external fixator is applied to the distal portion of the leg and foot for approximately 12 weeks, followed by a period of physical therapy.  Here in San Antonio, we were among the first podiatrist to offer this novel treatment.</p>
   
  <img alt="Arthrodiastasis" src="/images/pathology/arthrodiastasis.jpg" class="border-right" /> 
                       </div>
