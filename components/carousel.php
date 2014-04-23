@@ -64,7 +64,7 @@
           <div class="item">
             <img src="/images/carousel/jordan_patient.jpg" class="img-responsive" alt="Dr. Mechell talks with patient">
             <div class="carousel-caption">
-              <h1>Knowledge, Experience and Results.  We are Alamo Family Foot & Ankle Care</h1>          
+              <h1>Knowledge, Experience and Results.  We are San Antonio's Podiatrist</h1>          
             </div>
           </div>
         
