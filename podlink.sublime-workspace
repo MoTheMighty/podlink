@@ -112,10 +112,21 @@
 	"buffers":
 	[
 		{
-			"file": "blog/2014/mri.php",
+			"contents": "<!DOCTYPE html>\n\n\n<html lang=\"en-US\"itemscope itemtype=\"http://schema.org/medicalcondition\">\n  <head>\n    <title>You see what you know</title>\n    <meta name=\"description\" content=\"Granuloma Annulare is a benign self-limiting condition, which generally resolves within several weeks without treatment.\"/>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <!-- Bootstrap -->\n    <link href=\"../../css/bootstrap.css\" rel=\"stylesheet\">\n    <!--<link href=\"css/font-awesome.min.css\" rel=\"stylesheet\">-->\n    <link href=\"../../css/mystyles.css\" rel=\"stylesheet\">\n    <!-- <link href=\"css/glyphicons.css\" rel=\"stylesheet\"> -->\n\n     <!--[if lt IE 9]>\n    <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n    <script src=\"https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js\"></script>\n    <![endif]-->\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=9\">\n\n\n        <!-- fb -->\n        <meta property=\"og:title\" content=\"You see what you know\"/>\n        <meta property=\"og:url\" content=\"http://podlink.com/blog/2014/seewhatyouknow.php\"/>\n        <meta property=\"og:description\" content=\"Granuloma Annulare is a benign self-limiting condition, which generally resolves within several weeks without treatment.\"/>\n        <meta property=\"og:image\" content=\"http://podlink.com/blog/images/granuloma.jpg\"/>\n        \n        <!-- twitter -->\n      <meta name=\"twitter:card\" content=\"summary\">\n      <meta name=\"twitter:site\" content=\"@alamofamilyfoot\">\n      <meta name=\"twitter:title\" content=\"You see what you know\">\n      <meta name=\"twitter:description\" content=\"Granuloma Annulare is a benign self-limiting condition, which generally resolves within several weeks without treatment.\">\n      <meta name=\"twitter:creator\" content=\"@alamofamilyfoot\">\n      <meta name=\"twitter:image:src\" content=\"http://podlink.com/blog/images/gramuloma.jpg\">\n      <meta name=\"twitter:domain\" content=\"http://podlink.com\">\n\n        <!-- Google+ -->\n        <meta itemprop=\"name\" content=\"You see what you know\"/>\n        <meta itemprop=\"description\" content=\"Granuloma Annulare is a benign self-limiting condition, which generally resolves within several weeks without treatment.\"/>\n       \n        <meta itemprop=\"image\" content=\"http://podlink.com/blog/images/granuloma.jpg\"/>\n        \n                \n              \n        <link rel=\"author\" href=\"http://plus.google.com/113774021362941412953\" />\n        \n        <link rel=\"shortcut icon\" href=\"/favicon.ico\" type=\"image/x-icon\">\n        <link rel=\"icon\" href=\"/favicon.ico\" type=\"image/x-icon\">\n\n\n  </head>\n\n  <body id=\"Template\">\n\n\n  <?php  include $_SERVER['DOCUMENT_ROOT'] . '/components/navhead.php'; ?>\n\n\n\n \n <div class=\"layoutspacing2\"></div>\n\n\n    <div class=\"blog\">\n\n\n      <!-- the actual blog post: title/author/date/content -->\n      <h1>You See What You Know</h1>\n      <p class=\"lead\">by <a href=\"../../doctors/perez.php\">Dr. Richard Perez</a></p>\n      <hr>\n      <p><span class=\"glyphicon glyphicon-time\"></span> Posted on April 6, 2014 at 7:52 PM</p>\n      <hr>\n      <img src=\"../../../blog/images/granuloma.jpg\" class=\"img-responsive\">\n      <hr>\n      \n    \n          <p>I can recall as a fourth year medical student examining a patient who came in complaining of a rash to her foot.  Looking down at her foot, I saw a raised red round rash.</p>\n          <p>\"You have an athlete’s foot infection\" I said.</p>\n          <p>Upon presenting the case to my attending, I was confident in my diagnosis.  It was a clear-cut, easy dermatology problem.  Well not so fast.</p>\n          <p>You see what you know. </p> \n          <p>This maxim was an early part of my medical education.  And in this case, I knew about athletes foot infections.  Upon entering the exam room, my attending asked the patient if the rash itched to which she replied, no.\n          \"Granuloma Annulare is the diagnosis student doctor Perez,\" said my attending.</p>\n          <p>You see what you know, and I did not know about this problem.  But that simple experience was an example of the years of study, which are required to become a Podiatrist.</p>\n          <p>Granuloma Annulare is not to common and I do not see it often, but when a case came into the office recently, it brought back my previous learning experience with the disease.  It is a benign self-limiting condition, which generally resolves within several weeks without treatment.  </p>\n          <p>There is no known cause, however, minor scrapes and medications maybe to blame.  Solitary lesions are common to the foot and generally do not cause any itchiness or pain.  Sizes vary, but generally no larger than a few inches.  It affects both men and women equally and is usually occurs before the age of 30.</p>\n          <p>Treatment can consist of topical corticosteroids, however, treatment is usually not needed.</p>\n          <p>17 years of practicing podiatric medicine in San Antonio has vastly increased my “see what you know” knowledge base and I am grateful for the opportunity to be a life long learner in this great community.</p>\n\n\n\n             <?php  include $_SERVER['DOCUMENT_ROOT'] . '/components/blogSEO.php'; ?>\n\n      <hr>\n</div><!-- blog -->\n\n<!-- footer -->\n\n  \n <?php  include $_SERVER['DOCUMENT_ROOT'] . '/components/footer.php'; ?>\n\n\n    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n    <script src=\"https://code.jquery.com/jquery.js\"></script>\n    <!-- Include all compiled plugins (below), or include individual files as needed -->\n    <script src=\"/js/bootstrap.min.js\"></script>\n    <script src=\"/js/modernizr.js\"></script>\n   \n\n\n\n\n  </body>\n</html>",
+			"file": "blog/2014/seewhatyouknow.php",
+			"file_size": 5832,
+			"file_write_time": 130429261980000000,
 			"settings":
 			{
-				"buffer_size": 5920,
+				"buffer_size": 5682,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "blog/blog.php",
+			"settings":
+			{
+				"buffer_size": 7323,
 				"line_ending": "Unix"
 			}
 		}
@@ -168,7 +179,21 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/components/carousel.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/blog/2014/mri.php",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
+		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
+		"/Applications/MAMP/htdocs/pathology/eswt.php",
+		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
+		"/Applications/MAMP/htdocs/pathology/charcot.php",
+		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
+		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
+		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
+		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/index.php",
@@ -176,9 +201,7 @@
 		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/js/jqBootstrapValidation.js",
 		"/Applications/MAMP/htdocs/contact.php",
-		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/js/html5shiv.js",
-		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
@@ -199,24 +222,16 @@
 		"/Applications/MAMP/htdocs/pathology/neuroma.php",
 		"/Applications/MAMP/htdocs/pathology/pathology.php",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
-		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
 		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
 		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
 		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
 		"/Applications/MAMP/htdocs/pathology/haglunds.php",
 		"/Applications/MAMP/htdocs/pathology/gout.php",
-		"/Applications/MAMP/htdocs/pathology/eswt.php",
-		"/Applications/MAMP/htdocs/pathology/charcot.php",
-		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
 		"/Applications/MAMP/htdocs/pathology/bunions.php",
 		"/Applications/MAMP/htdocs/pathology/beforeandafterbunionpictures.php",
-		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
-		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
 		"/Applications/MAMP/htdocs/components/seoMarkup",
-		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/404.php",
-		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/images/pathology/clinicalstressfx.png",
@@ -226,7 +241,6 @@
 		"/Applications/MAMP/htdocs/js/googlemap.js",
 		"/Applications/MAMP/htdocs/components/social_chaney.php",
 		"/Applications/MAMP/htdocs/components/social_mechell.php",
-		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/images/pathology/achillesstretch.GIF",
 		"/Applications/MAMP/htdocs/components/social.php",
@@ -242,8 +256,6 @@
 		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Applications/MAMP/htdocs/robots.txt",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
-		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
-		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate 2.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
 		"/Applications/MAMP/htdocs/resources/survey.php",
@@ -294,8 +306,7 @@
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/forefoot/bunions.php",
 		"/Applications/MAMP/htdocs/page.aspx",
 		"/Applications/MAMP/htdocs/treatment-and-conditions/conditions/heel/heel-pain.php",
-		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings",
-		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap"
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-settings"
 	],
 	"find":
 	{
@@ -441,35 +452,64 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "blog/2014/mri.php",
+					"file": "blog/2014/seewhatyouknow.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5920,
+						"buffer_size": 5682,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2881,
-								2881
+								3215,
+								3614
 							]
 						],
 						"settings":
 						{
-							"spell_check": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 884.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/blog.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7323,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2480,
+								2480
+							]
+						],
+						"settings":
+						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 991.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

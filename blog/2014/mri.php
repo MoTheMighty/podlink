@@ -4,7 +4,7 @@
 <html lang="en-US"itemscope itemtype="http://schema.org/medicalcondition">
   <head>
     <title>First San Antonio podiatrist to offer office MRI</title>
-    <meta name="description" content="Rickets , also known as Osteomalacia  is a bone disease caused primarily by a lack of Vitamin D."/>
+    <meta name="description" content="Since 2012, we are proud to be the first and only(as of this writing) podiatrist in the San Antonio area to offer this advanced imaging modality to our patients."/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->

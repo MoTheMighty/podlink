@@ -26,8 +26,22 @@
 
     <div class="layoutspacing2"></div>
 
+<div class="blog">
 
-
+      <h1>You See What You know.</h1>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on April 6, 2014 at 7:52 PM</p>
+      <hr>
+      <img src="../../../blog/images/granuloma.jpg" class="img-responsive">
+      <hr>
+      
+      <p>I can recall as a fourth year medical student examining a patient who came in complaining of a rash to her foot.  Looking down at her foot, I saw a raised red round rash.</p>
+          <p>"You have an athlete’s foot infection" I said.</p>
+          <p>Upon presenting the case to my attending, I was confident in my diagnosis.  It was a clear-cut, easy dermatology problem.  Well not so fast.</p>
+       <p><a href="../blog/2014/seewhatyouknow.php">// Read More</a></p>
+       <hr>
+</div>
     <div class="blog">
 
       <h1>In Office MRI - We are the first San Antonio Podiatrist to offer this advanced technology.</h1>
@@ -41,7 +55,7 @@
       <p>Since 2012, we are proud to be the first and only(as of this writing) podiatrist in the San Antonio area to offer this advanced imaging modality for our patients.  MRI is a critical part of establishing</p>
        <p><a href="../blog/2014/mri.php">// Read More</a></p>
        <hr>
-
+</div>
     <div class="blog">
 
       <h1>5 causes of top of foot pain</h1>
