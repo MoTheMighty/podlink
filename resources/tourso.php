@@ -1,17 +1,17 @@
-
 <!DOCTYPE html>
 
 
 <html>
   <head>
-    <title>Blog</title>
+    <title>Virtual Tour Stone Oak Office</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- Bootstrap -->
-    <link href="css/bootstrap.css" rel="stylesheet">
-    <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
-    <link href="css/mystyles.css" rel="stylesheet">
-    <!-- <link href="css/glyphicons.css" rel="stylesheet"> -->
+    <link href="../css/bootstrap.css" rel="stylesheet">
+      
+      <link href-"../css/bootstrap-image-gallery.min.css" rel="stylesheet">
+      <link rel="stylesheet" href="http://blueimp.github.io/Gallery/css/blueimp-gallery.min.css">
+      <link href="../css/mystyles.css" rel="stylesheet">
 
 
      <!--[if lt IE 9]>
@@ -23,7 +23,7 @@
 
  
 
-  <?php include 'components/navhead.php'; ?>
+  <?php include '../components/navhead.php'; ?>
 
 
 
@@ -31,19 +31,21 @@
     <section class="container">
   
       <div class="pull-left">
-        <h1>Template</h1>
+        <h1>Virtual Tour - Stone Oak Office</h1>
       </div><!-- pullleft -->
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="#">Home</a></li>
-            <li class="active">Privacy Notice</li>
+            <li class="active">Virtual Tour</li>
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
      
     </section><!-- container -->
 </div><!-- navibar -->
 <div class="container">
+<div class="layoutspacing2"></div>
 
+ <?php include '../components/officeimagesso.php'; ?>
 
 
  
@@ -53,31 +55,17 @@
 
 <!-- footer -->
 
-   <?php include 'components/footer.php'; ?>
+   <?php include '../components/footer.php'; ?>
 
 
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://code.jquery.com/jquery.js"></script>
     <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script src="http://blueimp.github.io/Gallery/js/jquery.blueimp-gallery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
    
-    <script src="js/modernizr.js"></script>
-    <script>
-    $(function () {
-    $("[data-toggle='tooltip']").tooltip();
-    $("[data-toggle='popover']").popover();
-});
-    </script>
-
-    <script>
-    $(document).ready(function() {
-     
-      
-        $(".fill").delay(5000).slideDown("2000")
-      });
-
-   
-    </script
+    
    
 
 

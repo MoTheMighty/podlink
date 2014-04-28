@@ -18,7 +18,7 @@
           <div class="item active">
             <img src="/images/carousel/group.jpg" itemprop="image" class="img-responsive" alt="group image doctors of alamo family foot and ankle care in san antonio">
             <div class="carousel-caption">
-              <h1>Dedicated to superior patient care since 1991</h1>          
+              <h3>Dedicated to superior patient care since 1991</h3>          
             </div>
 
           </div>
@@ -27,7 +27,7 @@
           <div class="item">
             <img src="/images/carousel/operating.jpg" class="img-responsive" alt="Drs. Perez, Strash and Chaney operating">
             <div class="carousel-caption">
-              <h1>Board certified reconstructive foot and ankle surgeons</h1>          
+              <h3>Board certified reconstructive foot and ankle surgeons</h3>          
             </div>
           </div>
          <!--  -->
@@ -36,7 +36,7 @@
 
                          alt="Dr. Richard Perez performs diagnostic ultrasound of the foot">
           <div class="carousel-caption">
-              <h1>Utilizing the latest technology for optimal care</h1>          
+              <h3>Utilizing the latest technology for optimal care</h3>          
             </div>
 
           </div>
@@ -47,7 +47,7 @@
           <div class="item">
                <img src="/images/carousel/strash_patient.jpg" class="img-responsive" alt="Dr. Strash talking with a patient">
                <div class="carousel-caption">
-              <h1>Committed to maintaining a vision towards progressive improvement</h1>          
+              <h3>Committed to maintaining a vision towards progressive improvement</h3>          
             </div>
             
           </div>
@@ -57,14 +57,14 @@
           <div class="item">
             <img src="/images/carousel/chaney_patient.jpg" class="img-responsive" alt="Dr. Chaney talks with patient">
               <div class="carousel-caption">
-              <h1>Teaching patients their path towards improvement</h1>          
+              <h3>Teaching patients their path towards improvement</h3>          
             </div>
           </div>
           <!--  -->
           <div class="item">
             <img src="/images/carousel/jordan_patient.jpg" class="img-responsive" alt="Dr. Mechell talks with patient">
             <div class="carousel-caption">
-              <h1>Knowledge, Experience and Results.  We are San Antonio's Podiatrist</h1>          
+              <h3>Knowledge, Experience and Results.  We are San Antonio's Podiatrist</h3>          
             </div>
           </div>
         

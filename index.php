@@ -48,9 +48,11 @@
 
       <!-- Bootstrap -->
       <link href="css/bootstrap.css" rel="stylesheet">
-      <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
+      
+     
+      
       <link href="css/mystyles.css" rel="stylesheet">
-      <!-- <link href="css/glyphicons.css" rel="stylesheet"> -->
+      
 
        <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -199,8 +201,31 @@
 
       </section><!-- container -->
     </section>
+<div class="container">
+  <hr>
+  <div class="center">
+    <h2>Three convenient locations</h2>
+    <div class="layoutspacing"></div>
+   <section class="col col-lg-4 col-md-4 col-sm-4">
+    <img src="images/huebner/huebnerfront.jpg" class="img-responsive" class="img-circle">
+    <?php include 'components/medcenteraddress.php'; ?>
 
+    <a href="resources/tourmc.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a> 
+  </section>
 
+  <section class="col col-lg-4 col-md-4 col-sm-4">
+  <img src="images/stoneoak/stoneoakfront.jpg" class="img-responsive" class="img-circle">
+  <?php include 'components/stoneoakaddress.php'; ?>
+   <a href="resources/tourso.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a> 
+  </section>
+
+  <section class="col col-lg-4 col-md-4 col-sm-4">
+  <img src="images/ahfront.jpg" class="img-responsive" class="img-circle">
+  <?php include 'components/ahaddress.php'; ?>
+  </section>
+  
+</div>
+</div>
 
 
 
@@ -282,16 +307,17 @@
     <script src="js/bootstrap.min.js"></script>
     <script src="js/modernizr.js"></script>
    
+    <script src="js/bootstrap-image-gallery.js1"></script>
+   
      <script>
     $(document).ready(function() {
      
       
-        $("#calltoaction").delay(15000).slideDown("2000")
+        $("#calltoaction").delay(1000).slideDown("2000")
       });
 
    
     </script>
-
 
 
 
