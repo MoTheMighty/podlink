@@ -115,46 +115,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "_/less/_mystyles.less",
-			"settings":
-			{
-				"buffer_size": 6575,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 12492,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "template.php",
-			"settings":
-			{
-				"buffer_size": 1943,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/mctour.php",
-			"settings":
-			{
-				"buffer_size": 1964,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "components/officeimages.php",
-			"settings":
-			{
-				"buffer_size": 5336,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -204,19 +164,31 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/blog/2014/mybunionembarrassesme.php",
+		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/blog/blogtemplate.php",
+		"/Applications/MAMP/htdocs/blog/2014/mybunionemarrassesme.php",
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
+		"/Applications/MAMP/htdocs/components/ahaddress.php",
+		"/Applications/MAMP/htdocs/components/medcenteraddress.php",
+		"/Applications/MAMP/htdocs/php/examples/advanced.php",
+		"/Applications/MAMP/htdocs/components/officeimagesso.php",
+		"/Applications/MAMP/htdocs/resources/tourso.php",
+		"/Applications/MAMP/htdocs/resources/tourmc.php",
+		"/Applications/MAMP/htdocs/template.php",
+		"/Applications/MAMP/htdocs/components/officeimagesmc.php",
 		"/Applications/MAMP/htdocs/resources/mctour.php",
 		"/Applications/MAMP/htdocs/components/officeimages.php",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/js/bootstrap-image-gallery.js",
 		"/Applications/MAMP/htdocs/_/js/bootstrap-image-gallery.js",
 		"/Applications/MAMP/htdocs/css/bootstrap-image-gallery.min.css",
 		"/Applications/MAMP/htdocs/components/footer.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/doctors/mechell.php",
 		"/Applications/MAMP/htdocs/blog/2014/seewhatyouknow.php",
-		"/Applications/MAMP/htdocs/blog/blog.php",
 		"/Applications/MAMP/htdocs/blog/2014/mri.php",
 		"/Applications/MAMP/htdocs/location.php",
 		"/Applications/MAMP/htdocs/about.php",
@@ -229,9 +201,7 @@
 		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
 		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
-		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/resources/employment.php",
-		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/js/jqBootstrapValidation.js",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/js/html5shiv.js",
@@ -309,9 +279,6 @@
 		"/Applications/MAMP/htdocs/components/schedule_strash.php",
 		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/css/custom.css",
-		"/Applications/MAMP/htdocs/components/ahaddress.php",
-		"/Applications/MAMP/htdocs/components/medcenteraddress.php",
-		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
 		"/Applications/MAMP/htdocs/_/js/custom.js",
 		"/Applications/MAMP/htdocs/components/schedulemodal.php",
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
@@ -324,14 +291,7 @@
 		"/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php",
 		"/Applications/MAMP/htdocs/blog/monckebergs.php",
 		"/Applications/MAMP/htdocs/images/pathology/AS3 (1).jpg",
-		"/Applications/MAMP/htdocs/php/search/swiftype.php",
-		"/Applications/MAMP/htdocs/php/search/test.php",
-		"/Applications/MAMP/htdocs/php/search/example.php",
-		"/Applications/MAMP/htdocs/_/less/bootstrap.less",
-		"/Applications/MAMP/htdocs/pathology/faq.php",
-		"/Applications/MAMP/htdocs/resources/npforms.pdf",
-		"/Applications/MAMP/htdocs/images/pathology/npforms.pdf",
-		"/Applications/MAMP/htdocs/resources/newpatientforms.pdf"
+		"/Applications/MAMP/htdocs/php/search/swiftype.php"
 	],
 	"find":
 	{
@@ -351,6 +311,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Stoneoak",
+			"huebner",
 			"images",
 			"h2",
 			"h1",
@@ -482,273 +444,8 @@
 	"groups":
 	[
 		{
-			"selected": 3,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "_/less/_mystyles.less",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6575,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								5631,
-								5631
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 5822.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12492,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								11466,
-								11466
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 4575.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "template.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1943,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1943,
-								1
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "resources/mctour.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1964,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1342,
-								1342
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 120.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "components/officeimages.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5336,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1469,
-								1469
-							],
-							[
-								1556,
-								1556
-							],
-							[
-								1636,
-								1636
-							],
-							[
-								1723,
-								1723
-							],
-							[
-								1804,
-								1804
-							],
-							[
-								1891,
-								1891
-							],
-							[
-								1973,
-								1973
-							],
-							[
-								2060,
-								2060
-							],
-							[
-								2140,
-								2140
-							],
-							[
-								2227,
-								2227
-							],
-							[
-								2308,
-								2308
-							],
-							[
-								2395,
-								2395
-							],
-							[
-								2477,
-								2477
-							],
-							[
-								2564,
-								2564
-							],
-							[
-								2644,
-								2644
-							],
-							[
-								2731,
-								2731
-							],
-							[
-								2812,
-								2812
-							],
-							[
-								2899,
-								2899
-							],
-							[
-								2981,
-								2981
-							],
-							[
-								3069,
-								3069
-							],
-							[
-								3150,
-								3150
-							],
-							[
-								3238,
-								3238
-							],
-							[
-								3320,
-								3320
-							],
-							[
-								3408,
-								3408
-							],
-							[
-								3491,
-								3491
-							],
-							[
-								3579,
-								3579
-							],
-							[
-								3660,
-								3660
-							],
-							[
-								3748,
-								3748
-							],
-							[
-								3830,
-								3830
-							],
-							[
-								3918,
-								3918
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 259.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				}
 			]
 		}
 	],

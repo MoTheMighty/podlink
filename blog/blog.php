@@ -28,6 +28,19 @@
 
 <div class="blog">
 
+      <h1>My bunion embarrasses me.</h1>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on April 29, 2014 at 3:50 PM</p>
+      <hr>
+      <img src="../../images/pathology/bun07.jpg" class="img-responsive center">
+      <hr>
+      
+      <p>Severe bunion deformities often cause quite a bit of physical pain.  Shoe gear, especially, dress shoes can be quite bothersome.  Physical activities can also make the bunion hurt.  But beyond the physical pain, there can also be an emotional toll.</p>
+       <p><a href="../blog/2014/mybunionembarrassesme.php">// Read More</a></p>
+       <hr>
+
+
       <h1>You See What You know.</h1>
       <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
       <hr>
