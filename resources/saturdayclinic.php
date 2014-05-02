@@ -36,7 +36,7 @@
       <div class="pull-right">
         <ol class="breadcrumb">
             <li><a href="../../index.php">Home</a></li>
-            <li><a href="#">Saturday Clinic Schedule</a></li>
+            <li><a href="#">Saturday Podiatry Clinic Schedule</a></li>
            
         </ol><!-- breadcrumb -->
       </div><!-- pull-right -->
@@ -50,7 +50,7 @@
 
 <div class="container center">
 <div class="jumbotron lead">
-    <p>Saturday Clinic Dates</p>
+    <p>Saturday Podiatry Clinic Dates </p>
     <p>Weekend hours are from 8 am - 11:30 at our Alamo Heights location.</p>
 </div>
   

@@ -23,7 +23,7 @@
         <!-- fb -->
         <meta property="og:title" content="My bunion embarrasses me."/>
         <meta property="og:url" content="http://podlink.com/blog/2014/mybunionembarrasseme.php"/>
-        <meta property="og:description" content="SSevere bunion deformities often cause quite a bit of physical pain.  Shoe gear, especially, dress shoes can be quite bothersome."/>
+        <meta property="og:description" content="Severe bunion deformities often cause quite a bit of physical pain.  Shoe gear, especially, dress shoes can be quite bothersome."/>
         <meta property="og:image" content="http://podlink.com/images/pathology/bun07.jpg"/>
         
         <!-- twitter -->
@@ -85,9 +85,9 @@
       
      <p>Severe bunion deformities often cause quite a bit of physical pain.  Shoe gear, especially, dress shoes can be quite bothersome.  Physical activities can also make the bunion hurt.  But beyond the physical pain, there can also be an emotional toll.</p>
 
-      <p>Bunion deformities often times become red from rubbing on shoes.  When open toed shoes are worn, the red bump can attract unwanted attention.  But even more distressing is the severe “juvenile bunion.”  That is, a significant bunion deformity that occurs at a very young age, usually in the teens.  </p>
+      <p>Bunion deformities often become red from rubbing on shoes.  When open toed shoes are worn, the red bump can attract unwanted attention.  But even more distressing is the severe “juvenile bunion.”  That is, a significant bunion deformity that occurs at a very young age, usually in the teens.  </p>
 
-      <p>These bunions tend to be so large that they deform the fore foot with a large broad bulge to the inside of the foot.  And in a young person, this severe deformity can often lead to ridicule and teasing from peers.
+      <p>These bunions tend to be so large that they deform the fore foot with a large broad bulge to the inside of the foot.  And in a young person, this severe deformity can often lead to ridicule and teasing from peers.</p>
 
       <p>When I treat adolescence, I am acutely aware of not only the physical pain of their bunion, but also the psychological distress that the deformity maybe causing.  Often, these young people will avoid taking their shoes off at all cost because of the potential embarrassment that can occur.</p>
 

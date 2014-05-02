@@ -30,13 +30,13 @@
 
 								<ul class="list-unstyled">
 									
-									<small><a href="../location.php"><li>Locations</li></a>
-									<a href="../contact.php"><li>Contact</li></a>
-									<a href="../resources/npforms.php"><li>Patient Forms</li></a>
-									<a href="../pathology.php"><li>Learning Center</li></a>
-									<a href="../resources/faq.php"><li>FAQ</li></a>
+									<small><a href="../../location.php"><li>Locations</li></a>
+									<a href="../../contact.php"><li>Contact</li></a>
+									<a href="../../resources/npforms.php"><li>Patient Forms</li></a>
+									<a href="../../pathology.php"><li>Learning Center</li></a>
+									<a href="../../resources/faq.php"><li>FAQ</li></a>
 									<a href="../blog/blog.php"><li>Blog</li></a>
-									<a href="../resources/employment.php">Employment</a></small>
+									<a href="../../resources/employment.php">Employment</a></small>
 								</ul>	
 				
 </div>

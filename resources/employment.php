@@ -53,7 +53,7 @@
 
 <div class="container center">
 <h1> You've got skills.  We've got jobs.</h1>
-<h3>We are passionate about delivering top notch, patient centered care to the San Antonio community!
+<h3>We are passionate about delivering top notch, patient centered podiatric care to the San Antonio community!
 If you are a team player and ready to help deliver a great patient experience, we'd love to hear from you!</h3>
 </div>
 <div class="layoutspacing2"></div>
