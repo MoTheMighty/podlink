@@ -206,8 +206,8 @@
   <div class="center">
     <h2>Three convenient locations</h2>
     <div class="layoutspacing"></div>
-   <section class="col col-lg-4 col-md-4 col-sm-1">
-    <img src="images/huebner/huebnerfront.jpg" class="img-responsive">
+   <section class="col col-lg-4 col-md-4 col-sm-4">
+    <img src="images/huebner/huebnerfront.jpg" class="img-responsive center">
    
     <?php include 'components/medcenteraddress.php'; ?>
     <a href="resources/tourmc.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a> 
@@ -215,15 +215,15 @@
   </section>
 
 
-  <section class="col col-lg-4 col-md-4 col-sm-1">
-  <img src="images/stoneoak/stoneoakfront.jpg" class="img-responsive">
+  <section class="col col-lg-4 col-md-4 col-sm-4">
+  <img src="images/stoneoak/stoneoakfront.jpg" class="img-responsive center">
   <?php include 'components/stoneoakaddress.php'; ?>
   <a href="resources/tourso.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a> 
    
   </section>
 
-  <section class="col col-lg-4 col-md-4 col-sm-1">
-  <img src="images/ahfront.jpg" class="img-responsive">
+  <section class="col col-lg-4 col-md-4 col-sm-4">
+  <img src="images/ahfront.jpg" class="img-responsive center">
   <?php include 'components/ahaddress.php'; ?>
 
   </section>

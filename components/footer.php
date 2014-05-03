@@ -8,42 +8,20 @@
 
      
 			<div class="container">
-				<div class="col col-lg-1 col-md-1 "></div>
-
 				
-				<div class="col col-lg-4 col-md-4">
-				
-						
-								
-								
-						
 
-							
-				
-				</ul>
-	  		
-	  	</div> <!-- col 1-->
-
-<div class="col col-lg-2 col-md-2">
+<div class="col col-lg-6 col-md-6 col-sm-12 col-xs-12">
 		<h4>Navigation
 						<div class="divider"></div></h4>
 
-								<ul class="list-unstyled">
-									
-									<small><a href="../../location.php"><li>Locations</li></a>
-									<a href="../../contact.php"><li>Contact</li></a>
-									<a href="../../resources/npforms.php"><li>Patient Forms</li></a>
-									<a href="../../pathology.php"><li>Learning Center</li></a>
-									<a href="../../resources/faq.php"><li>FAQ</li></a>
-									<a href="../blog/blog.php"><li>Blog</li></a>
-									<a href="../../resources/employment.php">Employment</a></small>
-								</ul>	
-				
+						<h5><a href="../../contact.php">Contact | </a><a href="../../location.php">Locations</a> | <a href="../../resources/npforms.php">Patient Forms |</a><a href="../../pathology.php"> Learning Center |</a> <a href="../../resources/faq.php"> FAQ |</a><a href="../../resources/employment.php"> Employment</a> </h5>
+
+								
 </div>
 <!-- col 2 -->
 
 
-		<div class="col col-lg-2 col-md-2">
+		<div class="col col-lg-2 col-md-2 col-sm-12 col-xs-12">
 		
 
 
@@ -55,7 +33,7 @@
 						
 								<ul class="list-unstyled"  style="padding-bottom: 20px;">
 					
-									<li><a href="http://facebook.com/alamofamily"><span class="social facebook"></span></a> <a href="http://www.youtube.com/user/alamofamilyfootcare"><span class="social youtube"> </span></a><a href="https://plus.google.com/+Podlink/posts"> <span class="social google_plus"> </span></a></li>
+									<li><a href="http://facebook.com/alamofamily"><span class="social facebook white"></span></a> <a href="http://www.youtube.com/user/alamofamilyfootcare"><span class="social youtube white"> </span></a><a href="https://plus.google.com/+Podlink/posts"> <span class="social google_plus white"> </span></a></li>
 					
 								</ul>
 	
@@ -63,7 +41,7 @@
 	  	</div> <!-- col 2-->
 
 	  	<!-- col 3 -->
-	  	<div class="col col-lg-2 col-md-2">
+	  	<div class="col col-lg-2 col-md-2 col-sm-12 col-xs-12">
 		
 					<h4>Contact Us
 					<div class="divider"></div></h4>
@@ -82,7 +60,7 @@
 	  			 </div> <!-- header -->
 	  			</div> <!-- col 3-->
 	  				
-						<small style="padding-left:60%">© 2000 - 2014 Alamo Family Foot & Ankle Care</small>
+						<small>© 2000 - 2014 Alamo Family Foot & Ankle Care</small>
 					
 
 			</div>  <!-- container -->
