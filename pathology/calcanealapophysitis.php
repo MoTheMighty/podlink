@@ -110,10 +110,10 @@
 
       <p>A thorough history and physical will be performed by one of our podiatrist. X-rays are usually obtained along with an analysis of the child’s range of motion and walking patterns. An MRI is also sometimes ordered to rule out other more serious conditions.</p> <p><strong>Treatment</strong></p> <p><br /> Based on the history and physical findings, our podiatrist may select one or more of the following options to treat calcaneal apophysitis:</p> 
       <ul> <li itemprop="possbiletreatment">Reduce activity.The child needs to reduce or stop any activity that causes pain. </li> 
-        <li itemprop="possbiletreatment">Support the heel.Temporary shoe inserts or custom orthotic devices may provide support for the heel. </li> 
-        <li itemprop="possbiletreatment">Medications.Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen, help reduce the pain and inflammation. </li> 
-        <li itemprop="possbiletreatment">Physical therapy.Stretching or physical therapy modalities are sometimes used to promote healing of the inflamed issue. </li> 
-        <li itemprop="possbiletreatment">Immobilization.In some severe cases of pediatric heel pain, a cast may be used to promote healing while keeping the foot and ankle totally immobile. </li> 
+        <li itemprop="possbiletreatment">Support the heel.  Temporary shoe inserts or custom orthotic devices may provide support for the heel. </li> 
+        <li itemprop="possbiletreatment">Medications.  Nonsteroidal anti-inflammatory drugs (NSAIDs), such as ibuprofen, help reduce the pain and inflammation. </li> 
+        <li itemprop="possbiletreatment">Podiatric physical therapy.  Stretching or physical therapy modalities are sometimes used to promote healing of the inflamed issue. </li> 
+        <li itemprop="possbiletreatment">Immobilization.  In some severe cases of pediatric heel pain, a cast may be used to promote healing while keeping the foot and ankle totally immobile. </li> 
         <li itemprop="possbiletreatment">Orthosis. These are used to correct any biomechanical abnormality.</li>
         
       </div><!-- container -->

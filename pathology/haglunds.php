@@ -87,7 +87,7 @@
         to painful bursitis, which is an inflammation of the bursa (a fluid-filled sac between the
         tendon and bone). In Haglund’s deformity, the soft tissue near the Achilles tendon
         becomes irritated when the bony enlargement rubs against shoes.</p> 
-        <p>Haglund’s deformity is often called “pump bump” because the rigid backs of pump-style
+        <p>Haglund’s deformity is often called “pump bump” by podiatrist because the rigid backs of pump-style
         shoes can create pressure that aggravates the enlargement when walking. In fact, the
         deformity is most common in young women who wear pumps.</p>
 
@@ -128,7 +128,7 @@
 
     
 
-        <p>Non-surgical treatment of Haglund’s deformity is aimed at reducing the inflammation of
+        <p>Non-surgical podiatric treatment of Haglund’s deformity is aimed at reducing the inflammation of
           the bursa. While these approaches can resolve the bursitis, they will not shrink the bony
           protrusion. Non-surgical treatment can include medication, icing, stretching, lifts,
           orthosis, physical therapy and extra corporeal.

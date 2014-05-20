@@ -106,7 +106,7 @@
         <p><img src="/images/pathology/plantar-fasciitisline.jpg" alt="Anatomic orientation of the plantar fascia" style="float: left; margin-left: 15px; margin-right: 15px;"/></p>
 
         <p><img src="/images/pathology/pfforces.jpg" alt="Forces resisted by the plantar fascia" style="float: right; margin-left: 15px;"  /></p>
-        <p> Since the plantar fascia is shaped like a triangle, a great deal of force is concentrated at the heel. <span itemprop="cause">When too much strain is placed on the fascia, the area of greatest strain becomes inflamed. This inflammatory process leads to pain and swelling.</span> This is often termed plantar fasciitis or heel spur syndrome. <span itemprop="naturalprogression">Over time, this condition may produce bone projections off the heel known as spurs. Often times, patients will come to the office with heel pain wishing their "spurs" be removed.</span> They believe the heel pain is caused by these bony growths, when in fact, the true reason for the pain is from inflammation of their plantar fascia. The heel spur has developed in response to the chronic irritation of the plantar fascia on the calcaneus (heel bone). </p>
+        <p> Since the plantar fascia is shaped like a triangle, a great deal of force is concentrated at the heel. <span itemprop="cause">When too much strain is placed on the fascia, the area of greatest strain becomes inflamed. This inflammatory process leads to pain and swelling.</span> This is often termed plantar fasciitis or heel spur syndrome. <span itemprop="naturalprogression">Over time, this condition may produce bone projections off the heel known as spurs. Often times, patients will come to the podiatrist's office with heel pain wishing their "spurs" be removed.</span> They believe the heel pain is caused by these bony growths, when in fact, the true reason for the pain is from inflammation of their plantar fascia. The heel spur has developed in response to the chronic irritation of the plantar fascia on the calcaneus (heel bone). </p>
         <hr>
 
         <div class="thumbnail center text-muted">
@@ -127,7 +127,7 @@
 
         
 
-        <p itemprop="signOrSymptom">Patients present with chronic pain to the bottom of the heel. Usually, this pain has been  present for weeks to months and they have delayed seeking treatment hoping the symptoms would subside. Terms such as a stone bruise or deep ache are usually used  to describe the discomfort. The onset is usually gradual, with no recollection of an injury  or accident.</p>
+        <p itemprop="signOrSymptom">Patients present to the podiatrist's office with chronic pain to the bottom of the heel. Usually, this pain has been  present for weeks to months and they have delayed seeking treatment hoping the symptoms would subside. Terms such as a stone bruise or deep ache are usually used  to describe the discomfort. The onset is usually gradual, with no recollection of an injury  or accident.</p>
         <p>Classically, the <span itemprop="signOrSymptom">pain is worse when arising from rest. For example, the first few steps  taken after waking in the morning or after a prolonged period of sitting can generate the  most pain.</span> Once the foot warms up, the heel pain may lessen. Swelling or puffiness on  the inside of the heel may also be noticed.</p>
 
 
@@ -159,7 +159,7 @@
           <hr>
 
           <h4>Arch Supports:</h4>
-          <p itemprop="possibletreatment">These devices help to support the arch and take pressure off the plantar fascia. They  are placed in shoe gear and can help prevent recurrence of the condition. Both custom  molded orthotics and over-the-counter devices can be effective.</p>
+          <p itemprop="possibletreatment">These devices help to support the arch and take pressure off the plantar fascia. They  are placed in shoe gear and can help prevent recurrence of the condition. Both, podiatrists prescribed custom  molded orthotics and over-the-counter devices can be effective.</p>
           <hr>
 
           <h4>Shoe gear:</h4>
@@ -171,13 +171,13 @@
           <hr>
 
           <h4>Surgery:</h4>
-          <p itemprop="possibletreatment">Surgery maybe needed for those cases of plantar fasciitis which have failed all forms of conservative treatment. There are many different forms of surgery for plantar fasciitis, each of our physicians has his preferred method.</p>
+          <p itemprop="possibletreatment">Surgery maybe needed for those cases of plantar fasciitis which have failed all forms of conservative treatment. There are many different forms of surgery for plantar fasciitis, each of our podiatric physicians has his preferred method.</p>
           <p>I prefer to perform an "instep plantar fasciotomy."  This procedure has a good success rate which has been proven in the medical literature.  It is, however, not without some risks.  <span itemprop="possiblecomplication">Calcaneal-cuboid joint syndrome is a possible complication with any surgery where the plantar fascia is transected.  Although rare, it does occur.</span></p>
 
           <hr>
 
           <p itemprop="possibleTreatment"><h4>Extracorporeal shock wave treatment (ESWT)</h4>
-            <p>This <a href="/pathology/eswt.php"> technology represent the latest innovation in the treatment of resistant plantar  fasciitis</a>. We have been utilizing this modality since January of 2000 with excellent results. It is performed in the office and does not require time off of work.</p>
+            <p>This <a href="/pathology/eswt.php"> technology represent the latest innovation in the treatment of resistant plantar  fasciitis</a>. We have been utilizing this modality since January of 2000 with excellent results. It is performed in our podiatric office and does not require time off of work.</p>
 <div class="layoutspacing2"></div>
 
              <div class="col-lg-8">

@@ -97,7 +97,7 @@
       </div>
       <p>Stiffness and pain of the big toe joint is termed Hallux Rigidus or Hallux Limitus. Hallux is the medical term for the big toe and the terms rigidus and limitus describe the extent to which the toe can move.</p> 
       <p style="text-align: center;"><img src="/images/pathology/chilectomypost.jpg" alt="One month post op following chielectomy for hallux rigidus/limitus" /></p> 
-      <p style="text-align: center;">Typical appearance of forefoot 1 month following surgery for Hallux Limitus</p> 
+      <p style="text-align: center;">Typical appearance of forefoot 1 month following podiatric surgery for Hallux Limitus</p> 
       <div class="page-header">
       <h3>Cause:</h3> 
       </div>
@@ -107,7 +107,7 @@
       <div class="page-header">
       <h3>Diagnosis:</h3> 
       </div>
-      <p>Diagnosis is usually made via clinical exam and x-rays. Sign and symptoms include:</p>  
+      <p>Diagnosis by a podiatrist is usually made via clinical exam and x-rays. Sign and symptoms include:</p>  
       <ul> <li itemprop="signorsymptom">Spasms of the overlying tendons</li> <li itemprop="signorsymptom">Inability to move the big toe joint without pain</li> 
        <li itemprop="signorsymptom">Unable to wear high heel shoes without pain in the great to joint</li> 
        <li itemprop="signorsymptom">Unable to run without pain in the big to joint</li> 
@@ -135,13 +135,13 @@
         <div class="page-header">
         <h3>Symptoms:</h3>
         </div>
-         <p>Symptoms can vary from patient to patient. Most people describe a burning and throbbing pain in their forefoot which may radiate up into the arch. For women, wearing high heel shoes generally aggravates the problem. Additionally, walking and running tend to cause pain. There maybe a noticeable bump on the top of the great to joint with some overlying redness. Usually, there is little swelling. Moving the big to joint up usually causes pain. </p> <p>Patient may experience periods of relatively few symptoms which may last for months at a time, only to be followed by extreme flair ups of pain. The big toe is usually always stiff, even when there are no symptoms.</p> <p>An easy test patients can perform on their own is to compare the ability of the big toe joint to move upwards. If one side is significantly stiffer then other toe and there is occasional to frequent pain, this is a good sign of Hallux Limitus or Rigidus.</p>
+         <p>Symptoms can vary from patient to patient. Most people describe a burning and throbbing pain in their forefoot which may radiate up into the arch. For women, wearing high heel shoes generally aggravates the problem. Additionally, walking and running tend to cause pain. There maybe a noticeable bump on the top of the great to joint with some overlying redness. Usually, there is little swelling. Moving the big to joint up usually causes pain. </p> <p>Podiatric patients may experience periods of relatively few symptoms which may last for months at a time, only to be followed by extreme flair ups of pain. The big toe is usually always stiff, even when there are no symptoms.</p> <p>An easy test patients can perform on their own is to compare the ability of the big toe joint to move upwards. If one side is significantly stiffer then other toe and there is occasional to frequent pain, this is a good sign of Hallux Limitus or Rigidus.</p>
 
 
          <div class="page-header">
         <h3>Treatment:</h3> 
         </div>
-        <p>In the early stages on Hallux Limitus/Rigidus, non-surgical care maybe of benefit. This includes <span itemprop="possibletreatment">custom arch supports to better align the first metatarsal relative to the proximal phalanx.</span> Orthopedic rockerbottom shoes for non-surgical candidates can also be of use. <span itemprop"possibletreatment">Cortisone injections into the joint can also temporarily alleviate the symptoms.</span> Generally, however, this condition requires surgery. Surgical management falls into two broad categories, preserving the joint or fusing the joint. The surgery ischosenbased on the above mentioned staging system. </p> 
+        <p>In the early stages on Hallux Limitus/Rigidus, non-surgical care maybe of benefit. This includes <span itemprop="possibletreatment">custom, podiatrist prescribed, arch supports to better align the first metatarsal relative to the proximal phalanx.</span> Podiatric rockerbottom shoes for non-surgical candidates can also be of use. <span itemprop"possibletreatment">Cortisone injections into the joint can also temporarily alleviate the symptoms.</span> Generally, however, this condition requires surgery. Surgical management falls into two broad categories, preserving the joint or fusing the joint. The surgery is chosen based on the above mentioned staging system. </p> 
         <h4>Joint preserving:</h4>  
         <ul> <li itemprop="possibletreatment">Chielectomy: remodeling of the joint with removal of the bone spurs and freeing the adhered tissue.</li> <li itemprop="possibletreatment">Shortening osteotomy: Cuts in the metatarsal bone to "decompress" the joint.</li> </ul>
         <span class="thumbnail text-muted center"><img src="/images/pathology/xraypre.jpg" alt="Bone spur formation in hallux limitus/rigidus" class="img img-responsive"/><small>Arrow indicates large bone spur</small></span>

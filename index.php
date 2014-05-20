@@ -4,7 +4,7 @@
 
     <html lang="en-US" itemscope itemtype="http://schema.org/LocalBusiness">
     <head>
-      <title>Alamo Family Foot &amp;  Ankle Care San Antonio's Most Trusted Podiatrists</title>
+      <title>Alamo Family Foot &amp;  Ankle Care San Antonio's Podiatrists</title>
       <meta name="description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot &amp; Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area."/>
       <meta charset="utf-8"/>
      

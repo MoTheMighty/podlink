@@ -104,7 +104,7 @@
                     <div class="page-header">
                     <h3>Diagnosis and Treatment</h3>
                     </div> 
-                    <p>As with most conditions, a stress fracture is diagnosed with a history and physical exam.</p> 
+                    <p>As with most conditions, a stress fracture is diagnosed with a podiatric history and physical exam.</p> 
                     <p>X-rays may not show any evidence of stress fractures, so a CT scan, MRI, or bone scan may be more effective in unclear cases.</p>
                     <div class="row">
                     <div class="col-lg-6 col-md-6 col-sm-6 thumbnail">
@@ -138,7 +138,7 @@
                       <p class="text-muted small center">Typical style boot needed for treatment of stress fractures of the foot and ankle</p>
                     </div>
 
-                    <p>With severe stress fractures, surgery may be needed for proper healing. The procedure may involve pinning the fracture site, and rehabilitation can take up to a half year.</p> 
+                    <p>With severe stress fractures, podiatric surgery may be needed for proper healing. The procedure may involve pinning the fracture site, and rehabilitation can take up to a half year.</p> 
                     
                     <div class="page-header">
                     <h3>Prevention</h3>

@@ -84,10 +84,10 @@
         <div class="page-header">
           <h3>Cause</h3>
         </div>
-        <p>Hammertoes are one of the most common foot problems. A hammertoe is a curling of toe the joints, sometimes affecting one or both joints of the toe. <span itemprop="signorsymptom">This curling of the toes often leads to rubbing on shoe gear. This abnormal rubbing leads to painful and unsightly toes. Calluses and corns soon follow.</span></p> <p style="text-align: center;"><img alt="" src="/images/pathology/hammertoe.jpg" /></p>
+        <p>Hammertoes are one of the most common podiatric foot problems. A hammertoe is a curling of toe the joints, sometimes affecting one or both joints of the toe. <span itemprop="signorsymptom">This curling of the toes often leads to rubbing on shoe gear. This abnormal rubbing leads to painful and unsightly toes. Calluses and corns soon follow.</span></p> <p style="text-align: center;"><img alt="" src="/images/pathology/hammertoe.jpg" /></p>
 
         
-        <p>Despite popular belief, curling of your toes is not due to poor choices of shoe gear. Rather, <span itemprop="cause">biomechanical factors are usually to blame. Biomechanics is the term used to describe how the foot and ankle move when you walk or stand. When we refer to someone as "flat footed" we are really describing is how biomechanics has affected their foot.</span> Specifically, if the foot rolls in too much when you walk, we call that pronation. So a person who pronates has altered or abnormal biomechanics. When a person has normal biomechanics, there is an ordered motion to the muscles and joints of the feet and ankles. Altered, or abnormal biomechanics will lead to abnormal motion of the joints and muscles. <span itemprop="cause">Biomechanics then is used as a predictive model - telling us what happens to the foot in the presence of abnormal motions such as pronation.</span></p> 
+        <p>Despite popular belief, curling of your toes is not due to poor choices of shoe gear. Rather, <span itemprop="cause">biomechanical factors are usually to blame. Biomechanics is the term podiatrist use to describe how the foot and ankle move when you walk or stand. When we refer to someone as "flat footed" we are really describing is how biomechanics has affected their foot.</span> Specifically, if the foot rolls in too much when you walk, we call that pronation. So a person who pronates has altered or abnormal biomechanics. When a person has normal biomechanics, there is an ordered motion to the muscles and joints of the feet and ankles. Altered, or abnormal biomechanics will lead to abnormal motion of the joints and muscles. <span itemprop="cause">Biomechanics then is used as a predictive model - telling us what happens to the foot in the presence of abnormal motions such as pronation.</span></p> 
         <p>There are three distinct possible causes of hammertoes. Each is based on an abnormality in the biomechanics of the foot and ankle during the walking cycle.</p> 
         <p style="text-align: center;"><img src="/images/pathology/toe.jpg" alt="Example of extensor and flexor tendons of the toe" /></p> 
         <h4 itemprop="stage">Flexor Stabilization: </h4> 
@@ -104,7 +104,7 @@
         <div class="page-header">
           <h3>Treatment</h3>
         </div>
-        <p itemprop="pathophysiology">As we have seen, most causes of hammertoes are a result of biomechanical problems of the foot. And while no conservative treatment can straighten the toes once curled, Treatments aim at correcting the underlying biomechanical abnormality can sometimes keep the toes from getting worse. The most effective biomechanical therapy are custom orthotics. These "arch supports" help to reestablish the normal force generated at the toe by the flexor and extensor tendons.</p> 
+        <p itemprop="pathophysiology">As we have seen, most causes of hammertoes are a result of podiatric biomechanical problems of the foot. And while no conservative treatment can straighten the toes once curled, treatments aimed at correcting the underlying biomechanical abnormality can sometimes keep the toes from getting worse. The most effective biomechanical therapy are custom, podiatrist prescribed orthotics. These "arch supports" help to reestablish the normal force generated at the toe by the flexor and extensor tendons.</p> 
         <p style="text-align: center;"><strong>Orthotics + Force of Flexors = Orthotics + Force of Extensors</strong></p> 
         <h4>Other non-surgical treatments include:</h4> 
         <ul> 
@@ -118,7 +118,7 @@
         <span class="thumbnail"><img src="/images/pathology/brokenHTimplants.jpg" alt="broken hammertoe implants" class="img img-responsive">
          <p class="text-muted center"><small itemscope="possiblecomplication">Note broken implant and loosening of others</small></p> </span>   
 
-         <p>Certainly, traditional methods of stabilizing the toe following surgery are not without their own problem.  Typically, small smooth stainless steel wires known as "k-wires" are used to hold the toe straight during the first few weeks following surgery, after which time they are removed.  However, they too suffer from possible complications including infection, loosening, and poor positioning.
+         <p>Certainly, traditional podiatric methods of stabilizing the toe following surgery are not without their own problem.  Typically, small smooth stainless steel wires known as "k-wires" are used to hold the toe straight during the first few weeks following surgery, after which time they are removed.  However, they too suffer from possible complications including infection, loosening, and poor positioning.
 
           <span class="thumbnail"><img src="/images/pathology/htkwire.jpg" alt="kwire holding following hammertoe surgery" class="img img-responsive">
          <p class="text-muted center"><small itemscope="possiblecomplication">K-wires holding the toe straight following surgery</small></p> </span>  

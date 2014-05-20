@@ -1,4 +1,5 @@
 
+ 
  <div class="col-lg-7 col-md-7 col-sm-9 col-xs-9">
       <div class="panel panel-default" >
         <div class="panel-heading"><h4>Connect with my social media:<h4></div>
