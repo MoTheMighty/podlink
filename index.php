@@ -69,10 +69,7 @@
 
     <body id="home">
 
-<div id="calltoaction">
-    <div class="container">
-     <h4>Call for an appointment now: <a href="tel:210-829-8770">(210) 829-8770</a></h4></div>
-    </div>
+
 
       <?php include 'components/navhead.php'; ?>
 
@@ -312,15 +309,7 @@
    
     <script src="js/bootstrap-image-gallery.js1"></script>
    
-     <script>
-    $(document).ready(function() {
      
-      
-        $("#calltoaction").delay(1000).slideDown("2000")
-      });
-
-   
-    </script>
 
 
 

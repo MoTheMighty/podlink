@@ -5,10 +5,20 @@
 <section id="wrap">
 <div class="fill">
   <div class="container">
+
     
   </div>
 </div><!-- fill -->
-
+<div class="container">
+  
+    <a href="../../index.php"><img src="/images/affclogo.png"></a>
+    <div class="pull-right">
+   
+     <h4>Same day appointments available</h4>
+      <h4>210.829.8770</h4>
+    </div>
+    
+</div>
 
 <nav class="navbar navbar-default" role="navigation" >
 	<div class="container">
@@ -21,7 +31,7 @@
       <span class="icon-bar"></span>
     </button>
     
-    <a class="navbar-brand" href="../../index.php"> <span itemscope itemtype="http://schema.org/podiatric"><img src="/images/Alamo_Logo.png" alt="logo" itemprop="logo"> </span><span itemprop="name">Alamo Family Foot & Ankle Care</a></span>
+    <!-- <a class="navbar-brand" href="../../index.php"> <span itemscope itemtype="http://schema.org/podiatric"><img src="/images/Alamo_Logo.png" alt="logo" itemprop="logo"> </span><span itemprop="name">Alamo Family Foot & Ankle Care</a></span> -->
   </div>
 <div class="header-nav">
   <!-- Collect the nav links, forms, and other content for toggling -->
