@@ -14,13 +14,13 @@
     <a href="../../index.php"><img src="/images/affclogo.png"></a>
     <div class="pull-right">
    
-     <h4>Same day appointments available</h4>
-      <h4>210.829.8770</h4>
+     <p class="lead" style="padding-top:25px;">Same day appointments available</p>
+      <h2 style="margin-top:-20px;text-align:right">210.829.8770</h2>
     </div>
     
 </div>
 
-<nav class="navbar navbar-default" role="navigation" >
+<nav class="navbar navbar-inverse" role="navigation" >
 	<div class="container">
   <!-- Brand and toggle get grouped for better mobile display -->
   <div class="navbar-header">
