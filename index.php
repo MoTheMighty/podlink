@@ -263,14 +263,12 @@
 
     <div class="container">
         <section class="center">
-        <section class="iconsizing">
-                <span class="glyphicons hospital"></span>
-        </section> <!-- container -->
+        
       </section><!-- center -->
-       <div class="layoutspacing2"> </div>
+      
       <h2 class="center">What is the training and education of Podiatrists?</h2>
 
-      <div class="layoutspacing2"></div>
+      
 
       <div class="col-lg-7">
 

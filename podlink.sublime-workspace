@@ -116,27 +116,27 @@
 	"buffers":
 	[
 		{
-			"file": "pathology/fifthmetatarsalstressfractures.php",
+			"file": "_/less/_mystyles.less",
 			"settings":
 			{
-				"buffer_size": 5049,
+				"buffer_size": 6677,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "components/navhead.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 6631,
+				"buffer_size": 12173,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "_/less/_mystyles.less",
+			"file": "components/picturelineup.php",
 			"settings":
 			{
-				"buffer_size": 6778,
-				"line_ending": "Unix"
+				"buffer_size": 3371,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -188,7 +188,12 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
+		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/components/carousel.php",
+		"/Applications/MAMP/htdocs/_/less/navbar.less",
+		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/pathology/wart.php",
 		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
@@ -223,14 +228,12 @@
 		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
 		"/Applications/MAMP/htdocs/components/ahaddress.php",
 		"/Applications/MAMP/htdocs/components/medcenteraddress.php",
-		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/components/officeimagesso.php",
 		"/Applications/MAMP/htdocs/resources/tourso.php",
 		"/Applications/MAMP/htdocs/resources/tourmc.php",
 		"/Applications/MAMP/htdocs/components/officeimagesmc.php",
 		"/Applications/MAMP/htdocs/resources/mctour.php",
 		"/Applications/MAMP/htdocs/components/officeimages.php",
-		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/js/bootstrap-image-gallery.js",
 		"/Applications/MAMP/htdocs/_/js/bootstrap-image-gallery.js",
 		"/Applications/MAMP/htdocs/css/bootstrap-image-gallery.min.css",
@@ -261,7 +264,6 @@
 		"/Applications/MAMP/htdocs/404.php",
 		"/Applications/MAMP/htdocs/images/pathology/clinicalstressfx.png",
 		"/Applications/MAMP/htdocs/pathology/arthritis.php",
-		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
 		"/Applications/MAMP/htdocs/components/socialicons.php",
 		"/Applications/MAMP/htdocs/js/googlemap.js",
 		"/Applications/MAMP/htdocs/components/social_chaney.php",
@@ -301,11 +303,9 @@
 		"/Applications/MAMP/htdocs/components/schedule_mechell.php",
 		"/Applications/MAMP/htdocs/components/searchmodal.php",
 		"/Applications/MAMP/htdocs/components/schedule_strash.php",
-		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/css/custom.css",
 		"/Applications/MAMP/htdocs/_/js/custom.js",
 		"/Applications/MAMP/htdocs/components/schedulemodal.php",
-		"/Applications/MAMP/htdocs/_/less/navbar.less",
 		"/Applications/MAMP/htdocs/components/gpsmodal.php",
 		"/Applications/MAMP/htdocs/search.php",
 		"/Applications/MAMP/htdocs/resources/testamonial",
@@ -335,6 +335,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"border-radius",
 			"white",
 			"nav",
 			"Stoneoak",
@@ -470,84 +471,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pathology/fifthmetatarsalstressfractures.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5049,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4637,
-								4637
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 105.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "components/navhead.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6631,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								230,
-								230
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 48.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
 					"file": "_/less/_mystyles.less",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6778,
+						"buffer_size": 6677,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								180,
-								180
+								3138,
+								3138
 							]
 						],
 						"settings":
@@ -555,10 +496,70 @@
 							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 3272.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12173,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9768,
+								9768
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 4045.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/picturelineup.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3371,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								456,
+								456
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 361.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

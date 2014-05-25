@@ -26,7 +26,7 @@
 </div>
 
 
-<div class="layoutspacing2"> </div>
+
 <div class="container">
 
  

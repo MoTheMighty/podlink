@@ -1,11 +1,47 @@
 <!DOCTYPE html>
 
 
-<html>
-  <head>
-    <title>Fifth Metatarsal Fractures</title>
+
+
+<html lang="en-US" itemscope itemtype="http://schema.org/medicalcondition">
+<head>
+  <title>Fifth metatarsal fractures</title>
+  <meta name="description" content="Fractures of the fifth metatarsal are quite common, their treatment varies depending on the location of the bone in which the injury occurred."/>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+  <meta property="twitter:account_id" content=""/>
+  <link rel="canonical" href=""/>
+  <!-- fb -->
+  <meta property="og:title" content="Fifth metatarsal fractures"/>
+  <meta property="og:url" content="http://podlink.com/pathology/fithmetatarsalstressfractures.php"/>
+  <meta property="og:description" content="Fractures of the fifth metatarsal are quite common, their treatment varies depending on the location of the bone in which the injury occurred."/>
+  <meta name="og:image" content="http://podlink.com/images/5thmet.jpg"/>
+
+  <!-- twitter -->
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:site" content="@alamofamilyfoot">
+  <meta name="twitter:title" content="Fifth metatarsal fractures">
+  <meta name="twitter:description" content="Fractures of the fifth metatarsal are quite common, their treatment varies depending on the location of the bone in which the injury occurred.">
+  <meta name="twitter:creator" content="@alamofamilyfoot">
+  <meta name="twitter:image:src" content="http://podlink.com/images/5thmet.jpg">
+  <meta name="twitter:domain" content="http://podlink.com">
+
+  <!-- Google+ -->
+  <meta itemprop="name" content="Fifth metatarsal fractures"/>
+  <meta itemprop="description" content="Fractures of the fifth metatarsal are quite common, their treatment varies depending on the location of the bone in which the injury occurred."/>
+
+  
+
+
+  <link rel="author" href="http://plus.google.com/113774021362941412953" />
+
+  <link rel="shortcut icon" href="../../favicon.ico" type="image/x-icon">
+  <link rel="icon" href="../../favicon.ico" type="image/x-icon">
+  
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <!-- Bootstrap -->
     <link href="../../css/bootstrap.css" rel="stylesheet">
     <!--<link href="css/font-awesome.min.css" rel="stylesheet">-->
