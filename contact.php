@@ -88,7 +88,7 @@
   <section id="bumperpads">
  
   <div class="col-lg-4 col-md-4 col-sm-4">
-  <form method="post" action="php/examples/advanced.php">
+  <form method="post" action="sendgrid-php/mailsender.php">
     <div class="form-group">
       <label for="firstname">Name: </label>
       <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name" required />
