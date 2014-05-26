@@ -94,8 +94,8 @@
       <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name" required />
     </div><!-- formgroup firstname -->
     <div class="form-group">
-      <label for="lastname">Telephone:</label>
-      <input type="tel" name="last_name" class="form-control" id="lastname" placeholder="Telephone Number" required />
+      <label for="telephone">Telephone:</label>
+      <input type="tel" name="telephone" class="form-control" id="telephone" placeholder="Telephone Number" required />
     </div><!-- lastname -->
     <form role="form">
     <div class="form-group">
