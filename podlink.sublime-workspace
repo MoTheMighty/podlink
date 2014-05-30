@@ -144,29 +144,18 @@
 			}
 		},
 		{
-			"contents": "\n<!DOCTYPE html>\n\n\n<html lang=\"en-US\"itemscope itemtype=\"http://schema.org/medicalclinic\">\n  <head>\n    <title>Contact Form for Alamo Family Foot & Ankle Care</title>\n    <meta name=\"description\" content=\"Contact form for Alamo Family Foot and Ankle Care\"/>\n    <meta charset=\"utf-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n\n\n \n       \n        <meta property=\"twitter:account_id\" content=\"\"/>\n        <link rel=\"canonical\" href=\"\"/>\n        <!-- fb -->\n        <meta name=\"og:title\" content=\"Contact Form for Alamo Family Foot & Ankle Care\"/>\n        <meta name=\"og:url\" content=\"podlink.com/about.php\"/>\n        <meta name=\"og:description\" content=\"Contact form for alamo family foot care.  Address and phone number of each office included\"/>\n        <meta name=\"og:image\" content=\"\"/>\n        \n       \n\n        <!-- Google+ -->\n        <meta itemprop=\"name\" content=\"Contact Form for Alamo Family Foot & Ankle Care\"/>\n        <meta itemprop=\"description\" content=\"Contact form for alamo family foot care.  Address of each office included\"/>\n        <meta itemprop=\"audience\" content=\"patients\"/>\n        <meta itemprop=\"\" content=\"\"/>\n        <meta itemprop=\"alternativeHeadline\" content=\"Contact Alamo Family Foot Care\"/>\n        \n        \n                \n              \n                <link rel=\"author\" href=\"http://plus.google.com/113774021362941412953\" />\n        \n        <link rel=\"shortcut icon\" href=\"/favicon.ico\" type=\"image/x-icon\">\n        <link rel=\"icon\" href=\"/favicon.ico\" type=\"image/x-icon\">\n\n\n\n\n\n    <!-- Bootstrap -->\n    <link href=\"css/bootstrap.css\" rel=\"stylesheet\">\n    <!--<link href=\"css/font-awesome.min.css\" rel=\"stylesheet\">-->\n    <link href=\"css/mystyles.css\" rel=\"stylesheet\">\n    <!-- <link href=\"css/glyphicons.css\" rel=\"stylesheet\"> -->\n\n     <!--[if lt IE 9]>\n    <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n    <script src=\"https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js\"></script>\n    <![endif]-->\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=9\">\n  </head>\n\n  <body id=\"Contact\">\n\n  <?php include 'components/navhead.php'; ?>\n\n<!-- pageheadnavigation -->\n\n  <div class=\"navibar\">\n  \n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        <h1>Contact</h1>\n      </div><!-- pullleft -->\n      <div class=\"pull-right\">\n        <ol class=\"breadcrumb\">\n            <li><a href=\"/index.php\">Home</a></li>\n            <li class=\"active\">Contact</li>\n        </ol><!-- breadcrumb -->\n      </div><!-- pull-right -->\n     \n    </section><!-- container -->\n    \n  </div><!-- navibar -->\n\n<!-- end pageheadnavigation -->\n\n\n\n<section class=\"container\">\n<div class=\"row\">\n  <section id=\"bumperpads\">\n \n  <div class=\"col-lg-4 col-md-4 col-sm-4\">\n  <form method=\"post\" action=\"sendgrid-php/mailsender.php\">\n    <div class=\"form-group\">\n      <label for=\"firstname\">Name: </label>\n      <input type=\"text\" name=\"first_name\" class=\"form-control\" id=\"firstname\" placeholder=\"Name\" required />\n    </div><!-- formgroup firstname -->\n    <div class=\"form-group\">\n      <label for=\"lastname\">Telephone:</label>\n      <input type=\"tel\" name=\"telephone\" class=\"form-control\" id=\"telephone\" placeholder=\"Telephone Number\" required />\n    </div><!-- lastname -->\n    <form role=\"form\">\n    <div class=\"form-group\">\n      <label for=\"exampleInputEmail1\">Email Address:</label>\n      <input type=\"email\" class=\"form-control\" name=\"email\" id=\"exampleInputEmail1\" placeholder=\"Email\" required=\"\">    </div><!-- email -->\n    <label for=\"message\">Message:</label>\n    <textarea name=\"contact_message\" class=\"form-control\" rows=\"4\"></textarea>\n    \n  <br>\n  \n  <button type=\"submit\" class=\"btn btn-primary\">Submit</button>\n</form>\n\n</div><!-- col -->\n\n\n\n    <div class=\"col-lg-8 col-md-8 col-sm-8\">\n\n    \n      <section class=\"center\">\n      \n        <section class=\"lead\">\n          \n          <p>Central scheduling and all related inquires</p>\n          <h2><span itemscope=\"telephone\">(210) 829-8770</span></h2>\n        </section><!-- lead -->\n           <br>\n      <hr>\n      <br>\n    \n\n      <ul class=\"nav nav-tabs nav-justified\" style=\"margin: 20px 0px;\">\n              <li class=\"active\"><a href=\"#home\" data-toggle=\"tab\">Medical Center</a></li>\n              <li><a href=\"#profile\" data-toggle=\"tab\">Alamo Heights</a></li>\n              <li><a href=\"#messages\" data-toggle=\"tab\">Stone Oak</a></li>\n             \n            </ul>\n\n            <!-- Tab panes -->\n           \n            <div class=\"tab-content\" style=\"padding: 0px 60px;\">\n              <div class=\"tab-pane fade in active\" id=\"home\">\n                  <div class=\"col-lg-6 col-md-6\">\n                      <?php include 'components/medcenteraddress.php'; ?>\n\n\n\n\n                      \n                  </div><!-- col 6 -->\n                  <div class=\"col-lg-6 col-md-6\">\n                      <img src=\"/images/mc.jpg\" class=\"img-thumbnail img-responsive\">\n                  </div><!-- col 6 -->\n\n                </div><!-- tabpain -->\n\n\n              <div class=\"tab-pane fade\" id=\"profile\">\n                    <div class=\"col-lg-6 col-md-6\">\n                      <?php include 'components/ahaddress.php'; ?>\n                    </div><!-- col 6 -->\n                    <div class=\"col-lg-6 col-md-6\">\n                        <img src=\"/images/ah.jpg\" class=\"img-thumbnail img-responsive\">\n                    </div><!-- col 6 -->\n                </div><!-- tabpane -->\n\n              <div class=\"tab-pane fade\" id=\"messages\">\n                  <div class=\"col-lg-6 col-md-6\">\n                      <?php include 'components/stoneoakaddress.php'; ?>\n                   </div><!-- col 6 -->   \n                      <div class=\"col-lg-6 col-md-6\">\n                     <img src=\"/images/stoneoak.jpg\" class=\"img-thumbnail img-responsive\">\n                  </div><!-- col 6 --> \n                </div><!-- tabpane -->\n              </div>\n\n\n\n            </div><!-- tab0content -->\n    \n                  \n           \n\n          \n      </section><!-- center -->\n     \n\n         \n    </div><!-- col -->\n\n    </section><!-- bumperpads -->\n    \n  </div><!-- row -->\n       <!-- Nav tabs -->\n  \n\n        \n\n\n\n\n\n         \n</section><!-- container -->\n\n\n\n<!-- footer -->\n\n   <?php include 'components/footer.php'; ?>\n\n\n    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n    <script src=\"https://code.jquery.com/jquery.js\"></script>\n    <!-- Include all compiled plugins (below), or include individual files as needed -->\n    <script src=\"js/bootstrap.min.js\"></script>\n    <script src=\"js/modernizr.js\"></script>\n    <script src=\"js/jquery.validate.js\"></script>\n<script>\n$(\"form\").validate();\n</script>\n \n       \n       <script>\n\n    \n\n<!-- googleconversioncode -->\n<?php include 'components/googleconversion.php'; ?>\n\n  </body>\n</html>",
-			"file": "contact.php",
-			"file_size": 6849,
-			"file_write_time": 130455255620000000,
+			"file": "components/carousel.php",
 			"settings":
 			{
-				"buffer_size": 6850,
-				"line_ending": "Unix"
+				"buffer_size": 3260,
+				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "sendgrid-php/mailsender.php",
+			"file": "_/less/carousel.less",
 			"settings":
 			{
-				"buffer_size": 723,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "sendgrid-php/README.md",
-			"settings":
-			{
-				"buffer_size": 10487,
+				"buffer_size": 4573,
 				"line_ending": "Unix"
 			}
 		}
@@ -219,7 +208,9 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/sendgrid-php/mailsender.php",
+		"/Applications/MAMP/htdocs/sendgrid-php/README.md",
 		"/Applications/MAMP/htdocs/sendgrid-php/sendgrid-php.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/php/examples/advanced.php",
@@ -280,7 +271,6 @@
 		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
 		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/js/jqBootstrapValidation.js",
-		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/js/html5shiv.js",
 		"/Applications/MAMP/htdocs/doctors/strash.php",
 		"/Applications/MAMP/htdocs/doctors/chaney.php",
@@ -345,8 +335,7 @@
 		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/sitemap.rb",
 		"/Applications/MAMP/htdocs/components/social_strash.php",
-		"/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php",
-		"/Applications/MAMP/htdocs/blog/monckebergs.php"
+		"/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php"
 	],
 	"find":
 	{
@@ -366,6 +355,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"carousel",
+			"item",
+			"carou",
 			"border-radius",
 			"white",
 			"nav",
@@ -502,7 +494,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -518,8 +510,8 @@
 						"selection":
 						[
 							[
-								3138,
-								3138
+								5528,
+								5536
 							]
 						],
 						"settings":
@@ -527,7 +519,7 @@
 							"syntax": "Packages/LESS/LESS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 6022.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
@@ -560,24 +552,24 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "contact.php",
+					"file": "components/carousel.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6850,
+						"buffer_size": 3260,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								3220,
-								3220
+								756,
+								756
 							]
 						],
 						"settings":
@@ -587,47 +579,19 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1105.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "sendgrid-php/mailsender.php",
-					"semi_transient": false,
+					"file": "_/less/carousel.less",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 723,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								399,
-								399
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "sendgrid-php/README.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 10487,
+						"buffer_size": 4573,
 						"regions":
 						{
 						},
@@ -640,15 +604,15 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"syntax": "Packages/LESS/LESS.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 587.0,
+						"translation.y": 2303.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
