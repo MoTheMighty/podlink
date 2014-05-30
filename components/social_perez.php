@@ -10,7 +10,7 @@
          
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-9 col-xs-9">
-           <div class="g-page" data-width="180" data-href="//plus.google.com/113774021362941412953" ></div>
+           <div class="g-person" data-width="180" data-href="//plus.google.com/113774021362941412953" ></div>
            
          </div><!-- col-->
 

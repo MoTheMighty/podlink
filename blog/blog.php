@@ -28,6 +28,23 @@
 
 <div class="blog">
 
+       <h1>My toenails are gross!</h1>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on May 30, 2014 at 10:47 AM</p>
+
+
+
+      <hr>
+      <img src="../../../blog/images/fungalToenail.jpg" class="img-responsive center">
+
+      <p>I often hear words similar to this from many of my patients who seek podiatric care for their toe nail problems.  More often then not, the problem can be blamed on fungus.  Toenail fungus is a very common problem seen by podiatrist.  It is often ignored, starting out as a small discoloration on the tip of the nail.  But with time, that small area grows and grows.  And before you know it....
+      <p><a href="../blog/2014/nailfungus.php">// Read More</a></p>
+      <hr>
+
+
+
+
       <h1>My bunion embarrasses me.</h1>
       <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
       <hr>
