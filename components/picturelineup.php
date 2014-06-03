@@ -49,7 +49,7 @@
         <section class="picline">
 
           <div itemscope itemtype="http://schema.org/podiatric">
-         <img src="images/perez.png" alt="Dr. Richard Perez, DPM" itemprop="photo" class="img-rounded">
+         <img src="images/perez.png" alt="Dr. Richard Perez, DPM - San Antonio Podiatrist Foot Doctor" itemprop="photo" class="img-rounded">
         <h6 itemprop="name">Richard Perez, DPM, FACFAS</h6>
             <hr>
         <p itemprop="description">Dr. Perez is board certified by the American Board of Podiatric Surgery and a Fellow of the American College of Foot and Ankle Surgeons.  His clinical interest include sports injuries, reconstructive foot surgery and resident education.  </p>

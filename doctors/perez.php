@@ -92,7 +92,7 @@
   <section class="container">
       <div class="row">
          <div class="col-lg-5 col-md-5" style="padding-top:0px;">
-             <p><span itemprop="photo"><img src="../../images/perez1.png" itemprop="photo" alt="Dr. Richard Perez, DPM" class="img-rounded"></span></p>
+             <p><span itemprop="photo"><img src="../../images/perez1.png" itemprop="photo" alt="Dr. Richard Perez, DPM | San Antonio Podiatrist" class="img-rounded"></span></p>
                   
               
                   
@@ -123,9 +123,9 @@ Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied Bio
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
     <div class="center">
-          <section class="iconsizing" style="margin-top: 10%;">
+          <section class="iconsizing" style="margin-top: 24%;">
             
-              <span class="glyphicons hospital_h"></span>
+              <span class="glyphicons globe"></span>
             
           </section> <!-- iconsizing -->
 
@@ -145,7 +145,7 @@ Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied Bio
 <div class="center">
           
             <section class="iconsizing" style="margin-top: 10%;">
-              <span class="glyphicons shield"></span>
+              <span class="glyphicons book_open"></span>
             </section>
      
  </div><!-- center -->
@@ -173,7 +173,7 @@ invasive trauma reconstruction, sports injuries and plantar fasciitis.  His prim
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
             <section class="iconsizing" style="margin-top: 20%;">
-              <span class="glyphicons share_alt"></span>
+              <span class="glyphicons git_branch"></span>
             </section> 
  </div><!-- center -->
 </div><!-- col 4 -->

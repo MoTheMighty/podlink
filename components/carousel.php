@@ -58,7 +58,7 @@
           <div class="item">
             <img src="/images/carousel/chaney_patient.jpg" class="img-responsive" alt="Dr. Chaney talks with patient">
               <div class="carousel-caption">
-              <h3>Teaching patients their path towards improvement</h3>          
+              <h3>Empowering patients through education and collaboration</h3>          
             </div>
           </div>
           <!--  -->

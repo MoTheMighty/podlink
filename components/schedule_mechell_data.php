@@ -31,7 +31,7 @@
       <td> PM </td>
       <td> <span class="glyphicon glyphicon-ok"></span>  </td>
       <td>   </td>
-      <td> <span class="glyphicon glyphicon-ok"></span>  </td>
+      <td>   </td>
       <td> </td>
       <td>  </td>
       <td>  </td>

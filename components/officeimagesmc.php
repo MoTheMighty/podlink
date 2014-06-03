@@ -35,50 +35,50 @@
 
 
 <div id="links">
-    <a href="../images/huebner/huebner1.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th1.jpg"  alt="Huebner office">
+    <a href="../images/huebner/huebner1.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th1.jpg"  alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner2.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th2.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner2.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th2.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner3.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th3.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner3.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th3.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-     <a href="../images/huebner/huebner4.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th4.jpg"  alt="Huebner office">
+     <a href="../images/huebner/huebner4.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th4.jpg"  alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner5.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th5.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner5.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th5.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner6.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th6.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner6.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th6.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-     <a href="../images/huebner/huebner7.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th7.jpg"  alt="Huebner office">
+     <a href="../images/huebner/huebner7.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th7.jpg"  alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner8.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th8.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner8.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th8.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner9.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th9.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner9.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th9.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-     <a href="../images/huebner/huebner10.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th10.jpg"  alt="Huebner office">
+     <a href="../images/huebner/huebner10.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th10.jpg"  alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner11.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th11.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner11.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th11.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner12.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th12.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner12.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th12.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-     <a href="../images/huebner/huebner13.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th13.jpg"  alt="Huebner office">
+     <a href="../images/huebner/huebner13.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th13.jpg"  alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner14.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th14.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner14.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th14.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/huebner/huebner15.jpg" title="Huebner office" data-gallery>
-        <img src="../images/huebner/huebner_th15.jpg"   alt="Huebner office">
+    <a href="../images/huebner/huebner15.jpg" title="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care" data-gallery>
+        <img src="../images/huebner/huebner_th15.jpg"   alt="San Antonio Podiatry Office | Medical Center | Alamo Family Foot & Ankle Care">
     </a>
 </div>
 

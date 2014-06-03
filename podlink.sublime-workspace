@@ -128,34 +128,10 @@
 	"buffers":
 	[
 		{
-			"file": "_/less/_mystyles.less",
+			"file": "pathology/arthritis.php",
 			"settings":
 			{
-				"buffer_size": 6677,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "index.php",
-			"settings":
-			{
-				"buffer_size": 12173,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "components/carousel.php",
-			"settings":
-			{
-				"buffer_size": 3260,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "_/less/carousel.less",
-			"settings":
-			{
-				"buffer_size": 4573,
+				"buffer_size": 4461,
 				"line_ending": "Unix"
 			}
 		}
@@ -208,18 +184,26 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/index.php",
+		"/Applications/MAMP/htdocs/components/schedule_mechell_data.php",
+		"/Applications/MAMP/htdocs/components/officeimagesmc.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/components/carousel.php",
+		"/Applications/MAMP/htdocs/doctors/perez.php",
+		"/Applications/MAMP/htdocs/sitemap.xml",
+		"/Applications/MAMP/htdocs/blog/2014/nailfungus.php",
+		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/components/social_perez.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/sendgrid-php/mailsender.php",
 		"/Applications/MAMP/htdocs/sendgrid-php/README.md",
 		"/Applications/MAMP/htdocs/sendgrid-php/sendgrid-php.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
-		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
 		"/Applications/MAMP/htdocs/_/less/variables.less",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/pathology/wart.php",
 		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
@@ -236,18 +220,14 @@
 		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
 		"/Applications/MAMP/htdocs/pathology/charcot.php",
 		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
-		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
-		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/blog/2014/mybunionembarrassesme.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/resources/privacyPractices.php",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/resources/employment.php",
 		"/Applications/MAMP/htdocs/resources/saturdayclinic.php",
-		"/Applications/MAMP/htdocs/blog/blog.php",
 		"/Applications/MAMP/htdocs/blog/blogtemplate.php",
 		"/Applications/MAMP/htdocs/blog/2014/mybunionemarrassesme.php",
 		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
@@ -256,7 +236,6 @@
 		"/Applications/MAMP/htdocs/components/officeimagesso.php",
 		"/Applications/MAMP/htdocs/resources/tourso.php",
 		"/Applications/MAMP/htdocs/resources/tourmc.php",
-		"/Applications/MAMP/htdocs/components/officeimagesmc.php",
 		"/Applications/MAMP/htdocs/resources/mctour.php",
 		"/Applications/MAMP/htdocs/components/officeimages.php",
 		"/Applications/MAMP/htdocs/js/bootstrap-image-gallery.js",
@@ -303,7 +282,6 @@
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
 		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
-		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Applications/MAMP/htdocs/robots.txt",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
 		"/Applications/MAMP/htdocs/pathology/pathtemplate 2.php",
@@ -319,7 +297,6 @@
 		"/Applications/MAMP/htdocs/components/schedule_chaney_data.php",
 		"/Applications/MAMP/htdocs/components/schedule_perez_data.php",
 		"/Applications/MAMP/htdocs/components/googleconversion.php",
-		"/Applications/MAMP/htdocs/components/schedule_mechell_data.php",
 		"/Applications/MAMP/htdocs/components/schedule_strash_data.php",
 		"/Applications/MAMP/htdocs/components/schedule_chaney.php",
 		"/Applications/MAMP/htdocs/components/schedule_perez.php",
@@ -334,8 +311,7 @@
 		"/Applications/MAMP/htdocs/resources/testamonial",
 		"/Applications/MAMP/htdocs/test.php",
 		"/Applications/MAMP/htdocs/sitemap.rb",
-		"/Applications/MAMP/htdocs/components/social_strash.php",
-		"/Applications/MAMP/htdocs/blog/why_are_my_toes_curled.php"
+		"/Applications/MAMP/htdocs/components/social_strash.php"
 	],
 	"find":
 	{
@@ -355,6 +331,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"Huebner office",
+			"Why does the top of my foot hurt?",
+			"Arthritis, stress fracture, tendonitis, neuritis and sprain are all possible causes of pain to the top of the foot",
+			"dorsalfootanatomy",
 			"carousel",
 			"item",
 			"carou",
@@ -494,52 +474,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "_/less/_mystyles.less",
-					"semi_transient": false,
+					"file": "pathology/arthritis.php",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 6677,
+						"buffer_size": 4461,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5528,
-								5536
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 6022.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "index.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 12173,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								9768,
-								9768
+								0,
+								0
 							]
 						],
 						"settings":
@@ -553,66 +505,6 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "components/carousel.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3260,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								756,
-								756
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "_/less/carousel.less",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 4573,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LESS/LESS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2303.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]
