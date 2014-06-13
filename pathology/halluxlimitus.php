@@ -182,6 +182,7 @@
          
 
        </div><!-- container -->
+       <?php include '../components/authorfooter.php'; ?>
 
        <!-- footer -->
 

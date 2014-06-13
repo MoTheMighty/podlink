@@ -185,6 +185,7 @@ People with gout should also attempt to identify and avoid activities that cause
             </div><!-- tab0content -->
 
 </div><!-- container -->
+<?php include '../components/authorfooter.php'; ?>
 
 <!-- footer -->
 

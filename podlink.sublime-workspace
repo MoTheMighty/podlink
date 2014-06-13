@@ -128,10 +128,34 @@
 	"buffers":
 	[
 		{
-			"file": "pathology/arthritis.php",
+			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 4461,
+				"buffer_size": 12166,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "components/authorfooter.php",
+			"settings":
+			{
+				"buffer_size": 512,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "components/carousel.php",
+			"settings":
+			{
+				"buffer_size": 3267,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "doctors/perez.php",
+			"settings":
+			{
+				"buffer_size": 11618,
 				"line_ending": "Unix"
 			}
 		}
@@ -474,16 +498,74 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "pathology/arthritis.php",
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12166,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7012,
+								7012
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2181.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "components/authorfooter.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 512,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								21,
+								21
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "components/carousel.php",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 4461,
+						"buffer_size": 3267,
 						"regions":
 						{
 						},
@@ -505,6 +587,36 @@
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "doctors/perez.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 11618,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8938,
+								8888
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
 					"type": "text"
 				}
 			]

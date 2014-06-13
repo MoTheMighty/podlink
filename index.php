@@ -163,7 +163,7 @@
           <section class="col col-lg-4 col-md-4">
             <div class="center">
               <section class="enlarge">
-                <span class="glyphicons cogwheels"></span>
+                <span class="glyphicons history"></span>
               </section> <!-- enlarge -->
               
               <h2>Experience</h2>
@@ -179,7 +179,7 @@
           <section class="col col-lg-4 col-md-4">
             <div class="center">
               <section class="enlarge">
-                <span class="glyphicons screenshot"></span>
+                <span class="glyphicons check"></span>
               </section> <!-- enlarge -->
               
               <h2>Results</h2>

@@ -198,6 +198,7 @@
        </div><!-- schema -->
      </div><!-- container -->
      <!-- footer -->
+     <?php include '../components/authorfooter.php'; ?>
 
      <?php include '../components/footer.php'; ?>
 

@@ -120,7 +120,7 @@
              
 
 </div><!-- container -->
- 
+ <?php include '../components/authorfooter.php'; ?>
 <!-- footer -->
 
    <?php include '../components/footer.php'; ?>

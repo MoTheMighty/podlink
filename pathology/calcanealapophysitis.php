@@ -119,6 +119,7 @@
       </div><!-- container -->
       <div class="layoutspacing2"></div>
       <!-- footer -->
+      <?php include '../components/authorfooter.php'; ?>
 
       <?php include '../components/footer.php'; ?>
 

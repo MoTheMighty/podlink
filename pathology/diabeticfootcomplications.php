@@ -116,6 +116,7 @@
             </div><!-- tab0content -->
 
 </div><!-- container -->
+<?php include '../components/authorfooter.php'; ?>
 
 <!-- footer -->
 
