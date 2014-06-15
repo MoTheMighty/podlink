@@ -338,6 +338,19 @@
       }
     </script>
     <!-- end google charts script -->
+    <!-- contact bar -->
+
+<script type="text/javascript">
+(function(){
+    window._EP   = "https://www.manycontacts.com";
+    window.__bID = "52c219391761401d32a74436";
+    document.body.appendChild(
+        document.createElement("script")
+    ).src = window._EP + "/assets/js/manycontacts.min.js";
+})();
+</script>
+
+<!-- contact bar -->
 
 
     </body>
