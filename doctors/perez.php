@@ -151,7 +151,7 @@ Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied Bio
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-He is board certified by the <span itemprop="member">American Board of Podiatric Surgery</span> and a <span itemprop="member">Fellow of the American College of Foot and Ankle 
+He is board certified by the <span itemprop="member">American Board of Foot & Ankle Surgery</span> and a <span itemprop="member">Fellow of the American College of Foot and Ankle 
 Surgeons</span>. He has lectured to professional societies on various aspects of cutting edge techniques in foot and ankle treatment. 
 His scholarly publications include works on extra corporeal shock wave treatment and revisional surgical techniques.
 </div><!-- col-lg-8 -->

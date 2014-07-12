@@ -112,7 +112,7 @@
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
-He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery. 
+He is board certified by the American Board of Foot & Ankle Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery. 
 Along with evaluating and treating patients, Dr. Strash is active in various clinical research projects with an interest in diabetic 
 foot ulcers and pain management. 
 </div><!-- col-lg-8 -->

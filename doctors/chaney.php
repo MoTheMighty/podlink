@@ -168,7 +168,7 @@ Dr. Chaney finished his training in Houston by completing a one year reconstruct
 <hr>
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Dr. Chaney is board certified in both foot surgery and reconstructive rearfoot and ankle surgery by the American Board of 
-Podiatric Surgery. He has authored numerous papers regarding foot and ankle surgery. He also regularly speaks at regional and 
+Foot & Ankle Surgery. He has authored numerous papers regarding foot and ankle surgery. He also regularly speaks at regional and 
 national scientific meetings on foot and ankle surgery. Dr. Chaney has served on numerous committees for the American College of Foot & Ankle Surgeons and the American Board of Podiatric Surgery. Dr. Chaney is involved in the residency training as 
 clinical adjunct faculty for the University of Texas Health Science Center at San Antonio.
 </div><!-- col-lg-8 -->

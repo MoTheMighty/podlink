@@ -58,6 +58,7 @@
                   <li><a href="../../pathology/nailfungus.php">Nail Fungus</a></li>
                   <li><a href="../../pathology/ingrowntoenail.php">Ingrown Toenails</a></li>
                   <li><a href="../../pathology/wart.php">Plantars Warts</a></li>
+                  <li><a href="../../pathology/brachymetatarsia.php">Brachymetatarsia (short 4 toe)</a></li>
                   <li class="divider"></li>
                   <li><a href="#"><strong>Hindfoot</strong></a></li>
                   <li class="divider"></li>

@@ -144,19 +144,14 @@
 			}
 		},
 		{
-			"file": "components/footer.php",
+			"contents": "<!DOCTYPE html>\n\n\n<html lang=\"en-US\" itemscope itemtype=\"http://schema.org/medicalcondition\">\n<head>\n  <title>brachymetatarsia</title>\n  <meta name=\"description\" content=\"Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.\"/>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n\n  <meta property=\"twitter:account_id\" content=\"\"/>\n  <link rel=\"canonical\" href=\"\"/>\n  <!-- fb -->\n  <meta property=\"og:title\" content=\"Bunion Deformity - Hallux Abducto Valgus\"/>\n  <meta property=\"og:url\" content=\"http://podlink.com/pathology/bunion.php\"/>\n  <meta property=\"og:description\" content=\"Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.\"/>\n  <meta name=\"og:image\" content=\"http://podlink.com/images/pathology/bunionetiology.png\"/>\n\n  <!-- twitter -->\n  <meta name=\"twitter:card\" content=\"summary\">\n  <meta name=\"twitter:site\" content=\"@alamofamilyfoot\">\n  <meta name=\"twitter:title\" content=\"Bunion Deformity - Why is there a big bump on my big toe joint?\">\n  <meta name=\"twitter:description\" content=\"Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.\">\n  <meta name=\"twitter:creator\" content=\"@alamofamilyfoot\">\n  <meta name=\"twitter:image:src\" content=\"http://podlink.com/images/pathology/bunionetiology.png\">\n  <meta name=\"twitter:domain\" content=\"http://podlink.com\">\n\n  <!-- Google+ -->\n  <meta itemprop=\"name\" content=\"Bunion Deformity - Hallux Abducto Valgus\"/>\n  <meta itemprop=\"description\" content=\"Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.\"/>\n\n  <meta itemprop=\"image\"  content=\"\"/>\n  <meta itemprop=\"alternatename\" content=\"hallux valgus\"/>\n  <meta itemprop=\"alternatename\" content=\"metatarsus primus varus\"/>\n\n\n  <link rel=\"author\" href=\"http://plus.google.com/113774021362941412953\" />\n\n  <link rel=\"shortcut icon\" href=\"../../favicon.ico\" type=\"image/x-icon\">\n  <link rel=\"icon\" href=\"../../favicon.ico\" type=\"image/x-icon\">\n\n\n\n\n\n\n\n  <!-- Bootstrap -->\n  <link href=\"../../css/bootstrap.css\" rel=\"stylesheet\">\n  <!--<link href=\"css/font-awesome.min.css\" rel=\"stylesheet\">-->\n  <link href=\"../../css/mystyles.css\" rel=\"stylesheet\">\n  <!-- <link href=\"css/glyphicons.css\" rel=\"stylesheet\"> -->\n\n  <!--[if lt IE 9]>\n    <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n    <script src=\"https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js\"></script>\n    <![endif]-->\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=9\">\n  </head>\n\n  <body id=\"Brachymetatarsia\">\n\n    <?php include '../components/navhead.php'; ?>\n\n\n\n    <div class=\"navibar\">\n      <section class=\"container\">\n\n        <div class=\"pull-left\">\n          <h1>Brachymetatarsia</h1>\n        </div><!-- pullleft -->\n        <div class=\"pull-right\">\n          <ol class=\"breadcrumb\">\n            <li><a href=\"../../index.php\">Home</a></li>\n            <li><a href=\"/pathology/pathology.php\">Conditions</a></li>\n            <li class=\"active\">Brachymetatarsia</li>\n          </ol><!-- breadcrumb -->\n        </div><!-- pull-right -->\n\n      </section><!-- container -->\n    </div><!-- navibar -->\n\n    <!-- end navibar -->\n    <div class=\"layoutspacing2\"></div>\n\n\n\n\n\n    <div class=\"container\">\n\n    <h2>Brachymetatarsia</h2>\n      <p>This condition refers to an abnormally shortened metatarsal bone.  This is generally caused by a premature closure of the growth plate of the metatarsal.  While the remaining metatarsals continue to grow at a normal rate, the affected bone will remain the same size.  With time, this causes a visible difference in the appearance of the toes around the time of early puberty.</p>\n      <p>Most commonly, the fourth metatarsal is affected, resulting in a the appearance of a short forth toe.</p>\n\n    <h3>Tension Stress Effect</h3>\n      <p>We owe a great deal of acknowledgment to the work done by the Russians regarding ground breaking work in the area of treating severe structural abnormalities utilizing a concept known as the the \"tension stress effect.\"  This concept, developed by Dr.  Ilizarov, focused on the bodies ability to \"grow\" new bone in a widening distraction gap under controlled mechanical means.</p> <img class= \"center\" src=\"../images/i.jpg\"> \n\n      <div class=\"layoutspacing2\"></div>\n\n      <h3>Mechanism of Action</h3>\n      <div class=\"center\">\n        <img src=\"../images/osteogenesis.png\">\n      </div>\n      <citation>Danis A.: Mechanism of bone lengthening by Ilizarov technique.  Bull Mem Acad R Med Belg 2001</citation>\n\n\n\n\n      \n             \n\n\n  </div><!-- container -->\n  <div class=\"layoutspacing2\"></div>\n  <?php include '../components/authorfooter.php'; ?>\n\n  <!-- footer -->\n\n  <?php include '../components/footer.php'; ?>\n\n\n  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n  <script src=\"https://code.jquery.com/jquery.js\"></script>\n  <!-- Include all compiled plugins (below), or include individual files as needed -->\n  <script src=\"/js/bootstrap.min.js\"></script>\n  <script src=\"/js/modernizr.js\"></script>\n\n\n\n\n</body>\n</html>",
+			"file": "pathology/brachymetatarsia.php",
+			"file_size": 5366,
+			"file_write_time": 130496682470000000,
 			"settings":
 			{
-				"buffer_size": 2641,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "pathology/wart.php",
-			"settings":
-			{
-				"buffer_size": 7875,
-				"line_ending": "Windows"
+				"buffer_size": 5903,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -208,6 +203,10 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/images/illizarov.jpg",
+		"/Applications/MAMP/htdocs/pathology/brachymetatarsia.php",
+		"/Applications/MAMP/htdocs/pathology/wart.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
@@ -245,12 +244,10 @@
 		"/Applications/MAMP/htdocs/php/examples/advanced.php",
 		"/Applications/MAMP/htdocs/_/less/navbar.less",
 		"/Applications/MAMP/htdocs/_/less/variables.less",
-		"/Applications/MAMP/htdocs/pathology/wart.php",
 		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
 		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
 		"/Applications/MAMP/htdocs/blog/2014/mybunionembarrassesme.php",
-		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/resources/privacyPractices.php",
 		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/resources/employment.php",
@@ -333,9 +330,7 @@
 		"/Applications/MAMP/htdocs/components/gpsmodal.php",
 		"/Applications/MAMP/htdocs/search.php",
 		"/Applications/MAMP/htdocs/resources/testamonial",
-		"/Applications/MAMP/htdocs/test.php",
-		"/Applications/MAMP/htdocs/sitemap.rb",
-		"/Applications/MAMP/htdocs/components/social_strash.php"
+		"/Applications/MAMP/htdocs/test.php"
 	],
 	"find":
 	{
@@ -355,6 +350,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"float",
 			"Huebner office",
 			"Why does the top of my foot hurt?",
 			"Arthritis, stress fracture, tendonitis, neuritis and sprain are all possible causes of pain to the top of the foot",
@@ -525,7 +521,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4595.0,
+						"translation.y": 2829.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -562,61 +558,33 @@
 				},
 				{
 					"buffer": 2,
-					"file": "components/footer.php",
+					"file": "pathology/brachymetatarsia.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2641,
+						"buffer_size": 5903,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2614,
-								2614
+								4611,
+								4611
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 620.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "pathology/wart.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 7875,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								7484,
-								7484
-							]
-						],
-						"settings":
-						{
+							"spell_check": true,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1535.0,
+						"translation.y": 1260.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]

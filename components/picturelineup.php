@@ -39,7 +39,7 @@
 
           <hr>
         <p>Dr. Strash is a graduate of the Temple University School of Podiatric Medicine and Carleton University. 
-        He is board certified by the American Board of Podiatric Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery.</p> 
+        He is board certified by the American Board of Foot & Ankle Surgery in both Foot Surgery and Reconstructive Rearfoot/Ankle Surgery.</p> 
         <a href="../../doctors/strash.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a> 
 
         </section> <!-- doc1 -->
@@ -52,7 +52,7 @@
          <img src="images/perez.png" alt="Dr. Richard Perez, DPM - San Antonio Podiatrist Foot Doctor" itemprop="photo" class="img-rounded">
         <h6 itemprop="name">Richard Perez, DPM, FACFAS</h6>
             <hr>
-        <p itemprop="description">Dr. Perez is board certified by the American Board of Podiatric Surgery and a Fellow of the American College of Foot and Ankle Surgeons.  His clinical interest include sports injuries, reconstructive foot surgery and resident education.  </p>
+        <p itemprop="description">Dr. Perez is board certified by the American Board of Foot & Ankle Surgery and a Fellow of the American College of Foot and Ankle Surgeons.  His clinical interest include sports injuries, reconstructive foot surgery and resident education.  </p>
         <a href="../../doctors/perez.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
         </div><!-- schema markup -->
 
