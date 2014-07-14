@@ -128,29 +128,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.php",
+			"file": "sitemap.xml",
 			"settings":
 			{
-				"buffer_size": 12215,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "components/authorfooter.php",
-			"settings":
-			{
-				"buffer_size": 658,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "<!DOCTYPE html>\n\n\n<html lang=\"en-US\" itemscope itemtype=\"http://schema.org/medicalcondition\">\n<head>\n  <title>brachymetatarsia</title>\n  <meta name=\"description\" content=\"Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.\"/>\n  <meta charset=\"utf-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n\n  <meta property=\"twitter:account_id\" content=\"\"/>\n  <link rel=\"canonical\" href=\"\"/>\n  <!-- fb -->\n  <meta property=\"og:title\" content=\"Bunion Deformity - Hallux Abducto Valgus\"/>\n  <meta property=\"og:url\" content=\"http://podlink.com/pathology/bunion.php\"/>\n  <meta property=\"og:description\" content=\"Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.\"/>\n  <meta name=\"og:image\" content=\"http://podlink.com/images/pathology/bunionetiology.png\"/>\n\n  <!-- twitter -->\n  <meta name=\"twitter:card\" content=\"summary\">\n  <meta name=\"twitter:site\" content=\"@alamofamilyfoot\">\n  <meta name=\"twitter:title\" content=\"Bunion Deformity - Why is there a big bump on my big toe joint?\">\n  <meta name=\"twitter:description\" content=\"Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.\">\n  <meta name=\"twitter:creator\" content=\"@alamofamilyfoot\">\n  <meta name=\"twitter:image:src\" content=\"http://podlink.com/images/pathology/bunionetiology.png\">\n  <meta name=\"twitter:domain\" content=\"http://podlink.com\">\n\n  <!-- Google+ -->\n  <meta itemprop=\"name\" content=\"Bunion Deformity - Hallux Abducto Valgus\"/>\n  <meta itemprop=\"description\" content=\"Bunions develop from abnormal foot structure and mechanics that places an abnormal pressure on the 1st metatarsal. This leads to stretching of supporting soft tissue structures such as joint capsules and ligaments with the end result being gradual deviation of the 1st metatarsal.\"/>\n\n  <meta itemprop=\"image\"  content=\"\"/>\n  <meta itemprop=\"alternatename\" content=\"hallux valgus\"/>\n  <meta itemprop=\"alternatename\" content=\"metatarsus primus varus\"/>\n\n\n  <link rel=\"author\" href=\"http://plus.google.com/113774021362941412953\" />\n\n  <link rel=\"shortcut icon\" href=\"../../favicon.ico\" type=\"image/x-icon\">\n  <link rel=\"icon\" href=\"../../favicon.ico\" type=\"image/x-icon\">\n\n\n\n\n\n\n\n  <!-- Bootstrap -->\n  <link href=\"../../css/bootstrap.css\" rel=\"stylesheet\">\n  <!--<link href=\"css/font-awesome.min.css\" rel=\"stylesheet\">-->\n  <link href=\"../../css/mystyles.css\" rel=\"stylesheet\">\n  <!-- <link href=\"css/glyphicons.css\" rel=\"stylesheet\"> -->\n\n  <!--[if lt IE 9]>\n    <script src=\"https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js\"></script>\n    <script src=\"https://oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js\"></script>\n    <![endif]-->\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=9\">\n  </head>\n\n  <body id=\"Brachymetatarsia\">\n\n    <?php include '../components/navhead.php'; ?>\n\n\n\n    <div class=\"navibar\">\n      <section class=\"container\">\n\n        <div class=\"pull-left\">\n          <h1>Brachymetatarsia</h1>\n        </div><!-- pullleft -->\n        <div class=\"pull-right\">\n          <ol class=\"breadcrumb\">\n            <li><a href=\"../../index.php\">Home</a></li>\n            <li><a href=\"/pathology/pathology.php\">Conditions</a></li>\n            <li class=\"active\">Brachymetatarsia</li>\n          </ol><!-- breadcrumb -->\n        </div><!-- pull-right -->\n\n      </section><!-- container -->\n    </div><!-- navibar -->\n\n    <!-- end navibar -->\n    <div class=\"layoutspacing2\"></div>\n\n\n\n\n\n    <div class=\"container\">\n\n    <h2>Brachymetatarsia</h2>\n      <p>This condition refers to an abnormally shortened metatarsal bone.  This is generally caused by a premature closure of the growth plate of the metatarsal.  While the remaining metatarsals continue to grow at a normal rate, the affected bone will remain the same size.  With time, this causes a visible difference in the appearance of the toes around the time of early puberty.</p>\n      <p>Most commonly, the fourth metatarsal is affected, resulting in a the appearance of a short forth toe.</p>\n\n    <h3>Tension Stress Effect</h3>\n      <p>We owe a great deal of acknowledgment to the work done by the Russians regarding ground breaking work in the area of treating severe structural abnormalities utilizing a concept known as the the \"tension stress effect.\"  This concept, developed by Dr.  Ilizarov, focused on the bodies ability to \"grow\" new bone in a widening distraction gap under controlled mechanical means.</p> <img class= \"center\" src=\"../images/i.jpg\"> \n\n      <div class=\"layoutspacing2\"></div>\n\n      <h3>Mechanism of Action</h3>\n      <div class=\"center\">\n        <img src=\"../images/osteogenesis.png\">\n      </div>\n      <citation>Danis A.: Mechanism of bone lengthening by Ilizarov technique.  Bull Mem Acad R Med Belg 2001</citation>\n\n\n\n\n      \n             \n\n\n  </div><!-- container -->\n  <div class=\"layoutspacing2\"></div>\n  <?php include '../components/authorfooter.php'; ?>\n\n  <!-- footer -->\n\n  <?php include '../components/footer.php'; ?>\n\n\n  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->\n  <script src=\"https://code.jquery.com/jquery.js\"></script>\n  <!-- Include all compiled plugins (below), or include individual files as needed -->\n  <script src=\"/js/bootstrap.min.js\"></script>\n  <script src=\"/js/modernizr.js\"></script>\n\n\n\n\n</body>\n</html>",
-			"file": "pathology/brachymetatarsia.php",
-			"file_size": 5366,
-			"file_write_time": 130496682470000000,
-			"settings":
-			{
-				"buffer_size": 5903,
+				"buffer_size": 4082,
 				"line_ending": "Unix"
 			}
 		}
@@ -203,11 +184,17 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/images/illizarov.jpg",
+		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/pathology/brachymetatarsia.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/components/authorfooter.php",
+		"/Applications/MAMP/htdocs/doctors/strash.php",
+		"/Applications/MAMP/htdocs/doctors/perez.php",
+		"/Applications/MAMP/htdocs/doctors/chaney.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/images/illizarov.jpg",
 		"/Applications/MAMP/htdocs/pathology/wart.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
-		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
 		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
@@ -227,11 +214,8 @@
 		"/Applications/MAMP/htdocs/pathology/beforeandafterbunionpictures.php",
 		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
-		"/Applications/MAMP/htdocs/doctors/perez.php",
-		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/components/schedule_mechell_data.php",
 		"/Applications/MAMP/htdocs/components/officeimagesmc.php",
-		"/Applications/MAMP/htdocs/components/picturelineup.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Applications/MAMP/htdocs/blog/2014/nailfungus.php",
@@ -274,8 +258,6 @@
 		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
 		"/Applications/MAMP/htdocs/js/jqBootstrapValidation.js",
 		"/Applications/MAMP/htdocs/js/html5shiv.js",
-		"/Applications/MAMP/htdocs/doctors/strash.php",
-		"/Applications/MAMP/htdocs/doctors/chaney.php",
 		"/Users/pod1098/Downloads/Entrenamiento matutino.gpx",
 		"/Applications/MAMP/htdocs/resources/faq.php",
 		"/Applications/MAMP/htdocs/blog/2014/bunionblues.php",
@@ -329,8 +311,7 @@
 		"/Applications/MAMP/htdocs/components/schedulemodal.php",
 		"/Applications/MAMP/htdocs/components/gpsmodal.php",
 		"/Applications/MAMP/htdocs/search.php",
-		"/Applications/MAMP/htdocs/resources/testamonial",
-		"/Applications/MAMP/htdocs/test.php"
+		"/Applications/MAMP/htdocs/resources/testamonial"
 	],
 	"find":
 	{
@@ -494,94 +475,34 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.php",
+					"file": "sitemap.xml",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12215,
+						"buffer_size": 4082,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								12167,
-								12167
+								305,
+								305
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"syntax": "Packages/XML/XML.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 2829.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "components/authorfooter.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 658,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								658,
-								658
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "pathology/brachymetatarsia.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5903,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4611,
-								4611
-							]
-						],
-						"settings":
-						{
-							"spell_check": true,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1260.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

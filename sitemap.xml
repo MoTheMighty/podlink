@@ -4,7 +4,7 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
 
 <url>
   <loc>http://podlink.com/</loc>
@@ -86,6 +86,9 @@
 </url>
 <url>
   <loc>http://podlink.com/pathology/arthrodiastasis.php</loc>
+</url>
+<url>
+  <loc>http://podlink.com/pathology/brachymetatarsia.php</loc>
 </url>
 <url>
   <loc>http://podlink.com/resources/npforms.php</loc>
