@@ -92,7 +92,7 @@
   <section class="container">
       <div class="row">
          <div class="col-lg-5 col-md-5" style="padding-top:0px;">
-             <p><span itemprop="photo"><img src="../../images/perez1.png" itemprop="photo" alt="Dr. Richard Perez, DPM | San Antonio Podiatrist" class="img-rounded"></span></p>
+             <p><span itemprop="photo"><img src="../../images/rp.png" itemprop="photo" alt="Dr. Richard Perez, DPM | San Antonio Podiatrist" class="img-rounded"></span></p>
                   
               
                   

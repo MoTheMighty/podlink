@@ -134,6 +134,14 @@
 				"buffer_size": 4082,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "blog/blog.php",
+			"settings":
+			{
+				"buffer_size": 10040,
+				"line_ending": "Unix"
+			}
 		}
 	],
 	"build_system": "",
@@ -475,7 +483,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -502,7 +510,37 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1184.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/blog.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 10040,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								999,
+								999
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 245.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
