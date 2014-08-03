@@ -28,6 +28,25 @@
 
 <div class="blog">
 
+
+
+       <h1>Therapeutic diabetic footwear decreases ulceraton, study</h1>
+      <p class="lead">by <a href="../../doctors/strash.php">Dr. Walter Strash</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on August 1, 2014 at 6:42 AM</p>
+
+
+
+      <hr>
+      
+
+      <p>Dr. Comfort, a leading manufacturer of therapeutic footwear, has released the <a href="http://homecaremag.com/news/unique-study-reveals-clinical-impacts-therapeutic-footwear-people-type-2-diabetes">results of its recent study</a>, which examined the clinical impact of therapeutic footwear on diabetic complications, including foot ulcers and amputations, in patients with Type 2 Diabetes mellitus (T2DM). The retrospective claims database study reviewed patients during a three-year period and showed that the likelihood of foot ulcers and amputation in T2DM patients not wearing therapeutic footwear was higher than in patients who did wear therapeutic footwear.  The study revealed that foot ulceration decreased by 2 percent and 12 percent in years one and two respectively, while lower limb amputation decreased by 29 percent and 18 percent in years one and two respectively.</p>
+      <hr>
+
+
+
+
+
        <h1>My toenails are gross!</h1>
       <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
       <hr>
@@ -45,7 +64,7 @@
 
 
 
-      <h1>My bunion embarrasses me.</h1>
+      <h1>My bunion embarrasses me!</h1>
       <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
       <hr>
       <p><span class="glyphicon glyphicon-time"></span> Posted on April 29, 2014 at 3:50 PM</p>
