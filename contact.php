@@ -84,29 +84,15 @@
 
 
 <section class="container">
+
+
+
 <div class="row">
   <section id="bumperpads">
  
   <div class="col-lg-4 col-md-4 col-sm-4">
-  <form method="post" action="sendgrid-php/mailsender.php">
-    <div class="form-group">
-      <label for="firstname">Name: </label>
-      <input type="text" name="first_name" class="form-control" id="firstname" placeholder="Name" required />
-    </div><!-- formgroup firstname -->
-    <div class="form-group">
-      <label for="telephone">Telephone:</label>
-      <input type="tel" name="telephone" class="form-control" id="telephone" placeholder="Telephone Number" required />
-    </div><!-- lastname -->
-    <form role="form">
-    <div class="form-group">
-      <label for="exampleInputEmail1">Email Address:</label>
-      <input type="email" class="form-control" name="email" id="exampleInputEmail1" placeholder="Email" required="">    </div><!-- email -->
-    <label for="message">Message:</label>
-    <textarea name="contact_message" class="form-control" rows="4"></textarea>
-    
-  <br>
-  
-  <button type="submit" class="btn btn-primary">Submit</button>
+  <script src='https://crm.zoho.com/crm/WebFormServeServlet?rid=3vCL9KzrKfAKwtTfTPU4S5Z5F4A3FO0ngid0wUA4U7GReJthYo@kRl79w$$&script=$sYG'></script>
+   
 </form>
 
 </div><!-- col -->
@@ -219,7 +205,9 @@
 $("form").validate();
 </script>
  
-       
+
+
+
        <script>
 
     

@@ -11,7 +11,7 @@
 
 
         <meta property="twitter:account_id" content=""/>
-        <link rel="canonical" href=""/>
+        <link rel="canonical" href="http://podlink.com/doctors/perez.php"/>
         <!-- fb -->
         <meta property="og:title" content="Dr. Richard Perez,DPM - Podiatrist at Alamo Family Foot & Ankle Care  San Antonio, Tx"/>
         <meta property="og:url" content="http://podlink.com/doctors/perez.php"/>
@@ -116,7 +116,7 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied Biology at Florida State University. Dr. Perez received his Doctorate of Podiatric Medicine from the Des Moines University’s College of Podiatric Medicine and Surgery. He then joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center in Des Moines, IA. Dr. Perez became a partner and shareholder of Alamo Family Foot & Ankle Care in 1999.  He also is a shareholder of Specialty Surgery Center where most of his surgeries are performed.
+Originally from Medellin, Colombia, Dr. Perez grew up in Florida and studied Biology at Florida State University. Dr. Perez received his Doctorate of Podiatric Medicine from the Des Moines University’s College of Podiatric Medicine and Surgery. He then joined Alamo Family Foot and Ankle Care 1997, following completion of his fellowship and residency in advanced techniques in reconstructive foot and ankle surgery with special emphasis on trauma at Broadlawns Medical Center in Des Moines, IA. Dr. Perez became a partner and shareholder of Alamo Family Foot & Ankle Care in 1999.  He also is a shareholder of Specialty Surgery Center where most of his surgeries are performed.  Dr. Perez also serves as a member of the board of trustees for the <a href="http://www.winston-sa.org">Winston School of San Antonio.</a>
 
 </div><!-- col-lg-8 -->
 
