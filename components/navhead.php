@@ -89,6 +89,7 @@
                 <li><a href="../../blog/blog.php">Blog</a></li>
                 <li><a href="../../resources/faq.php">Frequently Asked Questions</a></li>
                 <li><a href="../resources/saturdayclinic.php">Saturday Clinic Dates</a></li>
+                <li><a href="../resources/providers.php">National Providers</a></li>
                 <li class="divider"></li>
                 <li><a href="../../resources/hippa.pdf">HIPPA Privacy Notice (PDF)</a></li>
                 <li><a href="../../resources/soakinginstructions.pdf">In-office surgery aftercare instructions(PDF)</a></li>
