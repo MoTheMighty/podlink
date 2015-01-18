@@ -147,7 +147,7 @@
 			"file": "doctors/perez.php",
 			"settings":
 			{
-				"buffer_size": 11567,
+				"buffer_size": 11742,
 				"line_ending": "Unix"
 			}
 		},
@@ -155,7 +155,7 @@
 			"file": "contact.php",
 			"settings":
 			{
-				"buffer_size": 6858,
+				"buffer_size": 6039,
 				"line_ending": "Unix"
 			}
 		},
@@ -519,7 +519,7 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -588,28 +588,29 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 11567,
+						"buffer_size": 11742,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4648,
-								4648
+								670,
+								670
 							]
 						],
 						"settings":
 						{
+							"spell_check": false,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 216.0,
+						"translation.y": 2.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -618,15 +619,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6858,
+						"buffer_size": 6039,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2697,
-								2697
+								2940,
+								2940
 							]
 						],
 						"settings":
@@ -636,10 +637,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 979.0,
+						"translation.y": 993.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -669,7 +670,7 @@
 						"translation.y": 2145.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -699,7 +700,7 @@
 						"translation.y": 980.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
