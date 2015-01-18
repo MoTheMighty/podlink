@@ -22,7 +22,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=9">
   </head>
 
-  <body id="plantarfasciitis">
+  <body id="404">
 
   <?php include '/components/navhead.php'; ?>
 
