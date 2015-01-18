@@ -59,7 +59,18 @@
 
       </section> <!-- doc 4 -->
 
+
+
+      <div class="col-lg-3 col-md-6 col-sm-6">
+    
+        
+         
+          </div><!-- center -->
+      
+        <a href="../../doctors/karulak.php"<button type="button" class="btn btn-primary btn-lg btn-block">Bryce Karulak, DPM </button></a><!-- container -->
+       
+
     </div><!-- col --> 
     </div><!-- center -->
   
-</div><!-- container -->
+
