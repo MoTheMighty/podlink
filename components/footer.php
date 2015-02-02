@@ -60,7 +60,7 @@
 	  			 </div> <!-- header -->
 	  			</div> <!-- col 3-->
 	  				
-						<small>© 2000 - 2014 Alamo Family Foot & Ankle Care</small>
+						<small>© 2000 - 2015 Alamo Family Foot & Ankle Care</small>
 					
 
 			</div>  <!-- container -->

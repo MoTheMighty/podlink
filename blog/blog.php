@@ -29,6 +29,42 @@
 <div class="blog">
 
 
+ <h1>Eight tips for new runners</h1>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on February 1, 2015 at 4:42 PM</p>
+
+
+
+      <hr>
+      
+
+          <p>I have the good fortune of seeing many runners in my practice.  Typically, around marathon season, there will be a  steady stream of runners coming to see me with various injuries ranging from tendonitis to stress fractures.</p>  <p>Until recently, I could not directly relate to runners, I was not one of them.</p>
+            <p>Cycling has been my passion for the last ten years.  In 2005 I weighed 50 lbs more than I do now- I needed to take action.  After watching the Tour de France that year, I went to a local sporting goods store and bought an indoor bike.
+            About three weeks of boredom lead me to leave the machine and soon it became a fixture to hang cloths and various odds and ends.  However, the desire to ride was still there.  So I bought a road bike and found my true sporting passion.
+            Fast forward to the winter of 2014-15.  It has been cold and wet here in San Antonio.   I have an indoor trainer for my bike, but I decided that unlike years past, I would forego the tedium of that acitivity.</p>
+            <p>Running.</p>
+            <img src="../../../blog/images/perezjog.jpg" class="img-responsive center" alt="Dr. Richard Perez">
+            <p>Running was going to be my go to aerobic sport for this winter.  Mind you, I have never run before.  But I was determined to not regain the 50 lbs that always lurk around the corner.</p>
+            <p>Six weeks into the hobby, I must say I have a new appreciation for the various ailments which I have treated for runners throughout the years.  My shins hurt, hips ache, forefoot burns, peroneal tendons pull and my Achilles tendons pulsate.</p>
+            <p>But slowly, my body is becoming accustomed to the new movements.  The pains subside and the benefits are felt.
+            From my brief time running here are 8 things I’ve learned.</p>
+            <ul>
+            <img src="../../../blog/images/perezshoes.jpg" class="img-responsive center" alt="newton running shoes">
+              <li>Get a good pair of running shoes from a reputable running store.  Ask the sales person to watch you run on their in store treadmill.  For me- the recommendation was an entry level <a href="http://www.newtonrunning.com/mens-aha-gateway-trainer">Newton   P.o.P. 3 </a>.  So far so good.  I like the way the shoe feels.</li>
+              <li><a href="http://www.nyrr.org/youth-and-schools/running-start/coaching-videos/high-school/form/form-101-running-posture">Good posture.</a>  Slouching is a killer on your back.  Focus on a straight back and deliberate strides.  Knees up.  </li>
+
+              <li><a href="http://www.active.com/running/articles/the-importance-of-rest-for-runners">Rest.</a></li>
+              <li>See previous.</li>
+              <li>For me, I found that <a href="http://www.jeffgalloway.com/training/run-walk/">running one mile followed by walking one minute</a> allows some of the lactic acid to clear my legs and makes the run more comfortable.</li>
+              <li>Don’t over do it at first.  See 3.</li>
+              <li>Vary you pace from run to run.</li>
+              <li>Have fun.</li>
+            </ul>
+    
+      <hr>
+
+
 
        <h1>Therapeutic diabetic footwear decreases ulceraton, study</h1>
       <p class="lead">by <a href="../../doctors/strash.php">Dr. Walter Strash</a></p>
