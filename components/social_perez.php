@@ -17,9 +17,13 @@
          
          <div class="col-lg-7 col-md-7 col-sm-9 col-xs-9">
            
-          <iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/athletes/151733/activity-summary/69d813e49123312293ae671f7cc9daac4118421f'></iframe>
-
-         </div><!-- col --></div>
+          <!--<iframe height='160' width='300' frameborder='0' allowtransparency='true' scrolling='no' src='http://www.strava.com/athletes/151733/activity-summary/69d813e49123312293ae671f7cc9daac4118421f'></iframe>
+          --> 
+          <ul>
+            <li><p><strong><a href="http://podlink.com/blog/blog.php">Lastest blog post: 8 tips for new runners</a></strong></p></li>
+            <li><p><strong><a href="http://dsofixingmyfeet.blogspot.com">My patient blogs about her bunion surgery experience</strong></li>
+         </div><!-- col -->  
+         </div>
 
 
         </div><!-- panel body -->
