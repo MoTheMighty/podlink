@@ -127,14 +127,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "sitemap.xml",
-			"settings":
-			{
-				"buffer_size": 4147,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -184,16 +176,22 @@
 	},
 	"expanded_folders":
 	[
+		"/Applications/MAMP/htdocs",
+		"/Applications/MAMP/htdocs/components",
+		"/Applications/MAMP/htdocs/doctors"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/components/social_perez.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Applications/MAMP/htdocs/doctors/karulak.php",
 		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/template.php",
-		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/index.php",
 		"/Applications/MAMP/htdocs/pathology/brachymetatarsia.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
@@ -203,7 +201,6 @@
 		"/Applications/MAMP/htdocs/components/navhead.php",
 		"/Applications/MAMP/htdocs/images/illizarov.jpg",
 		"/Applications/MAMP/htdocs/pathology/wart.php",
-		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/pathology/pttd.php",
 		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
 		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
@@ -226,9 +223,7 @@
 		"/Applications/MAMP/htdocs/components/schedule_mechell_data.php",
 		"/Applications/MAMP/htdocs/components/officeimagesmc.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
-		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Applications/MAMP/htdocs/blog/2014/nailfungus.php",
-		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/sendgrid-php/mailsender.php",
 		"/Applications/MAMP/htdocs/sendgrid-php/README.md",
 		"/Applications/MAMP/htdocs/sendgrid-php/sendgrid-php.php",
@@ -478,39 +473,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "sitemap.xml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 4147,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								4137,
-								4137
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/XML/XML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1605.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],

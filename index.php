@@ -169,7 +169,7 @@
               <h2>Experience</h2>
               <hr>
 
-              <h7>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. </h7>
+              <h7>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from four state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. </h7>
             </div> <!-- center--> 
 
           </section><!-- col col-lg -->
@@ -201,9 +201,9 @@
 <div class="container">
   <hr>
   <div class="center">
-    <h2>Three convenient locations</h2>
+    <h2>Four convenient locations</h2>
     <div class="layoutspacing"></div>
-   <section class="col col-lg-4 col-md-4 col-sm-4">
+   <section class="col col-lg-3 col-md-3 col-sm-3">
     <img src="images/huebner/huebnerfront.jpg" class="img-responsive center">
    
     <?php include 'components/medcenteraddress.php'; ?>
@@ -212,16 +212,22 @@
   </section>
 
 
-  <section class="col col-lg-4 col-md-4 col-sm-4">
+  <section class="col col-lg-3 col-md-3 col-sm-3">
   <img src="images/stoneoak/stoneoakfront.jpg" class="img-responsive center">
   <?php include 'components/stoneoakaddress.php'; ?>
   <a href="resources/tourso.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a> 
    
   </section>
 
-  <section class="col col-lg-4 col-md-4 col-sm-4">
+  <section class="col col-lg-3 col-md-3 col-sm-3">
   <img src="images/ahfront.jpg" class="img-responsive center">
   <?php include 'components/ahaddress.php'; ?>
+
+  </section>
+
+  <section class="col col-lg-3 col-md-3 col-sm-3">
+  <h4>Opening July 2015</h4>
+  <?php include 'components/boerneaddress.php'; ?>
 
   </section>
   
