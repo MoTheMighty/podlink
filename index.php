@@ -239,7 +239,7 @@
      <hr>
      <div class="lead col-lg-6 center"> 
       <div class="layoutspacing2"></div>
-      <p>We consistently strive for satisfied patients.  In our most recent patient survey, 91% of our patients "strongly agreed" or "agreed" with the statement, "I was satisfied with my medical care."  </p>      
+      <p>We consistently strive to have satisfied patients and execellent outcomes.  Our organization is constantly measuring quality scores in all areas of patient care.  <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/">View current outcome scores</a>  </p>      
     </div><!-- lead -->
     <div class="col-lg-6 hidden-xs">
       <div id="piechart" style="height: 400px; width: 700px; margin-top: 0px;"> </div><!-- piechart -->
@@ -328,15 +328,18 @@
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
           ['Task', 'Hours per Day'],
-          ['Strongly Agree / Agree',     140],
+          ['Excellent',     191],
 
-          ['Neutral',  9],
-          ['Disagree', 4]
+          ['Very good',  38],
+          ['Good', 12],
+          ['Fair', 2],
+          ['Poor', 1],
 
           ]);
 
         var options = {
-          title: '"I was satisfied with my medical care"'
+          title: '"Overall, how would you rate the care you received from your doctor?"',
+          pieHole: 0.4,
         };
 
         var chart = new google.visualization.PieChart(document.getElementById('piechart'));
