@@ -28,6 +28,34 @@
 
 <div class="blog">
 
+     <h1>New treatment for chronic Achilles tendonitis and plantar fasciitis</h1>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on March 17, 2015 at 12:09 PM</p>
+
+
+
+      <hr>
+        <p>
+
+
+              Over 10 million people in this the United States suffer from chronic  Achilles tendon or plantar fascial pain, in addition to pain, these conditions also limit range of motion and prevent people from living active lives. Common treatment options include rest, stretching and ice. Next, pain medication addresses the pain but not the source of the pain. Physical therapy modalities are ordered to help improve range of motion, flexibility and strength. Finally, an open surgical procedure can be performed to remove the damaged tissue. These procedures have good success, however, there are always risks associated with any invasive surgery.  Additionally, considerations must be given to the time missed from work while recovering from traditional treatments for tendon and fascial pain.</p>
+              <img src="../../../blog/images/tenextxdog.jpg" class="img-responsive center" alt="TenexTx minimally invasive heel surgery">
+              <p>The podiatrist of Alamo Family Foot & Ankle Care are among the first specially trained doctors in this area to offer an advanced treatment option for tendon and fascial injuries—called the Tenex Health TX System.   We are extremely pleased with the results we are seeing in our patients who have been treated with Tenex Health TX. They have reported experiencing tremendous pain relief and a quick recovery.  This new option will become the curative treatment that removes the source of tendon pain and allows the tendon to truly heal.</p>
+              <h3>What causes tendon pain?</h3>
+              <p>Tendon pain is caused by damage to the tendon by trauma from a hit, twist, or pull on the joint or by repetitive motion from overuse in work, exercise, or activity. In these situations, the tendon tissue breaks down. The damaged tissue causes intense pain, which dramatically affects people’s ability to function. 
+              Tenex Health TX is an optimal solution for Achilles tendonosis and plantar fasciitis.  Many patients lead very active lifestyles and therefore suffer tendon injuries. Prior to Tenex Health TX, they either had to live and work 
+              around the pain or take time off to recover. Tenex Health TX allows them to return to what they enjoy doing quickly. Patients can generally return to their normal daily activities, without the restrictions caused by pain from damaged tendon tissue, physical therapy, and lengthy recovery times.</p>
+              <h3>What can I expect during the Tenex Health TX procedure?</h3>
+              <p>Tenex Health TX—medically known as Percutaneous Tenotomy and Fasciotomy—is a minimally invasive procedure that allows the surgeon to remove the source of tendon pain quickly and safely. Tenex Health TX is performed at an outpatient surgery center, using a local anesthetic to numb the area.
+              During a Tenex Health TX procedure, musculoskeletal ultrasound imaging is used to identify the location of the damaged tendon or fascia tissue. Once located, a small incision it made and a 1/16” probe delivers ultrasonic energy specifically designed to break up and remove damaged, scared tissue safely and quickly, allowing the tendon to heal and eliminating the pain. 
+              The treatment itself takes less than 20 minutes, and most patients are able to return to their normal activities within two to six weeks.
+              We are excited about being able to provide the most technologically advanced treatment option for tendon and fascial injuries here in San Antonio that truly benefits our patients. It is profoundly rewarding to see them really enjoying their lives—without pain. Tenex Health TX has made a world of difference for our patients.
+</p>
+
+    
+      <hr>
+
 
  <h1>Eight tips for new runners</h1>
       <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
