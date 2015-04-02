@@ -28,6 +28,26 @@
 
 <div class="blog">
 
+
+<h1>Alamo Family Foot and Ankle Care is Coming to Boerne!</h1>
+      <p class="lead">by <a href="../../doctors/karulak.php">Dr. Bryce Karulak</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on April 1, 2015 at 7:09 PM</p>
+
+
+
+      <hr>
+        <p>Alamo Family Foot and Ankle Care is branching out to Boerne to provide all aspects of foot and ankle care to the Hill Country.  Bryce Karulak, DPM, a native of Boerne, is returning to start the new branch located at 604 N. Main Suite 200.  Alamo Family Foot and Ankle Care has been serving the San Antonio community since the early 1990’s.  After many years of continued success with a growing practice in the San Antonio and surrounding areas, Alamo Family Foot and Ankle Care is undergoing expansion and placing a full time clinic in Boerne. </p>
+
+        <p>Dr. Karulak, grew up in Boerne during his formative years and is very excited to return with his wife, Jessica, and two kids, Beckett and Weston, to provide Foot and Ankle Care to the community of Boerne.  Dr. Karulak completed his Doctor of Podiatric Medicine degree from Des Moines University in Iowa and is currently finishing a 3 year forefoot, rearfoot and ankle reconstructive residency in Houston and is trained in all aspects of foot and ankle medicine and surgery.  Dr. Karulak’s professional interests include elective, reconstructive, and minimally invasive surgery, as well as revision surgery.  Dr. Karulak’s training is extensive in Diabetic Charcot Reconstruction and wound care.  In his free time, he enjoys cycling in the hill country and spending time with his family.  </p>
+
+    
+      <hr>
+
+
+
+
+
      <h1>New treatment for chronic Achilles tendonitis and plantar fasciitis</h1>
       <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
       <hr>
