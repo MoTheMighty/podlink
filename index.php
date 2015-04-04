@@ -5,7 +5,7 @@
     <html lang="en-US" itemscope itemtype="http://schema.org/LocalBusiness">
     <head>
       <title>Alamo Family Foot &amp;  Ankle Care San Antonio's Podiatrists</title>
-      <meta name="description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot &amp; Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area."/>
+      <meta name="description" content="We are the premiere podiatrist in San Antonio and Boerne, Alamo Family Foot &amp;Ankle Care offers services from four state of the art Podiatry clinics."/>
       <meta charset="utf-8"/>
      
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
@@ -17,21 +17,20 @@
 
       <meta property="og:title" content="Alamo Family Foot &amp;  Ankle Care San Antonio's Most Trusted Podiatrist"/>
       <meta property="og:url" content="htttp://podlink.com"/>
-      <meta property="og:description" content="As the premiere podiatrist in San Antonio, Alamo Family Foot &amp;Ankle Care offers services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
+      <meta property="og:description" content="We are the premiere podiatrist in San Antonio and Boerne, Alamo Family Foot &amp;Ankle Care offers services from four state of the art Podiatry clinics.  Our board certified doctors offer a combined sixty-one years of practice experience."/>
       <meta property="og:image" content=""/>
 
       <!-- twitter -->
       <meta name="twitter:card" content="summary">
       <meta name="twitter:site" content="@alamofamilyfoot">
       <meta name="twitter:title" content="Alamo Family Foot &amp;  Ankle Care San Antonio's Most Trusted Podiatrists">
-      <meta name="twitter:description" content="As the premiere podiatrist in San Antonio, we offer services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community.">
+      <meta name="twitter:description" content="We are the premiere podiatrist in San Antonio and Boerne, Alamo Family Foot &amp;Ankle Care offers services from four state of the art Podiatry clinics.  Our board certified doctors offer a combined sixty-one years of practice experience.">
       <meta name="twitter:creator" content="@alamofamilyfoot">
       <meta name="twitter:image:src" content="http://podlink.com">
       <meta name="twitter:domain" content="http://podlink.com">
 
       <!-- Google+ -->
-      <meta itemprop="name" content="Alamo Family Foot &amp;  Ankle Care San Antonio's most trusted podiatrist"/>
-      <meta itemprop="description" content="As the premiere podiatrist in San Antonio, we offer services from three state of the art Podiatry clinics in the San Antonio area.  Our board certified doctors offer a combined sixty-one years of practice experience to the patient community."/>
+      <meta itemprop="name" content="We are the premiere podiatrist in San Antonio and Boerne, Alamo Family Foot &amp;Ankle Care offers services from four state of the art Podiatry clinics.  Our board certified doctors offer a combined sixty-one years of practice experience."/>
       <meta itemprop="audience" content="Patients"/>
       <meta itemprop="image" content=""/>
       <meta itemprop="alternativeHeadline" content="Alamo Family Foot and Ankle Care"/>
@@ -169,7 +168,7 @@
               <h2>Experience</h2>
               <hr>
 
-              <h7>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from four state of the art Podiatry clinics in the San Antonio area.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. </h7>
+              <h7>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from four state of the art Podiatry clinics in the San Antonio and Boerne.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. </h7>
             </div> <!-- center--> 
 
           </section><!-- col col-lg -->
@@ -185,7 +184,7 @@
               <h2>Results</h2>
               <hr>
 
-              <p>Our Doctors utilize the best available  and well established scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasiving EBM and applying treatments backed by scientific studies, patients can achieve superior outcomes in shorter time. <p>
+              <p>Our Doctors utilize the best available  and well established scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasiving EBM and applying treatments backed by scientific studies, patients can achieve <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/"> superior outcomes </a> in shorter time. <p>
               </div> <!-- center-->
 
             </section><!-- col col-lg -->
@@ -239,7 +238,7 @@
      <hr>
      <div class="lead col-lg-6 center"> 
       <div class="layoutspacing2"></div>
-      <p>We consistently strive to have satisfied patients and execellent outcomes.  Our organization is constantly measuring quality scores in all areas of patient care.  <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/">View current outcome scores</a>  </p>      
+      <p>We consistently strive to have satisfied patients and excellent outcomes.  Our organization is constantly measuring quality scores in all areas of patient care.  <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/">View current outcome scores</a>  </p>      
     </div><!-- lead -->
     <div class="col-lg-6 hidden-xs">
       <div id="piechart" style="height: 400px; width: 700px; margin-top: 0px;"> </div><!-- piechart -->
@@ -272,22 +271,23 @@
         
       </section><!-- center -->
       
-      <h2 class="center">What is the training and education of Podiatrists?</h2>
+      <h2 class="center">Are you a silent sufferer of tendon pain to the heel or Achilles?</h2>
 
       
 
       <div class="col-lg-7">
 
          <div class="video-container">
-          <iframe id="ytplayer" type="text/html" width="640" height="360"
-          src="http://www.youtube.com/embed/CQ8ak79KCWQ?modestbranding=1&rel=0&showinfo=0&theme=light"
+           <iframe id="ytplayer" type="text/html" width="640" height="360" 
+        src="http://www.youtube.com/embed/RoiKcCkHS1I?modestbranding=1&rel=0&showinfo=0&theme=light" 
+              
+         
           frameborder="0" allowfullscreen></iframe>
         </div><!-- videocontainer -->
       </div><!-- col-lg-8 -->
 
       <div class="col-lg-5" style="font-size:20px">
-      <p>As Podiatrists and Foot and Ankle Surgeons, we treat any condition of the foot and ankle 
-        using traditional, proven literature, driven by evidence based medicine.  Podiatrists are truly specialized in what we do. We spend four years in medical school learning about the whole body like every other medical student. Podiatrists then enter into residency where we work side by side with clinicians from internal medicine, general surgery, emergency medicine, endocrinology and radiology, among others, to form a solid foundation in advance of entering private practice.</p>
+      <p>We are excited to offer Tenex Health Tx microtenectomy.  A safe and quick procedure developed for patients suffering from chronic heel and Achilles pain.  This advanced procedure was developed in collaboration with the Mayo Clinic, and utilizes high frequency sound waves to target and remove damaged tendon tissue, leaving the healthy tendon undisturbed. Benefits include <strong>Quick pain relief</strong>, <strong>Rapid return to normal activities</strong> and <strong>General anesthesia is not required</strong>. </p>
 
 
 
@@ -328,17 +328,17 @@
       function drawChart() {
         var data = google.visualization.arrayToDataTable([
           ['Task', 'Hours per Day'],
-          ['Excellent',     191],
+          ['Excellent',     277],
 
-          ['Very good',  38],
-          ['Good', 12],
-          ['Fair', 2],
-          ['Poor', 1],
+          ['Very good',  27],
+          ['Good', 6],
+          ['Fair', 5],
+          ['Poor', 5],
 
           ]);
 
         var options = {
-          title: '"Overall, how would you rate the care you received from your doctor?"',
+          title: '"Overall, how satisfied or dissatisfied were you with your last visit to our office?"',
           pieHole: 0.4,
         };
 
