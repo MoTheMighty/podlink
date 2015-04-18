@@ -262,7 +262,7 @@
 
     <?php include 'components/picturelineup.php'; ?>
 
-   <?php include 'components/picturelineup2.php'; ?>
+   
 
     <div class="container"><hr></div> 
 
