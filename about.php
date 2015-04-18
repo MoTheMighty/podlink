@@ -85,10 +85,29 @@ Drs. Perez and Chaney fellowship training includes trauma and deformity reconstr
 
 </div><!-- linespacing -->
 
- <?php include 'components/picturelineup2.php'; ?>
+
+
+ <section class="container page-header">
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+<div class="center">
+          
+            <section class="iconsizing">
+              <!--<span class="glyphicons globe"></span> -->
+            </section>
+          
+ </div><!-- center -->
+</div><!-- col 4 -->
+
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+The physicians and staff of the Alamo Family Foot & Ankle Care are dedicated to using the latest research and most advanced technology to deliver exceptional podiatric care to people throughout San Antonio, Boerne, Laredo, Eagle pass and all of south central Texas. Their services—whether preventive care or reconstructive surgery—have earned steady growth for over 26 years.
+</div><!-- col-lg-8 -->
+
+</section><!-- container -->
+
 
 <section class="container page-header">
-<hr>
+
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
 Our podiatrist are board certified in advanced reconstructive techniques in foot and ankle surgery. 
 Their fellowship training includes trauma and deformity reconstruction, and they routinely attend the most 
@@ -102,7 +121,7 @@ therapies and treatment that optimize patient outcomes, and individually they of
     <div class="center">
           <section class="iconsizing" style="margin-top:15%;">
             
-              <span class="glyphicons keynote"></span>
+           <!--   <span class="glyphicons keynote"></span> -->
             
           </section> <!-- iconsizing -->
 
@@ -122,15 +141,14 @@ therapies and treatment that optimize patient outcomes, and individually they of
 <div class="center">
           
             <section class="iconsizing">
-              <span class="glyphicons link"></span>
+           <!-- <span class="glyphicons link"></span>  -->
             </section>
           
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Although technological advancements are paramount to their success, our physicians make 
-teamwork and integrity the cornerstones of their practice. Our Podiatrists provide services from 
-three locations in San Antonio.
+Although technological advancements are paramount to their success, our podiatrist make 
+teamwork and integrity the cornerstones of their practice. At Alamo Family Foot & Ankle Care, we believe that a doctor and patient become a team for treating an individual’s feet. Our podiatrist spend most of their time listening to understand your concerns and responding with the best treatment options for you. With the help of our professional staff, they also follow up to make sure that generally pain is relieved, problems are resolved and your health improves.
 </div><!-- col-lg-8 -->
 
 </section><!-- container -->
@@ -142,14 +160,14 @@ three locations in San Antonio.
 <section class="container">
 
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Their fully equipped and staffed clinics offer the latest in cutting edge technology, including MRI, ultrasound and digital xray- 
-giving our patients a full spectrum of treatment choices to maximize and speed their recovery.
+Our modern and efficient clinics offer the latest in cutting edge podiatric technology, including MRI, ultrasound and digital xray- 
+giving our patients a full spectrum of treatment choices to maximize and speed their recovery.  We also want our patients to be informed about podiatric problems and treatments, because informed patients make better decisions about their health and well being. That is why we’ve included an extensive section on this web site covering the full array of topics associated with podiatry and podiatric diagnoses and treatments.
 </div><!-- col-lg-8 -->
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
             <section class="iconsizing">
-              <span class="glyphicons share_alt"></span>
+          <!--   <span class="glyphicons share_alt"></span>  -->
             </section> 
  </div><!-- center -->
 </div><!-- col 4 -->
@@ -157,13 +175,15 @@ giving our patients a full spectrum of treatment choices to maximize and speed t
 
 <!-- 3 -->
 
-
+  <?php include 'components/picturelineup2.php'; ?>  
                
    <div class="layoutspacing2"></div>
 
-<!-- footer -->
+
+<!-- footer -->  
 
    <?php include '/components/footer.php'; ?>
+    <?php include 'components/footer.php'; ?>  
  
 
 

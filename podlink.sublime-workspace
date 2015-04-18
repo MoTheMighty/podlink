@@ -152,34 +152,39 @@
 			}
 		},
 		{
-			"file": "components/medcenteraddress.php",
-			"settings":
-			{
-				"buffer_size": 763,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "index.php",
 			"settings":
 			{
-				"buffer_size": 12507,
+				"buffer_size": 12399,
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": ".htaccess",
+			"settings":
+			{
+				"buffer_size": 6207,
+				"line_ending": "Unix"
 			}
 		},
 		{
 			"file": "blog/blog.php",
 			"settings":
 			{
-				"buffer_size": 17448,
+				"buffer_size": 19106,
 				"line_ending": "Unix"
 			}
 		}
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
 		"height": 267.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -225,12 +230,14 @@
 	"expanded_folders":
 	[
 		"/Applications/MAMP/htdocs",
-		"/Applications/MAMP/htdocs/blog"
+		"/Applications/MAMP/htdocs/blog",
+		"/Applications/MAMP/htdocs/doctors"
 	],
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/doctors/perez.php",
+		"/Applications/MAMP/htdocs/components/medcenteraddress.php",
 		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/doctors/perez.php",
 		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/sitemap.xml",
@@ -288,7 +295,6 @@
 		"/Applications/MAMP/htdocs/blog/2014/mybunionemarrassesme.php",
 		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
 		"/Applications/MAMP/htdocs/components/ahaddress.php",
-		"/Applications/MAMP/htdocs/components/medcenteraddress.php",
 		"/Applications/MAMP/htdocs/components/officeimagesso.php",
 		"/Applications/MAMP/htdocs/resources/tourso.php",
 		"/Applications/MAMP/htdocs/resources/tourmc.php",
@@ -376,6 +382,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bunion",
 			"4 col-md-4 col-sm-4\">\n    <img src=\"images/huebner/huebnerfront.jpg\" class=\"img-responsive center\">\n   \n    <?php include 'components/medcenteraddress.php'; ?>\n    <a href=\"resources/tourmc.php\"><button type=\"button\" class=\"btn btn-success btn-sm\">Virtual Tour</button></a> \n     \n  </section>\n\n\n  <section class=\"col col-lg-4 col-md-4 col-sm-4\">\n  <img src=\"images/stoneoak/stoneoakfront.jpg\" class=\"img-responsive center\">\n  <?php include 'components/stoneoakaddress.php'; ?>\n  <a href=\"resources/tourso.php\"><button type=\"button\" class=\"btn btn-success btn-sm\">Virtual Tour</button></a> \n   \n  </section>\n\n  <section class=\"col col-lg-4 col-md-4 col-sm-4\">",
 			"float",
 			"Huebner office",
@@ -522,7 +529,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -611,57 +618,58 @@
 				},
 				{
 					"buffer": 3,
-					"file": "components/medcenteraddress.php",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 763,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								637,
-								637
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
 					"file": "index.php",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 12507,
+						"buffer_size": 12399,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9128,
-								9128
+								11932,
+								11932
 							]
 						],
 						"settings":
 						{
+							"spell_check": true,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3136.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".htaccess",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6207,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6171,
+								6171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 786.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -670,18 +678,18 @@
 				{
 					"buffer": 5,
 					"file": "blog/blog.php",
-					"semi_transient": false,
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 17448,
+						"buffer_size": 19106,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5188,
-								5188
+								0,
+								0
 							]
 						],
 						"settings":
@@ -691,10 +699,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 296.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
@@ -739,6 +747,7 @@
 	{
 		"height": 100.0
 	},
+	"pinned_build_system": "",
 	"project": "podlink.sublime-project",
 	"replace":
 	{
@@ -748,6 +757,7 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -760,6 +770,7 @@
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -768,6 +779,7 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],

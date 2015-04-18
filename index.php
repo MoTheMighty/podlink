@@ -256,13 +256,13 @@
 
 
 
-    <div class="layoutspacing2">
+    
       <div class="container"><hr></div>
-    </div>
+    
 
     <?php include 'components/picturelineup.php'; ?>
 
-    <div class="layoutspacing2"></div>  
+   <?php include 'components/picturelineup2.php'; ?>
 
     <div class="container"><hr></div> 
 

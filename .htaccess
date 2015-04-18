@@ -68,6 +68,14 @@ Redirect 301 /treatments-and-conditions/interactive-diagnosis.aspx http://podlin
 Redirect 301 /treatments-and-conditions/Ultrasound.aspx http://podlink.com/pathology/pathology.php
 Redirect 301 /treatment-and-conditions.aspx http://podlink.com/pathology/pathology.php
 Redirect 301 /pathology.php http://podlink.com/pathology/pathology.php
+Redirect 301 /orthotrispy/shockwaves.htm http://podlink.com/pathology/eswt.php
+Redirect 301 /Libraries/bunionbeforeafter/bun01.sflb.ashx http://podlink.com/pathology/beforeandafterbunionpictures.php
+Redirect 301 /Libraries/bunionbeforeafter/bun02a.sflb.ashx http://podlink.com/pathology/beforeandafterbunionpictures.php
+Redirect 301 /blog/doctors/perez.php http://podlink.com/doctors/perez.php
+Redirect 301 /blog/doctors/location.php http://podlink.com/location.php
+Redirect 301 /blog/pathology/halluxlimitus.php http://podlink.com/pathology/halluxlimitus.php
+Redirect 301 /blog/pathology/neuroma.php http://podlink.com/pathology/neuroma.php
+Redirect 301 /blog/resources/faq.php http://podlink.com/resources/faq.php
 
 
 

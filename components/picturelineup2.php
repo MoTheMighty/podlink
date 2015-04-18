@@ -46,9 +46,12 @@
 
       </section> <!-- doc3 -->
     </div><!-- col -->
+    </div> <!-- container -->
 
+
+<div class="container">
     <div class="col-lg-3 col-md-6 col-sm-6">
-      <section class="thumbnail">
+      <section lass="thumbnail">
         <div class="center">
          <img src="images/jordan.png" alt="Dr. Mechell" class="img-rounded">
           <h5> R. Jordan Mechell, DPM <h5>
@@ -58,19 +61,27 @@
 
 
       </section> <!-- doc 4 -->
+      </div>
 
 
 
       <div class="col-lg-3 col-md-6 col-sm-6">
-    
+        
+        
+      <section lass="thumbnail">
+        <div class="center">
+         <img src="images/karulak1.png" alt="Dr. Karulak" class="img-rounded">
+          <h5> Bryce Karulak, DPM<h5>
+          </div><!-- center -->
+        <hr> 
         
          
-          </div><!-- center -->
-      
-        <a href="../../doctors/karulak.php"<button type="button" class="btn btn-primary btn-lg btn-block">Bryce Karulak, DPM </button></a><!-- container -->
        
+      
+        <a href="../../doctors/karulak.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
+          </div><!-- center -->
 
     </div><!-- col --> 
-    </div><!-- center -->
+    </div><!-- container -->
   
 

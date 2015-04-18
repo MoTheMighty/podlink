@@ -4,20 +4,112 @@
 		"selected_items":
 		[
 			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"email",
+				"emailname"
+			],
+			[
+				"ema",
+				"emailname"
+			],
+			[
+				"arra",
+				"arrays"
+			],
+			[
+				"comp",
+				"components"
+			],
+			[
+				"color",
+				"color"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"google",
+				"googleconversioncode"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"colo",
+				"color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"s",
+				"script"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"include",
+				"include_once"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"ul",
+				"list-unstyled"
+			],
+			[
 				"fff",
 				"f5f5f5"
 			],
 			[
 				"se",
 				"section	Tag"
-			],
-			[
-				"padd",
-				"padding-bottom"
-			],
-			[
-				"padding",
-				"padding-top"
 			],
 			[
 				"col",
@@ -37,19 +129,45 @@
 	[
 	],
 	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
 	"command_palette":
 	{
-		"height": 0.0,
+		"height": 267.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			]
 		],
-		"width": 0.0
+		"width": 575.0
 	},
 	"console":
 	{
 		"height": 126.0,
 		"history":
 		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
 		]
 	},
 	"distraction_free":
@@ -63,43 +181,146 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/index.sublime-project",
+		"/Applications/MAMP/htdocs/components/medcenteraddress.php",
+		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/doctors/perez.php",
+		"/Applications/MAMP/htdocs/components/social_perez.php",
+		"/Applications/MAMP/htdocs/components/footer.php",
+		"/Applications/MAMP/htdocs/sitemap.xml",
+		"/Applications/MAMP/htdocs/doctors/karulak.php",
+		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/components/picturelineup2.php",
+		"/Applications/MAMP/htdocs/contact.php",
+		"/Applications/MAMP/htdocs/template.php",
 		"/Applications/MAMP/htdocs/index.php",
-		"/Applications/MAMP/htdocs/test.php",
-		"/Users/pod1098/Downloads/svgedit_app/manifest.json",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/fonts/glyphicons-regular.svg",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/glyphicons.less",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/less/style.less",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/style.css",
-		"/Users/pod1098/Desktop/glyphicons_pro/glyphicons/web/html_css/css/glyphicons.css",
-		"/Users/pod1098/Desktop/bootstrap/css/justified-nav.css",
-		"/Users/pod1098/Desktop/bootstrap/css/carousel.css",
-		"/Users/pod1098/Desktop/bootstrap/index.html",
-		"/Users/pod1098/Desktop/bootstrap/css/bootstrap.css",
-		"/Users/pod1098/Desktop/bootstrap/1column.html",
-		"/Users/pod1098/Desktop/bootstrap/templateheader.html",
-		"/Users/pod1098/Desktop/bootstrap/js/respond.js",
-		"/Users/pod1098/Desktop/bootstrap/css/justified.css",
-		"/Users/pod1098/Dropbox/website/index.htm",
-		"/Users/pod1098/Desktop/bootstrap/untitled.html",
-		"/Users/pod1098/Desktop/website/index.htm",
-		"/Users/pod1098/Dropbox/index.html",
-		"/Users/pod1098/Desktop/website/assets/css/font-awesome-ie7.css",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.scrollTo.js",
-		"/Users/pod1098/Desktop/website/assets/css/style.css",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.nicescroll.js",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.maps.js",
-		"/Users/pod1098/Desktop/website/assets/js/jquery.scrollTo.min.js"
+		"/Applications/MAMP/htdocs/pathology/brachymetatarsia.php",
+		"/Applications/MAMP/htdocs/components/picturelineup.php",
+		"/Applications/MAMP/htdocs/components/authorfooter.php",
+		"/Applications/MAMP/htdocs/doctors/strash.php",
+		"/Applications/MAMP/htdocs/doctors/chaney.php",
+		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/images/illizarov.jpg",
+		"/Applications/MAMP/htdocs/pathology/wart.php",
+		"/Applications/MAMP/htdocs/pathology/pttd.php",
+		"/Applications/MAMP/htdocs/pathology/stressfracture.php",
+		"/Applications/MAMP/htdocs/pathology/peronealtendonitis.php",
+		"/Applications/MAMP/htdocs/pathology/neuroma.php",
+		"/Applications/MAMP/htdocs/pathology/ingrowntoenail.php",
+		"/Applications/MAMP/htdocs/pathology/heel-pain.php",
+		"/Applications/MAMP/htdocs/pathology/hammertoes.php",
+		"/Applications/MAMP/htdocs/pathology/halluxlimitus.php",
+		"/Applications/MAMP/htdocs/pathology/haglunds.php",
+		"/Applications/MAMP/htdocs/pathology/gout.php",
+		"/Applications/MAMP/htdocs/pathology/fifthmetatarsalstressfractures.php",
+		"/Applications/MAMP/htdocs/pathology/eswt.php",
+		"/Applications/MAMP/htdocs/pathology/diabeticfootcomplications.php",
+		"/Applications/MAMP/htdocs/pathology/charcot.php",
+		"/Applications/MAMP/htdocs/pathology/calcanealapophysitis.php",
+		"/Applications/MAMP/htdocs/pathology/bunions.php",
+		"/Applications/MAMP/htdocs/pathology/beforeandafterbunionpictures.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/pathology/achillestendonitis.php",
+		"/Applications/MAMP/htdocs/components/schedule_mechell_data.php",
+		"/Applications/MAMP/htdocs/components/officeimagesmc.php",
+		"/Applications/MAMP/htdocs/components/carousel.php",
+		"/Applications/MAMP/htdocs/blog/2014/nailfungus.php",
+		"/Applications/MAMP/htdocs/sendgrid-php/mailsender.php",
+		"/Applications/MAMP/htdocs/sendgrid-php/README.md",
+		"/Applications/MAMP/htdocs/sendgrid-php/sendgrid-php.php",
+		"/Applications/MAMP/htdocs/php/examples/advanced.php",
+		"/Applications/MAMP/htdocs/_/less/navbar.less",
+		"/Applications/MAMP/htdocs/_/less/variables.less",
+		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
+		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
+		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
+		"/Applications/MAMP/htdocs/blog/2014/mybunionembarrassesme.php",
+		"/Applications/MAMP/htdocs/resources/privacyPractices.php",
+		"/Applications/MAMP/htdocs/resources/employment.php",
+		"/Applications/MAMP/htdocs/resources/saturdayclinic.php",
+		"/Applications/MAMP/htdocs/blog/blogtemplate.php",
+		"/Applications/MAMP/htdocs/blog/2014/mybunionemarrassesme.php",
+		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
+		"/Applications/MAMP/htdocs/components/ahaddress.php",
+		"/Applications/MAMP/htdocs/components/officeimagesso.php",
+		"/Applications/MAMP/htdocs/resources/tourso.php",
+		"/Applications/MAMP/htdocs/resources/tourmc.php",
+		"/Applications/MAMP/htdocs/resources/mctour.php",
+		"/Applications/MAMP/htdocs/components/officeimages.php",
+		"/Applications/MAMP/htdocs/js/bootstrap-image-gallery.js",
+		"/Applications/MAMP/htdocs/_/js/bootstrap-image-gallery.js",
+		"/Applications/MAMP/htdocs/css/bootstrap-image-gallery.min.css",
+		"/Applications/MAMP/htdocs/doctors/mechell.php",
+		"/Applications/MAMP/htdocs/blog/2014/seewhatyouknow.php",
+		"/Applications/MAMP/htdocs/blog/2014/mri.php",
+		"/Applications/MAMP/htdocs/location.php",
+		"/Applications/MAMP/htdocs/pathology/arthrodiastasis.php",
+		"/Applications/MAMP/htdocs/pathology/anklesprain.php",
+		"/Applications/MAMP/htdocs/js/jqBootstrapValidation.js",
+		"/Applications/MAMP/htdocs/js/html5shiv.js",
+		"/Users/pod1098/Downloads/Entrenamiento matutino.gpx",
+		"/Applications/MAMP/htdocs/resources/faq.php",
+		"/Applications/MAMP/htdocs/blog/2014/bunionblues.php",
+		"/Applications/MAMP/htdocs/blog/2014/dorsalfootpain.php",
+		"/Applications/MAMP/htdocs/blog/2014/monckebergs.php",
+		"/Applications/MAMP/htdocs/blog/2014/rickets.php",
+		"/Applications/MAMP/htdocs/resources/npforms.php",
+		"/Applications/MAMP/htdocs/pathology/pathology.php",
+		"/Applications/MAMP/htdocs/components/seoMarkup",
+		"/Applications/MAMP/htdocs/404.php",
+		"/Applications/MAMP/htdocs/images/pathology/clinicalstressfx.png",
+		"/Applications/MAMP/htdocs/pathology/arthritis.php",
+		"/Applications/MAMP/htdocs/components/socialicons.php",
+		"/Applications/MAMP/htdocs/js/googlemap.js",
+		"/Applications/MAMP/htdocs/components/social_chaney.php",
+		"/Applications/MAMP/htdocs/components/social_mechell.php",
+		"/Applications/MAMP/htdocs/images/pathology/achillesstretch.GIF",
+		"/Applications/MAMP/htdocs/components/social.php",
+		"/Applications/MAMP/htdocs/index.sublime-project",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Applications/MAMP/htdocs/pathology/halluxlimitus1.php",
+		"/Applications/MAMP/htdocs/saturdayclinic.php",
+		"/Applications/MAMP/htdocs/resources/template.php",
+		"/Applications/MAMP/htdocs/.htaccess",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/Applications/MAMP/htdocs/robots.txt",
+		"/Applications/MAMP/htdocs/pathology/pathtemplate 2.php",
+		"/Applications/MAMP/htdocs/pathology/pathtemplate.php",
+		"/Applications/MAMP/htdocs/resources/survey.php",
+		"/Applications/MAMP/htdocs/schedule.php",
+		"/Applications/MAMP/htdocs/php/examples/simple.php",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/pod1098/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/components/carouselReviews.php",
+		"/Applications/MAMP/htdocs/components/schedule_modal.php",
+		"/Applications/MAMP/htdocs/js/custom.js",
+		"/Applications/MAMP/htdocs/components/schedule_chaney_data.php",
+		"/Applications/MAMP/htdocs/components/schedule_perez_data.php",
+		"/Applications/MAMP/htdocs/components/googleconversion.php",
+		"/Applications/MAMP/htdocs/components/schedule_strash_data.php",
+		"/Applications/MAMP/htdocs/components/schedule_chaney.php",
+		"/Applications/MAMP/htdocs/components/schedule_perez.php",
+		"/Applications/MAMP/htdocs/components/schedule_mechell.php",
+		"/Applications/MAMP/htdocs/components/searchmodal.php",
+		"/Applications/MAMP/htdocs/components/schedule_strash.php",
+		"/Applications/MAMP/htdocs/css/custom.css",
+		"/Applications/MAMP/htdocs/_/js/custom.js",
+		"/Applications/MAMP/htdocs/components/schedulemodal.php",
+		"/Applications/MAMP/htdocs/components/gpsmodal.php",
+		"/Applications/MAMP/htdocs/search.php"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 23.0
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 93.0,
 		"where_history":
 		[
+			"/Applications/MAMP/htdocs",
+			""
 		]
 	},
 	"find_state":
@@ -107,6 +328,109 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"bunion",
+			"4 col-md-4 col-sm-4\">\n    <img src=\"images/huebner/huebnerfront.jpg\" class=\"img-responsive center\">\n   \n    <?php include 'components/medcenteraddress.php'; ?>\n    <a href=\"resources/tourmc.php\"><button type=\"button\" class=\"btn btn-success btn-sm\">Virtual Tour</button></a> \n     \n  </section>\n\n\n  <section class=\"col col-lg-4 col-md-4 col-sm-4\">\n  <img src=\"images/stoneoak/stoneoakfront.jpg\" class=\"img-responsive center\">\n  <?php include 'components/stoneoakaddress.php'; ?>\n  <a href=\"resources/tourso.php\"><button type=\"button\" class=\"btn btn-success btn-sm\">Virtual Tour</button></a> \n   \n  </section>\n\n  <section class=\"col col-lg-4 col-md-4 col-sm-4\">",
+			"float",
+			"Huebner office",
+			"Why does the top of my foot hurt?",
+			"Arthritis, stress fracture, tendonitis, neuritis and sprain are all possible causes of pain to the top of the foot",
+			"dorsalfootanatomy",
+			"carousel",
+			"item",
+			"carou",
+			"border-radius",
+			"white",
+			"nav",
+			"Stoneoak",
+			"huebner",
+			"images",
+			"h2",
+			"h1",
+			"class=\"img-thumbnail\"",
+			"class=\"img-circle\"",
+			"<h1>",
+			"20",
+			"itemprop=\"image\"",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        ",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        ",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        <h1>Achilles Tendonitis</h1>",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        ",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        ",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        <p>*</p>",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        <p></p>",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        ",
+			" <div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        ",
+			" <div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        <p>*</p>",
+			"<div class=\"navibar\">\n    <section class=\"container\">\n  \n      <div class=\"pull-left\">\n        <p>*</p>",
+			"class = \"navibar\" <p></p>",
+			"col-sm-6",
+			"how",
+			"treatment",
+			"gout",
+			"chaney",
+			"style",
+			"pathology",
+			"-webkit-transform",
+			"conditions",
+			"reviewbody",
+			"<br /> <br />",
+			"style=\"margin: 0px 0px 10px; padding: 0px;\"",
+			"itemscope",
+			"...",
+			"signsorsymptoms",
+			"24.173.104.250",
+			"&amp;",
+			"&nbsp;",
+			"/Libraries/Images/",
+			"sflb.ashx",
+			"&nbsp;",
+			"social",
+			"move",
+			"&nbsp;",
+			"/Files/Images",
+			"ingrown",
+			"hammertoes",
+			"hallux",
+			"halluxlimitus",
+			"haglunds",
+			"gout",
+			"fifth",
+			"calcaneal",
+			"arthrodiastasis",
+			"arthritis",
+			"anklefracture",
+			"Learn More",
+			"h5",
+			"h6",
+			"picline",
+			"sflb.ashx\"",
+			"/Libraries/Images/",
+			"strsfx2.jpg",
+			"/images/pathology/",
+			"/Files/Images/",
+			"&nbsp;",
+			"<h3>",
+			"</h3>",
+			"<h3>",
+			"</strong>",
+			"<strong>",
+			"&nbsp;",
+			"picline",
+			"right",
+			"mouse",
+			"click",
+			"           \n",
+			"google_plus",
+			"map-canvas",
+			"map-canva",
+			"margin-bottom",
+			"navbar-margin",
+			"22px;",
+			"glyphicons:before",
+			"group",
+			"bookmark",
 			".row",
 			".center",
 			"center",
@@ -126,13 +450,25 @@
 		"highlight": true,
 		"in_selection": false,
 		"preserve_case": false,
-		"regex": false,
+		"regex": true,
 		"replace_history":
 		[
+			"4 col-md-4 col-sm-4\">\n    <img src=\"images/huebner/huebnerfront.jpg\" class=\"img-responsive center\">\n   \n    <?php include 'components/medcenteraddress.php'; ?>\n    <a href=\"resources/tourmc.php\"><button type=\"button\" class=\"btn btn-success btn-sm\">Virtual Tour</button></a> \n     \n  </section>\n\n\n  <section class=\"col col-lg-4 col-md-4 col-sm-4\">\n  <img src=\"images/stoneoak/stoneoakfront.jpg\" class=\"img-responsive center\">\n  <?php include 'components/stoneoakaddress.php'; ?>\n  <a href=\"resources/tourso.php\"><button type=\"button\" class=\"btn btn-success btn-sm\">Virtual Tour</button></a> \n   \n  </section>\n\n  <section class=\"col col-lg-4 col-md-4 col-sm-4\">",
+			"itemprop=\"image\"",
+			"/images/pathology/",
+			".jpg",
+			"/Files/Images/",
+			"<h5>",
+			"<h3>",
+			"<h5>",
+			"</h5>",
+			"<h5>",
+			"<h3>",
+			"thumbnail"
 		],
 		"reverse": false,
-		"show_context": true,
-		"use_buffer2": true,
+		"show_context": false,
+		"use_buffer2": false,
 		"whole_word": false,
 		"wrap": true
 	},
@@ -177,8 +513,13 @@
 	"menu_visible": true,
 	"output.find_results":
 	{
-		"height": 0.0
+		"height": 94.0
 	},
+	"output.unsaved_changes":
+	{
+		"height": 100.0
+	},
+	"pinned_build_system": "",
 	"project": "test.sublime-project",
 	"replace":
 	{
@@ -188,14 +529,20 @@
 	"select_file":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"sendgrid-php/mailsender.php"
+			]
 		],
 		"width": 0.0
 	},
 	"select_project":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
@@ -204,11 +551,13 @@
 	"select_symbol":
 	{
 		"height": 0.0,
+		"last_filter": "",
 		"selected_items":
 		[
 		],
 		"width": 0.0
 	},
+	"selected_group": 0,
 	"settings":
 	{
 	},
