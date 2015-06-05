@@ -221,6 +221,7 @@
   <section class="col col-lg-3 col-md-3 col-sm-3">
   <img src="images/ahfront.jpg" class="img-responsive center">
   <?php include 'components/ahaddress.php'; ?>
+  <a href="resources/tourah.php"><button type="button" class="btn btn-success btn-sm">Virtual Tour</button></a>
 
   </section>
 
