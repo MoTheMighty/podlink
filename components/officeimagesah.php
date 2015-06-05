@@ -35,20 +35,20 @@
 
 
 <div id="links">
-    <a href="../images/alamoheights/img_1.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
-        <img src="../images/alamoheights/img_1_th.jpg"  alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
+    <a href="http://podlink.com/images/alamoheights/IMG_1.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
+        <IMG src="http://podlink.com/images/alamoheights/IMG_1_th.jpg"  alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/alamoheights/img_2.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
-        <img src="../images/alamoheights/img_2_th.jpg"   alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
+    <a href="http://podlink.com/images/alamoheights/IMG_2.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
+        <IMG src="http://podlink.com/images/alamoheights/IMG_2_th.jpg"   alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/alamoheights/img_3.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
-        <img src="../images/alamoheights/img_3_th.jpg"   alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
+    <a href="http://podlink.com/images/alamoheights/IMG_3.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
+        <IMG src="http://podlink.com/images/alamoheights/IMG_3_th.jpg"   alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
     </a>
-     <a href="../images/alamoheights/img_4.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
-        <img src="../images/alamoheights/img_4_th.jpg"  alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
+     <a href="http://podlink.com/images/alamoheights/IMG_4.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
+        <IMG src="http://podlink.com/images/alamoheights/IMG_4_th.jpg"  alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
     </a>
-    <a href="../images/alamoheights/img_5.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
-        <img src="../images/alamoheights/img_5_th.jpg"   alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
+    <a href="http://podlink.com/images/alamoheights/IMG_5.jpg" title="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care" data-gallery>
+        <IMG src="http://podlink.com/images/alamoheights/IMG_5_th.jpg"   alt="San Antonio Podiatry Office | Alamo Heights | Alamo Family Foot & Ankle Care">
     </a>
     
 </div>
