@@ -68,7 +68,7 @@
 		</div><!-- navbarfixedbottom -->
 	</section><!-- footer div -->
 <div id="socialbar">
-<?php include  $_SERVER['DOCUMENT_ROOT'] . '/components/social.php'; ?>
+ <?php /* include  $_SERVER['DOCUMENT_ROOT'] . '/components/social.php'; */ ?>
 <!-- ClickTale Bottom part -->
 </div>
 <script src="https://code.jquery.com/jquery.js"></script>

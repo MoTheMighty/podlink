@@ -18,7 +18,7 @@
 function initialize() {
   var myLatlng = new google.maps.LatLng(29.5504220, -98.53006280);
   var mapOptions = {
-    zoom: 12,
+    zoom: 10,
     center: myLatlng
   };
 
@@ -114,6 +114,29 @@ function initialize() {
     infowindow3.open(map, marker3);
     });
     // -------- END OF 3rd MARKER
+
+
+// -------------- MARKER 4
+  
+
+    var marker3 = new google.maps.Marker({
+    position: new google.maps.LatLng(29.798136, -98.734680),
+    map: map, 
+    animation: google.maps.Animation.DROP,
+    });
+     // MARKER 4'S INFO WINDOW
+    var infowindow1 = new google.maps.InfoWindow({
+    content: '<img src="images/mc.jpg" class="img-responsive" alt="Alamo Family Foot & Ankle Care - Medical Center"><br />Alamo Family Foot & Ankle Care - Medical Center<br />9502 Heubner Rd<br>Building 2, Suite 201<br>San Antonio, TX 78240<br /><a href="https://maps.google.com/maps?f=d&daddr=29.798136, -98.734680)">Driving Directions</a>'
+    });
+    // End of infowindow code
+
+    // Adding a click event to the marker
+    google.maps.event.addListener(marker1, 'click', function() {
+    // Calling the open method of the infoWindow
+    infowindow1.open(map, marker4);
+    });
+     
+    // -------- END OF 4th MARKER
 
 
   }
