@@ -226,7 +226,7 @@
   </section>
 
   <section class="col col-lg-3 col-md-3 col-sm-3">
-  <h4>Opening July 2015</h4>
+  <img src="images/BoerneWebsite.jpg" class="img-responsive center">
   <?php include 'components/boerneaddress.php'; ?>
 
   </section>

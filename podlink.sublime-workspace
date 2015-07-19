@@ -139,7 +139,7 @@
 			"file": "components/footer.php",
 			"settings":
 			{
-				"buffer_size": 2359,
+				"buffer_size": 3028,
 				"line_ending": "Windows"
 			}
 		},
@@ -516,7 +516,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -544,10 +544,10 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 4555.0,
+						"translation.y": 4741.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -556,15 +556,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2359,
+						"buffer_size": 3028,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2099,
-								2099
+								2489,
+								2489
 							]
 						],
 						"settings":
@@ -573,10 +573,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 544.0,
+						"translation.y": 736.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
