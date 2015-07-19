@@ -9,7 +9,7 @@
       <li data-target="#titlecarousel" data-slide-to="2"></li>
       <li data-target="#titlecarousel" data-slide-to="3"></li>
       <li data-target="#titlecarousel" data-slide-to="4"></li>
-      <li data-target="#titlecarousel" data-slide-to="5"></li>
+      
 
     </ol>
 
@@ -17,7 +17,7 @@
       <div class="carousel-inner">
           <div class="item active">
           
-            <img src="/images/carousel/group1.jpg" itemprop="image" class="img-responsive" alt="group image doctors of alamo family foot and ankle care in san antonio">
+            <img src="/images/carousel/groupshot2015.jpg" itemprop="image" class="img-responsive" alt="group image doctors of alamo family foot and ankle care in san antonio">
             <div class="carousel-caption">
               <h3>Dedicated to superior patient care since 1991</h3>          
             </div>
@@ -62,12 +62,7 @@
             </div>
           </div>
           <!--  -->
-          <div class="item">
-            <img src="/images/carousel/jordan_patient.jpg" class="img-responsive" alt="Dr. Mechell talks with patient">
-            <div class="carousel-caption">
-              <h3>Knowledge, Experience and Results.  We are San Antonio's Podiatrist</h3>          
-            </div>
-          </div>
+          
         
       </div>
 
