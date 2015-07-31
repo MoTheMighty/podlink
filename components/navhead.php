@@ -15,7 +15,7 @@
     <div class="pull-right">
    
      <p class="lead" style="padding-top:25px;">Same day appointments available</p>
-      <h2 style="margin-top:-20px;text-align:right">210.829.8770</h2>
+      <h2 style="margin-top:-20px;text-align:right">210.593.0000</h2>
     </div>
     
 </div>
