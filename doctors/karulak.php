@@ -108,7 +108,8 @@
 
 <section class="container">
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Bryce Karulak is a native Texan and grew up in the Hill Country in nearby Boerne.  Dr. Karulak started on his path to medicine early by attending and graduating from Health Careers High School in the medical center.  From there, Dr. Karulak received two Associate Degrees in Pre-medicine and Biology from St. Philip’s College and then transferred to St. Mary’s University where he received his Bachelor of Science in Biochemistry with a minor in Biology.  While his wife, Jessica Karulak, finished her Master of Science Degree in Accounting, Dr. Karulak spent a year teaching middle school sciences and high school Chemistry at Brooks Academy of Science and Engineering.  After having a successful year teaching, Dr. Karulak continued to pursue his career in medicine and attended Des Moines University College of Podiatric Medicine and Surgery where he completed his Doctor of Podiatric Medicine Degree.  Eager to get back to Texas, Dr. Karulak continued his Podiatric medical career at University General Hospital, located in the Houston Medical Center where he is currently completing his 3 year forefoot and rearfoot reconstructive surgical residency.
+<p>Dr. Bryce Karulak is a native Texan and grew up in the Hill Country in nearby Boerne. Dr. Karulak started on his path to medicine early by attending and graduating from Health Careers High School in the medical center. From there, Dr. Karulak received two Associate Degrees in Pre-medicine and Biology from St. Philip’s College and then transferred to St. Mary’s University where he received his Bachelor of Science in Biochemistry with a minor in Biology. While his wife, Jessica, finished her Master of Science Degree in Accounting, Dr. Karulak spent a year teaching middle school sciences and high school Chemistry at Brooks Academy of Science and Engineering. After having a successful year teaching, Dr. Karulak continued to pursue his career in medicine and attended Des Moines University College of Podiatric Medicine and Surgery where he completed his Doctor of Podiatric Medicine Degree. Eager to return to Texas, Dr. Karulak continued his podiatric medical career at University General Hospital, located in the Houston Medical Center where he completed his 3 year foot and ankle reconstructive surgical residency.</p>
+
 </div><!-- col-lg-8 -->
 
 
@@ -116,7 +117,7 @@ Dr. Bryce Karulak is a native Texan and grew up in the Hill Country in nearby Bo
     <div class="center">
           <section class="iconsizing" style="margin-top: 40%;">
             
-              <span class="glyphicons hospital"></span>
+              <span class="glyphicons hospital"></span><span class="glyphicons education"></span>
             
           </section> <!-- iconsizing -->
 
@@ -142,7 +143,7 @@ Dr. Bryce Karulak is a native Texan and grew up in the Hill Country in nearby Bo
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Karulak’s surgical training is focused on elective surgeries as well as Diabetic Charcot Reconstruction and wound care.  Many of his residency faculty currently hold positions with Baylor College of Medicine and UT Physicians.  Dr. Karulak is currently the Chief Resident Physician within his residency where he has added responsibility of leading the 1st and 2nd year residents clinically, surgically, and administratively. 
+<p>Dr. Karulak’s surgical experience is focused on elective surgeries as well as foot and ankle reconstructive surgeries and wound care.  His surgical training is comprehensive and allows him to offer current surgical interventions for the foot and ankle. </p> 
 </div><!-- col-lg-8 -->
 <hr>
 </section><!-- container -->
@@ -154,9 +155,7 @@ Dr. Karulak’s surgical training is focused on elective surgeries as well as Di
 <section class="container">
 <hr>
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Karulak will be board qualified in both the American Board of Foot and Ankle Surgery and the American Board of Podiatric Medicine by the time of his graduation from residency.  Also, he will be certified in Hyperbaric Oxygen Therapy for treatment of non-healing wounds of the foot and ankle.  His professional interest include Diabetic Charcot Reconstruction, wound care, sports medicine, minimally invasive surgery, and revision surgery.  
-
-Dr. Karulak will officially join The Alamo Family Foot & Ankle Care Team as an associate on July 1st, 2015 in their new branch in Boerne.  Dr. Karulak currently lives in Bellaire, TX with his wife and two kids.  In his free time, Dr. Karulak enjoys time with his family.   
+<p>Dr. Karulak is Board Certified with the American Board of Podiatric Medicine and Board Qualified with American Board of Foot and Ankle Surgery.  Also, he is trained in hyperbaric medicine for the treatment of chronic non-healing wounds of the foot and ankle. His professional interest include surgical foot and ankle reconstruction, wound care, sports medicine, minimally invasive surgery, and revision surgery. Dr. Karulak’s primary practice location is at the new Boerne branch but he also services both the Alamo Heights and Huebner clinics.  In his free time, Dr. Karulak enjoys spending time with his family.</p>   
 </div><!-- col-lg-8 -->
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">

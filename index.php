@@ -184,7 +184,7 @@
               <h2>Results</h2>
               <hr>
 
-              <p>Our Doctors utilize the best available  and well established scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasiving EBM and applying treatments backed by scientific studies, patients can achieve <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/"> superior outcomes </a> in shorter time. <p>
+              <p>Our Doctors utilize the best available  and well established scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasizing EBM and applying treatments backed by scientific studies, patients can achieve <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/"> superior outcomes </a> in shorter time. <p>
               </div> <!-- center-->
 
             </section><!-- col col-lg -->
@@ -285,6 +285,12 @@
          
           frameborder="0" allowfullscreen></iframe>
         </div><!-- videocontainer -->
+
+
+
+
+
+        
       </div><!-- col-lg-8 -->
 
       <div class="col-lg-5" style="font-size:20px">
