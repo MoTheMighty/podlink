@@ -29,6 +29,18 @@
 <div class="blog">
 
 
+     <h1>Carpentry and bunion surgery</h1>
+      <p class="lead">by <a href="../../doctors/perez.php">Dr. Richard Perez</a></p>
+      <hr>
+      <p><span class="glyphicon glyphicon-time"></span> Posted on November 8, 2015 at 7:13 PM</p>
+
+      <p>There are dozens of different types of bunion surgery.  Many named after the doctor who first published the particular technique.  Scarf bunionectomy, however, is named after a wood working technique referring to a joint made by notching, grooving, or otherwise cutting the ends of two pieces and fastening them together so that they overlap and join firmly into one continuous piece.  It is this concept that drew me towards this performing this type of bunionectomy.</p>
+      <p>I have performed many different types and bunion surgery over the years and found pluses and minuses in all of them.  One common theme was stability and returning the patient to...
+      <p><a href="../blog/2015/scarf.php">// Read More</a></p>
+
+      <hr>
+
+
 <h1>Alamo Family Foot and Ankle Care is Coming to Boerne!</h1>
       <p class="lead">by <a href="../../doctors/karulak.php">Dr. Bryce Karulak</a></p>
       <hr>

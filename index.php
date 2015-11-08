@@ -61,10 +61,14 @@
 
       <meta http-equiv="X-UA-Compatible" content="IE=9">
 
+<!-- adwords phone conversion script -->
+<script type="text/javascript">
+ var google_replace_number="210.283.6000";
+(function(a,e,c,f,g,b,d){var h={ak:"998844415",cl:"WeEWCP2NgWEQ_8-k3AM"};a[c]=a[c]||function(){(a[c].q=a[c].q||[]).push(arguments)};a[f]||(a[f]=h.ak);b=e.createElement(g);b.async=1;b.src="//www.gstatic.com/wcm/loader.js";d=e.getElementsByTagName(g)[0];d.parentNode.insertBefore(b,d);a._googWcmGet=function(b,d,e){a[c](2,b,h,d,null,new Date,e)}})(window,document,"_googWcmImpl","_googWcmAk","script");
+</script>
+<!-- adwords phone conversion script -->
 
-
-
-    </head>
+</head>
 
     <body id="home">
 
@@ -72,10 +76,12 @@
 
       <?php include 'components/navhead.php'; ?>
 
+      <?php include 'components/indexpicv2.php'; ?>
 
 
 
-      <?php include 'components/carousel.php'; ?>
+
+     <?php /* include 'components/carousel.php'; */ ?>  
 
 
 
@@ -131,7 +137,8 @@
       </section> <!-- toolbar -->
 
 
-      
+<div class="row">
+  <div style="background: #e5e5e5;">    
 
 
 
@@ -139,7 +146,7 @@
       <section class="container">
        
 
-       <div class="layoutspacing"></div>
+       
 
 
           <!-- col 1 -->
@@ -151,7 +158,7 @@
               </section> <!-- enlarge -->
               
               <h2>Knowledge</h2>
-              <hr>
+              
 
               <p>We provide comprehensive state of the art  medical and surgical care for a wide variety of foot and ankle conditions.  Our board certified Podiatrist are well trained to diagnose and treat common to complex disorders and injuries that affect the foot and ankle in people of all ages.</p>
             </div> <!-- center-->
@@ -166,7 +173,7 @@
               </section> <!-- enlarge -->
               
               <h2>Experience</h2>
-              <hr>
+              
 
               <h7>As the premiere podiatry practice in San Antonio, Alamo Family Foot & Ankle Care offers services from four state of the art Podiatry clinics in the San Antonio and Boerne.  Our physicians and surgeons offer a combined sixty-one years of practice experience to the patient community. </h7>
             </div> <!-- center--> 
@@ -182,7 +189,7 @@
               </section> <!-- enlarge -->
               
               <h2>Results</h2>
-              <hr>
+              
 
               <p>Our Doctors utilize the best available  and well established scientific research to deliver evidence based medicine(EBM) to our patients.  By emphasizing EBM and applying treatments backed by scientific studies, patients can achieve <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/"> superior outcomes </a> in shorter time. <p>
               </div> <!-- center-->
@@ -194,12 +201,58 @@
         </section> <!-- container -->
 
 
-
+ <div class="layoutspacing"></div>
       </section><!-- container -->
     </section>
+   
+    </div><!-- style --> 
+    </div><!-- row -->
+
 <div class="container">
-  <hr>
+
   <div class="center">
+
+
+<!-- end section -->
+
+<!-- start section -->
+
+<section class="container">
+      <div class="layoutspacing"></div>
+     <?php include 'components/carouselReviews.php'; ?>
+     <div class="lead col-lg-6 center"> 
+      <div class="layoutspacing2"></div>
+      <p>We consistently strive to have satisfied patients and excellent outcomes.  Our organization is constantly measuring quality scores in all areas of patient care.  <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/">View current outcome scores</a>  </p>      
+    </div><!-- lead -->
+    <div class="col-lg-6 hidden-xs">
+      <div id="piechart" style="height: 400px; width: 700px; margin-top: 0px;"> </div><!-- piechart -->
+
+    </div><!-- col -->
+
+    <div class="visible-xs">
+      <div id="piechart" style=""> </div><!-- piechart -->
+
+    </div><!-- col -->  
+
+    </section>  <!-- container -->     
+
+    
+</div>
+</div>
+
+<!-- end section -->
+
+<!-- start section -->
+<div class="row">
+  <div style="background: #e5e5e5;"> 
+    <div class="center">
+              <section class="enlarge">
+                <span class="glyphicons compass"></span>
+            </section> <!-- enlarge -->
+              
+
+<div class="container">
+
     <h2>Four convenient locations</h2>
     <div class="layoutspacing"></div>
    <section class="col col-lg-3 col-md-3 col-sm-3">
@@ -232,69 +285,60 @@
   </section>
   
 </div> <!-- center -->
+    <div class="layoutspacing"></div>
 </div> <!-- container -->
+</div><!-- backgroundcolor -->
+</div><!-- row -->
 
+<!-- end section -->
+<!-- start section -->
 
-    <section class="container">
-     <hr>
-     <div class="lead col-lg-6 center"> 
-      <div class="layoutspacing2"></div>
-      <p>We consistently strive to have satisfied patients and excellent outcomes.  Our organization is constantly measuring quality scores in all areas of patient care.  <a href="https://surveymonkey.com/results/SM-Y2NCV3B8/">View current outcome scores</a>  </p>      
-    </div><!-- lead -->
-    <div class="col-lg-6 hidden-xs">
-      <div id="piechart" style="height: 400px; width: 700px; margin-top: 0px;"> </div><!-- piechart -->
+<div class="layoutspacing"></div>
 
-    </div><!-- col -->
-
-    <div class="visible-xs">
-      <div id="piechart" style=""> </div><!-- piechart -->
-
-    </div><!-- col -->  
-
-    </section>  <!-- container -->     
-
-    <?php include 'components/carouselReviews.php'; ?>
+  
+  
 
 
 
     
-      <div class="container"><hr></div>
+   
     
 
-    <?php include 'components/picturelineup.php'; ?>
+    <?php /*include 'components/picturelineup.php'; */?>
 
    
 
-    <div class="container"><hr></div> 
+   <div class="row">
 
     <div class="container">
-        <section class="center">
-        
-      </section><!-- center -->
+       
       
-      <h2 class="center">Are you a silent sufferer of tendon pain to the heel or Achilles?</h2>
+      <h2 class="center">Alamo Family Foot & Ankle Care - a name you can count on</h2>
 
       
 
-      <div class="col-lg-7">
-
-         <div class="video-container">
-           <iframe id="ytplayer" type="text/html" width="640" height="360" 
-        src="http://www.youtube.com/embed/RoiKcCkHS1I?modestbranding=1&rel=0&showinfo=0&theme=light" 
-              
+      <div class="col col-lg-7 col-md-7">
+            <img src="/images/doctorspng.png" alt="San Antonio Podiatrist Foot Doctor" itemprop="photo" class="img img-responsive" alt="">
          
-          frameborder="0" allowfullscreen></iframe>
-        </div><!-- videocontainer -->
-
+        </div><!-- photo-->
+        
 
 
 
 
         
-      </div><!-- col-lg-8 -->
+      
 
-      <div class="col-lg-5" style="font-size:20px">
-      <p>We are excited to offer Tenex Health Tx microtenectomy.  A safe and quick procedure developed for patients suffering from chronic heel and Achilles pain.  This advanced procedure was developed in collaboration with the Mayo Clinic, and utilizes high frequency sound waves to target and remove damaged tendon tissue, leaving the healthy tendon undisturbed. Benefits include <strong>Quick pain relief</strong>, <strong>Rapid return to normal activities</strong> and <strong>General anesthesia is not required</strong>. </p>
+      <div class="col col-lg-5 col-md-5 ">
+      <div class="center">
+            
+           <a href="/about.php"><button type="button" class="btn btn-block">About Us</button></a>
+          <span style="padding: 10px"><a href="../pathology.php"><button type="button" class="btn btn-block">Common Disorders</button></a></span>
+
+          <a href="#"><button type="button" class="btn btn-block">Treatments</button></a>
+          <span style="padding: 10px"><a href="../resources/faq.php"><button type="button" class="btn btn-block">FAQ</button> <span>    
+          <span style="padding: 10px"><a href="/contact.php"><button type="button" class="btn btn-block">Request An Appointment</button></a></span>
+      
 
 
 
@@ -302,7 +346,13 @@
       </div><!-- col-lg-4 -->
       
 
+
+
     </div><!-- container -->
+
+</div>  <!-- row -->
+    
+
 
   <div class="layoutspacing2"></div>  
 

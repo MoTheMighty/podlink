@@ -21,7 +21,9 @@
           --> 
           <ul>
             <li><p><strong><a href="http://podlink.com/blog/blog.php">Lastest blog post: 8 tips for new runners</a></strong></p></li>
-            <li><p><strong><a href="http://dsofixingmyfeet.blogspot.com">My patient blogs about her bunion surgery experience</strong></li>
+            <li><p><strong><a href="http://dsofixingmyfeet.blogspot.com">My patient blogs about her bunion surgery experience</a></strong></li>
+            <li><p><strong><a href="http://podlink.com/blog/2015/scarf.php">Carpentry and bunion surgery</a></strong></li>
+            </ul>
          </div><!-- col -->  
          </div>
 

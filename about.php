@@ -85,6 +85,11 @@ Drs. Perez and Chaney fellowship training includes trauma and deformity reconstr
 
 </div><!-- linespacing -->
 
+  <?php include 'components/picturelineup2.php'; ?>  
+               
+   <div class="layoutspacing2"></div>
+
+
 
 
  <section class="container page-header">
@@ -175,9 +180,6 @@ giving our patients a full spectrum of treatment choices to maximize and speed t
 
 <!-- 3 -->
 
-  <?php include 'components/picturelineup2.php'; ?>  
-               
-   <div class="layoutspacing2"></div>
 
 
 <!-- footer -->  

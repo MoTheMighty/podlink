@@ -35,8 +35,11 @@
   </div>
 <div class="header-nav">
   <!-- Collect the nav links, forms, and other content for toggling -->
+
   <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-    <ul class="nav navbar-nav navbar-right">
+  
+
+    <ul class="nav navbar-nav navbar-nav right">
         <li><a href="../../location.php"><span class="glyphicon glyphicon-map-marker"></span> Locations</a></li>
         <li><a href="../../contact.php"><span class="glyphicon glyphicon-earphone"></span> Contact</a></li>
         <li><a href="../../about.php"><span class="glyphicon glyphicon-edit"></span> About</a></li>
@@ -103,7 +106,7 @@
                            <ul class="dropdown-menu">
                            
                            
-                            
+                    
                   
 
 <!-- google analytics -->
