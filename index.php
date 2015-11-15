@@ -356,6 +356,90 @@
 
   <div class="layoutspacing2"></div>  
 
+  <section class="container page-header">
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+<div class="center">
+          
+            <img src="/images/triad_blue.jpg" class="img img-responsive">
+          
+ </div><!-- center -->
+</div><!-- col 4 -->
+
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+The physicians and staff of the Alamo Family Foot & Ankle Care are dedicated to using the latest research and most advanced technology to deliver exceptional podiatric care to people throughout San Antonio, Boerne, Laredo, Eagle pass and all of south central Texas. Their services—whether preventive care or reconstructive surgery—have earned steady growth for over 26 years.
+</div><!-- col-lg-8 -->
+
+</section><!-- container -->
+
+
+<section class="container page-header">
+
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+<p>Our podiatrist are board certified* in advanced reconstructive techniques in foot and ankle surgery. 
+Their fellowship training includes trauma and deformity reconstruction, and they routinely attend the most 
+advanced and prestigious continuing education opportunities to expand their expertise. Collectively they share passion for 
+therapies and treatment that optimize patient outcomes, and individually they often are called upon by colleagues and
+ medical schools alike to share their expertise and experience.</p> <span class="small">*Drs. Chaney, Perez and Strash are board certified by the American Board of Foot & Ankle Surgery</span>
+</div><!-- col-lg-8 -->
+
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+    <div class="center">
+          <section class="iconsizing" style="margin-top:15%;">
+            
+          <img src="/images/carousel/operating.jpg" class="img img-responsive">
+            
+          </section> <!-- iconsizing -->
+
+    </div><!-- center -->
+</div><!-- col 4 -->
+
+
+</section><!-- container -->
+<!-- 1 -->
+
+
+
+
+<section class="container page-header">
+
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+<div class="center">
+          <section class="iconsizing" style="margin-top:15%;">
+            <img src="/images/patientteam.jpg" class="img img-responsive">
+          </section>  
+          
+ </div><!-- center -->
+</div><!-- col 4 -->
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+Although technological advancements are paramount to their success, our podiatrist make 
+teamwork and integrity the cornerstones of their practice. At Alamo Family Foot & Ankle Care, we believe that a doctor and patient become a team for treating an individual’s feet. Our podiatrist spend most of their time listening to understand your concerns and responding with the best treatment options for you. With the help of our professional staff, they also follow up to make sure that generally pain is relieved, problems are resolved and your health improves.
+</div><!-- col-lg-8 -->
+
+</section><!-- container -->
+
+<!-- 2 -->
+
+
+
+<section class="container">
+
+<div class="col-lg-8 col-md-8 col-sm-8 lead">
+Our modern and efficient clinics offer the latest in cutting edge podiatric technology, including MRI, ultrasound and digital xray- 
+giving our patients a full spectrum of treatment choices to maximize and speed their recovery.  We also want our patients to be informed about podiatric problems and treatments, because informed patients make better decisions about their health and well being. That is why we’ve included an extensive section on this web site covering the full array of topics associated with podiatry and podiatric diagnoses and treatments.
+</div><!-- col-lg-8 -->
+
+<div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
+<div class="center">
+            <img src="/blog/images/oscan.jpg" class="img img-responsive">
+ </div><!-- center -->
+</div><!-- col 4 -->
+</section><!-- container -->
+
+<!-- 3 -->
+
     <!-- footer -->
 
 
