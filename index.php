@@ -361,7 +361,7 @@
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
           
-            <img src="/images/triad_blue.jpg" class="img img-responsive">
+            <img src="/images/triad_blue.jpg" class="img img-responsive" alt="patient team workß">
           
  </div><!-- center -->
 </div><!-- col 4 -->
@@ -388,7 +388,7 @@ therapies and treatment that optimize patient outcomes, and individually they of
     <div class="center">
           <section class="iconsizing" style="margin-top:15%;">
             
-          <img src="/images/carousel/operating.jpg" class="img img-responsive">
+          <img src="/images/carousel/operating.jpg" class="img img-responsive" alt="sugery of the foot">
             
           </section> <!-- iconsizing -->
 
@@ -408,7 +408,7 @@ therapies and treatment that optimize patient outcomes, and individually they of
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
           <section class="iconsizing" style="margin-top:15%;">
-            <img src="/images/patientteam.jpg" class="img img-responsive">
+            <img src="/images/patientteam.jpg" class="img img-responsive" alt="patient doctor team">
           </section>  
           
  </div><!-- center -->
@@ -433,7 +433,7 @@ giving our patients a full spectrum of treatment choices to maximize and speed t
 
 <div class="col-lg-4 col-md-4 col-sm-4 hidden-xs">
 <div class="center">
-            <img src="/blog/images/oscan.jpg" class="img img-responsive">
+            <img src="/blog/images/oscan.jpg" class="img img-responsive" alt="extremity mri o scan">
  </div><!-- center -->
 </div><!-- col 4 -->
 </section><!-- container -->
