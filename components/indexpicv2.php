@@ -9,7 +9,7 @@
 		<div class="container col col-lg-6 col-md-12 col-sm-12">
 			<div class="center">
 			
-			<span class="thumbnail text-muted center"><img src="/images/affclogo1.png" class="img-responsive"></span> 
+			<span class="thumbnail text-muted center"><img src="/images/25years.png" class="img-responsive"></span> 
 			</div><!-- center -->
 			
          <ul class="nav lead">  

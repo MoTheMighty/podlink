@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"img",
+				"img-responsive"
+			],
+			[
 				"padd",
 				"padding-right"
 			],
@@ -127,6 +131,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 17521,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "blog/2015/scarf.php",
+			"settings":
+			{
+				"buffer_size": 5802,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "about.php",
+			"settings":
+			{
+				"buffer_size": 3834,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -182,13 +210,26 @@
 	"expanded_folders":
 	[
 		"/Applications/MAMP/htdocs",
-		"/Applications/MAMP/htdocs/doctors"
+		"/Applications/MAMP/htdocs/_/css",
+		"/Applications/MAMP/htdocs/blog",
+		"/Applications/MAMP/htdocs/blog/2015",
+		"/Applications/MAMP/htdocs/doctors",
+		"/Applications/MAMP/htdocs/images/carousel"
 	],
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/blog/2015/scarf.php",
+		"/Applications/MAMP/htdocs/blog/blog.php",
+		"/Applications/MAMP/htdocs/components/social_perez.php",
+		"/Applications/MAMP/htdocs/components/indexpicv2.php",
+		"/Applications/MAMP/htdocs/about.php",
+		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
+		"/Applications/MAMP/htdocs/components/headerv2.php",
 		"/Applications/MAMP/htdocs/index.php",
-		"/Applications/MAMP/htdocs/doctors/karulak.php",
 		"/Applications/MAMP/htdocs/components/navhead.php",
+		"/Applications/MAMP/htdocs/_/less/variables.less",
+		"/Applications/MAMP/htdocs/_/less/navbar.less",
+		"/Applications/MAMP/htdocs/doctors/karulak.php",
 		"/Applications/MAMP/htdocs/components/carousel.php",
 		"/Applications/MAMP/htdocs/components/footer.php",
 		"/Applications/MAMP/htdocs/js/googlemap.js",
@@ -201,14 +242,10 @@
 		"/Applications/MAMP/htdocs/images/alamoheights/IMG_2644.jpg",
 		"/Applications/MAMP/htdocs/images/alamoheights",
 		"/Applications/MAMP/htdocs/doctors/perez.php",
-		"/Applications/MAMP/htdocs/about.php",
 		"/Applications/MAMP/htdocs/components/picturelineup2.php",
 		"/Applications/MAMP/htdocs/components/picturelineup.php",
-		"/Applications/MAMP/htdocs/_/less/_mystyles.less",
 		"/Applications/MAMP/htdocs/components/stoneoakaddress.php",
 		"/Applications/MAMP/htdocs/.htaccess",
-		"/Applications/MAMP/htdocs/blog/blog.php",
-		"/Applications/MAMP/htdocs/components/social_perez.php",
 		"/Applications/MAMP/htdocs/sitemap.xml",
 		"/Applications/MAMP/htdocs/contact.php",
 		"/Applications/MAMP/htdocs/template.php",
@@ -242,8 +279,6 @@
 		"/Applications/MAMP/htdocs/sendgrid-php/README.md",
 		"/Applications/MAMP/htdocs/sendgrid-php/sendgrid-php.php",
 		"/Applications/MAMP/htdocs/php/examples/advanced.php",
-		"/Applications/MAMP/htdocs/_/less/navbar.less",
-		"/Applications/MAMP/htdocs/_/less/variables.less",
 		"/Applications/MAMP/htdocs/pathology/tarsalcoalition.php",
 		"/Applications/MAMP/htdocs/pathology/nailfungus.php",
 		"/Applications/MAMP/htdocs/pathology/anklefracture.php",
@@ -310,10 +345,7 @@
 		"/Applications/MAMP/htdocs/components/googleconversion.php",
 		"/Applications/MAMP/htdocs/components/schedule_strash_data.php",
 		"/Applications/MAMP/htdocs/components/schedule_chaney.php",
-		"/Applications/MAMP/htdocs/components/schedule_perez.php",
-		"/Applications/MAMP/htdocs/components/schedule_mechell.php",
-		"/Applications/MAMP/htdocs/components/searchmodal.php",
-		"/Applications/MAMP/htdocs/components/schedule_strash.php"
+		"/Applications/MAMP/htdocs/components/schedule_perez.php"
 	],
 	"find":
 	{
@@ -325,6 +357,8 @@
 		"where_history":
 		[
 			"/Applications/MAMP/htdocs",
+			"/Applications/MAMP/htdocs/_/less",
+			"/Applications/MAMP/htdocs",
 			""
 		]
 	},
@@ -333,6 +367,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hr",
+			"container",
+			"fluid",
+			"<!",
 			"img",
 			"..",
 			"huebner",
@@ -484,8 +522,100 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 17521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								12444,
+								12444
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 7216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "blog/2015/scarf.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5802,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4455,
+								4455
+							]
+						],
+						"settings":
+						{
+							"spell_check": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 938.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "about.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3834,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3379,
+								3379
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 308.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
 			]
 		}
 	],
