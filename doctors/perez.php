@@ -193,7 +193,7 @@ invasive trauma reconstruction, sports injuries and plantar fasciitis.  His prim
  </div><!-- center -->
 </div><!-- col 4 -->
 <div class="col-lg-8 col-md-8 col-sm-8 lead">
-Dr. Perez lives in San Antonio, Texas with his wife and two children. He is an avid cyclist and can usually be found pedaling 
+Dr. Perez lives in San Antonio, Texas. He is an avid cyclist and can usually be found pedaling 
 the Texas Hill County on the weekends. Additionally, he also enjoys computer programming and website design. He is responsible for the development and programming of this website with the help of the following tools:<a href="http://getbootrap.com">Twitter's Bootstrap Framework,</a> <a href="http://www.sublimetext.com/3">Sublime Text 3,</a> and <a href="http://incident57.com/codekit/">CodeKit.</a>
 </div><!-- col-lg-8 -->
 
