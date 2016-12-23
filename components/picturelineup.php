@@ -21,7 +21,7 @@
 
  
      
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
       <section class="picline">
 
         <img src="images/wally.png" alt="Dr. Strash" class="img-rounded">
@@ -35,7 +35,7 @@
         </section> <!-- doc1 -->
       </div> <!-- col -->
 
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
         <section class="picline">
 
           <div itemscope itemtype="http://schema.org/podiatric">
