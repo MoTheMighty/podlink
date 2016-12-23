@@ -318,7 +318,7 @@
       
 
       <div class="col col-lg-7 col-md-7">
-            <img src="/images/doctorspng.png" alt="San Antonio Podiatrist Foot Doctor" itemprop="photo" class="img img-responsive" alt="">
+            <img src="/images/doctors.png" alt="San Antonio Podiatrist Foot Doctor" itemprop="photo" class="img img-responsive" alt="">
          
         </div><!-- photo-->
         
