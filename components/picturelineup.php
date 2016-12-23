@@ -63,7 +63,7 @@
 
     <div class="container">
 
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12"> 
       <section class="picline">
         <img src="images/chaney.png" alt="Dr. Chaney" class="img-rounded">
         <h6>D. Martin Chaney, DPM, FACFAS</h6>
@@ -74,7 +74,7 @@
         </section> <!-- doc3 -->
     </div><!-- col -->
 
-    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+    <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
       <section class="picline">
 
          <img src="images/jordan.png" alt="Dr. Mechell" class="img-rounded">
