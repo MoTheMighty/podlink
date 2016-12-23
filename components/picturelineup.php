@@ -49,7 +49,21 @@
         </section> <!-- doc 2 -->
     </div><!-- col -->
 
-     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+    <!--div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
+        <section class="picline">
+        <img src="images/chaney.png" alt="Dr. Chaney" class="img-rounded">
+        <h6>D. Martin Chaney, DPM, FACFAS</h6>
+          <hr>
+        <p>Dr. Dennis Martin 'Marty' Chaney has been in private practice since 1999. He was born and raised in Southwest Iowa. He attended the University of Northern Iowa where he majored in Biology and Chemistry.</p></br>
+        <a href="../../doctors/chaney.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
+         
+        </section> <!- doc3 -->
+    <!--/div--><!-- col -->
+</div><!-- container -->
+
+    <div class="container">
+
+    <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12"> 
       <section class="picline">
         <img src="images/chaney.png" alt="Dr. Chaney" class="img-rounded">
         <h6>D. Martin Chaney, DPM, FACFAS</h6>
@@ -57,13 +71,8 @@
         <p>Dr. Dennis Martin 'Marty' Chaney has been in private practice since 1999. He was born and raised in Southwest Iowa. He attended the University of Northern Iowa where he majored in Biology and Chemistry.</p></br>
         <a href="../../doctors/chaney.php"<button type="button" class="btn btn-primary btn-lg btn-block">Learn More</button></a>
          
-
-
-      </section> <!-- doc3 -->
+        </section> <!-- doc3 -->
     </div><!-- col -->
-    </div><!-- container -->
-
-    <div class="container">
 
     <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
       <section class="picline">
