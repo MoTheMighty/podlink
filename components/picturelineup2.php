@@ -9,7 +9,7 @@
     <div class="col-lg-3 col-md-6 col-sm-6">
         <div class="thumbnail">
           <div class="center">
-        <img src="images/walter2.png" alt="Dr. Strash" class="img-rounded">
+        <img src="images/walter3.png" alt="Dr. Strash" class="img-rounded">
          
         <h5>Walter Strash, DPM, FACFAS</h5>
          </div><!-- center --> 
