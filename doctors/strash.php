@@ -88,7 +88,7 @@
   <section class="container">
       <div class="row">
          <div class="col-lg-3 col-md-3">
-             <p><img src="../../images/walter.png" alt="Dr. Walter Strash DPM" class="img-rounded"></p>
+             <p><img src="../../images/walter2.png" alt="Dr. Walter Strash DPM" class="img-rounded"></p>
                   
 
                   
